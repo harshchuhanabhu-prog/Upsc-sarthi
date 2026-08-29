@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UPSC Sarthi — AI-Powered Bilingual UPSC Preparation Platform</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --font-body: 'Plus Jakarta Sans', 'Noto Sans Devanagari', system-ui, sans-serif;
+  --font-hindi: 'Noto Sans Devanagari', 'Plus Jakarta Sans', sans-serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', Consolas, monospace;
+  --bg: #f5f7fa;
+  --surface: #ffffff;
+  --surface-2: #f8fafc;
+  --surface-elevated: #ffffff;
+  --border: rgba(0, 0, 0, 0.07);
+  --border-bright: rgba(0, 0, 0, 0.14);
+  --text: #1a1a2e;
+  --text-dim: #64748b;
+  --text-bright: #0f172a;
+  --accent: #2563eb;
+  --accent-deep: #1e3a5f;
+  --accent-light: rgba(37, 99, 235, 0.08);
+  --accent-tint: rgba(37, 99, 235, 0.05);
+  --gold: #d4a73a;
+  --gold-dim: rgba(212, 167, 58, 0.1);
+  --green: #059669;
+  --green-dim: rgba(5, 150, 105, 0.08);
+  --red: #dc2626;
+  --red-dim: rgba(220, 38, 38, 0.07);
+  --amber: #d97706;
+  --amber-dim: rgba(217, 119, 6, 0.1);
+  --purple: #7c3aed;
+  --purple-dim: rgba(124, 58, 237, 0.07);
+  --pink: #be185d;
+  --pink-dim: rgba(190, 24, 93, 0.07);
+  --sidebar-w: 260px;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.05);
+  --shadow-md: 0 4px 14px rgba(0,0,0,0.07);
+  --shadow-lg: 0 8px 30px rgba(0,0,0,0.1);
+  --radius: 12px;
+  --radius-sm: 8px;
+  --radius-xs: 6px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f172a; --surface: #1e293b; --surface-2: #1a2333; --surface-elevated: #252f3f;
+    --border: rgba(255,255,255,0.07); --border-bright: rgba(255,255,255,0.14);
+    --text: #e2e8f0; --text-dim: #94a3b8; --text-bright: #f1f5f9;
+    --accent: #3b82f6; --accent-deep: #1e40af; --accent-light: rgba(59,130,246,0.12);
+    --accent-tint: rgba(59,130,246,0.06);
+    --gold: #fbbf24; --gold-dim: rgba(251,191,36,0.1);
+    --green: #34d399; --green-dim: rgba(52,211,153,0.1);
+    --red: #f87171; --red-dim: rgba(248,113,113,0.08);
+    --amber: #fbbf24; --amber-dim: rgba(251,191,36,0.1);
+    --purple: #a78bfa; --purple-dim: rgba(167,139,250,0.08);
+    --pink: #f472b6; --pink-dim: rgba(244,114,182,0.08);
+  }
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: var(--font-body); background: var(--bg); color: var(--text); overflow-wrap: break-word; line-height: 1.6; }
+body.lang-hi { font-family: var(--font-hindi); }
+
+/* ===== Layout ===== */
+.app { display: flex; min-height: 100vh; }
+.sidebar { width: var(--sidebar-w); background: var(--surface); border-right: 1px solid var(--border); display: flex; flex-direction: column; position: fixed; top: 0; left: 0; bottom: 0; z-index: 100; overflow-y: auto; transition: transform 0.3s ease; }
+.sidebar__brand { display: flex; align-items: center; gap: 10px; padding: 18px 18px 14px; border-bottom: 1px solid var(--border); }
+.brand-icon { width: 34px; height: 34px; background: linear-gradient(135deg, var(--accent), var(--accent-deep)); border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: 800; color: white; font-size: 16px; flex-shrink: 0; }
+.brand-name { font-size: 17px; font-weight: 700; color: var(--text-bright); line-height: 1.2; }
+.brand-sub { font-size: 9px; color: var(--text-dim); font-family: var(--font-mono); text-transform: uppercase; letter-spacing: 1px; }
+.sidebar__section { padding: 8px 10px 0; }
+.sidebar__label { font-family: var(--font-mono); font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1.5px; color: var(--text-dim); padding: 8px 12px 4px; }
+.nav-item { display: flex; align-items: center; gap: 11px; padding: 9px 12px; border-radius: var(--radius-xs); cursor: pointer; color: var(--text-dim); font-size: 13.5px; font-weight: 500; transition: all 0.15s ease; margin-bottom: 1px; border: none; background: transparent; width: 100%; text-align: left; font-family: inherit; position: relative; }
+.nav-item:hover { background: var(--surface-2); color: var(--text); }
+.nav-item.active { background: var(--accent-light); color: var(--accent); font-weight: 600; }
+.nav-item.active::before { content: ''; position: absolute; left: 0; top: 50%; transform: translateY(-50%); width: 3px; height: 20px; background: var(--accent); border-radius: 0 3px 3px 0; }
+.nav-item svg { width: 17px; height: 17px; flex-shrink: 0; stroke: currentColor; fill: none; stroke-width: 2; }
+.nav-badge { margin-left: auto; font-family: var(--font-mono); font-size: 9px; font-weight: 700; background: var(--green); color: white; padding: 2px 6px; border-radius: 4px; }
+.sidebar__pro { margin: 10px; padding: 13px; background: linear-gradient(135deg, var(--accent), var(--accent-deep)); border-radius: var(--radius-sm); color: white; text-align: center; }
+.sidebar__pro-title { font-size: 12px; font-weight: 700; margin-bottom: 3px; }
+.sidebar__pro-text { font-size: 10px; opacity: 0.85; margin-bottom: 8px; line-height: 1.4; }
+.sidebar__pro-btn { display: inline-block; background: white; color: var(--accent); padding: 5px 14px; border-radius: 5px; font-size: 11px; font-weight: 700; cursor: pointer; border: none; }
+.sidebar__footer { margin-top: auto; padding: 10px; border-top: 1px solid var(--border); }
+.sidebar__footer-btn { display: flex; align-items: center; gap: 8px; width: 100%; padding: 9px 12px; border-radius: var(--radius-xs); background: var(--accent); color: white; border: none; cursor: pointer; font-size: 12px; font-weight: 600; font-family: inherit; }
+.main { margin-left: var(--sidebar-w); flex: 1; min-width: 0; padding: 20px 28px; }
+.main__header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; gap: 14px; }
+.main__title { font-size: 22px; font-weight: 700; color: var(--text-bright); }
+.main__subtitle { font-size: 13px; color: var(--text-dim); margin-top: 2px; }
+.header__actions { display: flex; align-items: center; gap: 10px; }
+.lang-toggle { display: flex; background: var(--surface); border: 1px solid var(--border); border-radius: 7px; overflow: hidden; }
+.lang-btn { padding: 7px 14px; border: none; background: transparent; cursor: pointer; font-size: 12px; font-weight: 600; color: var(--text-dim); font-family: inherit; transition: all 0.15s ease; }
+.lang-btn.active { background: var(--accent); color: white; }
+.mobile-menu-btn { display: none; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; width: 38px; height: 38px; align-items: center; justify-content: center; cursor: pointer; }
+
+/* ===== Pages & Cards ===== */
+.page { display: none; }
+.page.active { display: block; animation: fadeIn 0.3s ease; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 18px; margin-bottom: 14px; box-shadow: var(--shadow-sm); }
+.card--elevated { box-shadow: var(--shadow-md); }
+.card--hero { background: linear-gradient(135deg, var(--accent), var(--accent-deep)); color: white; border: none; }
+.card__title { font-size: 15px; font-weight: 700; color: var(--text-bright); margin-bottom: 6px; display: flex; align-items: center; gap: 8px; }
+.card__title svg { width: 18px; height: 18px; }
+.card__subtitle { font-size: 12px; color: var(--text-dim); margin-bottom: 14px; }
+
+/* ===== Grid ===== */
+.grid { display: grid; gap: 14px; }
+.grid--2 { grid-template-columns: repeat(2, 1fr); }
+.grid--3 { grid-template-columns: repeat(3, 1fr); }
+.grid--4 { grid-template-columns: repeat(4, 1fr); }
+.grid--auto { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+@media (max-width: 900px) { .grid--3, .grid--4 { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 640px) { .grid--2, .grid--3, .grid--4, .grid--auto { grid-template-columns: 1fr; } }
+
+/* ===== Stat Cards ===== */
+.stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; display: flex; align-items: center; gap: 14px; transition: transform 0.15s ease, box-shadow 0.15s ease; }
+.stat-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); }
+.stat-card__icon { width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+.stat-card__icon svg { width: 22px; height: 22px; }
+.stat-card__value { font-size: 24px; font-weight: 800; color: var(--text-bright); line-height: 1.1; }
+.stat-card__label { font-size: 11px; color: var(--text-dim); margin-top: 1px; }
+
+/* ===== Feature Cards ===== */
+.feature-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; cursor: pointer; transition: all 0.2s ease; position: relative; overflow: hidden; }
+.feature-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); border-color: var(--accent); }
+.feature-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: var(--accent); transform: scaleX(0); transform-origin: left; transition: transform 0.3s ease; }
+.feature-card:hover::before { transform: scaleX(1); }
+.feature-card__icon { width: 40px; height: 40px; border-radius: 9px; display: flex; align-items: center; justify-content: center; margin-bottom: 12px; }
+.feature-card__icon svg { width: 22px; height: 22px; }
+.feature-card__title { font-size: 14px; font-weight: 700; color: var(--text-bright); margin-bottom: 4px; }
+.feature-card__desc { font-size: 12px; color: var(--text-dim); line-height: 1.5; }
+.feature-card__badge { position: absolute; top: 10px; right: 10px; }
+
+/* ===== Buttons ===== */
+.btn { display: inline-flex; align-items: center; gap: 7px; padding: 9px 18px; border-radius: var(--radius-xs); border: none; font-size: 13px; font-weight: 600; cursor: pointer; transition: all 0.15s ease; font-family: inherit; text-decoration: none; }
+.btn--primary { background: var(--accent); color: white; }
+.btn--primary:hover { background: var(--accent-deep); }
+.btn--secondary { background: var(--surface-2); color: var(--text); border: 1px solid var(--border); }
+.btn--secondary:hover { background: var(--accent-light); border-color: var(--accent); }
+.btn--gold { background: var(--gold); color: #1a1a2e; }
+.btn--outline { background: transparent; color: var(--accent); border: 1px solid var(--accent); }
+.btn--outline:hover { background: var(--accent-light); }
+.btn--sm { padding: 5px 12px; font-size: 11px; }
+.btn--lg { padding: 12px 24px; font-size: 15px; }
+.btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+/* ===== Tags ===== */
+.tag { display: inline-flex; align-items: center; gap: 4px; font-family: var(--font-mono); font-size: 9.5px; font-weight: 600; padding: 2.5px 7px; border-radius: 4px; text-transform: uppercase; letter-spacing: 0.4px; }
+.tag--blue { background: var(--accent-light); color: var(--accent); }
+.tag--green { background: var(--green-dim); color: var(--green); }
+.tag--red { background: var(--red-dim); color: var(--red); }
+.tag--amber { background: var(--amber-dim); color: var(--amber); }
+.tag--purple { background: var(--purple-dim); color: var(--purple); }
+.tag--gold { background: var(--gold-dim); color: var(--gold); }
+.tag--pink { background: var(--pink-dim); color: var(--pink); }
+.tag--grey { background: var(--surface-2); color: var(--text-dim); border: 1px solid var(--border); }
+.tag--live { background: var(--green); color: white; }
+.tag--live::before { content: ''; display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: white; animation: pulse 2s infinite; }
+@keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
+
+/* ===== Forms ===== */
+.form-group { margin-bottom: 14px; }
+.form-label { display: block; font-size: 12px; font-weight: 600; color: var(--text-bright); margin-bottom: 5px; }
+.form-input, .form-select, .form-textarea { width: 100%; padding: 9px 12px; border: 1px solid var(--border); border-radius: var(--radius-xs); background: var(--surface-2); color: var(--text); font-size: 13px; font-family: inherit; transition: border-color 0.15s ease, box-shadow 0.15s ease; }
+.form-input:focus, .form-select:focus, .form-textarea:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-light); }
+.form-textarea { min-height: 100px; resize: vertical; line-height: 1.6; }
+
+/* ===== Score Circle ===== */
+.score-circle { width: 72px; height: 72px; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; position: relative; }
+.score-circle__inner { width: 58px; height: 58px; background: var(--surface); border-radius: 50%; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+.score-circle__value { font-size: 20px; font-weight: 800; color: var(--text-bright); line-height: 1; }
+.score-circle__max { font-size: 10px; color: var(--text-dim); }
+
+/* ===== Progress Bar ===== */
+.progress-bar { height: 7px; background: var(--border); border-radius: 4px; overflow: hidden; }
+.progress-bar__fill { height: 100%; border-radius: 4px; transition: width 0.5s ease; }
+
+/* ===== Tabs ===== */
+.tabs { display: flex; gap: 2px; border-bottom: 2px solid var(--border); margin-bottom: 16px; overflow-x: auto; }
+.tab { padding: 8px 14px; border: none; background: transparent; cursor: pointer; font-size: 12px; font-weight: 600; color: var(--text-dim); border-bottom: 2px solid transparent; margin-bottom: -2px; white-space: nowrap; font-family: inherit; transition: all 0.15s ease; }
+.tab:hover { color: var(--text); }
+.tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+/* ===== Feedback Section ===== */
+.feedback-section { border-left: 3px solid var(--border); padding: 11px 14px; margin-bottom: 10px; background: var(--surface-2); border-radius: 0 var(--radius-xs) var(--radius-xs) 0; }
+.feedback-section--good { border-left-color: var(--green); }
+.feedback-section--avg { border-left-color: var(--amber); }
+.feedback-section--poor { border-left-color: var(--red); }
+.feedback-section__header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 5px; }
+.feedback-section__title { font-size: 12.5px; font-weight: 700; color: var(--text-bright); }
+.feedback-section__score { font-family: var(--font-mono); font-size: 12px; font-weight: 700; }
+.feedback-section__body { font-size: 12.5px; color: var(--text-dim); line-height: 1.6; }
+
+/* ===== Score Breakdown Formula ===== */
+.score-formula { font-family: var(--font-mono); font-size: 14px; color: var(--text-dim); text-align: center; padding: 10px; background: var(--surface-2); border-radius: var(--radius-xs); margin: 10px 0; }
+.score-formula strong { color: var(--accent); }
+
+/* ===== Model Answer ===== */
+.model-answer { background: var(--gold-dim); border: 1px solid var(--gold); border-radius: var(--radius-xs); padding: 14px; margin-top: 10px; }
+.model-answer__title { font-size: 12px; font-weight: 700; color: var(--gold); margin-bottom: 6px; display: flex; align-items: center; gap: 5px; }
+.model-answer__body { font-size: 13px; line-height: 1.7; color: var(--text); }
+.model-answer__body p { margin-bottom: 6px; }
+.model-answer__body ul, .model-answer__body ol { padding-left: 20px; margin-top: 4px; }
+
+/* ===== Keyword Chips ===== */
+.keyword-chip { display: inline-flex; align-items: center; gap: 3px; background: var(--surface-2); border: 1px solid var(--border); border-radius: 5px; padding: 3px 8px; font-size: 11px; margin: 2px; }
+.keyword-chip--missing { border-color: var(--amber); color: var(--amber); background: var(--amber-dim); }
+.keyword-chip--found { border-color: var(--green); color: var(--green); background: var(--green-dim); }
+
+/* ===== Upload Area ===== */
+.upload-area { border: 2px dashed var(--border-bright); border-radius: var(--radius); padding: 32px; text-align: center; cursor: pointer; transition: all 0.15s ease; background: var(--surface-2); }
+.upload-area:hover { border-color: var(--accent); background: var(--accent-tint); }
+.upload-area__icon { font-size: 36px; margin-bottom: 8px; }
+.upload-area__text { font-size: 13px; color: var(--text-dim); }
+.upload-area__hint { font-size: 11px; color: var(--text-dim); margin-top: 3px; }
+.upload-thumb { width: 100px; height: 130px; border: 1px solid var(--border); border-radius: var(--radius-xs); background: var(--surface-2); display: flex; align-items: center; justify-content: center; font-size: 10px; color: var(--text-dim); position: relative; }
+.upload-thumb__num { position: absolute; bottom: 4px; left: 4px; background: var(--surface); border: 1px solid var(--border); border-radius: 3px; padding: 1px 5px; font-family: var(--font-mono); font-size: 10px; }
+
+/* ===== Tips Sidebar ===== */
+.tips-panel { background: var(--accent-tint); border: 1px solid var(--accent-light); border-radius: var(--radius); padding: 14px; }
+.tips-panel__title { font-size: 13px; font-weight: 700; color: var(--accent); margin-bottom: 10px; display: flex; align-items: center; gap: 6px; }
+.tip-item { background: var(--surface); border-left: 3px solid var(--accent); border-radius: 0 var(--radius-xs) var(--radius-xs) 0; padding: 10px 12px; margin-bottom: 6px; }
+.tip-item__title { font-size: 12px; font-weight: 600; color: var(--text-bright); margin-bottom: 2px; }
+.tip-item__body { font-size: 11px; color: var(--text-dim); line-height: 1.4; }
+
+/* ===== Evaluation Animation ===== */
+.eval-modal { background: var(--surface); border-radius: var(--radius); padding: 24px; max-width: 480px; margin: 0 auto; box-shadow: var(--shadow-lg); }
+.eval-progress-circle { width: 80px; height: 80px; margin: 0 auto 12px; position: relative; }
+.eval-progress-circle svg { transform: rotate(-90deg); }
+.eval-progress-circle__text { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+.eval-progress-circle__pct { font-size: 18px; font-weight: 800; color: var(--text-bright); }
+.eval-step { display: flex; align-items: flex-start; gap: 10px; padding: 8px 0; }
+.eval-step__icon { width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 13px; }
+.eval-step--done .eval-step__icon { background: var(--green); color: white; }
+.eval-step--active .eval-step__icon { background: var(--accent); color: white; animation: spin 1s linear infinite; }
+.eval-step--pending .eval-step__icon { background: var(--surface-2); color: var(--text-dim); border: 1px solid var(--border); }
+.eval-step--done .eval-step__label { color: var(--text-bright); }
+.eval-step--active .eval-step__label { color: var(--accent); font-weight: 600; }
+.eval-step--pending .eval-step__label { color: var(--text-dim); }
+.eval-step__label { font-size: 13px; }
+.eval-step__sub { font-size: 11px; color: var(--text-dim); margin-top: 1px; }
+@keyframes spin { from { transform: rotate(0); } to { transform: rotate(360deg); } }
+
+/* ===== Answer Sheet Markup ===== */
+.answer-sheet { background: #fffef9; border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 20px; position: relative; min-height: 400px; }
+.answer-sheet__header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+.answer-sheet__title { font-size: 18px; font-weight: 800; letter-spacing: 1px; }
+.markup-highlight { background: rgba(255, 235, 59, 0.3); border-radius: 3px; padding: 1px 3px; }
+.markup-highlight--good { background: rgba(5, 150, 105, 0.15); }
+.markup-annotation { position: absolute; background: var(--surface); border: 1px solid var(--accent); border-radius: var(--radius-xs); padding: 8px 10px; font-size: 11px; max-width: 200px; box-shadow: var(--shadow-md); z-index: 5; }
+.markup-annotation::before { content: ''; position: absolute; left: -8px; top: 50%; transform: translateY(-50%); width: 0; height: 0; border-top: 6px solid transparent; border-bottom: 6px solid transparent; border-right: 8px solid var(--accent); }
+.markup-toolbar { display: flex; align-items: center; gap: 12px; padding: 8px 14px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-xs); margin-bottom: 10px; flex-wrap: wrap; }
+.markup-filter { display: flex; align-items: center; gap: 4px; font-size: 11px; cursor: pointer; color: var(--text-dim); }
+.markup-filter input { accent-color: var(--accent); }
+
+/* ===== MCQ ===== */
+.mcq-option { display: flex; align-items: flex-start; gap: 9px; padding: 10px 12px; border: 1px solid var(--border); border-radius: var(--radius-xs); cursor: pointer; margin-bottom: 6px; transition: all 0.15s ease; font-size: 13px; }
+.mcq-option:hover { border-color: var(--accent); background: var(--accent-tint); }
+.mcq-option.selected { border-color: var(--accent); background: var(--accent-light); }
+.mcq-option.correct { border-color: var(--green); background: var(--green-dim); }
+.mcq-option.wrong { border-color: var(--red); background: var(--red-dim); }
+.mcq-option__letter { width: 26px; height: 26px; border-radius: 50%; border: 2px solid var(--border); display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 12px; flex-shrink: 0; }
+.mcq-option.selected .mcq-option__letter { border-color: var(--accent); background: var(--accent); color: white; }
+.mcq-option.correct .mcq-option__letter { border-color: var(--green); background: var(--green); color: white; }
+.mcq-option.wrong .mcq-option__letter { border-color: var(--red); background: var(--red); color: white; }
+
+/* ===== Chat ===== */
+.chat-container { display: flex; flex-direction: column; height: calc(100vh - 170px); min-height: 450px; }
+.chat-messages { flex: 1; overflow-y: auto; padding: 14px; background: var(--surface-2); border-radius: var(--radius); border: 1px solid var(--border); margin-bottom: 10px; }
+.chat-msg { display: flex; gap: 10px; margin-bottom: 14px; }
+.chat-msg__avatar { width: 30px; height: 30px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 700; flex-shrink: 0; }
+.chat-msg--ai .chat-msg__avatar { background: var(--accent); color: white; }
+.chat-msg--user .chat-msg__avatar { background: var(--green); color: white; }
+.chat-msg__bubble { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 10px 14px; font-size: 13px; line-height: 1.6; max-width: 75%; }
+.chat-msg--ai .chat-msg__bubble { border-top-left-radius: 4px; }
+.chat-msg--user .chat-msg__bubble { border-top-right-radius: 4px; background: var(--accent-light); }
+.chat-input-area { display: flex; gap: 7px; }
+.chat-input { flex: 1; padding: 10px 14px; border: 1px solid var(--border); border-radius: var(--radius-xs); background: var(--surface); color: var(--text); font-size: 13px; font-family: inherit; }
+.chat-input:focus { outline: none; border-color: var(--accent); }
+
+/* ===== Timeline ===== */
+.timeline { position: relative; padding-left: 22px; }
+.timeline::before { content: ''; position: absolute; left: 7px; top: 4px; bottom: 4px; width: 2px; background: var(--border); }
+.timeline-item { position: relative; margin-bottom: 14px; }
+.timeline-item::before { content: ''; position: absolute; left: -18px; top: 4px; width: 12px; height: 12px; border-radius: 50%; background: var(--accent); border: 2px solid var(--surface); }
+.timeline-item__date { font-family: var(--font-mono); font-size: 10px; color: var(--text-dim); margin-bottom: 2px; }
+.timeline-item__title { font-size: 13px; font-weight: 600; color: var(--text-bright); margin-bottom: 2px; }
+.timeline-item__desc { font-size: 12px; color: var(--text-dim); }
+
+/* ===== Table ===== */
+.data-table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+.data-table th { background: var(--surface-2); font-family: var(--font-mono); font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-dim); text-align: left; padding: 9px 12px; border-bottom: 2px solid var(--border-bright); }
+.data-table td { padding: 9px 12px; border-bottom: 1px solid var(--border); color: var(--text); vertical-align: top; }
+.data-table tbody tr:hover { background: var(--surface-2); }
+.data-table tbody tr:last-child td { border-bottom: none; }
+
+/* ===== Section Divider ===== */
+.section-divider { display: flex; align-items: center; gap: 10px; margin: 18px 0 14px; }
+.section-divider__line { flex: 1; height: 1px; background: var(--border); }
+.section-divider__label { font-family: var(--font-mono); font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1.2px; color: var(--text-dim); }
+
+/* ===== Checklist (Improvement Plan) ===== */
+.checklist-item { display: flex; align-items: flex-start; gap: 8px; padding: 8px 0; font-size: 13px; }
+.checklist-item__box { width: 18px; height: 18px; border: 2px solid var(--border-bright); border-radius: 4px; flex-shrink: 0; margin-top: 1px; cursor: pointer; }
+.checklist-item__box.checked { background: var(--accent); border-color: var(--accent); display: flex; align-items: center; justify-content: center; }
+.checklist-item__box.checked::after { content: '✓'; color: white; font-size: 12px; font-weight: 700; }
+.checklist-item__text { color: var(--text); }
+
+/* ===== Resource Card ===== */
+.resource-card { display: flex; align-items: center; gap: 10px; padding: 10px 12px; background: var(--surface-2); border: 1px solid var(--border); border-radius: var(--radius-xs); margin-bottom: 6px; }
+.resource-card__icon { width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 16px; }
+.resource-card__info { flex: 1; min-width: 0; }
+.resource-card__title { font-size: 12px; font-weight: 600; color: var(--text-bright); }
+.resource-card__meta { font-size: 11px; color: var(--text-dim); }
+
+/* ===== Trend ===== */
+.trend { display: inline-flex; align-items: center; gap: 3px; font-family: var(--font-mono); font-size: 11px; font-weight: 600; }
+.trend--up { color: var(--green); }
+.trend--down { color: var(--red); }
+
+/* ===== Responsive ===== */
+@media (max-width: 768px) {
+  .sidebar { transform: translateX(-100%); }
+  .sidebar.open { transform: translateX(0); }
+  .main { margin-left: 0; padding: 14px; }
+  .mobile-menu-btn { display: flex; }
+  .main__title { font-size: 18px; }
+}
+.hidden { display: none !important; }
+.text-center { text-align: center; }
+.flex { display: flex; }
+.items-center { align-items: center; }
+.justify-between { justify-content: space-between; }
+.gap-8 { gap: 8px; } .gap-12 { gap: 12px; } .gap-16 { gap: 16px; }
+.flex-wrap { flex-wrap: wrap; }
+.text-sm { font-size: 12px; } .text-xs { font-size: 11px; } .text-dim { color: var(--text-dim); }
+.font-bold { font-weight: 700; }
+.w-full { width: 100%; }
+.mt-8 { margin-top: 8px; } .mt-16 { margin-top: 16px; } .mb-8 { margin-bottom: 8px; } .mb-16 { margin-bottom: 16px; }
+</style>
+</head>
+<body>
+<div class="app">
+<!-- SIDEBAR -->
+<aside class="sidebar" id="sidebar">
+  <div class="sidebar__brand">
+    <div class="brand-icon">S</div>
+    <div><div class="brand-name">UPSC Sarthi</div><div class="brand-sub">AI Prep Platform</div></div>
+  </div>
+  <div class="sidebar__section">
+    <button class="nav-item active" data-page="dashboard"><svg viewBox="0 0 24 24"><path d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/></svg><span data-en="Dashboard" data-hi="डैशबोर्ड">डैशबोर्ड</span></button>
+    <button class="nav-item" data-page="evaluated"><svg viewBox="0 0 24 24"><path d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span data-en="Evaluated Answers" data-hi="मूल्यांकित उत्तर">मूल्यांकित उत्तर</span></button>
+    <button class="nav-item" data-page="progress"><svg viewBox="0 0 24 24"><path d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/></svg><span data-en="Progress Tracker" data-hi="प्रगति ट्रैकर">प्रगति ट्रैकर</span></button>
+    <button class="nav-item" data-page="leaderboard"><svg viewBox="0 0 24 24"><path d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"/></svg><span data-en="Leaderboard" data-hi="लीडरबोर्ड">लीडरबोर्ड</span></button>
+  </div>
+  <div class="sidebar__section">
+    <div class="sidebar__label" data-en="AI TOOLS" data-hi="एआई टूल्स">एआई टूल्स</div>
+    <button class="nav-item" data-page="answer-evaluator"><svg viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg><span data-en="Answer Evaluator" data-hi="उत्तर मूल्यांकक">उत्तर मूल्यांकक</span></button>
+    <button class="nav-item" data-page="essay-evaluator"><svg viewBox="0 0 24 24"><path d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg><span data-en="Essay Evaluator" data-hi="निबंध मूल्यांकक">निबंध मूल्यांकक</span></button>
+    <button class="nav-item" data-page="mcq-practice"><svg viewBox="0 0 24 24"><path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"/></svg><span data-en="MCQ Practice" data-hi="बहुविकल्पीय अभ्यास">बहुविकल्पीय अभ्यास</span></button>
+    <button class="nav-item" data-page="daily-writing"><svg viewBox="0 0 24 24"><path d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg><span data-en="Daily Answer Writing" data-hi="दैनिक उत्तर लेखन">दैनिक उत्तर लेखन</span></button>
+    <button class="nav-item" data-page="pyq"><svg viewBox="0 0 24 24"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/></svg><span data-en="Previous Year Questions" data-hi="पिछले वर्ष प्रश्न">पिछले वर्ष प्रश्न</span><span class="nav-badge">2011-26</span></button>
+    <button class="nav-item" data-page="ai-mentor"><svg viewBox="0 0 24 24"><path d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg><span data-en="AI Mentor" data-hi="एआई मेंटर">एआई मेंटर</span></button>
+    <button class="nav-item" data-page="current-affairs"><svg viewBox="0 0 24 24"><path d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 0a2 2 0 012 2v9a2 2 0 01-2 2m-4-13H5m14 0h-2m-7 0v6m-2-3h4m6 3h.01M17 16h.01"/></svg><span data-en="Current Affairs" data-hi="समसामयिक घटनाक्रम">समसामयिक घटनाक्रम</span><span class="nav-badge">Daily</span></button>
+    <button class="nav-item" data-page="case-study-gen"><svg viewBox="0 0 24 24"><path d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.49.244a6 6 0 01-3.859.517L6 15.5"/></svg><span data-en="Case Study Generator" data-hi="केस स्टडी जनरेटर">केस स्टडी जनरेटर</span></button>
+    <button class="nav-item" data-page="case-study-finder"><svg viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg><span data-en="Case Study Finder" data-hi="केस स्टडी खोज">केस स्टडी खोज</span></button>
+    <button class="nav-item" data-page="test-series"><svg viewBox="0 0 24 24"><path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/></svg><span data-en="Full Paper Test Series" data-hi="पूर्ण पेपर टेस्ट सीरीज़">पूर्ण पेपर टेस्ट सीरीज़</span></button>
+  </div>
+  <div class="sidebar__pro">
+    <div class="sidebar__pro-title" data-en="UPSC Sarthi Pro" data-hi="UPSC सारथी प्रो">UPSC सारथी प्रो</div>
+    <div class="sidebar__pro-text" data-en="Unlimited evaluations, full test series, personalized mentorship" data-hi="असीमित मूल्यांकन, पूर्ण टेस्ट सीरीज़, व्यक्तिगत मार्गदर्शन">असीमित मूल्यांकन, पूर्ण टेस्ट सीरीज़, व्यक्तिगत मार्गदर्शन</div>
+    <button class="sidebar__pro-btn" data-en="Upgrade Now" data-hi="अभी अपग्रेड करें">अभी अपग्रेड करें</button>
+  </div>
+  <div class="sidebar__footer">
+    <button class="sidebar__footer-btn"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/><path d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/></svg><span data-en="Settings & Support" data-hi="सेटिंग्स और सहायता">सेटिंग्स और सहायता</span></button>
+  </div>
+</aside>
+
+<!-- MAIN -->
+<main class="main">
+  <div class="main__header">
+    <div style="display:flex;align-items:center;gap:10px;">
+      <button class="mobile-menu-btn" onclick="document.getElementById('sidebar').classList.toggle('open')"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button>
+      <div><h1 class="main__title" id="page-title">डैशबोर्ड</h1><p class="main__subtitle" id="page-subtitle">आपकी UPSC तैयारी का संपूर्ण अवलोकन</p></div>
+    </div>
+    <div class="header__actions">
+      <div class="lang-toggle"><button class="lang-btn" data-lang="hi" onclick="setLang('hi')">हिंदी</button><button class="lang-btn" data-lang="en" onclick="setLang('en')">English</button></div>
+    </div>
+  </div>
+
+  <!-- DASHBOARD -->
+  <div class="page active" id="page-dashboard">
+    <div class="card card--hero mb-16">
+      <h2 style="font-size:20px;font-weight:800;margin-bottom:6px;" data-en="Welcome to UPSC Sarthi" data-hi="UPSC सारथी में आपका स्वागत है">UPSC सारथी में आपका स्वागत है</h2>
+      <p style="font-size:14px;opacity:0.9;" data-en="Your complete AI-powered preparation companion. Practice, evaluate, and improve — in Hindi or English." data-hi="आपका संपूर्ण एआई-संचालित तैयारी साथी। अभ्यास करें, मूल्यांकन करें और सुधारें — हिंदी या अंग्रेज़ी में।">आपका संपूर्ण एआई-संचालित तैयारी साथी। अभ्यास करें, मूल्यांकन करें और सुधारें — हिंदी या अंग्रेज़ी में।</p>
+    </div>
+    <div class="grid grid--4 mb-16">
+      <div class="stat-card"><div class="stat-card__icon" style="background:var(--accent-light);"><svg viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg></div><div><div class="stat-card__value">47</div><div class="stat-card__label" data-en="Answers Evaluated" data-hi="मूल्यांकित उत्तर">मूल्यांकित उत्तर</div></div></div>
+      <div class="stat-card"><div class="stat-card__icon" style="background:var(--green-dim);"><svg viewBox="0 0 24 24" fill="none" stroke="var(--green)" stroke-width="2"><path d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/></svg></div><div><div class="stat-card__value">6.2<span style="font-size:14px;color:var(--text-dim);">/10</span></div><div class="stat-card__label" data-en="Average Score" data-hi="औसत अंक">औसत अंक</div></div></div>
+      <div class="stat-card"><div class="stat-card__icon" style="background:var(--gold-dim);"><svg viewBox="0 0 24 24" fill="none" stroke="var(--gold)" stroke-width="2"><path d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg></div><div><div class="stat-card__value">23</div><div class="stat-card__label" data-en="Day Streak" data-hi="दिन क्रमागत">दिन क्रमागत</div></div></div>
+      <div class="stat-card"><div class="stat-card__icon" style="background:var(--purple-dim);"><svg viewBox="0 0 24 24" fill="none" stroke="var(--purple)" stroke-width="2"><path d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"/></svg></div><div><div class="stat-card__value">#142</div><div class="stat-card__label" data-en="Rank" data-hi="रैंक">रैंक</div></div></div>
+    </div>
+    <div class="section-divider"><span class="section-divider__line"></span><span class="section-divider__label" data-en="ALL TOOLS" data-hi="सभी टूल्स">सभी टूल्स</span><span class="section-divider__line"></span></div>
+    <div class="grid grid--3" id="dashboard-tools"></div>
+  </div>
+
+  <!-- ANSWER EVALUATOR -->
+  <div class="page" id="page-answer-evaluator">
+    <!-- Upload Screen -->
+    <div id="eval-upload-screen">
+      <div class="grid" style="grid-template-columns: 1fr 280px; gap:16px;">
+        <div>
+          <div class="card">
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;">
+              <div><div style="font-size:18px;font-weight:700;" data-en="Evaluate your answer" data-hi="अपने उत्तर का मूल्यांकन करें">अपने उत्तर का मूल्यांकन करें</div><div style="font-size:12px;color:var(--text-dim);" data-en="AI-powered answer analysis" data-hi="एआई-संचालित उत्तर विश्लेषण">एआई-संचालित उत्तर विश्लेषण</div></div>
+              <div style="display:flex;align-items:center;gap:6px;font-size:12px;"><span data-en="Answer in" data-hi="उत्तर भाषा">उत्तर भाषा</span><select class="form-select" style="width:auto;padding:5px 10px;font-size:12px;" id="eval-lang-select"><option value="hi" selected>हिन्दी</option><option value="en">English</option></select></div>
+            </div>
+            <div style="display:flex;gap:8px;margin-bottom:14px;flex-wrap:wrap;">
+              <button class="btn btn--secondary btn--sm" style="background:var(--green-dim);color:var(--green);border-color:var(--green);" data-en="Supported Languages" data-hi="समर्थित भाषाएं">समर्थित भाषाएं</button>
+              <button class="btn btn--secondary btn--sm" style="background:var(--purple-dim);color:var(--purple);border-color:var(--purple);" data-en="Supported Optional Subjects" data-hi="समर्थित वैकल्पिक विषय">समर्थित वैकल्पिक विषय</button>
+            </div>
+            <div class="grid grid--2 mb-8">
+              <div class="form-group"><label class="form-label" data-en="Select Paper" data-hi="पेपर चुनें">पेपर चुनें</label>
+                <select class="form-select" id="eval-paper"><option value="gs1" data-en="General Studies I" data-hi="General Studies I">General Studies I</option><option value="gs2">General Studies II</option><option value="gs3" selected>General Studies III</option><option value="gs4">General Studies IV</option><option value="essay">Essay</option><option value="hindi-lit">Hindi Literature Optional</option></select>
+              </div>
+              <div class="form-group"><label class="form-label" data-en="Maximum Marks" data-hi="अधिकतम अंक">अधिकतम अंक</label>
+                <div style="display:flex;gap:8px;"><button class="btn btn--primary btn--sm" style="flex:1;" id="marks-10" onclick="selectMarks(10)">10</button><button class="btn btn--secondary btn--sm" style="flex:1;" id="marks-15" onclick="selectMarks(15)">15</button></div>
+              </div>
+            </div>
+            <div class="form-group"><label class="form-label" data-en="Question (Optional)" data-hi="प्रश्न (वैकल्पिक)">प्रश्न (वैकल्पिक)</label><textarea class="form-textarea" id="eval-question" rows="2" placeholder="अपना प्रश्न यहाँ लिखें या पेस्ट करें..." data-en-placeholder="Write or paste your question here..." data-hi-placeholder="अपना प्रश्न यहाँ लिखें या पेस्ट करें...">भारतीय संविधान प्रगति में राष्ट्रपति की भूमिका स्पष्ट करें। (250 शब्दों में)</textarea></div>
+            <div class="form-group"><label class="form-label" data-en="Does your answer contain a diagram, map, or flowchart?" data-hi="क्या आपके उत्तर में आरेख, मानचित्र, या फ्लोचार्ट है?">क्या आपके उत्तर में आरेख, मानचित्र, या फ्लोचार्ट है?</label>
+              <div style="display:flex;gap:8px;"><button class="btn btn--secondary btn--sm" onclick="this.classList.add('btn--primary');document.getElementById('diag-no').classList.remove('btn--primary');document.getElementById('diag-no').classList.add('btn--secondary');" data-en="Yes, evaluate" data-hi="हाँ, मूल्यांकन करें">हाँ, मूल्यांकन करें</button><button class="btn btn--secondary btn--sm" id="diag-no" onclick="this.classList.add('btn--primary');this.previousElementSibling.classList.remove('btn--primary');this.previousElementSibling.classList.add('btn--secondary');" data-en="No, exclude" data-hi="नहीं, शामिल न करें">नहीं, शामिल न करें</button></div>
+            </div>
+            <div class="form-group"><label class="form-label" data-en="Upload your answer" data-hi="अपना उत्तर अपलोड करें">अपना उत्तर अपलोड करें</label>
+              <div style="display:flex;gap:10px;align-items:flex-start;flex-wrap:wrap;">
+                <div class="upload-thumb" style="background:linear-gradient(135deg,#fffef5,#f5f0e8);"><div style="text-align:center;font-size:9px;color:var(--text-dim);line-height:1.3;">U.P.S.C.<br>हस्तलिखित<br>उत्तर</div><div class="upload-thumb__num">1</div></div>
+                <div class="upload-thumb" style="background:linear-gradient(135deg,#fffef5,#f5f0e8);"><div style="text-align:center;font-size:9px;color:var(--text-dim);line-height:1.3;">U.P.S.C.<br>पृष्ठ 2</div><div class="upload-thumb__num">2</div></div>
+                <div class="upload-thumb" style="border:2px dashed var(--border-bright);cursor:pointer;" onclick="document.getElementById('answer-file').click()"><div style="text-align:center;font-size:18px;color:var(--text-dim);">+</div><div style="font-size:9px;color:var(--text-dim);" data-en="Add more" data-hi="और जोड़ें">और जोड़ें</div></div>
+              </div>
+              <input type="file" id="answer-file" accept="image/*" style="display:none;">
+              <div style="font-size:11px;color:var(--text-dim);margin-top:6px;" data-en="2 pages uploaded" data-hi="2 पृष्ठ अपलोड किए गए">2 पृष्ठ अपलोड किए गए</div>
+            </div>
+            <div class="form-group"><label class="form-label" data-en="Or type your answer" data-hi="या अपना उत्तर टाइप करें">या अपना उत्तर टाइप करें</label><textarea class="form-textarea" id="eval-answer" rows="6" placeholder="यहाँ अपना उत्तर लिखें..." style="min-height:120px;">भारतीय संविधान में राष्ट्रपति की भूमिका बहुत महत्वपूर्ण है। अनुच्छेद 52 के तहत राष्ट्रपति का प्रावधान है। राष्ट्रपति संविधान का संरक्षक है। उन्हें आपातकालीन शक्तियाँ प्राप्त हैं। वे लोकसभा और राज्यसभा के सदस्य चुनते हैं। राष्ट्रपति विधेयकों पर हस्ताक्षर करते हैं। वे न्यायपालिका के न्यायाधीशों की नियुक्ति करते हैं। राष्ट्रपति प्रधानमंत्री की सलाह पर कार्य करते हैं।</textarea></div>
+            <button class="btn btn--primary btn--lg w-full" onclick="startEvaluation()" style="justify-content:center;">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+              <span data-en="Evaluate Answer" data-hi="उत्तर का मूल्यांकन करें">उत्तर का मूल्यांकन करें</span>
+            </button>
+          </div>
+        </div>
+        <div>
+          <div class="tips-panel">
+            <div class="tips-panel__title"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg><span data-en="Suggestions for better results" data-hi="बेहतर परिणाम के लिए सुझाव">बेहतर परिणाम के लिए सुझाव</span></div>
+            <div class="tip-item"><div class="tip-item__title" data-en="Good lighting" data-hi="अच्छी रोशनी">अच्छी रोशनी</div><div class="tip-item__body" data-en="Take photos in bright and even light — no shadows on the answer sheet." data-hi="तेज़ और समान रोशनी में फोटो लें — उत्तर पुस्तिका पर छाया न पड़े।">तेज़ और समान रोशनी में फोटो लें — उत्तर पुस्तिका पर छाया न पड़े।</div></div>
+            <div class="tip-item"><div class="tip-item__title" data-en="Pages in order" data-hi="सभी पृष्ठ क्रम में">सभी पृष्ठ क्रम में</div><div class="tip-item__body" data-en="Include all pages of your answer. Order can be changed after upload." data-hi="अपने उत्तर के सभी पृष्ठ शामिल करें। अपलोड के बाद क्रम बदल सकते हैं।">अपने उत्तर के सभी पृष्ठ शामिल करें। अपलोड के बाद क्रम बदल सकते हैं।</div></div>
+            <div class="tip-item"><div class="tip-item__title" data-en="Clear question number" data-hi="स्पष्ट प्रश्न संख्या">स्पष्ट प्रश्न संख्या</div><div class="tip-item__body" data-en="Write question number clearly so AI can identify your answers correctly." data-hi="प्रश्न संख्या स्पष्ट लिखें ताकि AI आपके उत्तरों को सही से पहचान पाए।">प्रश्न संख्या स्पष्ट लिखें ताकि AI आपके उत्तरों को सही से पहचान पाए।</div></div>
+            <div class="tip-item"><div class="tip-item__title" data-en="Use unlined sheet" data-hi="बिना लाइन वाली शीट">बिना लाइन वाली शीट</div><div class="tip-item__body" data-en="Handwriting is best recognized from a plain white sheet." data-hi="बिना लाइन वाली सफेद शीट से हस्तलेखन सबसे अच्छी पहचान होती है।">बिना लाइन वाली सफेद शीट से हस्तलेखन सबसे अच्छी पहचान होती है।</div></div>
+            <div class="tip-item"><div class="tip-item__title" data-en="Dark ink" data-hi="गहरी स्याही">गहरी स्याही</div><div class="tip-item__body" data-en="Use dark blue or black ink. Light pencil is not read properly." data-hi="गहरे नीले या काले रंग की स्याही का उपयोग करें। हल्की पेंसिल ठीक से नहीं पढ़ी जाती।">गहरे नीले या काले रंग की स्याही का उपयोग करें। हल्की पेंसिल ठीक से नहीं पढ़ी जाती।</div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Evaluation Animation -->
+    <div id="eval-anim-screen" class="hidden">
+      <div class="eval-modal">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;"><div style="font-size:17px;font-weight:700;" data-en="Evaluating your answer" data-hi="आपके उत्तर का मूल्यांकन हो रहा है">आपके उत्तर का मूल्यांकन हो रहा है</div><button onclick="cancelEval()" style="background:none;border:none;font-size:20px;color:var(--text-dim);cursor:pointer;">✕</button></div>
+        <div class="eval-progress-circle">
+          <svg width="80" height="80"><circle cx="40" cy="40" r="36" fill="none" stroke="var(--border)" stroke-width="4"/><circle id="eval-progress-ring" cx="40" cy="40" r="36" fill="none" stroke="var(--accent)" stroke-width="4" stroke-linecap="round" stroke-dasharray="226" stroke-dashoffset="226" style="transition:stroke-dashoffset 0.5s ease;"/></svg>
+          <div class="eval-progress-circle__text"><span class="eval-progress-circle__pct" id="eval-pct">0%</span></div>
+        </div>
+        <p style="text-align:center;font-size:12px;color:var(--text-dim);margin-bottom:16px;" data-en="This usually takes 30–60 seconds" data-hi="इसमें सामान्यतः 30–60 सेकंड लगते हैं">इसमें सामान्यतः 30–60 सेकंड लगते हैं</p>
+        <div id="eval-steps"></div>
+        <div style="height:3px;background:var(--border);border-radius:2px;margin-top:14px;overflow:hidden;"><div id="eval-progress-bar" style="height:100%;background:var(--accent);width:0%;transition:width 0.5s ease;border-radius:2px;"></div></div>
+        <div style="text-align:center;margin-top:10px;font-size:11px;color:var(--text-dim);cursor:pointer;" data-en="ⓘ AI Disclaimer ⌄" data-hi="ⓘ AI अस्वीकरण ⌄">ⓘ AI अस्वीकरण ⌄</div>
+      </div>
+    </div>
+
+    <!-- Result Screen -->
+    <div id="eval-result-screen" class="hidden">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;">
+        <button class="btn btn--secondary btn--sm" onclick="resetEval()"><span data-en="← Evaluate another" data-hi="← और मूल्यांकन करें">← और मूल्यांकन करें</span></button>
+        <button class="btn btn--outline btn--sm"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14"><path d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg><span data-en="रिपोर्ट डाउनलोड करें" data-hi="रिपोर्ट डाउनलोड करें">रिपोर्ट डाउनलोड करें</span></button>
+      </div>
+
+      <!-- Score Card -->
+      <div class="card card--elevated">
+        <div style="display:flex;gap:16px;align-items:center;margin-bottom:14px;flex-wrap:wrap;">
+          <div class="score-circle" style="background:conic-gradient(var(--accent) 0deg 144deg, var(--border) 144deg 360deg);">
+            <div class="score-circle__inner"><div class="score-circle__value">6</div><div class="score-circle__max">/ 10</div></div>
+          </div>
+          <div style="flex:1;min-width:200px;">
+            <div style="font-size:14px;font-weight:700;color:var(--text-bright);margin-bottom:4px;">भारतीय संविधान प्रगति में राष्ट्रपति की भूमिका स्पष्ट करें। (125 शब्दों में)</div>
+            <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:6px;">
+              <span class="tag tag--pink" data-en="Structure & Organization" data-hi="संरचना और संगठन">संरचना और संगठन →</span>
+              <span class="tag tag--green" data-en="Language & Expression" data-hi="भाषा और अभिव्यक्ति">भाषा और अभिव्यक्ति →</span>
+            </div>
+            <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
+              <span style="color:var(--accent);font-size:12px;font-weight:600;" data-en="सुधार की गुंजाइश" data-hi="सुधार की गुंजाइश">सुधार की गुंजाइश</span>
+              <span class="tag tag--grey">UPSC CSE</span><span class="tag tag--grey">10m</span><span class="tag tag--grey">130 शब्द</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Overall Feedback -->
+        <div style="border-left:3px solid var(--accent);padding:10px 14px;background:var(--accent-tint);border-radius:0 var(--radius-xs) var(--radius-xs) 0;margin-bottom:12px;">
+          <div style="font-family:var(--font-mono);font-size:10px;color:var(--accent);margin-bottom:4px;">//</div>
+          <div style="font-size:13px;color:var(--text);line-height:1.6;" data-en="The answer is average in quality, listing the roles of the President but lacking a clear connection to the progress of the Indian Constitution. The absence of a conclusion is a significant shortcoming." data-hi="उत्तर औसत दर्जे का है, जिसमें राष्ट्रपति की भूमिकाओं को सूचीबद्ध किया गया है, लेकिन 'भारतीय संविधान की प्रगति से उनके संबंध को स्पष्ट रूप से जोड़ने में कमी है। निष्कर्ष का अभाव भी एक महत्वपूर्ण कमी है।">उत्तर औसत दर्जे का है, जिसमें राष्ट्रपति की भूमिकाओं को सूचीबद्ध किया गया है, लेकिन 'भारतीय संविधान की प्रगति से उनके संबंध को स्पष्ट रूप से जोड़ने में कमी है। निष्कर्ष का अभाव भी एक महत्वपूर्ण कमी है।</div>
+        </div>
+
+        <button class="btn btn--primary btn--sm mb-8" onclick="document.getElementById('model-answer-section').scrollIntoView({behavior:'smooth'})"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14"><path d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span data-en="आदर्श उत्तर देखें" data-hi="आदर्श उत्तर देखें">आदर्श उत्तर देखें</span></button>
+      </div>
+
+      <!-- Answer Sheet with Markup -->
+      <div class="card">
+        <div class="markup-toolbar">
+          <label class="markup-filter"><input type="checkbox" checked> <span data-en="मजबूत बिंदु" data-hi="मजबूत बिंदु">मजबूत बिंदु</span></label>
+          <label class="markup-filter"><input type="checkbox" checked> <span data-en="सुधार का क्षेत्र" data-hi="सुधार का क्षेत्र">सुधार का क्षेत्र</span></label>
+          <label class="markup-filter"><input type="checkbox" checked> <span data-en="अनुभाग अंक" data-hi="अनुभाग अंक">अनुभाग अंक</span></label>
+          <button class="btn btn--secondary btn--sm" style="margin-left:auto;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="12" height="12"><path d="M3 3v18M3 9l4-4M3 13l4-4"/></svg><span data-en="Hide Markup" data-hi="Hide Markup">Hide Markup</span></button>
+        </div>
+        <div style="font-family:var(--font-mono);font-size:10px;color:var(--text-dim);margin-bottom:8px;" data-en="2 पृष्ठ • 16 टिप्पणियाँ" data-hi="2 पृष्ठ • 16 टिप्पणियाँ">2 पृष्ठ • 16 टिप्पणियाँ</div>
+        <div class="answer-sheet">
+          <div class="answer-sheet__header">
+            <div><div style="font-size:9px;color:var(--text-dim);">Question No. प्रश्न संख्या</div><div style="font-size:10px;color:var(--text-dim);">by - Rahul</div></div>
+            <div class="answer-sheet__title">U.P.S.C.</div>
+            <div style="font-size:8px;color:var(--text-dim);text-align:right;">for practice use only<br>सिर्फ अभ्यास के लिए</div>
+          </div>
+          <div style="font-size:13px;line-height:2;color:#333;font-family:var(--font-hindi);">
+            <p><span class="markup-highlight--good">नियुक्तियाँ:</span> राष्ट्रपति विभिन्न उच्च पदस्थ अधिकारियों की नियुक्ति करता है। जिनमें बहुमत दल के प्रधानमंत्री, सर्वोच्च न्यायालय और उच्च न्यायालयों के न्यायाधीश, मुख्य चुनाव आयुक्त, अटॉर्नी जनरल और राजदूत शामिल हैं।</p>
+            <p><span class="markup-highlight">विधेयकों पर सहमति:</span> संसद द्वारा पारित किसी विधेयक को कानून बनाने से पहले, उसे राष्ट्रपति की सहमति प्राप्त करनी होगी।</p>
+            <p>संसद को बुलाना और स्थगित करना: राष्ट्रपति के पास संसद को बुलाने, स्थगित करने और भंग करने की शक्ति है।</p>
+            <div style="margin-top:8px;display:flex;gap:12px;">
+              <div style="background:var(--red);color:white;border-radius:4px;padding:2px 8px;font-size:11px;font-family:var(--font-mono);font-weight:700;">Marks: 1/10</div>
+            </div>
+          </div>
+          <div class="markup-annotation" style="right:10px;top:120px;">
+            <div style="font-weight:600;color:var(--accent);font-size:10px;margin-bottom:2px;" data-en="निष्कर्ष का अभाव" data-hi="निष्कर्ष का अभाव">निष्कर्ष का अभाव</div>
+            <div style="font-size:10px;color:var(--text-dim);" data-en="उत्तर में स्पष्ट और संक्षिप्त निष्कर्ष का अभाव है।" data-hi="उत्तर में स्पष्ट और संक्षिप्त निष्कर्ष का अभाव है।">उत्तर में स्पष्ट और संक्षिप्त निष्कर्ष का अभाव है।</div>
+          </div>
+        </div>
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-top:10px;">
+          <button class="btn btn--secondary btn--sm" data-en="← पिछला" data-hi="← पिछला">← पिछला</button>
+          <div style="font-size:12px;color:var(--text-dim);">1 / 2</div>
+          <button class="btn btn--secondary btn--sm" data-en="अगला →" data-hi="अगला →">अगला →</button>
+        </div>
+      </div>
+
+      <!-- Sectional Feedback -->
+      <div class="card">
+        <div class="card__title"><svg viewBox="0 0 24 24" fill="none" stroke="var(--text-dim)" stroke-width="2"><path d="M4 6h16M4 10h16M4 14h16M4 18h16"/></svg><span data-en="अनुभागीय प्रतिक्रिया" data-hi="अनुभागीय प्रतिक्रिया">अनुभागीय प्रतिक्रिया</span></div>
+        <div class="card__subtitle" data-en="उत्तर के प्रत्येक भाग का विस्तृत प्रदर्शन विश्लेषण" data-hi="उत्तर के प्रत्येक भाग का विस्तृत प्रदर्शन विश्लेषण">उत्तर के प्रत्येक भाग का विस्तृत प्रदर्शन विश्लेषण</div>
+        <div class="score-formula"><strong>0.75</strong> + <strong>2.75</strong> + <strong>0</strong> + <strong>0.5</strong> = <strong>4/10</strong></div>
+        <div class="feedback-section feedback-section--good">
+          <div class="feedback-section__header"><span class="feedback-section__title" data-en="Introduction" data-hi="परिचय">परिचय</span><span class="feedback-section__score" style="color:var(--green);">0.75/1.00 <span class="tag tag--green" data-en="अच्छा" data-hi="अच्छा">अच्छा</span></span></div>
+          <div class="feedback-section__body" data-en="Article 52 is mentioned and the formal but important roles of the President are clearly explained." data-hi="अनुच्छेद 52 का उल्लेख किया गया है और राष्ट्रपति की औपचारिक लेकिन महत्वपूर्ण भूमिकाओं को अच्छी तरह से स्पष्ट किया गया है।">अनुच्छेद 52 का उल्लेख किया गया है और राष्ट्रपति की औपचारिक लेकिन महत्वपूर्ण भूमिकाओं को अच्छी तरह से स्पष्ट किया गया है।</div>
+        </div>
+        <div class="feedback-section feedback-section--avg">
+          <div class="feedback-section__header"><span class="feedback-section__title" data-en="Body" data-hi="मुख्य भाग">मुख्य भाग</span><span class="feedback-section__score" style="color:var(--amber);">2.75/6.00 <span class="tag tag--amber" data-en="औसत" data-hi="औसत">औसत</span></span></div>
+          <div class="feedback-section__body" data-en="Roles are listed with specific examples of appointments. However, the connection to constitutional progress is weak. Missing: discretionary powers (Article 123 ordinances), emergency powers (Articles 352/356/360), financial powers." data-hi="भूमिकाओं को नियुक्तियों के विशिष्ट उदाहरणों के साथ सूचीबद्ध किया गया है। हालाँकि, संवैधानिक प्रगति से संबंध कमजोर है। छूटे हुए: विवेकाधीन शक्तियाँ (अनुच्छेद 123 अध्यादेश), आपातकालीन शक्तियाँ (अनुच्छेद 352/356/360), वित्तीय शक्तियाँ।">भूमिकाओं को नियुक्तियों के विशिष्ट उदाहरणों के साथ सूचीबद्ध किया गया है। हालाँकि, संवैधानिक प्रगति से संबंध कमजोर है। छूटे हुए: विवेकाधीन शक्तियाँ (अनुच्छेद 123 अध्यादेश), आपातकालीन शक्तियाँ (अनुच्छेद 352/356/360), वित्तीय शक्तियाँ।</div>
+        </div>
+        <div class="feedback-section feedback-section--poor">
+          <div class="feedback-section__header"><span class="feedback-section__title" data-en="Conclusion" data-hi="निष्कर्ष">निष्कर्ष</span><span class="feedback-section__score" style="color:var(--red);">0.00/2.00 <span class="tag tag--red" data-en="सुधार आवश्यक" data-hi="सुधार आवश्यक">सुधार आवश्यक</span></span></div>
+          <div class="feedback-section__body" data-en="No clear conclusion. The answer ends abruptly without summarizing the President's role in constitutional progress." data-hi="कोई स्पष्ट निष्कर्ष नहीं। उत्तर अचानक समाप्त हो जाता है बिना संवैधानिक प्रगति में राष्ट्रपति की भूमिका का सारांश दिए।">कोई स्पष्ट निष्कर्ष नहीं। उत्तर अचानक समाप्त हो जाता है बिना संवैधानिक प्रगति में राष्ट्रपति की भूमिका का सारांश दिए।</div>
+        </div>
+        <div class="feedback-section feedback-section--avg">
+          <div class="feedback-section__header"><span class="feedback-section__title" data-en="Structure" data-hi="संरचना">संरचना</span><span class="feedback-section__score" style="color:var(--amber);">0.50/1.00 <span class="tag tag--amber" data-en="औसत" data-hi="औसत">औसत</span></span></div>
+          <div class="feedback-section__body" data-en="Paragraph format only. Use headings, bullet points, and diagrams for better presentation." data-hi="केवल पैराग्राफ प्रारूप। बेहतर प्रस्तुति के लिए शीर्षक, बुलेट पॉइंट और आरेख का उपयोग करें।">केवल पैराग्राफ प्रारूप। बेहतर प्रस्तुति के लिए शीर्षक, बुलेट पॉइंट और आरेख का उपयोग करें।</div>
+        </div>
+      </div>
+
+      <!-- Analysis Cards -->
+      <div class="grid grid--3">
+        <div class="card"><div class="card__title" style="font-size:13px;"><span data-en="मेट्रिक विश्लेषण" data-hi="मेट्रिक विश्लेषण">मेट्रिक विश्लेषण</span></div><div class="card__subtitle" data-en="मूल्यांकन मानदंडों में प्रदर्शन" data-hi="मूल्यांकन मानदंडों में प्रदर्शन">मूल्यांकन मानदंडों में प्रदर्शन</div>
+          <div style="margin-bottom:10px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span class="text-sm" data-en="संवैधानिक ज्ञान" data-hi="संवैधानिक ज्ञान">संवैधानिक ज्ञान</span><span class="text-sm font-bold">6/10</span></div><div class="progress-bar"><div class="progress-bar__fill" style="width:60%;background:var(--amber);"></div></div></div>
+          <div style="margin-bottom:10px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span class="text-sm" data-en="शासन समझ" data-hi="शासन समझ">शासन समझ</span><span class="text-sm font-bold">5/10</span></div><div class="progress-bar"><div class="progress-bar__fill" style="width:50%;background:var(--red);"></div></div></div>
+          <div><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span class="text-sm" data-en="विश्लेषणात्मक कौशल" data-hi="विश्लेषणात्मक कौशल">विश्लेषणात्मक कौशल</span><span class="text-sm font-bold">4/10</span></div><div class="progress-bar"><div class="progress-bar__fill" style="width:40%;background:var(--red);"></div></div></div>
+        </div>
+        <div class="card"><div class="card__title" style="font-size:13px;"><span data-en="छूटे हुए प्रमुख शब्द" data-hi="छूटे हुए प्रमुख शब्द">छूटे हुए प्रमुख शब्द</span></div><div class="card__subtitle" data-en="इन अवधारणाओं को शामिल करने से उत्तर और मजबूत होगा" data-hi="इन अवधारणाओं को शामिल करने से उत्तर और मजबूत होगा">इन अवधारणाओं को शामिल करने से उत्तर और मजबूत होगा</div>
+          <div class="flex flex-wrap gap-8"><span class="keyword-chip keyword-chip--missing">संविधान का संरक्षक</span><span class="keyword-chip keyword-chip--missing">विवेक शक्तियाँ</span><span class="keyword-chip keyword-chip--missing">आपातकालीन शक्तियाँ</span><span class="keyword-chip keyword-chip--missing">अनुच्छेद 123</span><span class="keyword-chip keyword-chip--missing">अनुच्छेद 356</span><span class="keyword-chip keyword-chip--found">अनुच्छेद 52</span></div>
+        </div>
+        <div class="card"><div class="card__title" style="font-size:13px;"><span data-en="वर्तनी और व्याकरण" data-hi="वर्तनी और व्याकरण">वर्तनी और व्याकरण</span></div><div class="card__subtitle" data-en="आपके उत्तर में पाई गई भाषा संबंधी त्रुटियां" data-hi="आपके उत्तर में पाई गई भाषा संबंधी त्रुटियां">आपके उत्तर में पाई गई भाषा संबंधी त्रुटियां</div>
+          <div class="tag tag--green" style="margin-bottom:6px;" data-en="कोई वर्तनी या व्याकरण त्रुटि नहीं — स्वच्छ लेखन!" data-hi="कोई वर्तनी या व्याकरण त्रुटि नहीं — स्वच्छ लेखन!">कोई वर्तनी या व्याकरण त्रुटि नहीं — स्वच्छ लेखन!</div>
+          <div style="font-size:11px;color:var(--text-dim);margin-top:6px;" data-en="Word count: 130/250 (under by 120 words)" data-hi="शब्द संख्या: 130/250 (120 शब्द कम)">शब्द संख्या: 130/250 (120 शब्द कम)</div>
+        </div>
+      </div>
+
+      <!-- Improvement Plan + Resources + Model Answer -->
+      <div class="grid grid--3 mt-8" id="model-answer-section">
+        <div class="card">
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:10px;"><div style="width:28px;height:28px;background:var(--purple-dim);border-radius:6px;display:flex;align-items:center;justify-content:center;"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="var(--purple)" stroke-width="2"><path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2"/></svg></div><div><div style="font-size:13px;font-weight:700;" data-en="सुधार योजना" data-hi="सुधार योजना">सुधार योजना</div><div style="font-size:10px;color:var(--text-dim);">0/3 पूर्ण</div></div></div>
+          <div class="checklist-item"><div class="checklist-item__box"></div><div class="checklist-item__text" data-en="संवैधानिक सुरक्षा की व्याख्या" data-hi="संवैधानिक सुरक्षा की व्याख्या">संवैधानिक सुरक्षा की व्याख्या</div></div>
+          <div class="checklist-item"><div class="checklist-item__box"></div><div class="checklist-item__text" data-en="प्रगति से जुड़ाव का अभाव" data-hi="प्रगति से जुड़ाव का अभाव">प्रगति से जुड़ाव का अभाव</div></div>
+          <div class="checklist-item"><div class="checklist-item__box"></div><div class="checklist-item__text" data-en="निष्कर्ष का अभाव" data-hi="निष्कर्ष का अभाव">निष्कर्ष का अभाव</div></div>
+        </div>
+        <div class="card">
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:10px;"><div style="width:28px;height:28px;background:var(--purple-dim);border-radius:6px;display:flex;align-items:center;justify-content:center;"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="var(--purple)" stroke-width="2"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253"/></svg></div><div><div style="font-size:13px;font-weight:700;" data-en="अनुशंसित संसाधन" data-hi="अनुशंसित संसाधन">अनुशंसित संसाधन</div><div style="font-size:10px;color:var(--text-dim);" data-en="विवरण देखने के लिए टैप करें" data-hi="विवरण देखने के लिए टैप करें">विवरण देखने के लिए टैप करें</div></div></div>
+          <div class="resource-card"><div class="resource-card__icon" style="background:var(--accent-light);">📘</div><div class="resource-card__info"><div class="resource-card__title" data-en="भारतीय राजव्यवस्था" data-hi="भारतीय राजव्यवस्था">भारतीय राजव्यवस्था</div><div class="resource-card__meta"><span data-en="किताब" data-hi="किताब">किताब</span> · M. लक्ष्मीकांत</div></div></div>
+          <div class="resource-card"><div class="resource-card__icon" style="background:var(--green-dim);">📄</div><div class="resource-card__info"><div class="resource-card__title" data-en="राष्ट्रपति की भूमिका और शक्तियाँ" data-hi="राष्ट्रपति की भूमिका और शक्तियाँ">राष्ट्रपति की भूमिका और शक्तियाँ</div><div class="resource-card__meta"><span data-en="लेख" data-hi="लेख">लेख</span> · P.D.T. आचार्य</div></div></div>
+          <div class="resource-card"><div class="resource-card__icon" style="background:var(--red-dim);">🎥</div><div class="resource-card__info"><div class="resource-card__title">President of India: Powers (UPSC CSE)</div><div class="resource-card__meta"><span data-en="वीडियो" data-hi="वीडियो">वीडियो</span> · Drishti IAS</div></div></div>
+        </div>
+        <div class="card">
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:10px;"><div style="width:28px;height:28px;background:var(--accent-light);border-radius:6px;display:flex;align-items:center;justify-content:center;"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="var(--accent)" stroke-width="2"><path d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg></div><div><div style="font-size:13px;font-weight:700;" data-en="आदर्श उत्तर" data-hi="आदर्श उत्तर">आदर्श उत्तर</div><span class="tag tag--blue" style="font-size:9px;" data-en="AI द्वारा तैयार" data-hi="AI द्वारा तैयार">AI द्वारा तैयार</span></div></div>
+          <details><summary style="font-size:12px;color:var(--accent);cursor:pointer;font-weight:600;" data-en="इस प्रश्न के लिए AI-जनित आदर्श उत्तर देखें" data-hi="इस प्रश्न के लिए AI-जनित आदर्श उत्तर देखें">इस प्रश्न के लिए AI-जनित आदर्श उत्तर देखें</summary>
+            <div class="model-answer__body mt-8">
+              <p><strong>परिचय:</strong> अनुच्छेद 52 के तहत राष्ट्रपति संविधान का संरक्षक और प्रगति के प्रतीक हैं।</p>
+              <p><strong>मुख्य भाग:</strong></p>
+              <ul><li>संवैधानिक संरक्षक (अनुच्छेद 60)</li><li>विधायिका शक्तियाँ (अनुच्छेद 123, 85, 111)</li><li>आपातकालीन शक्तियाँ (अनुच्छेद 352, 356, 360)</li><li>विवेकाधीन शक्तियाँ</li><li>न्यायिक भूमिका (अनुच्छेद 72)</li></ul>
+              <p><strong>निष्कर्ष:</strong> राष्ट्रपति संवैधानिक प्रगति के प्रतीक और लोकतंत्र के संरक्षक हैं।</p>
+            </div>
+          </details>
+        </div>
+      </div>
+
+      <div class="text-center mt-16"><button class="btn btn--primary btn--lg" onclick="resetEval()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg><span data-en="Evaluate another answer" data-hi="और उत्तर का मूल्यांकन करें">और उत्तर का मूल्यांकन करें</span></button></div>
+    </div>
+  </div>
+
+  <!-- ESSAY EVALUATOR -->
+  <div class="page" id="page-essay-evaluator">
+    <div class="card">
+      <div class="card__title"><svg viewBox="0 0 24 24" fill="none" stroke="var(--purple)" stroke-width="2"><path d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg><span data-en="Essay Evaluator" data-hi="निबंध मूल्यांकक">निबंध मूल्यांकक</span></div>
+      <div class="card__subtitle" data-en="Submit your essay (1000-1200 words) for comprehensive UPSC-style evaluation" data-hi="व्यापक UPSC-शैली मूल्यांकन के लिए अपना निबंध (1000-1200 शब्द) जमा करें">व्यापक UPSC-शैली मूल्यांकन के लिए अपना निबंध (1000-1200 शब्द) जमा करें</div>
+      <div class="form-group"><label class="form-label" data-en="Essay Topic" data-hi="निबंध विषय">निबंध विषय</label><select class="form-select" id="essay-topic"><option data-en="1. Youth is the best driver of change" data-hi="1. युवा परिवर्तन का सबसे अच्छा चालक है">1. युवा परिवर्तन का सबसे अच्छा चालक है</option><option data-en="2. Technology cannot replace human element in governance" data-hi="2. प्रौद्योगिकी शासन में मानवीय तत्व को प्रतिस्थापित नहीं कर सकती">2. प्रौद्योगिकी शासन में मानवीय तत्व को प्रतिस्थापित नहीं कर सकती</option><option data-en="3. Federalism is the backbone of India's unity" data-hi="3. संघवाद भारत की एकता की रीढ़ है">3. संघवाद भारत की एकता की रीढ़ है</option><option data-en="4. Climate justice is the moral imperative of our times" data-hi="4. जलवायु न्याय हमारे समय का नैतिक अनिवार्यता है">4. जलवायु न्याय हमारे समय का नैतिक अनिवार्यता है</option></select></div>
+      <div class="form-group"><label class="form-label" data-en="Your Essay" data-hi="आपका निबंध">आपका निबंध</label><textarea class="form-textarea" id="essay-text" rows="10" placeholder="यहाँ अपना निबंध लिखें..." style="min-height:250px;"></textarea><div style="font-size:11px;color:var(--text-dim);margin-top:3px;"><span id="word-count">0</span> <span data-en="words · Target: 1000-1200" data-hi="शब्द · लक्ष्य: 1000-1200">शब्द · लक्ष्य: 1000-1200</span></div></div>
+      <button class="btn btn--primary btn--lg" onclick="document.getElementById('essay-result').classList.remove('hidden')"><span data-en="Evaluate Essay" data-hi="निबंध का मूल्यांकन करें">निबंध का मूल्यांकन करें</span></button>
+    </div>
+    <div id="essay-result" class="hidden">
+      <div class="card card--elevated">
+        <div style="display:flex;gap:14px;align-items:center;margin-bottom:14px;"><div class="score-circle" style="background:conic-gradient(var(--purple) 0deg 227deg, var(--border) 227deg 360deg);"><div class="score-circle__inner"><div class="score-circle__value">79</div><div class="score-circle__max">/125</div></div></div><div><div style="font-size:15px;font-weight:700;" data-en="Essay Score" data-hi="निबंध अंक">निबंध अंक</div><div style="font-size:12px;color:var(--text-dim);">UPSC Essay Paper · 125 <span data-en="Marks" data-hi="अंक">अंक</span></div></div></div>
+        <div class="grid grid--2">
+          <div class="feedback-section feedback-section--good"><div class="feedback-section__header"><span class="feedback-section__title" data-en="विषय की समझ" data-hi="विषय की समझ">विषय की समझ</span><span class="feedback-section__score" style="color:var(--green);">14/20</span></div><div class="feedback-section__body" data-en="Good grasp with multidimensional approach." data-hi="बहुआयामी दृष्टिकोण के साथ अच्छी समझ।">बहुआयामी दृष्टिकोण के साथ अच्छी समझ।</div></div>
+          <div class="feedback-section feedback-section--avg"><div class="feedback-section__header"><span class="feedback-section__title" data-en="संरचना" data-hi="संरचना">संरचना</span><span class="feedback-section__score" style="color:var(--amber);">12/20</span></div><div class="feedback-section__body" data-en="Needs better flow between paragraphs." data-hi="पैराग्राफ के बीच बेहतर प्रवाह चाहिए।">पैराग्राफ के बीच बेहतर प्रवाह चाहिए।</div></div>
+          <div class="feedback-section feedback-section--good"><div class="feedback-section__header"><span class="feedback-section__title" data-en="भाषा और अभिव्यक्ति" data-hi="भाषा और अभिव्यक्ति">भाषा और अभिव्यक्ति</span><span class="feedback-section__score" style="color:var(--green);">16/20</span></div><div class="feedback-section__body" data-en="Clear and articulate expression." data-hi="स्पष्ट और सुस्पष्ट अभिव्यक्ति।">स्पष्ट और सुस्पष्ट अभिव्यक्ति।</div></div>
+          <div class="feedback-section feedback-section--avg"><div class="feedback-section__header"><span class="feedback-section__title" data-en="विविध उदाहरण" data-hi="विविध उदाहरण">विविध उदाहरण</span><span class="feedback-section__score" style="color:var(--amber);">11/20</span></div><div class="feedback-section__body" data-en="Add more diverse examples from history, literature, current affairs." data-hi="इतिहास, साहित्य, समसामयिक घटनाक्रम से अधिक विविध उदाहरण जोड़ें।">इतिहास, साहित्य, समसामयिक घटनाक्रम से अधिक विविध उदाहरण जोड़ें।</div></div>
+          <div class="feedback-section feedback-section--poor"><div class="feedback-section__header"><span class="feedback-section__title" data-en="निष्कर्ष" data-hi="निष्कर्ष">निष्कर्ष</span><span class="feedback-section__score" style="color:var(--red);">8/20</span></div><div class="feedback-section__body" data-en="Conclusion needs to be more forward-looking." data-hi="निष्कर्ष अधिक भविष्योन्मुख होना चाहिए।">निष्कर्ष अधिक भविष्योन्मुख होना चाहिए।</div></div>
+          <div class="feedback-section feedback-section--good"><div class="feedback-section__header"><span class="feedback-section__title" data-en="मौलिकता" data-hi="मौलिकता">मौलिकता</span><span class="feedback-section__score" style="color:var(--green);">18/25</span></div><div class="feedback-section__body" data-en="Original perspective with unique insights." data-hi="अद्वितीय अंतर्दृष्टि के साथ मौलिक दृष्टिकोण।">अद्वितीय अंतर्दृष्टि के साथ मौलिक दृष्टिकोण।</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MCQ PRACTICE -->
+  <div class="page" id="page-mcq-practice">
+    <div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;">
+        <div style="font-size:16px;font-weight:700;color:var(--accent);" data-en="Practice Questions" data-hi="अभ्यास प्रश्न">अभ्यास प्रश्न</div>
+        <div class="tabs" style="margin-bottom:0;border:none;"><button class="tab active" data-mcq-type="prelims" data-en="Prelims (1)" data-hi="प्रारंभिक (1)">प्रारंभिक (1)</button><button class="tab" data-mcq-type="mains" data-en="Mains" data-hi="मुख्य">मुख्य</button></div>
+      </div>
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;"><div style="font-size:12px;color:var(--text-dim);"><span data-en="Question" data-hi="प्रश्न">प्रश्न</span> <strong id="mcq-current">1</strong> <span data-en="of" data-hi="में से">में से</span> <strong id="mcq-total">5</strong></div><div class="flex gap-8"><span class="tag tag--green" id="mcq-correct-tag" data-en="Correct: 0" data-hi="सही: 0">सही: 0</span><span class="tag tag--red" id="mcq-wrong-tag" data-en="Wrong: 0" data-hi="गलत: 0">गलत: 0</span></div></div>
+      <div id="mcq-container"></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-top:12px;">
+        <div class="flex gap-8">
+          <button class="btn btn--secondary btn--sm" onclick="saveMCQ()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="12" height="12"><path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg><span data-en="Save" data-hi="Save">Save</span></button>
+          <button class="btn btn--secondary btn--sm"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="12" height="12"><path d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg><span data-en="Download PDF" data-hi="Download PDF">Download PDF</span></button>
+          <button class="btn btn--secondary btn--sm"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="12" height="12"><path d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-0L10 14"/></svg><span data-en="Original Source" data-hi="Original Source">Original Source</span></button>
+        </div>
+        <div class="flex gap-8"><button class="btn btn--secondary btn--sm" id="mcq-prev" onclick="prevMCQ()"><span data-en="← Previous" data-hi="← पिछला">← पिछला</span></button><button class="btn btn--primary btn--sm" id="mcq-next" onclick="nextMCQ()"><span data-en="Next →" data-hi="अगला →">अगला →</span></button></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- DAILY WRITING -->
+  <div class="page" id="page-daily-writing">
+    <div class="card card--hero mb-16">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;"><span class="tag" style="background:rgba(255,255,255,0.2);color:white;" data-en="DAILY QUESTION" data-hi="दैनिक प्रश्न">दैनिक प्रश्न</span><span style="font-size:12px;opacity:0.8;">29 August 2026</span></div>
+      <h3 style="font-size:17px;font-weight:700;margin-bottom:8px;" data-en="Q. Examine the role of Citizen's Charter in ensuring transparent and accountable governance. (250 words)" data-hi="प्र. पारदर्शी और जवाबदेह शासन सुनिश्चित करने में नागरिक चार्टर की भूमिका की जाँच करें। (250 शब्द)">प्र. पारदर्शी और जवाबदेह शासन सुनिश्चित करने में नागरिक चार्टर की भूमिका की जाँच करें। (250 शब्द)</h3>
+      <p style="font-size:13px;opacity:0.85;" data-en="GS Paper 2 · Governance · 15 Marks · Source: Second ARC Report" data-hi="GS पेपर 2 · शासन · 15 अंक · स्रोत: द्वितीय ARC रिपोर्ट">GS पेपर 2 · शासन · 15 अंक · स्रोत: द्वितीय ARC रिपोर्ट</p>
+    </div>
+    <div class="card">
+      <div class="form-group"><label class="form-label" data-en="Your Answer" data-hi="आपका उत्तर">आपका उत्तर</label><textarea class="form-textarea" id="daily-answer" rows="8" placeholder="यहाँ अपना उत्तर लिखें..."></textarea><div style="font-size:11px;color:var(--text-dim);margin-top:3px;"><span id="daily-word-count">0</span> <span data-en="words · Target: 250" data-hi="शब्द · लक्ष्य: 250">शब्द · लक्ष्य: 250</span></div></div>
+      <div class="flex gap-8"><button class="btn btn--primary" onclick="alert(currentLang==='hi'?'उत्तर जमा हो गया!':'Answer submitted!')"><span data-en="Submit Answer" data-hi="उत्तर जमा करें">उत्तर जमा करें</span></button><button class="btn btn--outline"><span data-en="View Model Answer" data-hi="आदर्श उत्तर देखें">आदर्श उत्तर देखें</span></button></div>
+    </div>
+    <div class="section-divider"><span class="section-divider__line"></span><span class="section-divider__label" data-en="PAST 7 DAYS" data-hi="पिछले 7 दिन">पिछले 7 दिन</span><span class="section-divider__line"></span></div>
+    <div class="timeline">
+      <div class="timeline-item"><div class="timeline-item__date">28 Aug 2026</div><div class="timeline-item__title" data-en="GS3: Impact of AI on employment in India" data-hi="GS3: भारत में रोजगार पर AI का प्रभाव">GS3: भारत में रोजगार पर AI का प्रभाव</div><div class="timeline-item__desc" data-en="Answered · Score: 7/15" data-hi="उत्तर दिया · अंक: 7/15">उत्तर दिया · अंक: 7/15</div></div>
+      <div class="timeline-item"><div class="timeline-item__date">27 Aug 2026</div><div class="timeline-item__title" data-en="GS1: Significance of the Non-Aligned Movement" data-hi="GS1: गुटनिरपेक्ष आंदोलन का महत्व">GS1: गुटनिरपेक्ष आंदोलन का महत्व</div><div class="timeline-item__desc" data-en="Answered · Score: 9/15" data-hi="उत्तर दिया · अंक: 9/15">उत्तर दिया · अंक: 9/15</div></div>
+      <div class="timeline-item"><div class="timeline-item__date">26 Aug 2026</div><div class="timeline-item__title" data-en="GS4: Ethical concerns in electoral funding" data-hi="GS4: चुनावी वित्तपोषण में नैतिक चिंताएँ">GS4: चुनावी वित्तपोषण में नैतिक चिंताएँ</div><div class="timeline-item__desc" data-en="Answered · Score: 6/15" data-hi="उत्तर दिया · अंक: 6/15">उत्तर दिया · अंक: 6/15</div></div>
+    </div>
+  </div>
+
+  <!-- PYQ -->
+  <div class="page" id="page-pyq">
+    <div class="card">
+      <div class="card__title"><svg viewBox="0 0 24 24" fill="none" stroke="var(--gold)" stroke-width="2"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253"/></svg><span data-en="Previous Year Questions (2011-2026)" data-hi="पिछले वर्ष प्रश्न (2011-2026)">पिछले वर्ष प्रश्न (2011-2026)</span></div>
+      <div class="card__subtitle" data-en="Complete PYQ bank with model answers — Prelims + Mains + Hindi Literature Optional" data-hi="आदर्श उत्तरों के साथ संपूर्ण PYQ बैंक — प्रारंभिक + मुख्य + हिंदी साहित्य वैकल्पिक">आदर्श उत्तरों के साथ संपूर्ण PYQ बैंक — प्रारंभिक + मुख्य + हिंदी साहित्य वैकल्पिक</div>
+      <div class="grid grid--4 mb-16">
+        <div class="form-group"><label class="form-label" data-en="Exam Stage" data-hi="परीक्षा चरण">परीक्षा चरण</label><select class="form-select" id="pyq-stage" onchange="loadPYQ()"><option value="prelims" data-en="Prelims" data-hi="प्रारंभिक">प्रारंभिक</option><option value="mains" selected data-en="Mains" data-hi="मुख्य">मुख्य</option><option value="hindi-lit" data-en="Hindi Literature Optional" data-hi="हिंदी साहित्य वैकल्पिक">हिंदी साहित्य वैकल्पिक</option></select></div>
+        <div class="form-group"><label class="form-label" data-en="Year" data-hi="वर्ष">वर्ष</label><select class="form-select" id="pyq-year" onchange="loadPYQ()"><option>2026</option><option>2025</option><option>2024</option><option>2023</option><option>2022</option><option>2021</option><option>2020</option><option>2019</option><option>2018</option><option>2017</option><option>2016</option><option>2015</option><option>2014</option><option>2013</option><option>2012</option><option selected>2011</option></select></div>
+        <div class="form-group"><label class="form-label" data-en="Paper" data-hi="पेपर">पेपर</label><select class="form-select" id="pyq-paper" onchange="loadPYQ()"><option value="gs1">GS Paper 1</option><option value="gs2">GS Paper 2</option><option value="gs3" selected>GS Paper 3</option><option value="gs4">GS Paper 4 (Ethics)</option><option value="essay">Essay</option></select></div>
+        <div class="form-group"><label class="form-label" data-en="Language" data-hi="भाषा">भाषा</label><select class="form-select" id="pyq-lang"><option value="hi" data-en="Hindi" data-hi="हिंदी">हिंदी</option><option value="en" data-en="English" data-hi="अंग्रेज़ी">अंग्रेज़ी</option><option value="both" selected data-en="Both" data-hi="दोनों">दोनों</option></select></div>
+      </div>
+      <div id="pyq-container"></div>
+    </div>
+  </div>
+
+  <!-- AI MENTOR -->
+  <div class="page" id="page-ai-mentor">
+    <div class="card">
+      <div class="card__title"><svg viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2"><path d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg><span data-en="AI Mentor" data-hi="एआई मेंटर">एआई मेंटर</span></div>
+      <div class="chat-container">
+        <div class="chat-messages" id="chat-messages"><div class="chat-msg chat-msg--ai"><div class="chat-msg__avatar">S</div><div class="chat-msg__bubble"><span data-en="Namaste! I'm your AI Mentor. I can help with: study planning, optional selection, answer writing strategy, current affairs analysis, and exam-day tactics. What would you like to discuss?" data-hi="नमस्ते! मैं आपका एआई मेंटर हूँ। मैं अध्ययन योजना, वैकल्पिक विषय चयन, उत्तर लेखन रणनीति, समसामयिक घटनाक्रम विश्लेषण, और परीक्षा-दिवस की रणनीतियों में मदद कर सकता हूँ। आप क्या चर्चा करना चाहेंगे?">नमस्ते! मैं आपका एआई मेंटर हूँ। मैं अध्ययन योजना, वैकल्पिक विषय चयन, उत्तर लेखन रणनीति, समसामयिक घटनाक्रम विश्लेषण, और परीक्षा-दिवस की रणनीतियों में मदद कर सकता हूँ। आप क्या चर्चा करना चाहेंगे?</span></div></div></div>
+        <div class="chat-input-area"><input type="text" class="chat-input" id="chat-input" placeholder="अपना प्रश्न यहाँ लिखें..." onkeypress="if(event.key==='Enter')sendChat()"><button class="btn btn--primary" onclick="sendChat()"><span data-en="Send" data-hi="भेजें">भेजें</span></button></div>
+      </div>
+      <div class="flex gap-8 flex-wrap mt-8">
+        <button class="btn btn--secondary btn--sm" onclick="quickAsk('6-month revision plan?')" data-en="6-month revision plan?" data-hi="6-माह पुनरावलोकन योजना?">6-माह पुनरावलोकन योजना?</button>
+        <button class="btn btn--secondary btn--sm" onclick="quickAsk('Best optional?')" data-en="Best optional?" data-hi="सर्वश्रेष्ठ वैकल्पिक?">सर्वश्रेष्ठ वैकल्पिक?</button>
+        <button class="btn btn--secondary btn--sm" onclick="quickAsk('How to improve speed?')" data-en="Improve speed?" data-hi="गति कैसे बढ़ाएँ?">गति कैसे बढ़ाएँ?</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- CURRENT AFFAIRS -->
+  <div class="page" id="page-current-affairs">
+    <div class="card" style="padding:0;overflow:hidden;">
+      <div style="padding:14px 18px;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:center;">
+        <div class="card__title" style="margin-bottom:0;"><svg viewBox="0 0 24 24" fill="none" stroke="var(--green)" stroke-width="2"><path d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 0a2 2 0 012 2v9a2 2 0 01-2 2m-4-13H5m14 0h-2m-7 0v6m-2-3h4m6 3h.01"/></svg><span data-en="Current Affairs — Auto-Updated Daily" data-hi="समसामयिक घटनाक्रम — दैनिक स्वतः-अद्यतन">समसामयिक घटनाक्रम — दैनिक स्वतः-अद्यतन</span></div>
+        <span class="tag tag--live" data-en="LIVE" data-hi="LIVE">LIVE</span>
+      </div>
+      <div class="tabs" id="ca-tabs" style="padding:0 18px;">
+        <button class="tab active" data-ca-cat="all" data-en="All" data-hi="सभी">सभी</button>
+        <button class="tab" data-ca-cat="polity" data-en="Polity" data-hi="राजव्यवस्था">राजव्यवस्था</button>
+        <button class="tab" data-ca-cat="economy" data-en="Economy" data-hi="अर्थव्यवस्था">अर्थव्यवस्था</button>
+        <button class="tab" data-ca-cat="ir" data-en="International Relations" data-hi="अंतर्राष्ट्रीय संबंध">अंतर्राष्ट्रीय संबंध</button>
+        <button class="tab" data-ca-cat="environment" data-en="Environment" data-hi="पर्यावरण">पर्यावरण</button>
+        <button class="tab" data-ca-cat="schemes" data-en="Schemes" data-hi="योजनाएँ">योजनाएँ</button>
+        <button class="tab" data-ca-cat="scitech" data-en="Science & Tech" data-hi="विज्ञान एवं प्रौद्योगिकी">विज्ञान एवं प्रौद्योगिकी</button>
+        <button class="tab" data-ca-cat="security" data-en="Security" data-hi="सुरक्षा">सुरक्षा</button>
+        <button class="tab" data-ca-cat="social" data-en="Social Issues" data-hi="सामाजिक मुद्दे">सामाजिक मुद्दे</button>
+      </div>
+    </div>
+    <div id="ca-container" style="padding:0 2px;"></div>
+  </div>
+
+  <!-- CASE STUDY GEN -->
+  <div class="page" id="page-case-study-gen">
+    <div class="card">
+      <div class="card__title"><svg viewBox="0 0 24 24" fill="none" stroke="var(--purple)" stroke-width="2"><path d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.49.244a6 6 0 01-3.859.517L6 15.5"/></svg><span data-en="Case Study Generator" data-hi="केस स्टडी जनरेटर">केस स्टडी जनरेटर</span></div>
+      <div class="card__subtitle" data-en="Generate UPSC GS-4 style ethics case studies" data-hi="UPSC GS-4 शैली के नैतिकता केस स्टडी उत्पन्न करें">UPSC GS-4 शैली के नैतिकता केस स्टडी उत्पन्न करें</div>
+      <div class="grid grid--2 mb-16">
+        <div class="form-group"><label class="form-label" data-en="Theme" data-hi="विषय">विषय</label><select class="form-select" id="cs-theme"><option data-en="Governance & Corruption" data-hi="शासन और भ्रष्टाचार">शासन और भ्रष्टाचार</option><option data-en="Ethical Dilemma" data-hi="नैतिक दुविधा">नैतिक दुविधा</option><option data-en="Emotional Intelligence" data-hi="भावनात्मक बुद्धिमत्ता">भावनात्मक बुद्धिमत्ता</option><option data-en="Transparency & Accountability" data-hi="पारदर्शिता और जवाबदेही">पारदर्शिता और जवाबदेही</option><option data-en="Leadership" data-hi="नेतृत्व">नेतृत्व</option><option data-en="Corporate Ethics" data-hi="कॉर्पोरेट नैतिकता">कॉर्पोरेट नैतिकता</option></select></div>
+        <div class="form-group"><label class="form-label" data-en="Difficulty" data-hi="कठिनाई">कठिनाई</label><select class="form-select" id="cs-difficulty"><option data-en="Easy" data-hi="आसान">आसान</option><option selected data-en="Medium" data-hi="मध्यम">मध्यम</option><option data-en="Hard" data-hi="कठिन">कठिन</option></select></div>
+      </div>
+      <button class="btn btn--primary btn--lg" onclick="document.getElementById('cs-result').classList.remove('hidden')"><span data-en="Generate Case Study" data-hi="केस स्टडी उत्पन्न करें">केस स्टडी उत्पन्न करें</span></button>
+    </div>
+    <div id="cs-result" class="hidden">
+      <div class="card card--elevated">
+        <div class="card__title"><span data-en="Generated Case Study" data-hi="उत्पन्न केस स्टडी">उत्पन्न केस स्टडी</span><span class="tag tag--purple">GS-4</span></div>
+        <div class="model-answer__body" style="background:var(--surface-2);padding:14px;border-radius:8px;margin-bottom:12px;">
+          <p style="margin-bottom:8px;"><strong data-en="Situation:" data-hi="स्थिति:">स्थिति:</strong> <span data-en="You are a District Collector in a tribal-majority district. A mining company has been granted a license for land sacred to the tribal community. The company promises 5,000 jobs. The tribal community protests citing Forest Rights Act violations. You discover the environmental clearance bypassed mandatory Gram Sabha consultation." data-hi="आप एक जनजातीय बहुल जिले में ज़िला कलेक्टर हैं। एक खनन कंपनी को जनजातीय समुदाय के लिए पवित्र भूमि का लाइसेंस मिला है। कंपनी 5,000 नौकरियों का वादा करती है। जनजातीय समुदाय वन अधिकार अधिनियम उल्लंघन का हवाला देते हुए विरोध कर रहा है। आप पाते हैं कि पर्यावरणीय निकासी ने अनिवार्य ग्राम सभा परामर्श को दरकिनार किया।">आप एक जनजातीय बहुल जिले में ज़िला कलेक्टर हैं। एक खनन कंपनी को जनजातीय समुदाय के लिए पवित्र भूमि का लाइसेंस मिला है। कंपनी 5,000 नौकरियों का वादा करती है। जनजातीय समुदाय वन अधिकार अधिनियम उल्लंघन का हवाला देते हुए विरोध कर रहा है। आप पाते हैं कि पर्यावरणीय निकासी ने अनिवार्य ग्राम सभा परामर्श को दरकिनार किया।</span></p>
+          <p style="margin-bottom:8px;"><strong data-en="Dilemma:" data-hi="दुविधा:">दुविधा:</strong> <span data-en="Economic development vs. tribal rights and environmental protection." data-hi="आर्थिक विकास बनाम जनजातीय अधिकार और पर्यावरण संरक्षण।">आर्थिक विकास बनाम जनजातीय अधिकार और पर्यावरण संरक्षण।</span></p>
+          <p><strong data-en="Questions:" data-hi="प्रश्न:">प्रश्न:</strong></p>
+          <ol style="padding-left:20px;margin-top:4px;"><li data-en="Identify stakeholders and their interests. (150 words)" data-hi="हितधारकों और उनके हितों की पहचान करें। (150 शब्द)">हितधारकों और उनके हितों की पहचान करें। (150 शब्द)</li><li data-en="What options are available? Evaluate each. (150 words)" data-hi="कौन-से विकल्प उपलब्ध हैं? मूल्यांकन करें। (150 शब्द)">कौन-से विकल्प उपलब्ध हैं? मूल्यांकन करें। (150 शब्द)</li><li data-en="What course of action will you take and why? (150 words)" data-hi="आप क्या कार्यवाही करेंगे और क्यों? (150 शब्द)">आप क्या कार्यवाही करेंगे और क्यों? (150 शब्द)</li></ol>
+        </div>
+        <div class="model-answer">
+          <div class="model-answer__title"><span data-en="संकेतक बिंदु (Hints)" data-hi="संकेतक बिंदु (Hints)">संकेतक बिंदु (Hints)</span></div>
+          <div class="model-answer__body">
+            <p><strong data-en="Stakeholders:" data-hi="हितधारक:">हितधारक:</strong> <span data-en="Tribal community, mining company, state government, local politicians, activists, future generations, environment" data-hi="जनजातीय समुदाय, खनन कंपनी, राज्य सरकार, स्थानीय राजनेता, कार्यकर्ता, भावी पीढ़ियाँ, पर्यावरण">जनजातीय समुदाय, खनन कंपनी, राज्य सरकार, स्थानीय राजनेता, कार्यकर्ता, भावी पीढ़ियाँ, पर्यावरण</span></p>
+            <p style="margin-top:6px;"><strong data-en="Ethical principles:" data-hi="नैतिक सिद्धांत:">नैतिक सिद्धांत:</strong></p>
+            <ul style="padding-left:20px;margin-top:4px;"><li data-en="Constitutional morality (Art. 21, PESA, FRA 2006)" data-hi="संवैधानिक नैतिकता (अनुच्छेद 21, PESA, FRA 2006)">संवैधानिक नैतिकता (अनुच्छेद 21, PESA, FRA 2006)</li><li data-en="Rule of law and procedural propriety" data-hi="विधि का शासन और प्रक्रियात्मक उपयुक्तता">विधि का शासन और प्रक्रियात्मक उपयुक्तता</li><li data-en="Emotional intelligence — empathy with tribals" data-hi="भावनात्मक बुद्धिमत्ता — जनजातीयों के प्रति सहानुभूति">भावनात्मक बुद्धिमत्ता — जनजातीयों के प्रति सहानुभूति</li></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CASE STUDY FINDER -->
+  <div class="page" id="page-case-study-finder">
+    <div class="card">
+      <div class="card__title"><svg viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg><span data-en="Case Study Finder" data-hi="केस स्टडी खोज">केस स्टडी खोज</span></div>
+      <div class="form-group"><input type="text" class="form-input" id="cs-search" placeholder="केस स्टडी खोजें..." oninput="searchCaseStudies()"></div>
+      <div class="grid grid--auto" id="cs-library"></div>
+    </div>
+  </div>
+
+  <!-- TEST SERIES -->
+  <div class="page" id="page-test-series">
+    <div class="card">
+      <div class="card__title"><svg viewBox="0 0 24 24" fill="none" stroke="var(--gold)" stroke-width="2"><path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2"/></svg><span data-en="Full Paper Test Series" data-hi="पूर्ण पेपर टेस्ट सीरीज़">पूर्ण पेपर टेस्ट सीरीज़</span></div>
+      <table class="data-table"><thead><tr><th data-en="Test" data-hi="टेस्ट">टेस्ट</th><th data-en="Paper" data-hi="पेपर">पेपर</th><th data-en="Duration" data-hi="अवधि">अवधि</th><th data-en="Marks" data-hi="अंक">अंक</th><th data-en="Status" data-hi="स्थिति">स्थिति</th><th data-en="Action" data-hi="कार्रवाई">कार्रवाई</th></tr></thead><tbody id="test-series-tbody"></tbody></table>
+      <div class="section-divider"><span class="section-divider__line"></span><span class="section-divider__label" data-en="RECENT RESULTS" data-hi="हाल के परिणाम">हाल के परिणाम</span><span class="section-divider__line"></span></div>
+      <div class="grid grid--3">
+        <div class="card"><div style="font-size:12px;color:var(--text-dim);" data-en="GS Paper 1 Mock" data-hi="GS पेपर 1 मॉक">GS पेपर 1 मॉक</div><div style="font-size:22px;font-weight:800;color:var(--text-bright);margin:3px 0;">112<span style="font-size:13px;color:var(--text-dim);">/250</span></div><div class="trend trend--up">↑ 8%</div></div>
+        <div class="card"><div style="font-size:12px;color:var(--text-dim);" data-en="GS Paper 3 Mock" data-hi="GS पेपर 3 मॉक">GS पेपर 3 मॉक</div><div style="font-size:22px;font-weight:800;color:var(--text-bright);margin:3px 0;">97<span style="font-size:13px;color:var(--text-dim);">/250</span></div><div class="trend trend--up">↑ 5%</div></div>
+        <div class="card"><div style="font-size:12px;color:var(--text-dim);" data-en="Essay Mock" data-hi="निबंध मॉक">निबंध मॉक</div><div style="font-size:22px;font-weight:800;color:var(--text-bright);margin:3px 0;">84<span style="font-size:13px;color:var(--text-dim);">/250</span></div><div class="trend trend--down">↓ 3%</div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- EVALUATED ANSWERS -->
+  <div class="page" id="page-evaluated">
+    <div class="card">
+      <div class="card__title" data-en="Evaluated Answers" data-hi="मूल्यांकित उत्तर">मूल्यांकित उत्तर</div>
+      <table class="data-table"><thead><tr><th data-en="Date" data-hi="तारीख">तारीख</th><th data-en="Question" data-hi="प्रश्न">प्रश्न</th><th data-en="Paper" data-hi="पेपर">पेपर</th><th data-en="Score" data-hi="अंक">अंक</th><th data-en="Action" data-hi="कार्रवाई">कार्रवाई</th></tr></thead><tbody>
+        <tr><td>29 Aug 2026</td><td data-en="Role of President in constitutional progress" data-hi="संवैधानिक प्रगति में राष्ट्रपति की भूमिका">संवैधानिक प्रगति में राष्ट्रपति की भूमिका</td><td><span class="tag tag--blue">GS-3</span></td><td>6/10</td><td><button class="btn btn--secondary btn--sm" data-en="View" data-hi="देखें">देखें</button></td></tr>
+        <tr><td>28 Aug 2026</td><td data-en="Impact of AI on employment" data-hi="रोजगार पर AI का प्रभाव">रोजगार पर AI का प्रभाव</td><td><span class="tag tag--blue">GS-3</span></td><td>7/15</td><td><button class="btn btn--secondary btn--sm" data-en="View" data-hi="देखें">देखें</button></td></tr>
+        <tr><td>27 Aug 2026</td><td data-en="Non-Aligned Movement" data-hi="गुटनिरपेक्ष आंदोलन">गुटनिरपेक्ष आंदोलन</td><td><span class="tag tag--green">GS-1</span></td><td>9/15</td><td><button class="btn btn--secondary btn--sm" data-en="View" data-hi="देखें">देखें</button></td></tr>
+        <tr><td>26 Aug 2026</td><td data-en="Ethical concerns in electoral funding" data-hi="चुनावी वित्तपोषण में नैतिक चिंताएँ">चुनावी वित्तपोषण में नैतिक चिंताएँ</td><td><span class="tag tag--purple">GS-4</span></td><td>6/15</td><td><button class="btn btn--secondary btn--sm" data-en="View" data-hi="देखें">देखें</button></td></tr>
+      </tbody></table>
+    </div>
+  </div>
+
+  <!-- PROGRESS -->
+  <div class="page" id="page-progress">
+    <div class="grid grid--4 mb-16">
+      <div class="stat-card"><div class="stat-card__icon" style="background:var(--green-dim);"><svg viewBox="0 0 24 24" fill="none" stroke="var(--green)" stroke-width="2"><path d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10"/></svg></div><div><div class="stat-card__value">6.2</div><div class="stat-card__label" data-en="Avg Score (/15)" data-hi="औसत अंक (/15)">औसत अंक (/15)</div></div></div>
+      <div class="stat-card"><div class="stat-card__icon" style="background:var(--accent-light);"><svg viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2"><path d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg></div><div><div class="stat-card__value">23</div><div class="stat-card__label" data-en="Day Streak" data-hi="दिन क्रमागत">दिन क्रमागत</div></div></div>
+      <div class="stat-card"><div class="stat-card__icon" style="background:var(--gold-dim);"><svg viewBox="0 0 24 24" fill="none" stroke="var(--gold)" stroke-width="2"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg></div><div><div class="stat-card__value">47</div><div class="stat-card__label" data-en="Total Answers" data-hi="कुल उत्तर">कुल उत्तर</div></div></div>
+      <div class="stat-card"><div class="stat-card__icon" style="background:var(--purple-dim);"><svg viewBox="0 0 24 24" fill="none" stroke="var(--purple)" stroke-width="2"><path d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"/></svg></div><div><div class="stat-card__value">#142</div><div class="stat-card__label" data-en="All India Rank" data-hi="अखिल भारतीय रैंक">अखिल भारतीय रैंक</div></div></div>
+    </div>
+    <div class="card">
+      <div class="card__title" data-en="Paper-wise Performance" data-hi="पेपर-वार प्रदर्शन">पेपर-वार प्रदर्शन</div>
+      <div style="margin-bottom:12px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span class="text-sm">GS Paper 1</span><span class="text-sm font-bold">7.5/15</span></div><div class="progress-bar"><div class="progress-bar__fill" style="width:75%;background:var(--green);"></div></div></div>
+      <div style="margin-bottom:12px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span class="text-sm">GS Paper 2</span><span class="text-sm font-bold">8.0/15</span></div><div class="progress-bar"><div class="progress-bar__fill" style="width:80%;background:var(--green);"></div></div></div>
+      <div style="margin-bottom:12px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span class="text-sm">GS Paper 3</span><span class="text-sm font-bold">5.5/15</span></div><div class="progress-bar"><div class="progress-bar__fill" style="width:55%;background:var(--amber);"></div></div></div>
+      <div style="margin-bottom:12px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span class="text-sm">GS Paper 4</span><span class="text-sm font-bold">6.0/15</span></div><div class="progress-bar"><div class="progress-bar__fill" style="width:60%;background:var(--amber);"></div></div></div>
+      <div><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span class="text-sm">Essay</span><span class="text-sm font-bold">79/125</span></div><div class="progress-bar"><div class="progress-bar__fill" style="width:63%;background:var(--amber);"></div></div></div>
+    </div>
+  </div>
+
+  <!-- LEADERBOARD -->
+  <div class="page" id="page-leaderboard">
+    <div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
+        <div><div style="font-family:var(--font-mono);font-size:10px;color:var(--text-dim);" data-en="RANKINGS" data-hi="रैंकिंग">रैंकिंग</div><div style="font-size:18px;font-weight:700;display:flex;align-items:center;gap:8px;"><span style="width:24px;height:24px;background:var(--amber);border-radius:5px;display:flex;align-items:center;justify-content:center;"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="white" stroke-width="2"><path d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"/></svg></span><span data-en="Leaderboard" data-hi="लीडरबोर्ड">लीडरबोर्ड</span></div></div>
+        <span class="tag tag--live" data-en="LIVE" data-hi="LIVE">LIVE</span>
+      </div>
+      <p style="font-size:12px;color:var(--text-dim);margin-bottom:14px;" data-en="Top performers ranked by average evaluation score across all submissions." data-hi="सभी प्रस्तुतियों में औसत मूल्यांकन अंक द्वारा शीर्ष प्रदर्शक।">सभी प्रस्तुतियों में औसत मूल्यांकन अंक द्वारा शीर्ष प्रदर्शक।</p>
+      <div style="display:flex;gap:4px;margin-bottom:14px;">
+        <button class="btn btn--secondary btn--sm" data-en="Weekly" data-hi="साप्ताहिक">साप्ताहिक</button>
+        <button class="btn btn--primary btn--sm" data-en="Monthly" data-hi="मासिक">मासिक</button>
+        <button class="btn btn--secondary btn--sm" data-en="All Time" data-hi="सर्वकालिक">सर्वकालिक</button>
+      </div>
+      <table class="data-table"><thead><tr><th>Rank</th><th data-en="Name" data-hi="नाम">नाम</th><th data-en="Avg Score" data-hi="औसत अंक">औसत अंक</th><th data-en="Answers" data-hi="उत्तर">उत्तर</th></tr></thead><tbody>
+        <tr><td>1</td><td>Priya Sharma</td><td>9.8/15</td><td>124</td></tr>
+        <tr><td>2</td><td>Rahul Verma</td><td>9.5/15</td><td>98</td></tr>
+        <tr><td>3</td><td>Anjali Singh</td><td>9.2/15</td><td>87</td></tr>
+        <tr><td>4</td><td>Vikram Patel</td><td>8.9/15</td><td>76</td></tr>
+        <tr><td>5</td><td>Sneha Reddy</td><td>8.7/15</td><td>65</td></tr>
+        <tr style="background:var(--accent-light);"><td><strong>142</strong></td><td><strong>You</strong></td><td><strong>6.2/15</strong></td><td><strong>47</strong></td></tr>
+      </tbody></table>
+    </div>
+  </div>
+
+</main>
+</div>
+
+<script>
+let currentLang='hi';let mcqIndex=0;let mcqCorrect=0;let mcqWrong=0;let mcqSelected={};let evalMarks=10;
+
+// Dashboard tools
+const tools=[
+  {page:'answer-evaluator',icon:'M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z',color:'accent',badge:'AI',badgeColor:'blue',title_hi:'उत्तर मूल्यांकक',title_en:'Answer Evaluator',desc_hi:'हस्तलिखित उत्तर का एआई मूल्यांकन — अनुभागीय अंक, कीवर्ड, आदर्श उत्तर।',desc_en:'AI-powered answer evaluation with sectional scores, keywords, model answers.'},
+  {page:'essay-evaluator',icon:'M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5',color:'purple',badge:'AI',badgeColor:'purple',title_hi:'निबंध मूल्यांकक',title_en:'Essay Evaluator',desc_hi:'6 मानदंडों पर पूर्ण निबंध मूल्यांकन।',desc_en:'Full essay evaluation on 6 parameters.'},
+  {page:'mcq-practice',icon:'M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2',color:'green',badge:'Practice',badgeColor:'green',title_hi:'बहुविकल्पीय अभ्यास',title_en:'MCQ Practice',desc_hi:'प्रारंभिक + मुख्य, कथन-आधारित प्रश्न, व्याख्या के साथ।',desc_en:'Prelims + Mains, statement-based questions with explanations.'},
+  {page:'daily-writing',icon:'M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z',color:'amber',badge:'Daily',badgeColor:'amber',title_hi:'दैनिक उत्तर लेखन',title_en:'Daily Answer Writing',desc_hi:'रोज़ नया प्रश्न, समय-बद्ध अभ्यास।',desc_en:'New question daily, timed practice.'},
+  {page:'pyq',icon:'M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5',color:'gold',badge:'2011-26',badgeColor:'gold',title_hi:'पिछले वर्ष प्रश्न',title_en:'Previous Year Questions',desc_hi:'2011-2026 — प्रारंभिक + मुख्य + हिंदी साहित्य — आदर्श उत्तरों के साथ।',desc_en:'2011-2026 — Prelims + Mains + Hindi Lit — with model answers.'},
+  {page:'ai-mentor',icon:'M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5',color:'accent',badge:'AI',badgeColor:'blue',title_hi:'एआई मेंटर',title_en:'AI Mentor',desc_hi:'अध्ययन रणनीति, वैकल्पिक चयन, उत्तर सुधार पर मार्गदर्शन।',desc_en:'Guidance on strategy, optional selection, answer improvement.'},
+  {page:'current-affairs',icon:'M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10',color:'green',badge:'Daily Update',badgeColor:'green',title_hi:'समसामयिक घटनाक्रम',title_en:'Current Affairs',desc_hi:'विस्तृत विश्लेषण, विषय-वार, पाठ्यक्रम मानचित्रण, दैनिक अपडेट।',desc_en:'Detailed analysis, subject-wise, syllabus mapping, daily updates.'},
+  {page:'case-study-gen',icon:'M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477',color:'purple',badge:'AI',badgeColor:'purple',title_hi:'केस स्टडी जनरेटर',title_en:'Case Study Generator',desc_hi:'किसी भी विषय पर GS-4 नैतिकता केस स्टडी।',desc_en:'GS-4 ethics case studies on any theme.'},
+  {page:'case-study-finder',icon:'M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z',color:'accent',badge:'Search',badgeColor:'blue',title_hi:'केस स्टडी खोज',title_en:'Case Study Finder',desc_hi:'UPSC PYQ, ARC रिपोर्ट, वर्तमान घटनाओं से केस स्टडी।',desc_en:'Case studies from UPSC PYQ, ARC reports, current events.'},
+  {page:'test-series',icon:'M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2',color:'gold',badge:'Full Mock',badgeColor:'gold',title_hi:'पूर्ण पेपर टेस्ट सीरीज़',title_en:'Full Paper Test Series',desc_hi:'GS 1-4, निबंध, वैकल्पिक — समय-बद्ध मॉक।',desc_en:'GS 1-4, Essay, Optional — timed mocks.'},
+];
+
+function renderDashboard(){const c=document.getElementById('dashboard-tools');c.innerHTML=tools.map((t,i)=>{const colorMap={accent:'var(--accent-light);stroke:var(--accent)',purple:'var(--purple-dim);stroke:var(--purple)',green:'var(--green-dim);stroke:var(--green)',amber:'var(--amber-dim);stroke:var(--amber)',gold:'var(--gold-dim);stroke:var(--gold)'};const badgeMap={blue:'tag--blue',purple:'tag--purple',green:'tag--green',amber:'tag--amber',gold:'tag--gold'};return `<div class="feature-card" onclick="navigateTo('${t.page}')" style="--i:${i}"><span class="tag ${badgeMap[t.badgeColor]} feature-card__badge">${t.badge}</span><div class="feature-card__icon" style="background:${colorMap[t.color]}"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" style="stroke:${colorMap[t.color].split(';')[1].replace('stroke:','')}"><path d="${t.icon}"/></svg></div><div class="feature-card__title" data-en="${t.title_en}" data-hi="${t.title_hi}">${currentLang==='hi'?t.title_hi:t.title_en}</div><div class="feature-card__desc" data-en="${t.desc_en}" data-hi="${t.desc_hi}">${currentLang==='hi'?t.desc_hi:t.desc_en}</div></div>`}).join('');}
+
+// Navigation
+function navigateTo(pageId){
+  document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
+  document.getElementById('page-'+pageId).classList.add('active');
+  document.querySelectorAll('.nav-item').forEach(n=>n.classList.remove('active'));
+  document.querySelector(`.nav-item[data-page="${pageId}"]`)?.classList.add('active');
+  const titles={'dashboard':{hi:'डैशबोर्ड',en:'Dashboard',sub_hi:'आपकी UPSC तैयारी का संपूर्ण अवलोकन',sub_en:'Complete overview of your UPSC preparation'},'answer-evaluator':{hi:'उत्तर मूल्यांकक',en:'Answer Evaluator',sub_hi:'एआई द्वारा आपके उत्तरों का मूल्यांकन',sub_en:'AI-powered evaluation of your answers'},'essay-evaluator':{hi:'निबंध मूल्यांकक',en:'Essay Evaluator',sub_hi:'UPSC-शैली में निबंध मूल्यांकन',sub_en:'UPSC-style essay evaluation'},'mcq-practice':{hi:'बहुविकल्पीय अभ्यास',en:'MCQ Practice',sub_hi:'प्रारंभिक परीक्षा अभ्यास',sub_en:'Prelims practice questions'},'daily-writing':{hi:'दैनिक उत्तर लेखन',en:'Daily Answer Writing',sub_hi:'आज का प्रश्न',sub_en:'Today\'s question'},'pyq':{hi:'पिछले वर्ष प्रश्न',en:'Previous Year Questions',sub_hi:'2011-2026 तक का संपूर्ण PYQ बैंक',sub_en:'Complete PYQ bank from 2011-2026'},'ai-mentor':{hi:'एआई मेंटर',en:'AI Mentor',sub_hi:'व्यक्तिगत मार्गदर्शन',sub_en:'Personalized guidance'},'current-affairs':{hi:'समसामयिक घटनाक्रम',en:'Current Affairs',sub_hi:'दैनिक अद्यतन विस्तृत लेख',sub_en:'Daily updated detailed articles'},'case-study-gen':{hi:'केस स्टडी जनरेटर',en:'Case Study Generator',sub_hi:'GS-4 नैतिकता केस स्टडी',sub_en:'GS-4 ethics case studies'},'case-study-finder':{hi:'केस स्टडी खोज',en:'Case Study Finder',sub_hi:'वास्तविक केस स्टडी लाइब्रेरी',sub_en:'Real-world case study library'},'test-series':{hi:'पूर्ण पेपर टेस्ट सीरीज़',en:'Full Paper Test Series',sub_hi:'संपूर्ण UPSC परीक्षा सिमुलेशन',sub_en:'Complete UPSC exam simulation'},'evaluated':{hi:'मूल्यांकित उत्तर',en:'Evaluated Answers',sub_hi:'आपके पिछले मूल्यांकन',sub_en:'Your past evaluations'},'progress':{hi:'प्रगति ट्रैकर',en:'Progress Tracker',sub_hi:'आपकी तैयारी की प्रगति',sub_en:'Your preparation progress'},'leaderboard':{hi:'लीडरबोर्ड',en:'Leaderboard',sub_hi:'शीर्ष प्रदर्शक',sub_en:'Top performers'}};
+  const t=titles[pageId];if(t){document.getElementById('page-title').textContent=currentLang==='hi'?t.hi:t.en;document.getElementById('page-subtitle').textContent=currentLang==='hi'?t.sub_hi:t.sub_en;}
+  if(pageId==='dashboard')renderDashboard();if(pageId==='mcq-practice')renderMCQ();if(pageId==='current-affairs')renderCA('all');if(pageId==='case-study-finder')renderCaseStudyLibrary();if(pageId==='test-series')renderTestSeries();if(pageId==='pyq')loadPYQ();
+  document.getElementById('sidebar').classList.remove('open');window.scrollTo(0,0);
+}
+
+// Language
+function setLang(lang){currentLang=lang;document.body.classList.toggle('lang-hi',lang==='hi');document.querySelectorAll('.lang-btn').forEach(b=>b.classList.toggle('active',b.dataset.lang===lang));document.querySelectorAll('[data-en]').forEach(el=>{const t=lang==='hi'?el.dataset.hi:el.dataset.en;if(t)el.textContent=t;});document.querySelectorAll('[data-en-placeholder]').forEach(el=>{const p=lang==='hi'?el.dataset.hiPlaceholder:el.dataset.enPlaceholder;if(p)el.placeholder=p;});if(document.getElementById('page-mcq-practice').classList.contains('active'))renderMCQ();if(document.getElementById('page-current-affairs').classList.contains('active')){const at=document.querySelector('#ca-tabs .tab.active');renderCA(at?at.dataset.caCat:'all');}if(document.getElementById('page-pyq').classList.contains('active'))loadPYQ();if(document.getElementById('page-case-study-finder').classList.contains('active'))renderCaseStudyLibrary();if(document.getElementById('page-dashboard').classList.contains('active'))renderDashboard();}
+
+// Answer Evaluator
+function selectMarks(m){evalMarks=m;document.getElementById('marks-10').className='btn btn--secondary btn--sm';document.getElementById('marks-15').className='btn btn--secondary btn--sm';document.getElementById('marks-'+m).className='btn btn--primary btn--sm';document.getElementById('marks-'+m).style.flex='1';document.getElementById('marks-'+(m===10?15:10)).style.flex='1';}
+
+const evalSteps=[
+  {label_en:'Reading your answer',label_hi:'आपका उत्तर पढ़ा जा रहा है',sub_en:'Scanning each page for handwriting and content',sub_hi:'हस्तलेखन और सामग्री के लिए प्रत्येक पृष्ठ स्कैन कर रहा है'},
+  {label_en:'Analyzing content quality',label_hi:'सामग्री की गुणवत्ता का विश्लेषण',sub_en:'Checking depth, accuracy, and relevance',sub_hi:'गहराई, सटीकता और प्रासंगिकता की जाँच'},
+  {label_en:'Evaluating structure',label_hi:'संरचना का मूल्यांकन',sub_en:'Reviewing introduction, body, and conclusion flow',sub_hi:'परिचय, मुख्य भाग और निष्कर्ष प्रवाह की समीक्षा'},
+  {label_en:'Scoring against criteria',label_hi:'मानदंडों के विरुद्ध अंकन',sub_en:'Comparing with UPSC evaluation rubric',sub_hi:'UPSC मूल्यांकन रूब्रिक से तुलना'},
+  {label_en:'Writing detailed feedback',label_hi:'विस्तृत प्रतिक्रिया लिख रहा है',sub_en:'Generating sectional analysis and suggestions',sub_hi:'अनुभागीय विश्लेषण और सुझाव तैयार कर रहा है'},
+  {label_en:'Finalizing your report',label_hi:'आपकी रिपोर्ट तैयार कर रहा है',sub_en:'Compiling scores and recommendations',sub_hi:'अंक और सिफारिशें संकलित कर रहा है'},
+];
+let evalInterval=null;
+function startEvaluation(){
+  document.getElementById('eval-upload-screen').classList.add('hidden');
+  document.getElementById('eval-anim-screen').classList.remove('hidden');
+  const stepsContainer=document.getElementById('eval-steps');
+  stepsContainer.innerHTML=evalSteps.map((s,i)=>`<div class="eval-step eval-step--pending" id="eval-step-${i}"><div class="eval-step__icon">${i+1}</div><div><div class="eval-step__label">${currentLang==='hi'?s.label_hi:s.label_en}</div>${i===0?`<div class="eval-step__sub">${currentLang==='hi'?s.sub_hi:s.sub_en}</div>`:''}</div></div>`).join('');
+  let currentStep=0;let progress=0;
+  evalInterval=setInterval(()=>{
+    progress+=2+Math.random()*4;
+    if(progress>100)progress=100;
+    document.getElementById('eval-pct').textContent=Math.round(progress)+'%';
+    const offset=226-(226*progress/100);
+    document.getElementById('eval-progress-ring').style.strokeDashoffset=offset;
+    document.getElementById('eval-progress-bar').style.width=progress+'%';
+    const stepIdx=Math.floor(progress/16.67);
+    for(let i=0;i<evalSteps.length;i++){
+      const el=document.getElementById('eval-step-'+i);
+      el.className='eval-step '+(i<stepIdx?'eval-step--done':i===stepIdx?'eval-step--active':'eval-step--pending');
+      if(i<stepIdx)el.querySelector('.eval-step__icon').innerHTML='✓';
+      else if(i===stepIdx)el.querySelector('.eval-step__icon').innerHTML='⟳';
+      else el.querySelector('.eval-step__icon').innerHTML=i+1;
+    }
+    if(progress>=100){clearInterval(evalInterval);setTimeout(()=>{document.getElementById('eval-anim-screen').classList.add('hidden');document.getElementById('eval-result-screen').classList.remove('hidden');},500);}
+  },200);
+}
+function cancelEval(){clearInterval(evalInterval);resetEval();}
+function resetEval(){document.getElementById('eval-upload-screen').classList.remove('hidden');document.getElementById('eval-anim-screen').classList.add('hidden');document.getElementById('eval-result-screen').classList.add('hidden');}
+
+// MCQ Data
+const mcqData=[
+  {q_hi:'भारत में वित्तीय संस्थानों और ऋण मंडलों के बारे में निम्नलिखित कथनों पर विचार करें:<br><br>1. भारतीय लघु उद्योग विकास बैंक (SIDBI) सूक्ष्म, लघु और मध्यम उद्यम (MSME) क्षेत्र को बढ़ावा देने के लिए प्रमुख वित्तीय संस्थान है।<br>2. Regional Rural Banks (RRBs) का स्वामित्व पूरी तरह से भारत सरकार के पास है।<br>3. RBI द्वारा प्रस्तुत Co-Lending Model (CLM) प्राथमिकता क्षेत्र के उधारकर्ताओं के लिए बैंकों और NBFCs द्वारा संयुक्त ऋण उत्पत्ति की सुविधा प्रदान करता है।<br><br>ऊपर दिए गए कथनों में से कौन सा/से सही है/हैं?',q_en:'Consider the following statements about financial institutions in India:<br><br>1. SIDBI is the principal financial institution for promotion of MSME sector.<br>2. RRBs are fully owned by the Government of India.<br>3. RBI\'s Co-Lending Model (CLM) enables joint loan origination by banks and NBFCs for priority sector borrowers.<br><br>Which of the above statements is/are correct?',opts_hi:['केवल 1','केवल 1 और 3','केवल 2 और 3','1, 2 और 3'],opts_en:['1 only','1 and 3 only','2 and 3 only','1, 2 and 3'],correct:1,difficulty:'Medium',explain_hi:'कथन 1 और 3 सही हैं। कथन 2 गलत है क्योंकि RRBs का संयुक्त स्वामित्व होता है — केंद्र सरकार (50%), राज्य सरकार (15%), और प्रायोजक बैंक (35%)।',explain_en:'Statements 1 and 3 are correct. Statement 2 is wrong because RRBs are jointly owned — Central Govt (50%), State Govt (15%), and Sponsor Bank (35%).'},
+  {q_hi:'भारतीय संविधान का कौन-सा अनुच्छेद राष्ट्रपति के पद का प्रावधान करता है?',q_en:'Which article of the Indian Constitution provides for the office of the President?',opts_hi:['अनुच्छेद 52','अनुच्छेद 54','अनुच्छेद 56','अनुच्छेद 61'],opts_en:['Article 52','Article 54','Article 56','Article 61'],correct:0,difficulty:'Easy',explain_hi:'अनुच्छेद 52 भारत के राष्ट्रपति के पद का प्रावधान करता है।',explain_en:'Article 52 provides for the office of the President of India.'},
+  {q_hi:'निम्नलिखित में से किसे "संविधान का अभिभावक" कहा जाता है?',q_en:'Who is called the "Guardian of the Constitution"?',opts_hi:['प्रधानमंत्री','राष्ट्रपति','सुप्रीम कोर्ट','संसद'],opts_en:['Prime Minister','President','Supreme Court','Parliament'],correct:2,difficulty:'Easy',explain_hi:'सुप्रीम कोर्ट को संविधान का अभिभावक और अंतिम व्याख्याता कहा जाता है।',explain_en:'The Supreme Court is called the guardian and final interpreter of the Constitution.'},
+  {q_hi:'पेरिस समझौता किस वर्ष हस्ताक्षरित हुआ?',q_en:'In which year was the Paris Agreement signed?',opts_hi:['2014','2015','2016','2017'],opts_en:['2014','2015','2016','2017'],correct:1,difficulty:'Easy',explain_hi:'पेरिस समझौता दिसंबर 2015 में COP21 में हस्ताक्षरित हुआ।',explain_en:'The Paris Agreement was signed in December 2015 at COP21.'},
+  {q_hi:'ISRO का गगनयान मिशन किस उद्देश्य से है?',q_en:'What is ISRO\'s Gaganyaan mission aimed at?',opts_hi:['चंद्रयान','मंगलयान','मानव अंतरिक्ष उड़ान','सूर्ययान'],opts_en:['Chandrayaan','Mangalyaan','Human spaceflight','Aditya'],correct:2,difficulty:'Medium',explain_hi:'गगनयान भारत का पहला मानव अंतरिक्ष उड़ान मिशन है।',explain_en:'Gaganyaan is India\'s first human spaceflight mission.'},
+];
+function renderMCQ(){const q=mcqData[mcqIndex];if(!q)return;const opts=currentLang==='hi'?q.opts_hi:q.opts_en;const qText=currentLang==='hi'?q.q_hi:q.q_en;document.getElementById('mcq-current').textContent=mcqIndex+1;document.getElementById('mcq-total').textContent=mcqData.length;const sel=mcqSelected[mcqIndex];const answered=sel!==undefined;let html=`<div class="card" style="position:relative;"><span class="tag tag--amber" style="position:absolute;top:12px;right:12px;">${q.difficulty}</span><div style="display:flex;gap:8px;margin-bottom:10px;"><span style="width:24px;height:24px;background:var(--accent);color:white;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;flex-shrink:0;">${mcqIndex+1}</span></div><div style="font-size:13px;line-height:1.7;color:var(--text);margin-bottom:12px;">${qText}</div>`;opts.forEach((opt,i)=>{let cls='mcq-option';if(answered){if(i===q.correct)cls+=' correct';else if(i===sel)cls+=' wrong';}else if(i===sel)cls+=' selected';html+=`<div class="${cls}" onclick="selectMCQ(${i})"><div class="mcq-option__letter">${String.fromCharCode(65+i)}</div><div>${opt}</div></div>`;});if(answered){const ex=currentLang==='hi'?q.explain_hi:q.explain_en;html+=`<div class="model-answer mt-8"><div class="model-answer__title">${currentLang==='hi'?'व्याख्या':'Explanation'}</div><div class="model-answer__body">${ex}</div></div>`;}html+='</div>';document.getElementById('mcq-container').innerHTML=html;document.getElementById('mcq-prev').style.visibility=mcqIndex===0?'hidden':'visible';document.getElementById('mcq-next').style.visibility=mcqIndex===mcqData.length-1?'hidden':'visible';}
+function selectMCQ(i){if(mcqSelected[mcqIndex]!==undefined)return;mcqSelected[mcqIndex]=i;if(i===mcqData[mcqIndex].correct)mcqCorrect++;else mcqWrong++;document.getElementById('mcq-correct-tag').textContent=`${currentLang==='hi'?'सही':'Correct'}: ${mcqCorrect}`;document.getElementById('mcq-wrong-tag').textContent=`${currentLang==='hi'?'गलत':'Wrong'}: ${mcqWrong}`;renderMCQ();}
+function nextMCQ(){if(mcqIndex<mcqData.length-1){mcqIndex++;renderMCQ();}}
+function prevMCQ(){if(mcqIndex>0){mcqIndex--;renderMCQ();}}
+function saveMCQ(){alert(currentLang==='hi'?'प्रश्न सहेजा गया!':'Question saved!');}
+
+// Current Affairs Data
+const caData=[
+  {date:'29 Aug 2026',cat:'polity',source:'The Hindu / PIB',importance:'High',gsPapers:['GS-2','GS-3'],subjects:['Polity','Economy'],title_hi:'संसद ने डिजिटल व्यक्तिगत डेटा संरक्षण (संशोधन) विधेयक 2026 पारित किया',title_en:'Parliament Passes Digital Personal Data Protection (Amendment) Bill 2026',summary_hi:'संसद ने डिजिटल व्यक्तिगत डेटा संरक्षण (संशोधन) विधेयक 2026 पारित किया। इसमें डेटा फिड्यूशरी की जिम्मेदारियों को मजबूत किया गया है और बच्चों के डेटा की सुरक्षा के लिए कड़े प्रावधान शामिल हैं। विधेयक डेटा उल्लंघन पर ₹250 करोड़ तक के जुर्माने का प्रावधान करता है।',summary_en:'Parliament passed the Digital Personal Data Protection (Amendment) Bill 2026. It strengthens data fiduciary responsibilities and includes stringent provisions for children\'s data protection. The bill provides for penalties up to ₹250 crore for data breaches.',prelims:true,mains:true,syllabus:['GS-2: Government policies and interventions for development in various sectors','GS-3: Awareness in the field of IT and cyber security'],analysis_hi:'संदर्भ: संसद ने डिजिटल व्यक्तिगत डेटा संरक्षण (संशोधन) विधेयक 2026 पारित किया। यह विधेयक 2023 के मूल अधिनियम को संशोधित करता है।\n\nप्रमुख बिंदु:\n• डेटा फिड्यूशरी की जिम्मेदारियों में वृद्धि\n• बच्चों (18 वर्ष से कम) के डेटा के लिए विशेष सुरक्षा\n• डेटा उल्लंघन पर ₹250 करोड़ तक का जुर्माना\n• डेटा संरक्षण बोर्ड की स्थापना\n• अनुच्छेद 21 के तहत गोपनीयता अधिकार का सुदृढ़ीकरण',analysis_en:'Reference: Parliament passed the Digital Personal Data Protection (Amendment) Bill 2026. This amends the 2023 Act.\n\nKey Points:\n• Enhanced data fiduciary responsibilities\n• Special protection for children\'s data (under 18)\n• Penalties up to ₹250 crore for data breaches\n• Establishment of Data Protection Board\n• Strengthening of privacy right under Article 21'},
+  {date:'28 Aug 2026',cat:'economy',source:'smestreet',importance:'High',gsPapers:['GS-3','GS-2'],subjects:['Economy','Polity'],title_hi:'SIDBI-RRB सह-ऋण मॉडल: ग्रामीण क्षेत्रों में MSME ऋण पहुंच बढ़ाना',title_en:'SIDBI-RRB Co-Lending Model: Enhancing MSME Credit in Rural Areas',summary_hi:'भारतीय लघु उद्योग विकास बैंक (SIDBI) ग्रामीण और अर्ध-शहरी क्षेत्रों में सूक्ष्म, लघु और मध्यम उद्यमों (MSMEs) की ऋण प्रवाह बढ़ाने के लिए 28 Regional Rural Banks (RRBs) के साथ अपनी सह-ऋण व्यवस्था का विस्तार कर रहा है। यह पहल SIDBI की MSME वित्तपोषण विशेषताओं और RRBs की व्यापक ग्रामीण पहुंच का लाभ उठाती है, ऋण प्रसंस्करण में तेजी लाने के लिए एक डिजिटल प्लेटफॉर्म का उपयोग करती है।',summary_en:'SIDBI is expanding its co-lending arrangement with 28 Regional Rural Banks (RRBs) to enhance credit flow to MSMEs in rural and semi-urban areas. This initiative leverages SIDBI\'s MSME financing expertise and RRBs\' extensive rural reach, using a digital platform for faster loan processing.',prelims:true,mains:true,syllabus:['GS-3: Indian Economy and issues relating to planning, mobilization of resources, growth, development and employment','GS-2: Government policies and interventions for development in various sectors','GS-3: Inclusive growth and issues arising from it'],analysis_hi:'संदर्भ: SIDBI ने, DFS और NABARD के सहयोग से, मौजूदा SIDBI-RRB MSME सह-ऋण व्यवस्था का विस्तार करने के लिए 28 RRBs के साथ एक सम्मेलन आयोजित किया।\n\nप्रमुख बिंदु:\n• सह-ऋण मॉडल: SIDBI 80% और RRB 20% ऋण का वित्तपोषण\n• डिजिटल प्लेटफॉर्म से ऋण प्रसंस्करण में तेजी\n• ग्रामीण MSMEs तक औपचारिक ऋण पहुंच में वृद्धि\n• RRB पोर्टफोलियो में विविधीकरण\n• वित्तीय समावेशन में सुधार',analysis_en:'Reference: SIDBI, in collaboration with DFS and NABARD, organized a conference with 28 RRBs to expand the existing SIDBI-RRB MSME co-lending arrangement.\n\nKey Points:\n• Co-lending model: SIDBI finances 80%, RRB 20% of the loan\n• Digital platform for faster loan processing\n• Enhanced formal credit access for rural MSMEs\n• Diversification of RRB portfolio\n• Improvement in financial inclusion'},
+  {date:'27 Aug 2026',cat:'ir',source:'PIB / MEA',importance:'High',gsPapers:['GS-2'],subjects:['International Relations'],title_hi:'भारत-अफ्रीका शिखर सम्मेलन 2026: रक्षा और कृषि में सहयोग पर सहमति',title_en:'India-Africa Summit 2026: Agreement on Defense and Agriculture Cooperation',summary_hi:'नई दिल्ली में आयोजित चौथे भारत-अफ्रीका शिखर सम्मेलन में 54 अफ्रीकी देशों के नेताओं ने भाग लिया। रक्षा सहयोग, खनिज सुरक्षा, कृषि प्रौद्योगिकी हस्तांतरण और डिजिटल ढांचे में निवेश पर समझौतों पर हस्ताक्षर हुए। भारत ने अफ्रीकी राष्ट्रों को $10 बिलियन का ऋण सहायता देने की घोषणा की।',summary_en:'The 4th India-Africa Summit held in New Delhi saw leaders from 54 African nations. Agreements were signed on defense cooperation, mineral security, agricultural technology transfer, and digital infrastructure investment. India announced $10 billion in credit assistance to African nations.',prelims:false,mains:true,syllabus:['GS-2: India and its neighborhood- relations','GS-2: Important International institutions, agencies and fora'],analysis_hi:'संदर्भ: भारत-अफ्रीका शिखर सम्मेलन भारत की अफ्रीका नीति का महत्वपूर्ण हिस्सा है।\n\nप्रमुख बिंदु:\n• रक्षा सहयोग समझौता\n• खनिज सुरक्षा भागीदारी\n• कृषि प्रौद्योगिकी हस्तांतरण\n• डिजिटल ढांचे में $10 बिलियन निवेश\n• चीन की बेल्ट एंड रोड पहल का विकल्प',analysis_en:'Reference: The India-Africa Summit is a crucial part of India\'s Africa policy.\n\nKey Points:\n• Defense cooperation agreement\n• Mineral security partnership\n• Agricultural technology transfer\n• $10 billion investment in digital infrastructure\n• Alternative to China\'s Belt and Road Initiative'},
+  {date:'26 Aug 2026',cat:'environment',source:'The Hindu',importance:'Medium',gsPapers:['GS-3','GS-2'],subjects:['Environment','Schemes'],title_hi:'भारत का पहला हरित हाइड्रोजन हब गुजरात में शुरू; 2030 तक 5 MTPA उत्पादन का लक्ष्य',title_en:'India\'s First Green Hydrogen Hub Launched in Gujarat',summary_hi:'राष्ट्रीय हरित हाइड्रोजन मिशन के तहत गुजरात के कच्छ में भारत का पहला हरित हाइड्रोजन हब शुरू किया गया। यह 2030 तक 5 मिलियन टन वार्षिक उत्पादन का लक्ष्य रखता है। परियोजना में ₹197,000 करोड़ का निवेश होगा और 600,000 नौकरियाँ पैदा करेगी।',summary_en:'Under the National Green Hydrogen Mission, India launched its first green hydrogen hub in Kutch, Gujarat. It targets 5 million tonnes annual production by 2030. The project will see an investment of ₹197,000 crore and generate 600,000 jobs.',prelims:true,mains:true,syllabus:['GS-3: Conservation, environmental pollution and degradation','GS-3: Infrastructure: Energy','GS-2: Government policies and interventions'],analysis_hi:'संदर्भ: राष्ट्रीय हरित हाइड्रोजन मिशन 2023 में स्वीकृत किया गया था।\n\nप्रमुख बिंदु:\n• 2030 तक 5 MTPA हरित हाइड्रोजन उत्पादन लक्ष्य\n• ₹197,000 करोड़ का कुल निवेश\n• 600,000 नौकरियों का सृजन\n• कार्बन उत्सर्जन में 50 MMT की कमी\n• स्वच्छ ऊर्जा संक्रमण में मील का पत्थर',analysis_en:'Reference: The National Green Hydrogen Mission was approved in 2023.\n\nKey Points:\n• 5 MTPA green hydrogen production target by 2030\n• Total investment of ₹197,000 crore\n• Creation of 600,000 jobs\n• 50 MMT reduction in carbon emissions\n• Milestone in clean energy transition'},
+  {date:'25 Aug 2026',cat:'schemes',source:'PIB',importance:'Medium',gsPapers:['GS-2','GS-3'],subjects:['Schemes','Economy'],title_hi:'PM-Surya Ghar: 1 करोड़ छत सौर स्थापनाएँ पूरी; 500 GW अक्षय ऊर्जा लक्ष्य की दिशा में मील का पत्थर',title_en:'PM-Surya Ghar: 10 Million Rooftop Solar Installations Completed',summary_hi:'प्रधानमंत्री सूर्य घर मुफ्त बिजली योजना के तहत 1 करोड़ घरों में छत पर सौर पैनल स्थापित किए जा चुके हैं। यह योजना घरेलू बिजली खपत में 40% की कमी लाई है।',summary_en:'Under the PM-Surya Ghar Muft Bijli Yojana, rooftop solar panels have been installed in 10 million homes. The scheme reduced domestic electricity consumption by 40%.',prelims:true,mains:true,syllabus:['GS-2: Welfare schemes for vulnerable sections','GS-3: Infrastructure: Energy'],analysis_hi:'संदर्भ: PM-Surya Ghar योजना 2024 में शुरू की गई थी।\n\nप्रमुख बिंदु:\n• 1 करोड़ घरों में छत सौर स्थापना\n• घरेलू बिजली खपत में 40% कमी\n• 300 यूनिट मुफ्त बिजली प्रति माह\n• ₹75,000 करोड़ का कुल निवेश\n• वितरित ऊर्जा उत्पादन को बढ़ावा',analysis_en:'Reference: PM-Surya Ghar scheme was launched in 2024.\n\nKey Points:\n• 10 million rooftop solar installations\n• 40% reduction in domestic electricity consumption\n• 300 units free electricity per month\n• Total investment of ₹75,000 crore\n• Promotion of distributed energy generation'},
+  {date:'24 Aug 2026',cat:'scitech',source:'ISRO',importance:'High',gsPapers:['GS-3','GS-1'],subjects:['Science & Tech','Geography'],title_hi:'चंद्रयान-4 ने चंद्रमा के दक्षिण ध्रुव से नमूना एकत्र किया; लौटने की यात्रा शुरू',title_en:'Chandrayaan-4 Collects Sample from Lunar South Pole',summary_hi:'ISRO के चंद्रयान-4 मिशन ने चंद्रमा के दक्षिण ध्रुव क्षेत्र से सफलतापूर्वक नमूना एकत्र किया है और वापसी यात्रा शुरू कर दी है। यह भारत का पहला नमूना वापसी मिशन है।',summary_en:'ISRO\'s Chandrayaan-4 mission successfully collected a sample from the lunar south polar region and began its return journey. This is India\'s first sample return mission.',prelims:true,mains:true,syllabus:['GS-3: Science and Technology- developments and their applications','GS-1: Geographical features'],analysis_hi:'संदर्भ: चंद्रयान-4 ISRO का चौथा चंद्र मिशन है।\n\nप्रमुख बिंदु:\n• भारत का पहला नमूना वापसी मिशन\n• दक्षिण ध्रुव से जल बर्फ के अवशेष की उम्मीद\n• चंद्रमा पर मानव अंतरिक्ष उड़ान के लिए आधार तैयार करना\n• अंतरराष्ट्रीय अंतरिक्ष अनुसंधान में भारत की बढ़ती भूमिका',analysis_en:'Reference: Chandrayaan-4 is ISRO\'s fourth lunar mission.\n\nKey Points:\n• India\'s first sample return mission\n• Expected water ice residues from south pole\n• Paving the way for human spaceflight to the Moon\n• India\'s growing role in international space research'},
+  {date:'23 Aug 2026',cat:'security',source:'Indian Express',importance:'Medium',gsPapers:['GS-3'],subjects:['Security'],title_hi:'साइबर सुरक्षा रणनीति 2026: राष्ट्रीय महत्वपूर्ण सूचना ढांचे को सुरक्षित करने के लिए नई दिशानिर्देश',title_en:'Cyber Security Strategy 2026: New Guidelines for Securing National Critical Information Infrastructure',summary_hi:'केंद्र सरकार ने राष्ट्रीय महत्वपूर्ण सूचना ढांचे (CII) को सुरक्षित करने के लिए नई साइबर सुरक्षा रणनीति 2026 जारी की। इसमें AI-आधारित खतरे का पता लगाना, शून्य-विश्वास वास्तुकला, और राज्य-स्तरीय साइबर प्रतिक्रिया केंद्र शामिल हैं।',summary_en:'The Government released the new Cyber Security Strategy 2026 to secure Critical Information Infrastructure (CII). It includes AI-based threat detection, zero-trust architecture, and state-level cyber response centers.',prelims:false,mains:true,syllabus:['GS-3: Basics of cyber security','GS-3: Role of external state and non-state actors in creating challenges to internal security'],analysis_hi:'संदर्भ: साइबर सुरक्षा रणनीति 2026 राष्ट्रीय साइबर सुरक्षा नीति 2013 को प्रतिस्थापित करती है।\n\nप्रमुख बिंदु:\n• AI-आधारित खतरा पहचान प्रणाली\n• शून्य-विश्वास वास्तुकला (Zero-Trust Architecture)\n• राज्य-स्तरीय साइबर प्रतिक्रिया केंद्र\n• CERT-In की भूमिका का विस्तार\n• निजी क्षेत्र के लिए अनिवार्य साइबर ऑडिट',analysis_en:'Reference: Cyber Security Strategy 2026 replaces the National Cyber Security Policy 2013.\n\nKey Points:\n• AI-based threat detection system\n• Zero-Trust Architecture\n• State-level cyber response centers\n• Expanded role of CERT-In\n• Mandatory cyber audits for private sector'},
+  {date:'22 Aug 2026',cat:'social',source:'The Hindu',importance:'Medium',gsPapers:['GS-1','GS-2'],subjects:['Social Issues','Schemes'],title_hi:'राष्ट्रीय शिक्षा नीति 2020 का कार्यान्वयन: सभी राज्यों में 5+3+3+4 संरचना लागू',title_en:'NEP 2020 Implementation: 5+3+3+4 Structure Adopted in All States',summary_hi:'राष्ट्रीय शिक्षा नीति (NEP) 2020 की 5+3+3+4 शैक्षिक संरचना अब देश के सभी राज्यों और केंद्र शासित प्रदेशों में लागू हो चुकी है। 6 वर्ष की आयु से पूर्व-विद्यालय शिक्षा अनिवार्य है। बहु-भाषिक शिक्षा और कौशल-आधारित पाठ्यक्रम पर जोर दिया गया है।',summary_en:'The 5+3+3+4 academic structure of NEP 2020 has now been adopted in all states and UTs. Pre-school education from age 6 is mandatory. Emphasis on multilingual education and skill-based curriculum.',prelims:true,mains:true,syllabus:['GS-2: Issues relating to development and management of Social Sector/Services relating to Education','GS-1: Population and associated issues'],analysis_hi:'संदर्भ: NEP 2020 को 2020 में स्वीकृत किया गया था।\n\nप्रमुख बिंदु:\n• 5+3+3+4 संरचना: प्राथमिक (5), प्राथमिकोत्तर (3), माध्यमिक (3), उच्च माध्यमिक (4)\n• 3-6 वर्ष के बच्चों के लिए अंगनवाड़ी-आधारित शिक्षा\n• बोर्ड परीक्षाओं में कमी (केवल कक्षा 10 और 12)\n• मातृभाषा में शिक्षा का प्रावधान\n• कौशल विकास पर जोर',analysis_en:'Reference: NEP 2020 was approved in 2020.\n\nKey Points:\n• 5+3+3+4 structure: Foundational (5), Preparatory (3), Middle (3), Secondary (4)\n• Anganwadi-based education for children aged 3-6\n• Reduced board exams (only Class 10 and 12)\n• Provision for education in mother tongue\n• Emphasis on skill development'},
+];
+
+function renderCA(cat){
+  const articles=cat==='all'?caData:caData.filter(a=>a.cat===cat);
+  const container=document.getElementById('ca-container');
+  if(articles.length===0){container.innerHTML=`<div class="card"><p class="text-center text-dim" style="padding:40px;">${currentLang==='hi'?'इस श्रेणी में कोई लेख नहीं।':'No articles in this category.'}</p></div>`;return;}
+  container.innerHTML=articles.map(a=>{
+    const title=currentLang==='hi'?a.title_hi:a.title_en;
+    const summary=currentLang==='hi'?a.summary_hi:a.summary_en;
+    const analysis=currentLang==='hi'?a.analysis_hi:a.analysis_en;
+    const impColor=a.importance==='High'?'tag--pink':'tag--amber';
+    const catLabel={polity:currentLang==='hi'?'राजव्यवस्था':'Polity',economy:currentLang==='hi'?'अर्थव्यवस्था':'Economy',ir:currentLang==='hi'?'अंतर्राष्ट्रीय संबंध':'IR',environment:currentLang==='hi'?'पर्यावरण':'Environment',schemes:currentLang==='hi'?'योजनाएँ':'Schemes',scitech:currentLang==='hi'?'विज्ञान':'Sci-Tech',security:currentLang==='hi'?'सुरक्षा':'Security',social:currentLang==='hi'?'सामाजिक':'Social'}[a.cat]||a.cat;
+    return `<div class="card">
+      <div style="display:flex;align-items:center;gap:6px;margin-bottom:8px;flex-wrap:wrap;">
+        ${a.importance==='High'?`<span class="tag ${impColor}">🔥 ${currentLang==='hi'?'उच्च महत्व':'High Importance'}</span>`:`<span class="tag ${impColor}">${currentLang==='hi'?'मध्यम महत्व':'Medium Importance'}</span>`}
+        ${a.gsPapers.map(g=>`<span class="tag tag--grey">${g}</span>`).join('')}
+        ${a.subjects.map(s=>`<span class="tag tag--grey">${s}</span>`).join('')}
+        <span style="font-size:10px;color:var(--text-dim);margin-left:auto;">${a.date} · ${a.source}</span>
+      </div>
+      <h3 style="font-size:15px;font-weight:700;color:var(--text-bright);margin-bottom:8px;line-height:1.4;">${title}</h3>
+      <div style="background:var(--accent-tint);border-left:3px solid var(--accent);padding:12px 14px;border-radius:0 var(--radius-xs) var(--radius-xs) 0;margin-bottom:12px;font-size:13px;line-height:1.7;color:var(--text);">${summary}</div>
+      <div style="display:flex;gap:8px;margin-bottom:10px;flex-wrap:wrap;">
+        <span class="tag tag--blue">${a.prelims?'✓ ':''}${currentLang==='hi'?'प्रारंभिक प्रासंगिक':'Prelims Relevant'}</span>
+        <span class="tag tag--green">${a.mains?'✓ ':''}${currentLang==='hi'?'मुख्य प्रासंगिक':'Mains Relevant'}</span>
+      </div>
+      <div style="background:var(--surface-2);border:1px solid var(--border);border-radius:var(--radius-xs);padding:10px 12px;margin-bottom:12px;">
+        <div style="font-size:11px;font-weight:700;color:var(--text-dim);margin-bottom:6px;text-transform:uppercase;letter-spacing:1px;" data-en="Syllabus Mapping" data-hi="पाठ्यक्रम मानचित्रण">पाठ्यक्रम मानचित्रण</div>
+        <ul style="list-style:disc;padding-left:18px;margin:0;">${a.syllabus.map(s=>`<li style="font-size:12px;color:var(--text-dim);margin-bottom:3px;">${s}</li>`).join('')}</ul>
+      </div>
+      <div class="section-divider" style="margin:10px 0;"><span class="section-divider__line"></span><span class="section-divider__label" data-en="DETAILED ANALYSIS" data-hi="विस्तृत विश्लेषण">विस्तृत विश्लेषण</span><span class="section-divider__line"></span></div>
+      <div style="font-size:13px;line-height:1.8;color:var(--text);white-space:pre-line;">${analysis}</div>
+      <div style="display:flex;gap:6px;margin-top:12px;">
+        <button class="btn btn--secondary btn--sm"><span data-en="Save" data-hi="Save">Save</span></button>
+        <button class="btn btn--secondary btn--sm"><span data-en="Download PDF" data-hi="Download PDF">Download PDF</span></button>
+        <button class="btn btn--secondary btn--sm" onclick="toggleCALang(this,'${a.title_hi}','${a.title_en}','${a.summary_hi}','${a.summary_en}')">${currentLang==='hi'?'EN':'हिं'}</button>
+      </div>
+    </div>`;
+  }).join('');
+}
+function toggleCALang(btn,tHi,tEn,sHi,sEn){const card=btn.closest('.card');const titleEl=card.querySelector('h3');const summaryEl=card.querySelector('div[style*="accent-tint"]');const isHi=titleEl.textContent===tHi;titleEl.textContent=isHi?tEn:tHi;summaryEl.textContent=isHi?sEn:sHi;btn.textContent=isHi?'हिं':'EN';}
+
+// PYQ
+const pyqData={mains:{gs3:{'2011':[{q_hi:'भारत में खाद्य सुरक्षा व्यवस्था की समीक्षा करें। (250 शब्द)',q_en:'Review the food security system in India. (250 words)',marks:25}],'2013':[{q_hi:'भारतीय कृषि में फसल विविधीकरण की आवश्यकता और चुनौतियों का विश्लेषण करें। (200 शब्द)',q_en:'Analyze the need and challenges of crop diversification in Indian agriculture. (200 words)',marks:10}],'2026':[{q_hi:'भारत की हरित हाइड्रोजन मिशन और ऊर्जा सुरक्षा में इसकी भूमिका का मूल्यांकन करें। (250 शब्द)',q_en:'Evaluate India\'s Green Hydrogen Mission and its role in energy security. (250 words)',marks:15}]}},prelims:{gs1:{'2011':[{q_hi:'द्रव्यमान की खोज किसने की?',q_en:'Who discovered the electron?',opts_hi:['न्यूटन','जे.जे. थॉम्सन','रदरफोर्ड','बोर'],correct:1}],'2024':[{q_hi:'पेरिस समझौता किस वर्ष हस्ताक्षरित हुआ?',q_en:'Paris Agreement was signed in which year?',opts_hi:['2014','2015','2016','2017'],correct:1}]}},'hindi-lit':{paper1:{'2015':[{q_hi:'भारतेंदु युग की प्रमुख विशेषताओं का विवेचन करें। (250 शब्द)',q_en:'Discuss the main features of the Bharatendu era. (250 words)',marks:25}],'2026':[{q_hi:'प्रेमचंद की कहानी कला की विशेषताओं का विश्लेषण करें। (250 शब्द)',q_en:'Analyze the features of Premchand\'s storytelling art. (250 words)',marks:25}]}}};
+function loadPYQ(){const stage=document.getElementById('pyq-stage').value;const year=document.getElementById('pyq-year').value;const paper=document.getElementById('pyq-paper').value;let data;if(stage==='hindi-lit'){data=pyqData['hindi-lit']?.[paper==='gs1'?'paper1':'paper1']?.[year]||[];}else{data=pyqData[stage]?.[paper]?.[year]||[];}const container=document.getElementById('pyq-container');if(data.length===0){container.innerHTML=`<div class="card"><p class="text-center text-dim" style="padding:40px;">${currentLang==='hi'?'इस वर्ष/पेपर के लिए डेटा लोड हो रहा है...':'Data loading for this year/paper...'}</p></div>`;return;}
+container.innerHTML=data.map((item,idx)=>{const qText=currentLang==='hi'?item.q_hi:(item.q_en||item.q_hi);let html=`<div class="card"><div style="display:flex;gap:6px;margin-bottom:8px;flex-wrap:wrap;"><span class="tag tag--gold">${year}</span><span class="tag tag--blue">${stage.toUpperCase()} · ${paper.toUpperCase()}</span>${item.marks?`<span class="tag tag--green">${item.marks} ${currentLang==='hi'?'अंक':'Marks'}</span>`:''}</div><div style="font-size:14px;color:var(--text);margin-bottom:12px;line-height:1.7;">${qText}</div>`;if(item.opts_hi){item.opts_hi.forEach((opt,i)=>{const isCorrect=i===item.correct;html+=`<div class="mcq-option ${isCorrect?'correct':''}" style="cursor:default;"><div class="mcq-option__letter">${String.fromCharCode(65+i)}</div><div>${opt}</div></div>`;});}html+=`<div class="model-answer mt-8"><div class="model-answer__title">${currentLang==='hi'?'आदर्श उत्तर देखें':'View Model Answer'}</div><div class="model-answer__body"><p><strong>${currentLang==='hi'?'परिचय:':'Introduction:'}</strong> ${currentLang==='hi'?'प्रश्न के संदर्भ को स्थापित करते हुए प्रारंभ।':'Begin by establishing context.'}</p><p style="margin-top:6px;"><strong>${currentLang==='hi'?'मुख्य भाग:':'Body:'}</strong></p><ul style="list-style:disc;padding-left:20px;margin-top:4px;"><li>${currentLang==='hi'?'बिंदु 1: संदर्भ और पृष्ठभूमि':'Point 1: Context and background'}</li><li>${currentLang==='hi'?'बिंदु 2: मुख्य तर्क':'Point 2: Main argument'}</li><li>${currentLang==='hi'?'बिंदु 3: हाल का उदाहरण':'Point 3: Recent example'}</li></ul><p style="margin-top:6px;"><strong>${currentLang==='hi'?'निष्कर्ष:':'Conclusion:'}</strong> ${currentLang==='hi'?'भविष्योन्मुख कथन।':'Forward-looking statement.'}</p></div></div></div>`;return html;}).join('');}
+
+// Case Study Library
+const caseStudyLibrary=[{id:1,title_hi:'विस्थापन और विकास: नर्मदा बांध',title_en:'Displacement & Development: Narmada Dam',theme:'governance',year:'2013',source:'UPSC PYQ'},{id:2,title_hi:'भ्रष्टाचार: एक अधिकारी की दुविधा',title_en:'Corruption: A Bureaucrat\'s Dilemma',theme:'dilemma',year:'2014',source:'UPSC PYQ'},{id:3,title_hi:'महिला सशक्तिकरण: BBBP कार्यान्वयन',title_en:'Women Empowerment: BBBP Implementation',theme:'governance',year:'2016',source:'Second ARC'},{id:4,title_hi:'पर्यावरण बनाम विकास: POSCO विरोध',title_en:'Environment vs Development: POSCO Protest',theme:'dilemma',year:'2015',source:'Current Events'},{id:5,title_hi:'COVID-19 में एक DM की चुनौती',title_en:'A DM\'s Challenge During COVID-19',theme:'leadership',year:'2020',source:'Current Events'},{id:6,title_hi:'RTI: शिकायतकर्ता की सुरक्षा',title_en:'RTI: Whistleblower Protection',theme:'transparency',year:'2018',source:'UPSC PYQ'},{id:7,title_hi:'CSR: टाटा नानो परियोजना',title_en:'CSR: Tata Nano Project',theme:'corporate',year:'2017',source:'Case Study'},{id:8,title_hi:'दंगों में प्रशासक की भूमिका',title_en:'Administrator\'s Role in Communal Riots',theme:'ei',year:'2021',source:'UPSC PYQ'}];
+function renderCaseStudyLibrary(filter=''){let items=caseStudyLibrary;if(filter){const f=filter.toLowerCase();items=items.filter(cs=>cs.title_hi.toLowerCase().includes(f)||cs.title_en.toLowerCase().includes(f)||cs.theme.includes(f));}document.getElementById('cs-library').innerHTML=items.length===0?`<p class="text-center text-dim" style="padding:40px;">${currentLang==='hi'?'कोई केस स्टडी नहीं मिली।':'No case studies found.'}</p>`:items.map(cs=>{const title=currentLang==='hi'?cs.title_hi:cs.title_en;const themeLabel={governance:currentLang==='hi'?'शासन':'Governance',dilemma:currentLang==='hi'?'दुविधा':'Dilemma',ei:currentLang==='hi'?'भावनात्मक बुद्धि':'EI',transparency:currentLang==='hi'?'पारदर्शिता':'Transparency',leadership:currentLang==='hi'?'नेतृत्व':'Leadership',corporate:currentLang==='hi'?'कॉर्पोरेट':'Corporate'}[cs.theme]||cs.theme;return `<div class="feature-card" onclick="alert('${title}')"><span class="tag tag--purple feature-card__badge">${themeLabel}</span><div style="font-size:13px;font-weight:700;color:var(--text-bright);margin:6px 0 3px;">${title}</div><div class="text-xs text-dim">${cs.year} · ${cs.source}</div></div>`;}).join('');}
+function searchCaseStudies(){renderCaseStudyLibrary(document.getElementById('cs-search').value);}
+
+// Test Series
+const testSeriesData=[{name:'Mock Test 1',paper:'GS Paper 1',duration:'3 hrs',marks:250,status:'Completed',score:112},{name:'Mock Test 2',paper:'GS Paper 2',duration:'3 hrs',marks:250,status:'Completed',score:104},{name:'Mock Test 3',paper:'GS Paper 3',duration:'3 hrs',marks:250,status:'Completed',score:97},{name:'Mock Test 4',paper:'GS Paper 4',duration:'3 hrs',marks:250,status:'Completed',score:89},{name:'Mock Test 5',paper:'Essay',duration:'3 hrs',marks:250,status:'Completed',score:84},{name:'Mock Test 6',paper:'Hindi Lit Optional P1',duration:'3 hrs',marks:250,status:'Available',score:null},{name:'Mock Test 7',paper:'Hindi Lit Optional P2',duration:'3 hrs',marks:250,status:'Available',score:null},{name:'Mock Test 8',paper:'Full GS (1-4)',duration:'12 hrs',marks:1000,status:'Upcoming',score:null},{name:'Mock Test 9',paper:'Prelims GS + CSAT',duration:'4 hrs',marks:400,status:'Upcoming',score:null}];
+function renderTestSeries(){document.getElementById('test-series-tbody').innerHTML=testSeriesData.map(t=>{const st=t.status==='Completed'?`<span class="tag tag--green">${currentLang==='hi'?'पूर्ण':'Completed'}</span>`:t.status==='Available'?`<span class="tag tag--blue">${currentLang==='hi'?'उपलब्ध':'Available'}</span>`:`<span class="tag tag--amber">${currentLang==='hi'?'आगामी':'Upcoming'}</span>`;const btn=t.status==='Available'?`<button class="btn btn--primary btn--sm">${currentLang==='hi'?'शुरू करें':'Start'}</button>`:t.status==='Completed'?`<button class="btn btn--secondary btn--sm">${currentLang==='hi'?'परिणाम':'View Result'}</button>`:`<button class="btn btn--secondary btn--sm" disabled>${currentLang==='hi'?'जल्द ही':'Soon'}</button>`;return `<tr><td>${t.name}</td><td>${t.paper}</td><td>${t.duration}</td><td>${t.marks}</td><td>${st}</td><td>${btn}</td></tr>`;}).join('');}
+
+// Chat
+function sendChat(){const input=document.getElementById('chat-input');const msg=input.value.trim();if(!msg)return;addChatMsg('user',msg);input.value='';setTimeout(()=>{const r=currentLang==='hi'?'बढ़िया प्रश्न! नियमित अभ्यास, समय-बद्ध अध्ययन, और प्रतिक्रिया से सीखना सफलता की कुंजी है।':'Great question! Regular practice, timed study, and learning from feedback is key to success.';addChatMsg('ai',r);},800);}
+function quickAsk(q){document.getElementById('chat-input').value=q;sendChat();}
+function addChatMsg(role,text){const c=document.getElementById('chat-messages');c.innerHTML+=`<div class="chat-msg chat-msg--${role}"><div class="chat-msg__avatar">${role==='ai'?'S':'U'}</div><div class="chat-msg__bubble">${text}</div></div>`;c.scrollTop=c.scrollHeight;}
+
+// Word counts
+document.addEventListener('input',e=>{if(e.target.id==='essay-text')document.getElementById('word-count').textContent=e.target.value.trim().split(/\s+/).filter(w=>w).length;if(e.target.id==='daily-answer')document.getElementById('daily-word-count').textContent=e.target.value.trim().split(/\s+/).filter(w=>w).length;});
+
+// Tab clicks
+document.addEventListener('click',e=>{if(e.target.matches('#ca-tabs .tab')){document.querySelectorAll('#ca-tabs .tab').forEach(t=>t.classList.remove('active'));e.target.classList.add('active');renderCA(e.target.dataset.caCat);}});
+
+// ===== Current Affairs: fetch from articles.json (auto-updated daily by GitHub Actions) =====
+let caDataLoaded = false;
+const FALLBACK_CA = caData; // fallback to inline data if fetch fails
+
+async function loadCurrentAffairs() {
+  // Try fetching the auto-updated JSON file
+  const jsonPaths = ['data/articles.json', './data/articles.json', 'articles.json'];
+  for (const p of jsonPaths) {
+    try {
+      const resp = await fetch(p);
+      if (!resp.ok) continue;
+      const data = await resp.json();
+      if (data.articles && data.articles.length > 0) {
+        // Map JSON articles to the format expected by renderCA
+        caData = data.articles.map(a => ({
+          date: a.date || '',
+          cat: a.category || 'polity',
+          source: a.source || '',
+          importance: a.importance || 'Medium',
+          gsPapers: a.gs_papers || [],
+          subjects: a.subjects || [],
+          title_hi: a.title_hi || a.title_en || '',
+          title_en: a.title_en || a.title_hi || '',
+          summary_hi: a.summary_hi || '',
+          summary_en: a.summary_en || '',
+          prelims: a.prelims !== false,
+          mains: a.mains !== false,
+          syllabus: a.syllabus || [],
+          analysis_hi: a.analysis_hi || '',
+          analysis_en: a.analysis_en || '',
+          link: a.link || '',
+        }));
+        caDataLoaded = true;
+        // Update the "last updated" timestamp if present
+        if (data.last_updated_ist) {
+          const liveTag = document.querySelector('#page-current-affairs .tag--live');
+          if (liveTag) {
+            liveTag.title = 'Last updated: ' + data.last_updated_ist;
+          }
+        }
+        console.log('[UPSC Sarthi] Loaded', caData.length, 'articles from', p, '— last updated:', data.last_updated_ist || 'unknown');
+        // Re-render if currently on current affairs page
+        if (document.getElementById('page-current-affairs').classList.contains('active')) {
+          const activeTab = document.querySelector('#ca-tabs .tab.active');
+          renderCA(activeTab ? activeTab.dataset.caCat : 'all');
+        }
+        return;
+      }
+    } catch(e) {
+      // fetch fails (e.g. file:// protocol) — continue to next path
+      continue;
+    }
+  }
+  // If all fetches failed, keep using the inline fallback data
+  console.log('[UPSC Sarthi] Using inline current affairs data (fetch failed — run via web server for auto-updates)');
+}
+
+// Init
+setLang('hi');
+navigateTo('dashboard');
+// Attempt to load auto-updated articles (works when served via web server)
+loadCurrentAffairs();
+</script>
+</body>
+</html>
