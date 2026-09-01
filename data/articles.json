@@ -1,8 +1,1032 @@
 {
-  "last_updated": "2026-08-31T00:35:22.433978+00:00",
-  "last_updated_ist": "31 August 2026, 06:05 AM IST",
-  "total_articles": 58,
+  "last_updated": "2026-09-01T00:43:20.042400+00:00",
+  "last_updated_ist": "01 September 2026, 06:13 AM IST",
+  "total_articles": 78,
   "articles": [
+    {
+      "id": "ac8e473f7adc",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T20:37:29+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "After Supreme Court judge’s letters, Collegium recommends new Chief Justice for Rajasthan HC",
+      "title_hi": "After Supreme Court judge’s letters, Collegium recommends new Chief Justice for Rajasthan HC",
+      "summary_en": "Resolution by the Collegium came a weekend after letters written by serving top court judge Justice Sandeep Mehta, complaining of the conduct of Rajasthan Acting Chief Justice S.P. Sharma, became public",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Resolution by the Collegium came a weekend after letters written by serving top court judge Justice Sandeep Mehta, complaining of the conduct of Rajasthan Acting Chief Justice S.P. Sharma, became public",
+      "analysis_hi": "संदर्भ: Resolution by the Collegium came a weekend after letters written by serving top court judge Justice Sandeep Mehta, complaining of the conduct of Rajasthan Acting Chief Justice S.P. Sharma, became public...\n\nप्रमुख बिंदु:\n• Resolution by the Collegium came a weekend after letters written by serving top court judge Justice Sandeep Mehta, complaining of the conduct of Rajasthan Acting Chief Justice S.P\n",
+      "analysis_en": "Reference: Resolution by the Collegium came a weekend after letters written by serving top court judge Justice Sandeep Mehta, complaining of the conduct of Rajasthan Acting Chief Justice S.P. Sharma, became public...\n\nKey Points:\n• Resolution by the Collegium came a weekend after letters written by serving top court judge Justice Sandeep Mehta, complaining of the conduct of Rajasthan Acting Chief Justice S.P\n",
+      "link": "https://www.thehindu.com/news/national/after-supreme-court-judges-letters-collegium-recommends-new-chief-justice-for-rajasthan-hc/article71412531.ece"
+    },
+    {
+      "id": "3cb74a1eed46",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T20:34:50+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "NCLT's first-ever 5-member Bench to decide on Subhash Chandra repayment plan",
+      "title_hi": "NCLT's first-ever 5-member Bench to decide on Subhash Chandra repayment plan",
+      "summary_en": "A Division Bench had failed to reach a majority verdict in a personal insolvency case involving claims of more than ₹22,000 crore",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A Division Bench had failed to reach a majority verdict in a personal insolvency case involving claims of more than ₹22,000 crore",
+      "analysis_hi": "संदर्भ: A Division Bench had failed to reach a majority verdict in a personal insolvency case involving claims of more than ₹22,000 crore...\n\nप्रमुख बिंदु:\n• A Division Bench had failed to reach a majority verdict in a personal insolvency case involving claims of more than ₹22,000 crore\n",
+      "analysis_en": "Reference: A Division Bench had failed to reach a majority verdict in a personal insolvency case involving claims of more than ₹22,000 crore...\n\nKey Points:\n• A Division Bench had failed to reach a majority verdict in a personal insolvency case involving claims of more than ₹22,000 crore\n",
+      "link": "https://www.thehindu.com/news/national/nclts-first-ever-5-member-bench-to-decide-on-subhash-chandra-repayment-plan/article71412509.ece"
+    },
+    {
+      "id": "c3a162582e8e",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T20:00:30+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Chief Minister, Cabinet colleagues to attend leadership retreat at IIMK",
+      "title_hi": "Chief Minister, Cabinet colleagues to attend leadership retreat at IIMK",
+      "summary_en": "The residential workshop is aimed at enhancing governance and administrative efficiency",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The residential workshop is aimed at enhancing governance and administrative efficiency",
+      "analysis_hi": "संदर्भ: The residential workshop is aimed at enhancing governance and administrative efficiency...\n\nप्रमुख बिंदु:\n• The residential workshop is aimed at enhancing governance and administrative efficiency\n",
+      "analysis_en": "Reference: The residential workshop is aimed at enhancing governance and administrative efficiency...\n\nKey Points:\n• The residential workshop is aimed at enhancing governance and administrative efficiency\n",
+      "link": "https://www.thehindu.com/news/national/kerala/chief-minister-cabinet-colleagues-to-attend-leadership-retreat-at-iimk/article71411302.ece"
+    },
+    {
+      "id": "cd2e3d4d633f",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T19:55:52+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Harikatha artistes seek govt. support to promote art",
+      "title_hi": "Harikatha artistes seek govt. support to promote art",
+      "summary_en": "Harikatha artistes seek govt. support to promote art",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Harikatha artistes seek govt. support to promote art",
+      "analysis_hi": "संदर्भ: Harikatha artistes seek govt. support to promote art...\n\nप्रमुख बिंदु:\n",
+      "analysis_en": "Reference: Harikatha artistes seek govt. support to promote art...\n\nKey Points:\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/harikatha-artistes-seek-govt-support-to-promote-art/article71410943.ece"
+    },
+    {
+      "id": "5acf699a1555",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T19:45:03+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Pinarayi accuses Taliparamba MLA of ‘betrayal’",
+      "title_hi": "Pinarayi accuses Taliparamba MLA of ‘betrayal’",
+      "summary_en": "T.K. Govindan alleges that the CPI(M) leadership is destroying the party in pursuit of its own interests and asks if the party leadership is impartially examining the reasons for the CPI(M)’s decline",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। T.K. Govindan alleges that the CPI(M) leadership is destroying the party in pursuit of its own interests and asks if the party leadership is impartially examining the reasons for the CPI(M)’s decline",
+      "analysis_hi": "संदर्भ: T.K. Govindan alleges that the CPI(M) leadership is destroying the party in pursuit of its own interests and asks if the party leadership is impartially examining the reasons for the CPI(M)’s decline...\n\nप्रमुख बिंदु:\n• Govindan alleges that the CPI(M) leadership is destroying the party in pursuit of its own interests and asks if the party leadership is impartially examining the reasons for the CPI(M)’s decline\n",
+      "analysis_en": "Reference: T.K. Govindan alleges that the CPI(M) leadership is destroying the party in pursuit of its own interests and asks if the party leadership is impartially examining the reasons for the CPI(M)’s decline...\n\nKey Points:\n• Govindan alleges that the CPI(M) leadership is destroying the party in pursuit of its own interests and asks if the party leadership is impartially examining the reasons for the CPI(M)’s decline\n",
+      "link": "https://www.thehindu.com/news/national/kerala/pinarayi-accuses-taliparamba-mla-of-betrayal/article71412588.ece"
+    },
+    {
+      "id": "ed83b8f41015",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T19:31:11+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "BJP targets AAP government over employee protests, ‘unfulfilled’ promises in Punjab",
+      "title_hi": "BJP targets AAP government over employee protests, ‘unfulfilled’ promises in Punjab",
+      "summary_en": "The BJP leader called the Chief Minister’s approach “undemocratic” and questioned why AAP’s own protests were considered democratic while public protests were allegedly met with repression.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The BJP leader called the Chief Minister’s approach “undemocratic” and questioned why AAP’s own protests were considered democratic while public protests were allegedly met with repression.",
+      "analysis_hi": "संदर्भ: The BJP leader called the Chief Minister’s approach “undemocratic” and questioned why AAP’s own protests were considered democratic while public protests were allegedly met with repression....\n\nप्रमुख बिंदु:\n• The BJP leader called the Chief Minister’s approach “undemocratic” and questioned why AAP’s own protests were considered democratic while public protests were allegedly met with repression.\n",
+      "analysis_en": "Reference: The BJP leader called the Chief Minister’s approach “undemocratic” and questioned why AAP’s own protests were considered democratic while public protests were allegedly met with repression....\n\nKey Points:\n• The BJP leader called the Chief Minister’s approach “undemocratic” and questioned why AAP’s own protests were considered democratic while public protests were allegedly met with repression.\n",
+      "link": "https://www.thehindu.com/news/national/punjab/bjp-targets-aap-government-over-employee-protests-unfulfilled-promises-in-punjab/article71411107.ece"
+    },
+    {
+      "id": "810de9a7655d",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T19:30:31+00:00",
+      "category": "social",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-1",
+        "GS-2"
+      ],
+      "subjects": [
+        "Social Issues"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-1: Population and associated issues",
+        "GS-2: Issues relating to development and management of Social Sector/Services"
+      ],
+      "title_en": "Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike",
+      "title_hi": "Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike",
+      "summary_en": "Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Telangana AYUSH doctors call off 28-day strike after स्वास्थ्य Minister assures stipend hike",
+      "analysis_hi": "संदर्भ: Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike...\n\nप्रमुख बिंदु:\n• Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike\n",
+      "analysis_en": "Reference: Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike...\n\nKey Points:\n• Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike\n",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-ayush-doctors-call-off-28-day-strike-after-health-minister-assures-stipend-hike/article71412164.ece"
+    },
+    {
+      "id": "026a61017de6",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T19:29:43+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Sumadhura Group makes Chennai debut with ₹400-crore logistics park",
+      "title_hi": "Sumadhura Group makes Chennai debut with ₹400-crore logistics park",
+      "summary_en": "Sumadhura Group makes Chennai debut with ₹400-crore logistics park",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Sumadhura Group makes Chennai debut with ₹400-crore logistics park",
+      "analysis_hi": "संदर्भ: Sumadhura Group makes Chennai debut with ₹400-crore logistics park...\n\nप्रमुख बिंदु:\n• Sumadhura Group makes Chennai debut with ₹400-crore logistics park\n",
+      "analysis_en": "Reference: Sumadhura Group makes Chennai debut with ₹400-crore logistics park...\n\nKey Points:\n• Sumadhura Group makes Chennai debut with ₹400-crore logistics park\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/sumadhura-group-makes-chennai-debut-with-400-crore-logistics-park/article71412191.ece"
+    },
+    {
+      "id": "d304eeae2693",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T19:29:09+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "The battle within the BJP in Bengal",
+      "title_hi": "The battle within the BJP in Bengal",
+      "summary_en": "Suvendu Adhikari who promised to dismantle Mamata Banerjee’s political system, is consolidating power by absorbing the very same system and networks",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Suvendu Adhikari who promised to dismantle Mamata Banerjee’s political system, is consolidating power by absorbing the very same system and networks",
+      "analysis_hi": "संदर्भ: Suvendu Adhikari who promised to dismantle Mamata Banerjee’s political system, is consolidating power by absorbing the very same system and networks...\n\nप्रमुख बिंदु:\n• Suvendu Adhikari who promised to dismantle Mamata Banerjee’s political system, is consolidating power by absorbing the very same system and networks\n",
+      "analysis_en": "Reference: Suvendu Adhikari who promised to dismantle Mamata Banerjee’s political system, is consolidating power by absorbing the very same system and networks...\n\nKey Points:\n• Suvendu Adhikari who promised to dismantle Mamata Banerjee’s political system, is consolidating power by absorbing the very same system and networks\n",
+      "link": "https://www.thehindu.com/opinion/op-ed/the-battle-within-the-bjp-in-bengal/article71412401.ece"
+    },
+    {
+      "id": "78344bcd4002",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T19:25:55+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Rajasthan High Court lawyers to abstain from work till September 6 in Jodhpur",
+      "title_hi": "Rajasthan High Court lawyers to abstain from work till September 6 in Jodhpur",
+      "summary_en": "The two lawyers’ bodies pressed a three-point charter of demands concerning the functioning and administration of the High Court.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The two lawyers’ bodies pressed a three-point charter of demands concerning the functioning and administration of the High Court.",
+      "analysis_hi": "संदर्भ: The two lawyers’ bodies pressed a three-point charter of demands concerning the functioning and administration of the High Court....\n\nप्रमुख बिंदु:\n• The two lawyers’ bodies pressed a three-point charter of demands concerning the functioning and administration of the High Court.\n",
+      "analysis_en": "Reference: The two lawyers’ bodies pressed a three-point charter of demands concerning the functioning and administration of the High Court....\n\nKey Points:\n• The two lawyers’ bodies pressed a three-point charter of demands concerning the functioning and administration of the High Court.\n",
+      "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-high-court-lawyers-to-abstain-from-work-till-september-6-in-jodhpur/article71411585.ece"
+    },
+    {
+      "id": "7da29efc7c84",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T19:23:20+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Keralam CM condemns registration of FIR against Rahul Gandhi",
+      "title_hi": "Keralam CM condemns registration of FIR against Rahul Gandhi",
+      "summary_en": "Keralam CM condemns registration of FIR against Rahul Gandhi",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Keralam CM condemns registration of FIR against Rahul Gandhi",
+      "analysis_hi": "संदर्भ: Keralam CM condemns registration of FIR against Rahul Gandhi...\n\nप्रमुख बिंदु:\n• Keralam CM condemns registration of FIR against Rahul Gandhi\n",
+      "analysis_en": "Reference: Keralam CM condemns registration of FIR against Rahul Gandhi...\n\nKey Points:\n• Keralam CM condemns registration of FIR against Rahul Gandhi\n",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-cm-condemns-registration-of-fir-against-rahul-gandhi/article71411288.ece"
+    },
+    {
+      "id": "13d51e917eba",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T19:20:32+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "U.P. Congress chief Ajay Rai flags IAS officer Divya Mittal’s resignation, seeks Governor’s intervention",
+      "title_hi": "U.P. Congress chief Ajay Rai flags IAS officer Divya Mittal’s resignation, seeks Governor’s intervention",
+      "summary_en": "Describing the IAS officer's resignation as very serious, adding that the government should seriously investigate the matter and bring out the truth",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Describing the IAS officer's resignation as very serious, adding that the सरकार should seriously investigate the matter and bring out the truth",
+      "analysis_hi": "संदर्भ: Describing the IAS officer's resignation as very serious, adding that the government should seriously investigate the matter and bring out the truth...\n\nप्रमुख बिंदु:\n• Describing the IAS officer's resignation as very serious, adding that the government should seriously investigate the matter and bring out the truth\n",
+      "analysis_en": "Reference: Describing the IAS officer's resignation as very serious, adding that the government should seriously investigate the matter and bring out the truth...\n\nKey Points:\n• Describing the IAS officer's resignation as very serious, adding that the government should seriously investigate the matter and bring out the truth\n",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-congress-chief-ajay-rai-flags-ias-officer-divya-mittals-resignation-seeks-governors-intervention/article71411662.ece"
+    },
+    {
+      "id": "08f9c2518e98",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T19:13:45+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "The need for political unity in Kashmir",
+      "title_hi": "The need for political unity in Kashmir",
+      "summary_en": "While Kashmir’s right to dignity and respectable federal arrangement is non-negotiable, the way to realising it cannot be the daily whipping of a rather disempowered local government for not being combative enough",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। While Kashmir’s right to dignity and respectable federal arrangement is non-negotiable, the way to realising it cannot be the daily whipping of a rather disempowered local सरकार for not being combative enough",
+      "analysis_hi": "संदर्भ: While Kashmir’s right to dignity and respectable federal arrangement is non-negotiable, the way to realising it cannot be the daily whipping of a rather disempowered local government for not being combative enough...\n\nप्रमुख बिंदु:\n• While Kashmir’s right to dignity and respectable federal arrangement is non-negotiable, the way to realising it cannot be the daily whipping of a rather disempowered local government for not being combative enough\n",
+      "analysis_en": "Reference: While Kashmir’s right to dignity and respectable federal arrangement is non-negotiable, the way to realising it cannot be the daily whipping of a rather disempowered local government for not being combative enough...\n\nKey Points:\n• While Kashmir’s right to dignity and respectable federal arrangement is non-negotiable, the way to realising it cannot be the daily whipping of a rather disempowered local government for not being combative enough\n",
+      "link": "https://www.thehindu.com/opinion/op-ed/the-need-for-political-unity-in-kashmir/article71412412.ece"
+    },
+    {
+      "id": "bb624d3bfb25",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T19:13:36+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Campaign to ensure vehicles are not parked along NHs",
+      "title_hi": "Campaign to ensure vehicles are not parked along NHs",
+      "summary_en": "Campaign to ensure vehicles are not parked along NHs",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Campaign to ensure vehicles are not parked along NHs",
+      "analysis_hi": "संदर्भ: Campaign to ensure vehicles are not parked along NHs...\n\nप्रमुख बिंदु:\n• Campaign to ensure vehicles are not parked along NHs\n",
+      "analysis_en": "Reference: Campaign to ensure vehicles are not parked along NHs...\n\nKey Points:\n• Campaign to ensure vehicles are not parked along NHs\n",
+      "link": "https://www.thehindu.com/news/cities/chennai/campaign-to-ensure-vehicles-are-not-parked-along-nhs/article71411979.ece"
+    },
+    {
+      "id": "255db36c351c",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T19:11:11+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "After FIR against TDP MLA for abduction of Bengaluru businessman, police clarify he was detained by Andhra Pradesh police",
+      "title_hi": "After FIR against TDP MLA for abduction of Bengaluru businessman, police clarify he was detained by Andhra Pradesh police",
+      "summary_en": "After FIR against TDP MLA for abduction of Bengaluru businessman, police clarify he was detained by Andhra Pradesh police",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। After FIR against TDP MLA for abduction of Bengaluru businessman, police clarify he was detained by Andhra Pradesh police",
+      "analysis_hi": "संदर्भ: After FIR against TDP MLA for abduction of Bengaluru businessman, police clarify he was detained by Andhra Pradesh police...\n\nप्रमुख बिंदु:\n• After FIR against TDP MLA for abduction of Bengaluru businessman, police clarify he was detained by Andhra Pradesh police\n",
+      "analysis_en": "Reference: After FIR against TDP MLA for abduction of Bengaluru businessman, police clarify he was detained by Andhra Pradesh police...\n\nKey Points:\n• After FIR against TDP MLA for abduction of Bengaluru businessman, police clarify he was detained by Andhra Pradesh police\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/after-fir-against-tdp-mla-for-abduction-of-bengaluru-businessman-police-clarify-he-was-detained-by-andhra-pradesh-police/article71410602.ece"
+    },
+    {
+      "id": "657fbfadbce1",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T19:07:57+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "PM Modi urges Iran to ensure peace, freedom of navigation",
+      "title_hi": "PM Modi urges Iran to ensure peace, freedom of navigation",
+      "summary_en": "In a meeting with Iranian President, PM Modi calls for stability in the region and seeks safeguards for civilians; Iran requests India to use its “extensive contacts” to help the dialogue process, it blames Israel and U.S. for creating “obstacles”",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In a meeting with Iranian राष्ट्रपति, PM Modi calls for stability in the region and seeks safeguards for civilians; Iran requests India to use its “extensive contacts” to help the dialogue process, it blames Israel and U.S. for creating “obstacles”",
+      "analysis_hi": "संदर्भ: In a meeting with Iranian President, PM Modi calls for stability in the region and seeks safeguards for civilians; Iran requests India to use its “extensive contacts” to help the dialogue process, it blames Israel and U.S. for creating “obstacles”...\n\nप्रमुख बिंदु:\n• In a meeting with Iranian President, PM Modi calls for stability in the region and seeks safeguards for civilians; Iran requests India to use its “extensive contacts” to help the dialogue process, it blames Israel and U.S\n",
+      "analysis_en": "Reference: In a meeting with Iranian President, PM Modi calls for stability in the region and seeks safeguards for civilians; Iran requests India to use its “extensive contacts” to help the dialogue process, it blames Israel and U.S. for creating “obstacles”...\n\nKey Points:\n• In a meeting with Iranian President, PM Modi calls for stability in the region and seeks safeguards for civilians; Iran requests India to use its “extensive contacts” to help the dialogue process, it blames Israel and U.S\n",
+      "link": "https://www.thehindu.com/news/national/pm-modi-meet-iran-president-masoud-pezeshkian-on-the-sidelines-of-sco-summit-in-kyrgyzstan/article71410215.ece"
+    },
+    {
+      "id": "c89806c695a3",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T17:27:14+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "India’s GDP growth at 7.8% in Q1, slower than last quarter but quicker than last year",
+      "title_hi": "India’s GDP growth at 7.8% in Q1, slower than last quarter but quicker than last year",
+      "summary_en": "The stronger performance in Q1 of this year as compared to last year has been driven by the manufacturing sector as well as some broad services categories such as utilities, financial services, real estate, IT, and public administration and defence.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The stronger performance in Q1 of this year as compared to last year has been driven by the manufacturing sector as well as some broad services categories such as utilities, financial services, real estate, IT, and public administration and रक्षा.",
+      "analysis_hi": "संदर्भ: The stronger performance in Q1 of this year as compared to last year has been driven by the manufacturing sector as well as some broad services categories such as utilities, financial services, real estate, IT, and public administration and defence....\n\nप्रमुख बिंदु:\n• The stronger performance in Q1 of this year as compared to last year has been driven by the manufacturing sector as well as some broad services categories such as utilities, financial services, real estate, IT, and public administration and defence.\n",
+      "analysis_en": "Reference: The stronger performance in Q1 of this year as compared to last year has been driven by the manufacturing sector as well as some broad services categories such as utilities, financial services, real estate, IT, and public administration and defence....\n\nKey Points:\n• The stronger performance in Q1 of this year as compared to last year has been driven by the manufacturing sector as well as some broad services categories such as utilities, financial services, real estate, IT, and public administration and defence.\n",
+      "link": "https://www.thehindu.com/business/Economy/gdp-growth-comes-in-at-78-in-q1-slower-than-last-quarter-but-quicker-than-last-year/article71410830.ece"
+    },
+    {
+      "id": "f0bbb1b0c520",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T05:17:52+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Rupee falls 13 paise to 95.56 against U.S. dollar in early trade",
+      "title_hi": "Rupee falls 13 paise to 95.56 against U.S. dollar in early trade",
+      "summary_en": "On the domestic equities market front, Sensex declined 226.60 points to 77,028.56, while the Nifty fell 120.40 points to 24,053.55",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। On the domestic equities market front, Sensex declined 226.60 points to 77,028.56, while the Nifty fell 120.40 points to 24,053.55",
+      "analysis_hi": "संदर्भ: On the domestic equities market front, Sensex declined 226.60 points to 77,028.56, while the Nifty fell 120.40 points to 24,053.55...\n\nप्रमुख बिंदु:\n• On the domestic equities market front, Sensex declined 226.60 points to 77,028.56, while the Nifty fell 120.40 points to 24,053.55\n",
+      "analysis_en": "Reference: On the domestic equities market front, Sensex declined 226.60 points to 77,028.56, while the Nifty fell 120.40 points to 24,053.55...\n\nKey Points:\n• On the domestic equities market front, Sensex declined 226.60 points to 77,028.56, while the Nifty fell 120.40 points to 24,053.55\n",
+      "link": "https://www.thehindu.com/business/markets/rupee-falls-13-paise-to-9556-against-us-dollar-in-early-trade/article71409711.ece"
+    },
+    {
+      "id": "70e57f62cbb6",
+      "date": "31 Aug 2026",
+      "iso_date": "2026-08-31T05:09:19+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Nirmala Sitharaman in U.S. Asheville city for G-20 finance ministerial meet",
+      "title_hi": "Nirmala Sitharaman in U.S. Asheville city for G-20 finance ministerial meet",
+      "summary_en": "U.S. Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। U.S. Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville",
+      "analysis_hi": "संदर्भ: U.S. Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville...\n\nप्रमुख बिंदु:\n• Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville\n",
+      "analysis_en": "Reference: U.S. Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville...\n\nKey Points:\n• Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville\n",
+      "link": "https://www.thehindu.com/news/national/nirmala-sitharaman-g-20-finance-ministerial-meet-us-asheville/article71409601.ece"
+    },
+    {
+      "id": "539af62c096d",
+      "date": "30 Aug 2026",
+      "iso_date": "2026-08-30T10:19:49+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Why gold should form 10% of investment portfolio",
+      "title_hi": "Why gold should form 10% of investment portfolio",
+      "summary_en": "Most investors think of portfolio in terms of equity and fixed income but buying gold is not a speculative add-on, it is a structural building block of a well-constructed portfolio",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Most investors think of portfolio in terms of equity and fixed income but buying gold is not a speculative add-on, it is a structural building block of a well-constructed portfolio",
+      "analysis_hi": "संदर्भ: Most investors think of portfolio in terms of equity and fixed income but buying gold is not a speculative add-on, it is a structural building block of a well-constructed portfolio...\n\nप्रमुख बिंदु:\n• Most investors think of portfolio in terms of equity and fixed income but buying gold is not a speculative add-on, it is a structural building block of a well-constructed portfolio\n",
+      "analysis_en": "Reference: Most investors think of portfolio in terms of equity and fixed income but buying gold is not a speculative add-on, it is a structural building block of a well-constructed portfolio...\n\nKey Points:\n• Most investors think of portfolio in terms of equity and fixed income but buying gold is not a speculative add-on, it is a structural building block of a well-constructed portfolio\n",
+      "link": "https://www.thehindu.com/business/Economy/why-gold-should-form-10-of-investment-portfolio/article71407437.ece"
+    },
+    {
+      "id": "97421d6e2ef1",
+      "date": "30 Aug 2026",
+      "iso_date": "2026-08-30T08:53:58+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "India re-commits to concluding trade deal with Chile ‘within this year’",
+      "title_hi": "India re-commits to concluding trade deal with Chile ‘within this year’",
+      "summary_en": "The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile",
+      "analysis_hi": "संदर्भ: The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile...\n\nप्रमुख बिंदु:\n• The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile\n",
+      "analysis_en": "Reference: The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile...\n\nKey Points:\n• The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile\n",
+      "link": "https://www.thehindu.com/business/Economy/committed-to-conclude-trade-pact-talks-this-year-with-chile-centre/article71407223.ece"
+    },
+    {
+      "id": "cd9c0071a226",
+      "date": "30 Aug 2026",
+      "iso_date": "2026-08-30T06:03:31+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Mcap of 7 of top-10 most-valued firms erodes ₹1.13 lakh crore; Airtel, Reliance worst hit",
+      "title_hi": "Mcap of 7 of top-10 most-valued firms erodes ₹1.13 lakh crore; Airtel, Reliance worst hit",
+      "summary_en": "The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore. Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore. Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore.",
+      "analysis_hi": "संदर्भ: The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore. Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore....\n\nप्रमुख बिंदु:\n• The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore\n• Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore.\n",
+      "analysis_en": "Reference: The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore. Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore....\n\nKey Points:\n• The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore\n• Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore.\n",
+      "link": "https://www.thehindu.com/business/Economy/mcap-of-7-of-top-10-most-valued-firms-erodes-113-lakh-crore-airtel-reliance-worst-hit/article71407087.ece"
+    },
+    {
+      "id": "d0db00e7c738",
+      "date": "29 Aug 2026",
+      "iso_date": "2026-08-29T05:34:14+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Partial FDI opening in e-commerce “almost worse” than no opening: Competere chief",
+      "title_hi": "Partial FDI opening in e-commerce “almost worse” than no opening: Competere chief",
+      "summary_en": "The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The सरकार in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported.",
+      "analysis_hi": "संदर्भ: The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported....\n\nप्रमुख बिंदु:\n• The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported.\n",
+      "analysis_en": "Reference: The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported....\n\nKey Points:\n• The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported.\n",
+      "link": "https://www.thehindu.com/business/Economy/partial-fdi-opening-in-e-commerce-almost-worse-than-no-opening-competere-chief/article71373215.ece"
+    },
+    {
+      "id": "d7b820a8b9b4",
+      "date": "28 Aug 2026",
+      "iso_date": "2026-08-28T20:46:02+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Fiscal federalism, efficiency versus equity concerns",
+      "title_hi": "Fiscal federalism, efficiency versus equity concerns",
+      "summary_en": "The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation",
+      "analysis_hi": "संदर्भ: The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation...\n\nप्रमुख बिंदु:\n• The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation\n",
+      "analysis_en": "Reference: The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation...\n\nKey Points:\n• The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation\n",
+      "link": "https://www.thehindu.com/opinion/lead/fiscal-federalism-efficiency-versus-equity-concerns/article71310469.ece"
+    },
+    {
+      "id": "6e30380c87e4",
+      "date": "28 Aug 2026",
+      "iso_date": "2026-08-28T16:32:07+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "CSR spending lacks deep impact, job creation: Amitabh Kant",
+      "title_hi": "CSR spending lacks deep impact, job creation: Amitabh Kant",
+      "summary_en": "India must prioritise technology-driven, job-rich entrepreneurship in rural areas to achieve its ambition of growing from a $4 trillion economy to a $30 trillion economy by 2047.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India must prioritise प्रौद्योगिकी-driven, job-rich entrepreneurship in rural areas to achieve its ambition of growing from a $4 trillion अर्थव्यवस्था to a $30 trillion अर्थव्यवस्था by 2047.",
+      "analysis_hi": "संदर्भ: India must prioritise technology-driven, job-rich entrepreneurship in rural areas to achieve its ambition of growing from a $4 trillion economy to a $30 trillion economy by 2047....\n\nप्रमुख बिंदु:\n• India must prioritise technology-driven, job-rich entrepreneurship in rural areas to achieve its ambition of growing from a $4 trillion economy to a $30 trillion economy by 2047.\n",
+      "analysis_en": "Reference: India must prioritise technology-driven, job-rich entrepreneurship in rural areas to achieve its ambition of growing from a $4 trillion economy to a $30 trillion economy by 2047....\n\nKey Points:\n• India must prioritise technology-driven, job-rich entrepreneurship in rural areas to achieve its ambition of growing from a $4 trillion economy to a $30 trillion economy by 2047.\n",
+      "link": "https://www.thehindu.com/business/Economy/csr-spending-lacks-deep-impact-job-creation-amitabh-kant/article71401718.ece"
+    },
+    {
+      "id": "7297bd2a9c83",
+      "date": "28 Aug 2026",
+      "iso_date": "2026-08-28T16:15:25+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "1991 reforms could have begun in 1981, but not during Rajaji’s time, says Chidambaram",
+      "title_hi": "1991 reforms could have begun in 1981, but not during Rajaji’s time, says Chidambaram",
+      "summary_en": "The former Union Minister stated that before 1981, capitalist countries claimed to support an open market economy, but the absence of a rules-based global order prevented poor and middle-income countries from doing the same",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The former Union Minister stated that before 1981, capitalist countries claimed to support an open market अर्थव्यवस्था, but the absence of a rules-based global order prevented poor and middle-income countries from doing the same",
+      "analysis_hi": "संदर्भ: The former Union Minister stated that before 1981, capitalist countries claimed to support an open market economy, but the absence of a rules-based global order prevented poor and middle-income countries from doing the same...\n\nप्रमुख बिंदु:\n• The former Union Minister stated that before 1981, capitalist countries claimed to support an open market economy, but the absence of a rules-based global order prevented poor and middle-income countries from doing the same\n",
+      "analysis_en": "Reference: The former Union Minister stated that before 1981, capitalist countries claimed to support an open market economy, but the absence of a rules-based global order prevented poor and middle-income countries from doing the same...\n\nKey Points:\n• The former Union Minister stated that before 1981, capitalist countries claimed to support an open market economy, but the absence of a rules-based global order prevented poor and middle-income countries from doing the same\n",
+      "link": "https://www.thehindu.com/news/national/1991-reforms-could-have-begun-in-1981-but-not-during-rajajis-time-says-chidambaram/article71400718.ece"
+    },
+    {
+      "id": "d8e48779c75f",
+      "date": "28 Aug 2026",
+      "iso_date": "2026-08-28T12:17:23+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "IIP growth slows to 6.7% in July 2026, economists warn of sluggish rural consumption",
+      "title_hi": "IIP growth slows to 6.7% in July 2026, economists warn of sluggish rural consumption",
+      "summary_en": "July’s performance was, however, the second-best growth the Index of Industrial Production has seen since December last year, and was buoyed by the manufacturing and electricity and gas supply sectors",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। July’s performance was, however, the second-best growth the Index of Industrial Production has seen since December last year, and was buoyed by the manufacturing and electricity and gas supply sectors",
+      "analysis_hi": "संदर्भ: July’s performance was, however, the second-best growth the Index of Industrial Production has seen since December last year, and was buoyed by the manufacturing and electricity and gas supply sectors...\n\nप्रमुख बिंदु:\n• July’s performance was, however, the second-best growth the Index of Industrial Production has seen since December last year, and was buoyed by the manufacturing and electricity and gas supply sectors\n",
+      "analysis_en": "Reference: July’s performance was, however, the second-best growth the Index of Industrial Production has seen since December last year, and was buoyed by the manufacturing and electricity and gas supply sectors...\n\nKey Points:\n• July’s performance was, however, the second-best growth the Index of Industrial Production has seen since December last year, and was buoyed by the manufacturing and electricity and gas supply sectors\n",
+      "link": "https://www.thehindu.com/business/Economy/iip-growth-slows-to-67-in-july-2026-economists-warn-of-sluggish-rural-consumption/article71400167.ece"
+    },
+    {
+      "id": "a7d80800f970",
+      "date": "28 Aug 2026",
+      "iso_date": "2026-08-28T12:10:10+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "​Stock markets rebound, ending 2-day losing streak on buying in IT firms; Sensex jumps 331 points",
+      "title_hi": "​Stock markets rebound, ending 2-day losing streak on buying in IT firms; Sensex jumps 331 points",
+      "summary_en": "The 30-share BSE Sensex climbed 330.92 points, or 0.43%, to settle at 77,264.51. During the day, it jumped 424.38 points, or 0.55%, to 77,357.97",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The 30-share BSE Sensex climbed 330.92 points, or 0.43%, to settle at 77,264.51. During the day, it jumped 424.38 points, or 0.55%, to 77,357.97",
+      "analysis_hi": "संदर्भ: The 30-share BSE Sensex climbed 330.92 points, or 0.43%, to settle at 77,264.51. During the day, it jumped 424.38 points, or 0.55%, to 77,357.97...\n\nप्रमुख बिंदु:\n• The 30-share BSE Sensex climbed 330.92 points, or 0.43%, to settle at 77,264.51\n• During the day, it jumped 424.38 points, or 0.55%, to 77,357.97\n",
+      "analysis_en": "Reference: The 30-share BSE Sensex climbed 330.92 points, or 0.43%, to settle at 77,264.51. During the day, it jumped 424.38 points, or 0.55%, to 77,357.97...\n\nKey Points:\n• The 30-share BSE Sensex climbed 330.92 points, or 0.43%, to settle at 77,264.51\n• During the day, it jumped 424.38 points, or 0.55%, to 77,357.97\n",
+      "link": "https://www.thehindu.com/business/Industry/stock-markets-rebound-ending-2-day-losing-streak-on-buying-in-it-firms-sensex-jumps-331-points/article71400227.ece"
+    },
+    {
+      "id": "51011bfa7ff2",
+      "date": "28 Aug 2026",
+      "iso_date": "2026-08-28T08:24:33+00:00",
+      "category": "ir",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "International Relations"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: India and its neighborhood- relations",
+        "GS-2: Important International institutions, agencies and fora"
+      ],
+      "title_en": "India, Canada reiterate commitment to complete trade deal by end of 2026",
+      "title_hi": "India, Canada reiterate commitment to complete trade deal by end of 2026",
+      "summary_en": "A joint statement, issued by the Finance Ministers of both countries following the conclusion of the inaugural India-Canada Finance Ministers’ Economic and Financial Dialogue in Toronto, said that India had expressed its readiness to begin negotiations on a Bilateral Investment Treaty “at the earliest”",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A joint statement, issued by the Finance Ministers of both countries following the conclusion of the inaugural India-Canada Finance Ministers’ Economic and Financial Dialogue in Toronto, said that India had expressed its readiness to begin negotiations on a द्विपक्षीय Investment संधि “at the earliest”",
+      "analysis_hi": "संदर्भ: A joint statement, issued by the Finance Ministers of both countries following the conclusion of the inaugural India-Canada Finance Ministers’ Economic and Financial Dialogue in Toronto, said that India had expressed its readiness to begin negotiations on a Bilateral Investment Treaty “at the earlie...\n\nप्रमुख बिंदु:\n• A joint statement, issued by the Finance Ministers of both countries following the conclusion of the inaugural India-Canada Finance Ministers’ Economic and Financial Dialogue in Toronto, said that India had expressed its readiness to begin negotiations on a Bilateral Investment Treaty “at the earliest”\n",
+      "analysis_en": "Reference: A joint statement, issued by the Finance Ministers of both countries following the conclusion of the inaugural India-Canada Finance Ministers’ Economic and Financial Dialogue in Toronto, said that India had expressed its readiness to begin negotiations on a Bilateral Investment Treaty “at the earlie...\n\nKey Points:\n• A joint statement, issued by the Finance Ministers of both countries following the conclusion of the inaugural India-Canada Finance Ministers’ Economic and Financial Dialogue in Toronto, said that India had expressed its readiness to begin negotiations on a Bilateral Investment Treaty “at the earliest”\n",
+      "link": "https://www.thehindu.com/business/Economy/india-canada-reiterate-commitment-to-complete-trade-deal-by-end-of-2026/article71399403.ece"
+    },
+    {
+      "id": "e98aadd85368",
+      "date": "28 Aug 2026",
+      "iso_date": "2026-08-28T07:08:58+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "ECLGS 5.0 support for MSMEs to last only for the allocated guarantee cover",
+      "title_hi": "ECLGS 5.0 support for MSMEs to last only for the allocated guarantee cover",
+      "summary_en": "All its member lending institutions have been asked to sanction loans under the ECLGS 5.0 to MSMEs and non-MSMEs and apply for credit guarantee under the scheme as it will be considered on first come first served basis subject the availability of guarantee cover",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। All its member lending institutions have been asked to sanction loans under the ECLGS 5.0 to MSMEs and non-MSMEs and apply for credit guarantee under the योजना as it will be considered on first come first served basis subject the availability of guarantee cover",
+      "analysis_hi": "संदर्भ: All its member lending institutions have been asked to sanction loans under the ECLGS 5.0 to MSMEs and non-MSMEs and apply for credit guarantee under the scheme as it will be considered on first come first served basis subject the availability of guarantee cover...\n\nप्रमुख बिंदु:\n• All its member lending institutions have been asked to sanction loans under the ECLGS 5.0 to MSMEs and non-MSMEs and apply for credit guarantee under the scheme as it will be considered on first come first served basis subject the availability of guarantee cover\n",
+      "analysis_en": "Reference: All its member lending institutions have been asked to sanction loans under the ECLGS 5.0 to MSMEs and non-MSMEs and apply for credit guarantee under the scheme as it will be considered on first come first served basis subject the availability of guarantee cover...\n\nKey Points:\n• All its member lending institutions have been asked to sanction loans under the ECLGS 5.0 to MSMEs and non-MSMEs and apply for credit guarantee under the scheme as it will be considered on first come first served basis subject the availability of guarantee cover\n",
+      "link": "https://www.thehindu.com/business/eclgs-50-support-for-msmes-to-last-only-for-the-allocated-guarantee-cover/article71399181.ece"
+    },
+    {
+      "id": "a884ae27f037",
+      "date": "27 Aug 2026",
+      "iso_date": "2026-08-27T08:43:43+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "UPI completes 10 years of digital payments, sees 13,000-fold surge in transaction volume, 4,000-fold rise in value",
+      "title_hi": "UPI completes 10 years of digital payments, sees 13,000-fold surge in transaction volume, 4,000-fold rise in value",
+      "summary_en": "Annual UPI transaction volume rose from 1.78 crore in 2016-17 to more than 24,162 crore in 2025-26, an almost 13,000-fold increase, the Finance Ministry said in a statement",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Annual UPI transaction volume rose from 1.78 crore in 2016-17 to more than 24,162 crore in 2025-26, an almost 13,000-fold increase, the Finance Ministry said in a statement",
+      "analysis_hi": "संदर्भ: Annual UPI transaction volume rose from 1.78 crore in 2016-17 to more than 24,162 crore in 2025-26, an almost 13,000-fold increase, the Finance Ministry said in a statement...\n\nप्रमुख बिंदु:\n• Annual UPI transaction volume rose from 1.78 crore in 2016-17 to more than 24,162 crore in 2025-26, an almost 13,000-fold increase, the Finance Ministry said in a statement\n",
+      "analysis_en": "Reference: Annual UPI transaction volume rose from 1.78 crore in 2016-17 to more than 24,162 crore in 2025-26, an almost 13,000-fold increase, the Finance Ministry said in a statement...\n\nKey Points:\n• Annual UPI transaction volume rose from 1.78 crore in 2016-17 to more than 24,162 crore in 2025-26, an almost 13,000-fold increase, the Finance Ministry said in a statement\n",
+      "link": "https://www.thehindu.com/business/Economy/upi-completes-10-years-clocks-nearly-13000-fold-rise-in-transaction-volume/article71384088.ece"
+    },
+    {
+      "id": "792e1e45ace0",
+      "date": "26 Aug 2026",
+      "iso_date": "2026-08-26T09:59:24+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Gross FDI hit 15-year high of $30.7 billion in April-June 2026",
+      "title_hi": "Gross FDI hit 15-year high of $30.7 billion in April-June 2026",
+      "summary_en": "A longer-term analysis also shows that inflows are starting to outpace outflows on a more regular basis. For instance, while net FDI was negative in six out of the last 12 months, it was negative in only one of the last six months.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A longer-term analysis also shows that inflows are starting to outpace outflows on a more regular basis. For instance, while net FDI was negative in six out of the last 12 months, it was negative in only one of the last six months.",
+      "analysis_hi": "संदर्भ: A longer-term analysis also shows that inflows are starting to outpace outflows on a more regular basis. For instance, while net FDI was negative in six out of the last 12 months, it was negative in only one of the last six months....\n\nप्रमुख बिंदु:\n• A longer-term analysis also shows that inflows are starting to outpace outflows on a more regular basis\n• For instance, while net FDI was negative in six out of the last 12 months, it was negative in only one of the last six months.\n",
+      "analysis_en": "Reference: A longer-term analysis also shows that inflows are starting to outpace outflows on a more regular basis. For instance, while net FDI was negative in six out of the last 12 months, it was negative in only one of the last six months....\n\nKey Points:\n• A longer-term analysis also shows that inflows are starting to outpace outflows on a more regular basis\n• For instance, while net FDI was negative in six out of the last 12 months, it was negative in only one of the last six months.\n",
+      "link": "https://www.thehindu.com/business/Economy/gross-fdi-hit-15-year-high-of-307-billion-in-april-june-2026/article71392237.ece"
+    },
+    {
+      "id": "8244845c2adc",
+      "date": "26 Aug 2026",
+      "iso_date": "2026-08-26T09:46:07+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Union Budget: Customs duty cuts to facilitate domestic battery, solar cells manufacturing",
+      "title_hi": "Union Budget: Customs duty cuts to facilitate domestic battery, solar cells manufacturing",
+      "summary_en": "Customs exemptions for lithium-ion batteries, solar glass; renewable energy outlay rises",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Customs exemptions for lithium-ion batteries, solar glass; renewable energy outlay rises",
+      "analysis_hi": "संदर्भ: Customs exemptions for lithium-ion batteries, solar glass; renewable energy outlay rises...\n\nप्रमुख बिंदु:\n• Customs exemptions for lithium-ion batteries, solar glass; renewable energy outlay rises\n",
+      "analysis_en": "Reference: Customs exemptions for lithium-ion batteries, solar glass; renewable energy outlay rises...\n\nKey Points:\n• Customs exemptions for lithium-ion batteries, solar glass; renewable energy outlay rises\n",
+      "link": "https://www.thehindu.com/business/budget/union-budget-tax-exemption-capital-goods-lithium-ion-cells-for-battery-storage/article70577366.ece"
+    },
+    {
+      "id": "23b2c476c889",
+      "date": "26 Aug 2026",
+      "iso_date": "2026-08-26T07:13:15+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Global economy in tug-of-war between oil shock and AI boom: IMF chief",
+      "title_hi": "Global economy in tug-of-war between oil shock and AI boom: IMF chief",
+      "summary_en": "What started out as a U.S. phenomenon with AI is now becoming a growth engine for the global economy, with other countries ramping up construction of data centres and other infrastructure, Kristalina Georgieva said",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। What started out as a U.S. phenomenon with AI is now becoming a growth engine for the global अर्थव्यवस्था, with other countries ramping up construction of data centres and other infrastructure, Kristalina Georgieva said",
+      "analysis_hi": "संदर्भ: What started out as a U.S. phenomenon with AI is now becoming a growth engine for the global economy, with other countries ramping up construction of data centres and other infrastructure, Kristalina Georgieva said...\n\nप्रमुख बिंदु:\n• phenomenon with AI is now becoming a growth engine for the global economy, with other countries ramping up construction of data centres and other infrastructure, Kristalina Georgieva said\n",
+      "analysis_en": "Reference: What started out as a U.S. phenomenon with AI is now becoming a growth engine for the global economy, with other countries ramping up construction of data centres and other infrastructure, Kristalina Georgieva said...\n\nKey Points:\n• phenomenon with AI is now becoming a growth engine for the global economy, with other countries ramping up construction of data centres and other infrastructure, Kristalina Georgieva said\n",
+      "link": "https://www.thehindu.com/business/Economy/global-economy-in-tug-of-war-between-oil-shock-and-ai-boom-imf-chief/article71391847.ece"
+    },
+    {
+      "id": "39b6b4965998",
+      "date": "25 Aug 2026",
+      "iso_date": "2026-08-25T17:09:10+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Infrastructure projects see cost overrun of ₹3.4 lakh cr: MoSPI",
+      "title_hi": "Infrastructure projects see cost overrun of ₹3.4 lakh cr: MoSPI",
+      "summary_en": "A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ Departments were monitored, and it was found that the total revised cost was ₹37,10,642 crore compared to their original cost of ₹33,70,138 crore",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ Departments were monitored, and it was found that the total revised cost was ₹37,10,642 crore compared to their original cost of ₹33,70,138 crore",
+      "analysis_hi": "संदर्भ: A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ Departments were monitored, and it was found that the total revised cost was ₹37,10,642 crore compared to their original cost of ₹33,70,138 crore...\n\nप्रमुख बिंदु:\n• A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ Departments were monitored, and it was found that the total revised cost was ₹37,10,642 crore compared to their original cost of ₹33,70,138 crore\n",
+      "analysis_en": "Reference: A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ Departments were monitored, and it was found that the total revised cost was ₹37,10,642 crore compared to their original cost of ₹33,70,138 crore...\n\nKey Points:\n• A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ Departments were monitored, and it was found that the total revised cost was ₹37,10,642 crore compared to their original cost of ₹33,70,138 crore\n",
+      "link": "https://www.thehindu.com/business/Economy/infrastructure-projects-see-cost-overrun-of-34-lakh-cr-mospi/article71390217.ece"
+    },
+    {
+      "id": "10c02cfa6fb3",
+      "date": "25 Aug 2026",
+      "iso_date": "2026-08-25T16:16:13+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "NASSCOM strongly responds to DHS’ proposal to fix H-1B visa fee at $103,265",
+      "title_hi": "NASSCOM strongly responds to DHS’ proposal to fix H-1B visa fee at $103,265",
+      "summary_en": "NASSCOM reminds the U.S administration that the number of H-1B employees Indian technology companies has reduced significantly as they steadily expanded local hiring. Also,  Indian tech industry  spent over $ 1.1 bn for strengthening STEM  pipeline in the US working with over 130 universities and colleges impacting 2.9 million students and upskilling more than 255,000 employees",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। NASSCOM reminds the U.S administration that the number of H-1B employees Indian प्रौद्योगिकी companies has reduced significantly as they steadily expanded local hiring. Also,  Indian tech industry  spent over $ 1.1 bn for strengthening STEM  pipeline in the US working with over 130 universities and colleges impacting 2.9 million students and upskilling more than 255,000 employees",
+      "analysis_hi": "संदर्भ: NASSCOM reminds the U.S administration that the number of H-1B employees Indian technology companies has reduced significantly as they steadily expanded local hiring. Also,  Indian tech industry  spent over $ 1.1 bn for strengthening STEM  pipeline in the US working with over 130 universities and co...\n\nप्रमुख बिंदु:\n• NASSCOM reminds the U.S administration that the number of H-1B employees Indian technology companies has reduced significantly as they steadily expanded local hiring\n• Also,  Indian tech industry  spent over $ 1.1 bn for strengthening STEM  pipeline in the US working with over 130 universities and colleges impacting 2.9 million students and upskilling more than 255,000 employees\n",
+      "analysis_en": "Reference: NASSCOM reminds the U.S administration that the number of H-1B employees Indian technology companies has reduced significantly as they steadily expanded local hiring. Also,  Indian tech industry  spent over $ 1.1 bn for strengthening STEM  pipeline in the US working with over 130 universities and co...\n\nKey Points:\n• NASSCOM reminds the U.S administration that the number of H-1B employees Indian technology companies has reduced significantly as they steadily expanded local hiring\n• Also,  Indian tech industry  spent over $ 1.1 bn for strengthening STEM  pipeline in the US working with over 130 universities and colleges impacting 2.9 million students and upskilling more than 255,000 employees\n",
+      "link": "https://www.thehindu.com/business/Economy/nasscom-strongly-responds-to-dhs-proposal-to-fix-h-1b-visa-fee-at-103265/article71389478.ece"
+    },
     {
       "id": "4c773b25308a",
       "date": "30 Aug 2026",
@@ -484,460 +1508,6 @@
       "analysis_hi": "संदर्भ: Temple officials said devotees found taking mobile phones inside the temple will be fined and the phones would be confiscated...\n\nप्रमुख बिंदु:\n• Temple officials said devotees found taking mobile phones inside the temple will be fined and the phones would be confiscated\n",
       "analysis_en": "Reference: Temple officials said devotees found taking mobile phones inside the temple will be fined and the phones would be confiscated...\n\nKey Points:\n• Temple officials said devotees found taking mobile phones inside the temple will be fined and the phones would be confiscated\n",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/hrce-department-sets-up-mobile-phone-deposit-centres-at-arunachaleswarar-and-sri-lakshminarasimhar-temples/article71407938.ece"
-    },
-    {
-      "id": "97421d6e2ef1",
-      "date": "30 Aug 2026",
-      "iso_date": "2026-08-30T08:53:58+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "India re-commits to concluding trade deal with Chile ‘within this year’",
-      "title_hi": "India re-commits to concluding trade deal with Chile ‘within this year’",
-      "summary_en": "The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile",
-      "analysis_hi": "संदर्भ: The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile...\n\nप्रमुख बिंदु:\n• The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile\n",
-      "analysis_en": "Reference: The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile...\n\nKey Points:\n• The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile\n",
-      "link": "https://www.thehindu.com/business/Economy/committed-to-conclude-trade-pact-talks-this-year-with-chile-centre/article71407223.ece"
-    },
-    {
-      "id": "cd9c0071a226",
-      "date": "30 Aug 2026",
-      "iso_date": "2026-08-30T06:03:31+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Mcap of 7 of top-10 most-valued firms erodes ₹1.13 lakh crore; Airtel, Reliance worst hit",
-      "title_hi": "Mcap of 7 of top-10 most-valued firms erodes ₹1.13 lakh crore; Airtel, Reliance worst hit",
-      "summary_en": "The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore. Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore. Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore.",
-      "analysis_hi": "संदर्भ: The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore. Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore....\n\nप्रमुख बिंदु:\n• The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore\n• Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore.\n",
-      "analysis_en": "Reference: The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore. Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore....\n\nKey Points:\n• The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore\n• Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore.\n",
-      "link": "https://www.thehindu.com/business/Economy/mcap-of-7-of-top-10-most-valued-firms-erodes-113-lakh-crore-airtel-reliance-worst-hit/article71407087.ece"
-    },
-    {
-      "id": "d0db00e7c738",
-      "date": "29 Aug 2026",
-      "iso_date": "2026-08-29T05:34:14+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Partial FDI opening in e-commerce “almost worse” than no opening: Competere chief",
-      "title_hi": "Partial FDI opening in e-commerce “almost worse” than no opening: Competere chief",
-      "summary_en": "The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The सरकार in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported.",
-      "analysis_hi": "संदर्भ: The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported....\n\nप्रमुख बिंदु:\n• The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported.\n",
-      "analysis_en": "Reference: The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported....\n\nKey Points:\n• The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported.\n",
-      "link": "https://www.thehindu.com/business/Economy/partial-fdi-opening-in-e-commerce-almost-worse-than-no-opening-competere-chief/article71373215.ece"
-    },
-    {
-      "id": "d7b820a8b9b4",
-      "date": "28 Aug 2026",
-      "iso_date": "2026-08-28T20:46:02+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Fiscal federalism, efficiency versus equity concerns",
-      "title_hi": "Fiscal federalism, efficiency versus equity concerns",
-      "summary_en": "The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation",
-      "analysis_hi": "संदर्भ: The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation...\n\nप्रमुख बिंदु:\n• The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation\n",
-      "analysis_en": "Reference: The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation...\n\nKey Points:\n• The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation\n",
-      "link": "https://www.thehindu.com/opinion/lead/fiscal-federalism-efficiency-versus-equity-concerns/article71310469.ece"
-    },
-    {
-      "id": "6e30380c87e4",
-      "date": "28 Aug 2026",
-      "iso_date": "2026-08-28T16:32:07+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "CSR spending lacks deep impact, job creation: Amitabh Kant",
-      "title_hi": "CSR spending lacks deep impact, job creation: Amitabh Kant",
-      "summary_en": "India must prioritise technology-driven, job-rich entrepreneurship in rural areas to achieve its ambition of growing from a $4 trillion economy to a $30 trillion economy by 2047.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India must prioritise प्रौद्योगिकी-driven, job-rich entrepreneurship in rural areas to achieve its ambition of growing from a $4 trillion अर्थव्यवस्था to a $30 trillion अर्थव्यवस्था by 2047.",
-      "analysis_hi": "संदर्भ: India must prioritise technology-driven, job-rich entrepreneurship in rural areas to achieve its ambition of growing from a $4 trillion economy to a $30 trillion economy by 2047....\n\nप्रमुख बिंदु:\n• India must prioritise technology-driven, job-rich entrepreneurship in rural areas to achieve its ambition of growing from a $4 trillion economy to a $30 trillion economy by 2047.\n",
-      "analysis_en": "Reference: India must prioritise technology-driven, job-rich entrepreneurship in rural areas to achieve its ambition of growing from a $4 trillion economy to a $30 trillion economy by 2047....\n\nKey Points:\n• India must prioritise technology-driven, job-rich entrepreneurship in rural areas to achieve its ambition of growing from a $4 trillion economy to a $30 trillion economy by 2047.\n",
-      "link": "https://www.thehindu.com/business/Economy/csr-spending-lacks-deep-impact-job-creation-amitabh-kant/article71401718.ece"
-    },
-    {
-      "id": "7297bd2a9c83",
-      "date": "28 Aug 2026",
-      "iso_date": "2026-08-28T16:15:25+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "1991 reforms could have begun in 1981, but not during Rajaji’s time, says Chidambaram",
-      "title_hi": "1991 reforms could have begun in 1981, but not during Rajaji’s time, says Chidambaram",
-      "summary_en": "The former Union Minister stated that before 1981, capitalist countries claimed to support an open market economy, but the absence of a rules-based global order prevented poor and middle-income countries from doing the same",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The former Union Minister stated that before 1981, capitalist countries claimed to support an open market अर्थव्यवस्था, but the absence of a rules-based global order prevented poor and middle-income countries from doing the same",
-      "analysis_hi": "संदर्भ: The former Union Minister stated that before 1981, capitalist countries claimed to support an open market economy, but the absence of a rules-based global order prevented poor and middle-income countries from doing the same...\n\nप्रमुख बिंदु:\n• The former Union Minister stated that before 1981, capitalist countries claimed to support an open market economy, but the absence of a rules-based global order prevented poor and middle-income countries from doing the same\n",
-      "analysis_en": "Reference: The former Union Minister stated that before 1981, capitalist countries claimed to support an open market economy, but the absence of a rules-based global order prevented poor and middle-income countries from doing the same...\n\nKey Points:\n• The former Union Minister stated that before 1981, capitalist countries claimed to support an open market economy, but the absence of a rules-based global order prevented poor and middle-income countries from doing the same\n",
-      "link": "https://www.thehindu.com/news/national/1991-reforms-could-have-begun-in-1981-but-not-during-rajajis-time-says-chidambaram/article71400718.ece"
-    },
-    {
-      "id": "d8e48779c75f",
-      "date": "28 Aug 2026",
-      "iso_date": "2026-08-28T12:17:23+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "IIP growth slows to 6.7% in July 2026, economists warn of sluggish rural consumption",
-      "title_hi": "IIP growth slows to 6.7% in July 2026, economists warn of sluggish rural consumption",
-      "summary_en": "July’s performance was, however, the second-best growth the Index of Industrial Production has seen since December last year, and was buoyed by the manufacturing and electricity and gas supply sectors",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। July’s performance was, however, the second-best growth the Index of Industrial Production has seen since December last year, and was buoyed by the manufacturing and electricity and gas supply sectors",
-      "analysis_hi": "संदर्भ: July’s performance was, however, the second-best growth the Index of Industrial Production has seen since December last year, and was buoyed by the manufacturing and electricity and gas supply sectors...\n\nप्रमुख बिंदु:\n• July’s performance was, however, the second-best growth the Index of Industrial Production has seen since December last year, and was buoyed by the manufacturing and electricity and gas supply sectors\n",
-      "analysis_en": "Reference: July’s performance was, however, the second-best growth the Index of Industrial Production has seen since December last year, and was buoyed by the manufacturing and electricity and gas supply sectors...\n\nKey Points:\n• July’s performance was, however, the second-best growth the Index of Industrial Production has seen since December last year, and was buoyed by the manufacturing and electricity and gas supply sectors\n",
-      "link": "https://www.thehindu.com/business/Economy/iip-growth-slows-to-67-in-july-2026-economists-warn-of-sluggish-rural-consumption/article71400167.ece"
-    },
-    {
-      "id": "a7d80800f970",
-      "date": "28 Aug 2026",
-      "iso_date": "2026-08-28T12:10:10+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "​Stock markets rebound, ending 2-day losing streak on buying in IT firms; Sensex jumps 331 points",
-      "title_hi": "​Stock markets rebound, ending 2-day losing streak on buying in IT firms; Sensex jumps 331 points",
-      "summary_en": "The 30-share BSE Sensex climbed 330.92 points, or 0.43%, to settle at 77,264.51. During the day, it jumped 424.38 points, or 0.55%, to 77,357.97",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The 30-share BSE Sensex climbed 330.92 points, or 0.43%, to settle at 77,264.51. During the day, it jumped 424.38 points, or 0.55%, to 77,357.97",
-      "analysis_hi": "संदर्भ: The 30-share BSE Sensex climbed 330.92 points, or 0.43%, to settle at 77,264.51. During the day, it jumped 424.38 points, or 0.55%, to 77,357.97...\n\nप्रमुख बिंदु:\n• The 30-share BSE Sensex climbed 330.92 points, or 0.43%, to settle at 77,264.51\n• During the day, it jumped 424.38 points, or 0.55%, to 77,357.97\n",
-      "analysis_en": "Reference: The 30-share BSE Sensex climbed 330.92 points, or 0.43%, to settle at 77,264.51. During the day, it jumped 424.38 points, or 0.55%, to 77,357.97...\n\nKey Points:\n• The 30-share BSE Sensex climbed 330.92 points, or 0.43%, to settle at 77,264.51\n• During the day, it jumped 424.38 points, or 0.55%, to 77,357.97\n",
-      "link": "https://www.thehindu.com/business/Industry/stock-markets-rebound-ending-2-day-losing-streak-on-buying-in-it-firms-sensex-jumps-331-points/article71400227.ece"
-    },
-    {
-      "id": "51011bfa7ff2",
-      "date": "28 Aug 2026",
-      "iso_date": "2026-08-28T08:24:33+00:00",
-      "category": "ir",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "International Relations"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: India and its neighborhood- relations",
-        "GS-2: Important International institutions, agencies and fora"
-      ],
-      "title_en": "India, Canada reiterate commitment to complete trade deal by end of 2026",
-      "title_hi": "India, Canada reiterate commitment to complete trade deal by end of 2026",
-      "summary_en": "A joint statement, issued by the Finance Ministers of both countries following the conclusion of the inaugural India-Canada Finance Ministers’ Economic and Financial Dialogue in Toronto, said that India had expressed its readiness to begin negotiations on a Bilateral Investment Treaty “at the earliest”",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A joint statement, issued by the Finance Ministers of both countries following the conclusion of the inaugural India-Canada Finance Ministers’ Economic and Financial Dialogue in Toronto, said that India had expressed its readiness to begin negotiations on a द्विपक्षीय Investment संधि “at the earliest”",
-      "analysis_hi": "संदर्भ: A joint statement, issued by the Finance Ministers of both countries following the conclusion of the inaugural India-Canada Finance Ministers’ Economic and Financial Dialogue in Toronto, said that India had expressed its readiness to begin negotiations on a Bilateral Investment Treaty “at the earlie...\n\nप्रमुख बिंदु:\n• A joint statement, issued by the Finance Ministers of both countries following the conclusion of the inaugural India-Canada Finance Ministers’ Economic and Financial Dialogue in Toronto, said that India had expressed its readiness to begin negotiations on a Bilateral Investment Treaty “at the earliest”\n",
-      "analysis_en": "Reference: A joint statement, issued by the Finance Ministers of both countries following the conclusion of the inaugural India-Canada Finance Ministers’ Economic and Financial Dialogue in Toronto, said that India had expressed its readiness to begin negotiations on a Bilateral Investment Treaty “at the earlie...\n\nKey Points:\n• A joint statement, issued by the Finance Ministers of both countries following the conclusion of the inaugural India-Canada Finance Ministers’ Economic and Financial Dialogue in Toronto, said that India had expressed its readiness to begin negotiations on a Bilateral Investment Treaty “at the earliest”\n",
-      "link": "https://www.thehindu.com/business/Economy/india-canada-reiterate-commitment-to-complete-trade-deal-by-end-of-2026/article71399403.ece"
-    },
-    {
-      "id": "e98aadd85368",
-      "date": "28 Aug 2026",
-      "iso_date": "2026-08-28T07:08:58+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "ECLGS 5.0 support for MSMEs to last only for the allocated guarantee cover",
-      "title_hi": "ECLGS 5.0 support for MSMEs to last only for the allocated guarantee cover",
-      "summary_en": "All its member lending institutions have been asked to sanction loans under the ECLGS 5.0 to MSMEs and non-MSMEs and apply for credit guarantee under the scheme as it will be considered on first come first served basis subject the availability of guarantee cover",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। All its member lending institutions have been asked to sanction loans under the ECLGS 5.0 to MSMEs and non-MSMEs and apply for credit guarantee under the योजना as it will be considered on first come first served basis subject the availability of guarantee cover",
-      "analysis_hi": "संदर्भ: All its member lending institutions have been asked to sanction loans under the ECLGS 5.0 to MSMEs and non-MSMEs and apply for credit guarantee under the scheme as it will be considered on first come first served basis subject the availability of guarantee cover...\n\nप्रमुख बिंदु:\n• All its member lending institutions have been asked to sanction loans under the ECLGS 5.0 to MSMEs and non-MSMEs and apply for credit guarantee under the scheme as it will be considered on first come first served basis subject the availability of guarantee cover\n",
-      "analysis_en": "Reference: All its member lending institutions have been asked to sanction loans under the ECLGS 5.0 to MSMEs and non-MSMEs and apply for credit guarantee under the scheme as it will be considered on first come first served basis subject the availability of guarantee cover...\n\nKey Points:\n• All its member lending institutions have been asked to sanction loans under the ECLGS 5.0 to MSMEs and non-MSMEs and apply for credit guarantee under the scheme as it will be considered on first come first served basis subject the availability of guarantee cover\n",
-      "link": "https://www.thehindu.com/business/eclgs-50-support-for-msmes-to-last-only-for-the-allocated-guarantee-cover/article71399181.ece"
-    },
-    {
-      "id": "a884ae27f037",
-      "date": "27 Aug 2026",
-      "iso_date": "2026-08-27T08:43:43+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "UPI completes 10 years of digital payments, sees 13,000-fold surge in transaction volume, 4,000-fold rise in value",
-      "title_hi": "UPI completes 10 years of digital payments, sees 13,000-fold surge in transaction volume, 4,000-fold rise in value",
-      "summary_en": "Annual UPI transaction volume rose from 1.78 crore in 2016-17 to more than 24,162 crore in 2025-26, an almost 13,000-fold increase, the Finance Ministry said in a statement",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Annual UPI transaction volume rose from 1.78 crore in 2016-17 to more than 24,162 crore in 2025-26, an almost 13,000-fold increase, the Finance Ministry said in a statement",
-      "analysis_hi": "संदर्भ: Annual UPI transaction volume rose from 1.78 crore in 2016-17 to more than 24,162 crore in 2025-26, an almost 13,000-fold increase, the Finance Ministry said in a statement...\n\nप्रमुख बिंदु:\n• Annual UPI transaction volume rose from 1.78 crore in 2016-17 to more than 24,162 crore in 2025-26, an almost 13,000-fold increase, the Finance Ministry said in a statement\n",
-      "analysis_en": "Reference: Annual UPI transaction volume rose from 1.78 crore in 2016-17 to more than 24,162 crore in 2025-26, an almost 13,000-fold increase, the Finance Ministry said in a statement...\n\nKey Points:\n• Annual UPI transaction volume rose from 1.78 crore in 2016-17 to more than 24,162 crore in 2025-26, an almost 13,000-fold increase, the Finance Ministry said in a statement\n",
-      "link": "https://www.thehindu.com/business/Economy/upi-completes-10-years-clocks-nearly-13000-fold-rise-in-transaction-volume/article71384088.ece"
-    },
-    {
-      "id": "792e1e45ace0",
-      "date": "26 Aug 2026",
-      "iso_date": "2026-08-26T09:59:24+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Gross FDI hit 15-year high of $30.7 billion in April-June 2026",
-      "title_hi": "Gross FDI hit 15-year high of $30.7 billion in April-June 2026",
-      "summary_en": "A longer-term analysis also shows that inflows are starting to outpace outflows on a more regular basis. For instance, while net FDI was negative in six out of the last 12 months, it was negative in only one of the last six months.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A longer-term analysis also shows that inflows are starting to outpace outflows on a more regular basis. For instance, while net FDI was negative in six out of the last 12 months, it was negative in only one of the last six months.",
-      "analysis_hi": "संदर्भ: A longer-term analysis also shows that inflows are starting to outpace outflows on a more regular basis. For instance, while net FDI was negative in six out of the last 12 months, it was negative in only one of the last six months....\n\nप्रमुख बिंदु:\n• A longer-term analysis also shows that inflows are starting to outpace outflows on a more regular basis\n• For instance, while net FDI was negative in six out of the last 12 months, it was negative in only one of the last six months.\n",
-      "analysis_en": "Reference: A longer-term analysis also shows that inflows are starting to outpace outflows on a more regular basis. For instance, while net FDI was negative in six out of the last 12 months, it was negative in only one of the last six months....\n\nKey Points:\n• A longer-term analysis also shows that inflows are starting to outpace outflows on a more regular basis\n• For instance, while net FDI was negative in six out of the last 12 months, it was negative in only one of the last six months.\n",
-      "link": "https://www.thehindu.com/business/Economy/gross-fdi-hit-15-year-high-of-307-billion-in-april-june-2026/article71392237.ece"
-    },
-    {
-      "id": "8244845c2adc",
-      "date": "26 Aug 2026",
-      "iso_date": "2026-08-26T09:46:07+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Union Budget: Customs duty cuts to facilitate domestic battery, solar cells manufacturing",
-      "title_hi": "Union Budget: Customs duty cuts to facilitate domestic battery, solar cells manufacturing",
-      "summary_en": "Customs exemptions for lithium-ion batteries, solar glass; renewable energy outlay rises",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Customs exemptions for lithium-ion batteries, solar glass; renewable energy outlay rises",
-      "analysis_hi": "संदर्भ: Customs exemptions for lithium-ion batteries, solar glass; renewable energy outlay rises...\n\nप्रमुख बिंदु:\n• Customs exemptions for lithium-ion batteries, solar glass; renewable energy outlay rises\n",
-      "analysis_en": "Reference: Customs exemptions for lithium-ion batteries, solar glass; renewable energy outlay rises...\n\nKey Points:\n• Customs exemptions for lithium-ion batteries, solar glass; renewable energy outlay rises\n",
-      "link": "https://www.thehindu.com/business/budget/union-budget-tax-exemption-capital-goods-lithium-ion-cells-for-battery-storage/article70577366.ece"
-    },
-    {
-      "id": "23b2c476c889",
-      "date": "26 Aug 2026",
-      "iso_date": "2026-08-26T07:13:15+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Global economy in tug-of-war between oil shock and AI boom: IMF chief",
-      "title_hi": "Global economy in tug-of-war between oil shock and AI boom: IMF chief",
-      "summary_en": "What started out as a U.S. phenomenon with AI is now becoming a growth engine for the global economy, with other countries ramping up construction of data centres and other infrastructure, Kristalina Georgieva said",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। What started out as a U.S. phenomenon with AI is now becoming a growth engine for the global अर्थव्यवस्था, with other countries ramping up construction of data centres and other infrastructure, Kristalina Georgieva said",
-      "analysis_hi": "संदर्भ: What started out as a U.S. phenomenon with AI is now becoming a growth engine for the global economy, with other countries ramping up construction of data centres and other infrastructure, Kristalina Georgieva said...\n\nप्रमुख बिंदु:\n• phenomenon with AI is now becoming a growth engine for the global economy, with other countries ramping up construction of data centres and other infrastructure, Kristalina Georgieva said\n",
-      "analysis_en": "Reference: What started out as a U.S. phenomenon with AI is now becoming a growth engine for the global economy, with other countries ramping up construction of data centres and other infrastructure, Kristalina Georgieva said...\n\nKey Points:\n• phenomenon with AI is now becoming a growth engine for the global economy, with other countries ramping up construction of data centres and other infrastructure, Kristalina Georgieva said\n",
-      "link": "https://www.thehindu.com/business/Economy/global-economy-in-tug-of-war-between-oil-shock-and-ai-boom-imf-chief/article71391847.ece"
-    },
-    {
-      "id": "39b6b4965998",
-      "date": "25 Aug 2026",
-      "iso_date": "2026-08-25T17:09:10+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Infrastructure projects see cost overrun of ₹3.4 lakh cr: MoSPI",
-      "title_hi": "Infrastructure projects see cost overrun of ₹3.4 lakh cr: MoSPI",
-      "summary_en": "A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ Departments were monitored, and it was found that the total revised cost was ₹37,10,642 crore compared to their original cost of ₹33,70,138 crore",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ Departments were monitored, and it was found that the total revised cost was ₹37,10,642 crore compared to their original cost of ₹33,70,138 crore",
-      "analysis_hi": "संदर्भ: A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ Departments were monitored, and it was found that the total revised cost was ₹37,10,642 crore compared to their original cost of ₹33,70,138 crore...\n\nप्रमुख बिंदु:\n• A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ Departments were monitored, and it was found that the total revised cost was ₹37,10,642 crore compared to their original cost of ₹33,70,138 crore\n",
-      "analysis_en": "Reference: A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ Departments were monitored, and it was found that the total revised cost was ₹37,10,642 crore compared to their original cost of ₹33,70,138 crore...\n\nKey Points:\n• A total of 1,775 ongoing infrastructure projects across 17 Central Ministries/ Departments were monitored, and it was found that the total revised cost was ₹37,10,642 crore compared to their original cost of ₹33,70,138 crore\n",
-      "link": "https://www.thehindu.com/business/Economy/infrastructure-projects-see-cost-overrun-of-34-lakh-cr-mospi/article71390217.ece"
-    },
-    {
-      "id": "10c02cfa6fb3",
-      "date": "25 Aug 2026",
-      "iso_date": "2026-08-25T16:16:13+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "NASSCOM strongly responds to DHS’ proposal to fix H-1B visa fee at $103,265",
-      "title_hi": "NASSCOM strongly responds to DHS’ proposal to fix H-1B visa fee at $103,265",
-      "summary_en": "NASSCOM reminds the U.S administration that the number of H-1B employees Indian technology companies has reduced significantly as they steadily expanded local hiring. Also,  Indian tech industry  spent over $ 1.1 bn for strengthening STEM  pipeline in the US working with over 130 universities and colleges impacting 2.9 million students and upskilling more than 255,000 employees",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। NASSCOM reminds the U.S administration that the number of H-1B employees Indian प्रौद्योगिकी companies has reduced significantly as they steadily expanded local hiring. Also,  Indian tech industry  spent over $ 1.1 bn for strengthening STEM  pipeline in the US working with over 130 universities and colleges impacting 2.9 million students and upskilling more than 255,000 employees",
-      "analysis_hi": "संदर्भ: NASSCOM reminds the U.S administration that the number of H-1B employees Indian technology companies has reduced significantly as they steadily expanded local hiring. Also,  Indian tech industry  spent over $ 1.1 bn for strengthening STEM  pipeline in the US working with over 130 universities and co...\n\nप्रमुख बिंदु:\n• NASSCOM reminds the U.S administration that the number of H-1B employees Indian technology companies has reduced significantly as they steadily expanded local hiring\n• Also,  Indian tech industry  spent over $ 1.1 bn for strengthening STEM  pipeline in the US working with over 130 universities and colleges impacting 2.9 million students and upskilling more than 255,000 employees\n",
-      "analysis_en": "Reference: NASSCOM reminds the U.S administration that the number of H-1B employees Indian technology companies has reduced significantly as they steadily expanded local hiring. Also,  Indian tech industry  spent over $ 1.1 bn for strengthening STEM  pipeline in the US working with over 130 universities and co...\n\nKey Points:\n• NASSCOM reminds the U.S administration that the number of H-1B employees Indian technology companies has reduced significantly as they steadily expanded local hiring\n• Also,  Indian tech industry  spent over $ 1.1 bn for strengthening STEM  pipeline in the US working with over 130 universities and colleges impacting 2.9 million students and upskilling more than 255,000 employees\n",
-      "link": "https://www.thehindu.com/business/Economy/nasscom-strongly-responds-to-dhs-proposal-to-fix-h-1b-visa-fee-at-103265/article71389478.ece"
     },
     {
       "id": "8e8def5351d7",
