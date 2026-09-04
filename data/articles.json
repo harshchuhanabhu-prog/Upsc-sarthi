@@ -1,8 +1,1119 @@
 {
-  "last_updated": "2026-09-03T00:44:14.380099+00:00",
-  "last_updated_ist": "03 September 2026, 06:14 AM IST",
-  "total_articles": 131,
+  "last_updated": "2026-09-04T00:39:56.512991+00:00",
+  "last_updated_ist": "04 September 2026, 06:09 AM IST",
+  "total_articles": 155,
   "articles": [
+    {
+      "id": "5dfc7016599e",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T23:52:57+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "High",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "ISRO successfully launches Earth observation satellite EOS-05",
+      "title_hi": "ISRO successfully launches Earth observation satellite EOS-05",
+      "summary_en": "The EOS-05 is India’s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The EOS-05 is India’s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth.",
+      "analysis_hi": "संदर्भ: The EOS-05 is India’s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth....\n\nप्रमुख बिंदु:\n• The EOS-05 is India’s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth.\n",
+      "analysis_en": "Reference: The EOS-05 is India’s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth....\n\nKey Points:\n• The EOS-05 is India’s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth.\n",
+      "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece"
+    },
+    {
+      "id": "94baadf44b6e",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T21:06:14+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Home Secretary reviews Himalayan States’ preparedness for glacial lake outbursts",
+      "title_hi": "Home Secretary reviews Himalayan States’ preparedness for glacial lake outbursts",
+      "summary_en": "States must move beyond a response-oriented approach and focus on preventive mitigation, risk reduction, and community-level readiness, says Home Secretary; stresses need for better early warning systems",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। States must move beyond a response-oriented approach and focus on preventive mitigation, risk reduction, and community-level readiness, says Home Secretary; stresses need for better early warning systems",
+      "analysis_hi": "संदर्भ: States must move beyond a response-oriented approach and focus on preventive mitigation, risk reduction, and community-level readiness, says Home Secretary; stresses need for better early warning systems...\n\nप्रमुख बिंदु:\n• States must move beyond a response-oriented approach and focus on preventive mitigation, risk reduction, and community-level readiness, says Home Secretary; stresses need for better early warning systems\n",
+      "analysis_en": "Reference: States must move beyond a response-oriented approach and focus on preventive mitigation, risk reduction, and community-level readiness, says Home Secretary; stresses need for better early warning systems...\n\nKey Points:\n• States must move beyond a response-oriented approach and focus on preventive mitigation, risk reduction, and community-level readiness, says Home Secretary; stresses need for better early warning systems\n",
+      "link": "https://www.thehindu.com/news/national/home-secy-reviews-himalayan-states-preparedness-for-glacial-lake-outbursts/article71424103.ece"
+    },
+    {
+      "id": "9902ac161c8b",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T20:59:09+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Courtroom dramas, clipped and shared",
+      "title_hi": "Courtroom dramas, clipped and shared",
+      "summary_en": "Live-streaming and virtual hearings have brought transparency and scrutiny to courtrooms. But footage is often snipped and uploaded onto social media platforms, sometimes stripped of context and repackaged for clicks. The Supreme Court has moved to restrict their circulation. Aaratrika Bhaumik examines what the interim order could mean for public access, judicial accountability, and the youth, which is accustomed to consuming bite-sized news",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Live-streaming and virtual hearings have brought transparency and scrutiny to courtrooms. But footage is often snipped and uploaded onto social media platforms, sometimes stripped of context and repackaged for clicks. The सुप्रीम कोर्ट has moved to restrict their circulation. Aaratrika Bhaumik examines what the interim order could mean for public access, judicial accountability, and the youth, which is accustomed to consuming bite-sized news",
+      "analysis_hi": "संदर्भ: Live-streaming and virtual hearings have brought transparency and scrutiny to courtrooms. But footage is often snipped and uploaded onto social media platforms, sometimes stripped of context and repackaged for clicks. The Supreme Court has moved to restrict their circulation. Aaratrika Bhaumik exami...\n\nप्रमुख बिंदु:\n• Live-streaming and virtual hearings have brought transparency and scrutiny to courtrooms\n• But footage is often snipped and uploaded onto social media platforms, sometimes stripped of context and repackaged for clicks\n• The Supreme Court has moved to restrict their circulation. Aaratrika Bhaumik examines what the interim order could mean for public access, judicial accountability, and the youth, which is accustomed to consuming bite-sized news\n",
+      "analysis_en": "Reference: Live-streaming and virtual hearings have brought transparency and scrutiny to courtrooms. But footage is often snipped and uploaded onto social media platforms, sometimes stripped of context and repackaged for clicks. The Supreme Court has moved to restrict their circulation. Aaratrika Bhaumik exami...\n\nKey Points:\n• Live-streaming and virtual hearings have brought transparency and scrutiny to courtrooms\n• But footage is often snipped and uploaded onto social media platforms, sometimes stripped of context and repackaged for clicks\n• The Supreme Court has moved to restrict their circulation. Aaratrika Bhaumik examines what the interim order could mean for public access, judicial accountability, and the youth, which is accustomed to consuming bite-sized news\n",
+      "link": "https://www.thehindu.com/news/national/courtroom-dramas-clipped-and-shared/article71418948.ece"
+    },
+    {
+      "id": "9f5a7193b802",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:57:55+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "On Uttam Kumar’s birth centenary, West Bengal CM vows to keep politics out of Tollywood",
+      "title_hi": "On Uttam Kumar’s birth centenary, West Bengal CM vows to keep politics out of Tollywood",
+      "summary_en": "On Uttam Kumar’s birth centenary, West Bengal CM vows to keep politics out of Tollywood",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। On Uttam Kumar’s birth centenary, West Bengal CM vows to keep politics out of Tollywood",
+      "analysis_hi": "संदर्भ: On Uttam Kumar’s birth centenary, West Bengal CM vows to keep politics out of Tollywood...\n\nप्रमुख बिंदु:\n• On Uttam Kumar’s birth centenary, West Bengal CM vows to keep politics out of Tollywood\n",
+      "analysis_en": "Reference: On Uttam Kumar’s birth centenary, West Bengal CM vows to keep politics out of Tollywood...\n\nKey Points:\n• On Uttam Kumar’s birth centenary, West Bengal CM vows to keep politics out of Tollywood\n",
+      "link": "https://www.thehindu.com/news/national/west-bengal/on-uttam-kumars-birth-centenary-west-bengal-cm-vows-to-keep-politics-out-of-tollywood/article71424013.ece"
+    },
+    {
+      "id": "6c60103345d6",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:50:44+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Akash Anand in need of more political maturity, won’t give him key party roles, says BSP chief Mayawati",
+      "title_hi": "Akash Anand in need of more political maturity, won’t give him key party roles, says BSP chief Mayawati",
+      "summary_en": "The former Uttar Pradesh Chief Minister also announces that her party will contest all elections across the country, however big or small, on its own",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The former Uttar Pradesh Chief Minister also announces that her party will contest all elections across the country, however big or small, on its own",
+      "analysis_hi": "संदर्भ: The former Uttar Pradesh Chief Minister also announces that her party will contest all elections across the country, however big or small, on its own...\n\nप्रमुख बिंदु:\n• The former Uttar Pradesh Chief Minister also announces that her party will contest all elections across the country, however big or small, on its own\n",
+      "analysis_en": "Reference: The former Uttar Pradesh Chief Minister also announces that her party will contest all elections across the country, however big or small, on its own...\n\nKey Points:\n• The former Uttar Pradesh Chief Minister also announces that her party will contest all elections across the country, however big or small, on its own\n",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/akash-anand-in-need-of-more-political-maturity-wont-give-him-key-party-roles-says-bsp-chief-mayawati/article71424916.ece"
+    },
+    {
+      "id": "5365cd040a9d",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:49:58+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "BJP seeks sacking of two Ministers over Congress MLA’s allegation of corruption in Karnataka",
+      "title_hi": "BJP seeks sacking of two Ministers over Congress MLA’s allegation of corruption in Karnataka",
+      "summary_en": "Congress MLA Ashok Kumar Rai accusing two engineers of KRIDL of collecting extra charges from contractors stating that it has to be given to the Dakshina Kannada district in-charge Minister and the department Minister",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Congress MLA Ashok Kumar Rai accusing two engineers of KRIDL of collecting extra charges from contractors stating that it has to be given to the Dakshina Kannada district in-charge Minister and the department Minister",
+      "analysis_hi": "संदर्भ: Congress MLA Ashok Kumar Rai accusing two engineers of KRIDL of collecting extra charges from contractors stating that it has to be given to the Dakshina Kannada district in-charge Minister and the department Minister...\n\nप्रमुख बिंदु:\n• Congress MLA Ashok Kumar Rai accusing two engineers of KRIDL of collecting extra charges from contractors stating that it has to be given to the Dakshina Kannada district in-charge Minister and the department Minister\n",
+      "analysis_en": "Reference: Congress MLA Ashok Kumar Rai accusing two engineers of KRIDL of collecting extra charges from contractors stating that it has to be given to the Dakshina Kannada district in-charge Minister and the department Minister...\n\nKey Points:\n• Congress MLA Ashok Kumar Rai accusing two engineers of KRIDL of collecting extra charges from contractors stating that it has to be given to the Dakshina Kannada district in-charge Minister and the department Minister\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/bjp-seeks-sacking-of-two-ministers-over-congress-mlas-allegation/article71419997.ece"
+    },
+    {
+      "id": "c7838758671d",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:49:48+00:00",
+      "category": "schemes",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2",
+        "GS-3"
+      ],
+      "subjects": [
+        "Schemes",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Welfare schemes for vulnerable sections",
+        "GS-3: Government policies and interventions"
+      ],
+      "title_en": "Sixth day of Maratha Reservation protest: Supporters block major national highways",
+      "title_hi": "Sixth day of Maratha Reservation protest: Supporters block major national highways",
+      "summary_en": "According to police, the influx of people visiting Antarwali Sarati has been increasing. In the meantime, a bandh was announced in Jalna on Thursday to extend support to the protest.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। According to police, the influx of people visiting Antarwali Sarati has been increasing. In the meantime, a bandh was announced in Jalna on Thursday to extend support to the protest.",
+      "analysis_hi": "संदर्भ: According to police, the influx of people visiting Antarwali Sarati has been increasing. In the meantime, a bandh was announced in Jalna on Thursday to extend support to the protest....\n\nप्रमुख बिंदु:\n• According to police, the influx of people visiting Antarwali Sarati has been increasing\n• In the meantime, a bandh was announced in Jalna on Thursday to extend support to the protest.\n",
+      "analysis_en": "Reference: According to police, the influx of people visiting Antarwali Sarati has been increasing. In the meantime, a bandh was announced in Jalna on Thursday to extend support to the protest....\n\nKey Points:\n• According to police, the influx of people visiting Antarwali Sarati has been increasing\n• In the meantime, a bandh was announced in Jalna on Thursday to extend support to the protest.\n",
+      "link": "https://www.thehindu.com/news/national/maharashtra/sixth-day-of-maratha-reservation-protest-supporters-block-major-national-highways/article71425027.ece"
+    },
+    {
+      "id": "3d8d1d94afb5",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:33:59+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Self-governance needed to address local issues: MP Sribharat",
+      "title_hi": "Self-governance needed to address local issues: MP Sribharat",
+      "summary_en": "Self-governance needed to address local issues: MP Sribharat",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Self-governance needed to address local issues: MP Sribharat",
+      "analysis_hi": "संदर्भ: Self-governance needed to address local issues: MP Sribharat...\n\nप्रमुख बिंदु:\n• Self-governance needed to address local issues: MP Sribharat\n",
+      "analysis_en": "Reference: Self-governance needed to address local issues: MP Sribharat...\n\nKey Points:\n• Self-governance needed to address local issues: MP Sribharat\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/self-governance-needed-to-address-local-issues-mp-sribharat/article71424752.ece"
+    },
+    {
+      "id": "b84c482a5c0d",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:33:48+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Congress’s criticism of GDP figures is a ‘dimagi Naxal’ mindset: BJP",
+      "title_hi": "Congress’s criticism of GDP figures is a ‘dimagi Naxal’ mindset: BJP",
+      "summary_en": "BJP MP Anil Baluni said rebasing did not begin with Prime Minister Narendra Modi’s tenure, the present exercise was the ninth such revision since Independence, and there were five revisions when the Congress was in power",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। BJP MP Anil Baluni said rebasing did not begin with प्रधानमंत्री Narendra Modi’s tenure, the present exercise was the ninth such revision since Independence, and there were five revisions when the Congress was in power",
+      "analysis_hi": "संदर्भ: BJP MP Anil Baluni said rebasing did not begin with Prime Minister Narendra Modi’s tenure, the present exercise was the ninth such revision since Independence, and there were five revisions when the Congress was in power...\n\nप्रमुख बिंदु:\n• BJP MP Anil Baluni said rebasing did not begin with Prime Minister Narendra Modi’s tenure, the present exercise was the ninth such revision since Independence, and there were five revisions when the Congress was in power\n",
+      "analysis_en": "Reference: BJP MP Anil Baluni said rebasing did not begin with Prime Minister Narendra Modi’s tenure, the present exercise was the ninth such revision since Independence, and there were five revisions when the Congress was in power...\n\nKey Points:\n• BJP MP Anil Baluni said rebasing did not begin with Prime Minister Narendra Modi’s tenure, the present exercise was the ninth such revision since Independence, and there were five revisions when the Congress was in power\n",
+      "link": "https://www.thehindu.com/news/national/congresss-criticism-of-gdp-figures-is-a-dimagi-naxal-mindset-bjp/article71425465.ece"
+    },
+    {
+      "id": "34b37f266797",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:24:29+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Fair eyeing to ‘educate Sanatani people about spirituality, culture’ to be held in Kanpur",
+      "title_hi": "Fair eyeing to ‘educate Sanatani people about spirituality, culture’ to be held in Kanpur",
+      "summary_en": "The objective of the fair is to correct an unfair perception about a majority population of the country and build a proper image of India that tallies with reality to enable the country, which is emerging as a global power, to play its rightful role in the world",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The objective of the fair is to correct an unfair perception about a majority population of the country and build a proper image of India that tallies with reality to enable the country, which is emerging as a global power, to play its rightful role in the world",
+      "analysis_hi": "संदर्भ: The objective of the fair is to correct an unfair perception about a majority population of the country and build a proper image of India that tallies with reality to enable the country, which is emerging as a global power, to play its rightful role in the world...\n\nप्रमुख बिंदु:\n• The objective of the fair is to correct an unfair perception about a majority population of the country and build a proper image of India that tallies with reality to enable the country, which is emerging as a global power, to play its rightful role in the world\n",
+      "analysis_en": "Reference: The objective of the fair is to correct an unfair perception about a majority population of the country and build a proper image of India that tallies with reality to enable the country, which is emerging as a global power, to play its rightful role in the world...\n\nKey Points:\n• The objective of the fair is to correct an unfair perception about a majority population of the country and build a proper image of India that tallies with reality to enable the country, which is emerging as a global power, to play its rightful role in the world\n",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/fair-eyeing-to-educate-sanatani-people-about-spirituality-culture-to-be-held-in-kanpur/article71425087.ece"
+    },
+    {
+      "id": "49a35fdf6395",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:16:19+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Periyar pollution: PCB serves closure notice on chicken rendering unit in Edayar",
+      "title_hi": "Periyar pollution: PCB serves closure notice on chicken rendering unit in Edayar",
+      "summary_en": "Action was taken after inspections by officials of the Environment Surveillance Centre of the Board in Eloor found unauthorised effluent discharge through the stormwater outlet pipe into the river",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Action was taken after inspections by officials of the पर्यावरण Surveillance Centre of the Board in Eloor found unauthorised effluent discharge through the stormwater outlet pipe into the river",
+      "analysis_hi": "संदर्भ: Action was taken after inspections by officials of the Environment Surveillance Centre of the Board in Eloor found unauthorised effluent discharge through the stormwater outlet pipe into the river...\n\nप्रमुख बिंदु:\n• Action was taken after inspections by officials of the Environment Surveillance Centre of the Board in Eloor found unauthorised effluent discharge through the stormwater outlet pipe into the river\n",
+      "analysis_en": "Reference: Action was taken after inspections by officials of the Environment Surveillance Centre of the Board in Eloor found unauthorised effluent discharge through the stormwater outlet pipe into the river...\n\nKey Points:\n• Action was taken after inspections by officials of the Environment Surveillance Centre of the Board in Eloor found unauthorised effluent discharge through the stormwater outlet pipe into the river\n",
+      "link": "https://www.thehindu.com/news/national/kerala/periyar-pollution-pcb-serves-closure-notice-on-chicken-rendering-unit-in-edayar/article71424954.ece"
+    },
+    {
+      "id": "11d7754663c4",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:13:18+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "CMs of all southern States to be invited for Dasara",
+      "title_hi": "CMs of all southern States to be invited for Dasara",
+      "summary_en": "CMs of all southern States to be invited for Dasara",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। CMs of all southern States to be invited for Dasara",
+      "analysis_hi": "संदर्भ: CMs of all southern States to be invited for Dasara...\n\nप्रमुख बिंदु:\n• CMs of all southern States to be invited for Dasara\n",
+      "analysis_en": "Reference: CMs of all southern States to be invited for Dasara...\n\nKey Points:\n• CMs of all southern States to be invited for Dasara\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/cms-of-all-southern-states-to-be-invited-for-dasara/article71425553.ece"
+    },
+    {
+      "id": "186fea863311",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:12:04+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Apex Bank election slated for September 10",
+      "title_hi": "Apex Bank election slated for September 10",
+      "summary_en": "Apex Bank election slated for September 10",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Apex Bank चुनाव slated for September 10",
+      "analysis_hi": "संदर्भ: Apex Bank election slated for September 10...\n\nप्रमुख बिंदु:\n• Apex Bank election slated for September 10\n",
+      "analysis_en": "Reference: Apex Bank election slated for September 10...\n\nKey Points:\n• Apex Bank election slated for September 10\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/apex-bank-election-slated-for-september-10/article71425183.ece"
+    },
+    {
+      "id": "373a42fb48ad",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:10:26+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "India’s Q1 GDP at 7.8% beats RBI estimates: Why is Garg questioning the data? | Business Matters",
+      "title_hi": "India’s Q1 GDP at 7.8% beats RBI estimates: Why is Garg questioning the data? | Business Matters",
+      "summary_en": "India’s latest Gross Domestic Product numbers seem impressive. Growth exceeded RBI’s own estimate of 7% for the April-June quarter. How did this happen? Aren’t ongoing wars, tariffs, geopolitical uncertainty having an impact? Let’s dive in.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India’s latest Gross Domestic Product numbers seem impressive. Growth exceeded RBI’s own estimate of 7% for the April-June quarter. How did this happen? Aren’t ongoing wars, tariffs, geopolitical uncertainty having an impact? Let’s dive in.",
+      "analysis_hi": "संदर्भ: India’s latest Gross Domestic Product numbers seem impressive. Growth exceeded RBI’s own estimate of 7% for the April-June quarter. How did this happen? Aren’t ongoing wars, tariffs, geopolitical uncertainty having an impact? Let’s dive in....\n\nप्रमुख बिंदु:\n• India’s latest Gross Domestic Product numbers seem impressive\n• Growth exceeded RBI’s own estimate of 7% for the April-June quarter\n• How did this happen? Aren’t ongoing wars, tariffs, geopolitical uncertainty having an impact? Let’s dive in.\n",
+      "analysis_en": "Reference: India’s latest Gross Domestic Product numbers seem impressive. Growth exceeded RBI’s own estimate of 7% for the April-June quarter. How did this happen? Aren’t ongoing wars, tariffs, geopolitical uncertainty having an impact? Let’s dive in....\n\nKey Points:\n• India’s latest Gross Domestic Product numbers seem impressive\n• Growth exceeded RBI’s own estimate of 7% for the April-June quarter\n• How did this happen? Aren’t ongoing wars, tariffs, geopolitical uncertainty having an impact? Let’s dive in.\n",
+      "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
+    },
+    {
+      "id": "8868a173c0f4",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:07:42+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Naidu urges TDP leaders to prepare for local body polls",
+      "title_hi": "Naidu urges TDP leaders to prepare for local body polls",
+      "summary_en": "Naidu urges TDP leaders to prepare for local body polls",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Naidu urges TDP leaders to prepare for local body polls",
+      "analysis_hi": "संदर्भ: Naidu urges TDP leaders to prepare for local body polls...\n\nप्रमुख बिंदु:\n• Naidu urges TDP leaders to prepare for local body polls\n",
+      "analysis_en": "Reference: Naidu urges TDP leaders to prepare for local body polls...\n\nKey Points:\n• Naidu urges TDP leaders to prepare for local body polls\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-urges-tdp-leaders-to-prepare-for-local-body-polls/article71425452.ece"
+    },
+    {
+      "id": "2edb0d7c3a98",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:07:00+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Lokayukta registers suo motu case over school ceiling collapse in Bagalkot",
+      "title_hi": "Lokayukta registers suo motu case over school ceiling collapse in Bagalkot",
+      "summary_en": "Lokayukta registers suo motu case over school ceiling collapse in Bagalkot",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Lokayukta registers suo motu case over school ceiling collapse in Bagalkot",
+      "analysis_hi": "संदर्भ: Lokayukta registers suo motu case over school ceiling collapse in Bagalkot...\n\nप्रमुख बिंदु:\n• Lokayukta registers suo motu case over school ceiling collapse in Bagalkot\n",
+      "analysis_en": "Reference: Lokayukta registers suo motu case over school ceiling collapse in Bagalkot...\n\nKey Points:\n• Lokayukta registers suo motu case over school ceiling collapse in Bagalkot\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/lokayukta-registers-suo-motu-case-over-school-ceiling-collapse-in-bagalkot/article71424354.ece"
+    },
+    {
+      "id": "82783b570476",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T19:01:12+00:00",
+      "category": "social",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-1",
+        "GS-2"
+      ],
+      "subjects": [
+        "Social Issues"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-1: Population and associated issues",
+        "GS-2: Issues relating to development and management of Social Sector/Services"
+      ],
+      "title_en": "Kanthapuram clarifies remarks on women amid criticism",
+      "title_hi": "Kanthapuram clarifies remarks on women amid criticism",
+      "summary_en": "He says “we are not the ones who advocate that women be buried or confined”",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। He says “we are not the ones who advocate that women be buried or confined”",
+      "analysis_hi": "संदर्भ: He says “we are not the ones who advocate that women be buried or confined”...\n\nप्रमुख बिंदु:\n• He says “we are not the ones who advocate that women be buried or confined”\n",
+      "analysis_en": "Reference: He says “we are not the ones who advocate that women be buried or confined”...\n\nKey Points:\n• He says “we are not the ones who advocate that women be buried or confined”\n",
+      "link": "https://www.thehindu.com/news/national/kerala/kanthapuram-clarifies-remarks-on-women-amid-criticism/article71425686.ece"
+    },
+    {
+      "id": "61ce1aeef2fa",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T18:59:49+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Centre willing to return unfilled NEET-SS seats to T.N. government doctors, tells Supreme Court",
+      "title_hi": "Centre willing to return unfilled NEET-SS seats to T.N. government doctors, tells Supreme Court",
+      "summary_en": "In a previous hearing, the Union government had submitted that out of the 152 seats transferred by the State of Tamil Nadu, approximately 40 seats continued to remain vacant",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In a previous hearing, the Union सरकार had submitted that out of the 152 seats transferred by the State of Tamil Nadu, approximately 40 seats continued to remain vacant",
+      "analysis_hi": "संदर्भ: In a previous hearing, the Union government had submitted that out of the 152 seats transferred by the State of Tamil Nadu, approximately 40 seats continued to remain vacant...\n\nप्रमुख बिंदु:\n• In a previous hearing, the Union government had submitted that out of the 152 seats transferred by the State of Tamil Nadu, approximately 40 seats continued to remain vacant\n",
+      "analysis_en": "Reference: In a previous hearing, the Union government had submitted that out of the 152 seats transferred by the State of Tamil Nadu, approximately 40 seats continued to remain vacant...\n\nKey Points:\n• In a previous hearing, the Union government had submitted that out of the 152 seats transferred by the State of Tamil Nadu, approximately 40 seats continued to remain vacant\n",
+      "link": "https://www.thehindu.com/news/national/centre-willing-to-return-unfilled-neet-ss-seats-to-tn-government-doctors-tells-supreme-court/article71425162.ece"
+    },
+    {
+      "id": "3b2722a68014",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T18:56:47+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Manickam Tagore alleges Narikuravar students were pushed out of govt. bus in Pudukkottai",
+      "title_hi": "Manickam Tagore alleges Narikuravar students were pushed out of govt. bus in Pudukkottai",
+      "summary_en": "Manickam Tagore alleges Narikuravar students were pushed out of govt. bus in Pudukkottai",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Manickam Tagore alleges Narikuravar students were pushed out of govt. bus in Pudukkottai",
+      "analysis_hi": "संदर्भ: Manickam Tagore alleges Narikuravar students were pushed out of govt. bus in Pudukkottai...\n\nप्रमुख बिंदु:\n• Manickam Tagore alleges Narikuravar students were pushed out of govt\n",
+      "analysis_en": "Reference: Manickam Tagore alleges Narikuravar students were pushed out of govt. bus in Pudukkottai...\n\nKey Points:\n• Manickam Tagore alleges Narikuravar students were pushed out of govt\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/manickam-tagore-alleges-narikuravar-students-were-pushed-out-of-govt-bus-in-pudukkottai/article71423691.ece"
+    },
+    {
+      "id": "cbb2173240ba",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T18:55:47+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Anbumani urges T.N. govt. to step up opposition to Mekedatu dam",
+      "title_hi": "Anbumani urges T.N. govt. to step up opposition to Mekedatu dam",
+      "summary_en": "Anbumani urges T.N. govt. to step up opposition to Mekedatu dam",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Anbumani urges T.N. govt. to step up opposition to Mekedatu dam",
+      "analysis_hi": "संदर्भ: Anbumani urges T.N. govt. to step up opposition to Mekedatu dam...\n\nप्रमुख बिंदु:\n• to step up opposition to Mekedatu dam\n",
+      "analysis_en": "Reference: Anbumani urges T.N. govt. to step up opposition to Mekedatu dam...\n\nKey Points:\n• to step up opposition to Mekedatu dam\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-urges-tn-govt-to-step-up-opposition-to-mekedatu-dam/article71423685.ece"
+    },
+    {
+      "id": "99715e1d70b8",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T12:29:22+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "‘No excuses left for textiles sector’: Commerce Minister Goyal on India’s new tariff advantages",
+      "title_hi": "‘No excuses left for textiles sector’: Commerce Minister Goyal on India’s new tariff advantages",
+      "summary_en": "Commerce Minister Piyush Goyal explained that India now stands equal to or stronger than competitors like Bangladesh and Vietnam in terms of the tariffs imposed on their textile exports.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Commerce Minister Piyush Goyal explained that India now stands equal to or stronger than competitors like Bangladesh and Vietnam in terms of the tariffs imposed on their textile exports.",
+      "analysis_hi": "संदर्भ: Commerce Minister Piyush Goyal explained that India now stands equal to or stronger than competitors like Bangladesh and Vietnam in terms of the tariffs imposed on their textile exports....\n\nप्रमुख बिंदु:\n• Commerce Minister Piyush Goyal explained that India now stands equal to or stronger than competitors like Bangladesh and Vietnam in terms of the tariffs imposed on their textile exports.\n",
+      "analysis_en": "Reference: Commerce Minister Piyush Goyal explained that India now stands equal to or stronger than competitors like Bangladesh and Vietnam in terms of the tariffs imposed on their textile exports....\n\nKey Points:\n• Commerce Minister Piyush Goyal explained that India now stands equal to or stronger than competitors like Bangladesh and Vietnam in terms of the tariffs imposed on their textile exports.\n",
+      "link": "https://www.thehindu.com/business/Economy/no-excuses-left-for-textiles-sector-commerce-minister-goyal-on-indias-new-tariff-advantages/article71423317.ece"
+    },
+    {
+      "id": "15ca701fb6d4",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T11:13:47+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Must balance ‘economic patriotism’ with cultural heritage: GJC on PM Modi’s call to stop gold purchases",
+      "title_hi": "Must balance ‘economic patriotism’ with cultural heritage: GJC on PM Modi’s call to stop gold purchases",
+      "summary_en": "The All India Gem & Jewellery Domestic Council (GJC) argued that the gold jewellery sector contributes nearly 7-8% to the economy and supports millions of livelihoods",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The All India Gem & Jewellery Domestic Council (GJC) argued that the gold jewellery sector contributes nearly 7-8% to the अर्थव्यवस्था and supports millions of livelihoods",
+      "analysis_hi": "संदर्भ: The All India Gem & Jewellery Domestic Council (GJC) argued that the gold jewellery sector contributes nearly 7-8% to the economy and supports millions of livelihoods...\n\nप्रमुख बिंदु:\n• The All India Gem & Jewellery Domestic Council (GJC) argued that the gold jewellery sector contributes nearly 7-8% to the economy and supports millions of livelihoods\n",
+      "analysis_en": "Reference: The All India Gem & Jewellery Domestic Council (GJC) argued that the gold jewellery sector contributes nearly 7-8% to the economy and supports millions of livelihoods...\n\nKey Points:\n• The All India Gem & Jewellery Domestic Council (GJC) argued that the gold jewellery sector contributes nearly 7-8% to the economy and supports millions of livelihoods\n",
+      "link": "https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece"
+    },
+    {
+      "id": "0b87717162da",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T11:06:54+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Reducing India’s exposure to U.S. tariff risks",
+      "title_hi": "Reducing India’s exposure to U.S. tariff risks",
+      "summary_en": "The Lindsey O. Graham Act puts India under pressure, but export diversification and domestic reforms can cushion shocks",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Lindsey O. Graham Act puts India under pressure, but export diversification and domestic reforms can cushion shocks",
+      "analysis_hi": "संदर्भ: The Lindsey O. Graham Act puts India under pressure, but export diversification and domestic reforms can cushion shocks...\n\nप्रमुख बिंदु:\n• Graham Act puts India under pressure, but export diversification and domestic reforms can cushion shocks\n",
+      "analysis_en": "Reference: The Lindsey O. Graham Act puts India under pressure, but export diversification and domestic reforms can cushion shocks...\n\nKey Points:\n• Graham Act puts India under pressure, but export diversification and domestic reforms can cushion shocks\n",
+      "link": "https://www.thehindu.com/opinion/op-ed/reducing-indias-exposure-to-us-tariff-risks/article71420665.ece"
+    },
+    {
+      "id": "646fa0bbb383",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T08:56:44+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "‘Ill-educated, egregiously wrong’: World Bank ED Mishra on row over GDP data",
+      "title_hi": "‘Ill-educated, egregiously wrong’: World Bank ED Mishra on row over GDP data",
+      "summary_en": "Mr. Mishra’s statement on X came amid a political row over the growth figures released by the government, which were contested by former Finance Secretary, S. C. Garg.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Mr. Mishra’s statement on X came amid a political row over the growth figures released by the सरकार, which were contested by former Finance Secretary, S. C. Garg.",
+      "analysis_hi": "संदर्भ: Mr. Mishra’s statement on X came amid a political row over the growth figures released by the government, which were contested by former Finance Secretary, S. C. Garg....\n\nप्रमुख बिंदु:\n• Mishra’s statement on X came amid a political row over the growth figures released by the government, which were contested by former Finance Secretary, S\n",
+      "analysis_en": "Reference: Mr. Mishra’s statement on X came amid a political row over the growth figures released by the government, which were contested by former Finance Secretary, S. C. Garg....\n\nKey Points:\n• Mishra’s statement on X came amid a political row over the growth figures released by the government, which were contested by former Finance Secretary, S\n",
+      "link": "https://www.thehindu.com/news/national/ill-educated-egregiously-wrong-world-bank-ed-mishra-on-row-over-gdp-data/article71422740.ece"
+    },
+    {
+      "id": "54e593f8536f",
+      "date": "03 Sep 2026",
+      "iso_date": "2026-09-03T07:24:24+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "India services activity expands in August, pace of growth cools to over 4-year low: PMI",
+      "title_hi": "India services activity expands in August, pace of growth cools to over 4-year low: PMI",
+      "summary_en": "The seasonally adjusted HSBC India Services PMI Business Activity Index rose from 53.3 in July to 54.1 in August, as demand conditions remained supportive and new business inflows continued to rise",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The seasonally adjusted HSBC India Services PMI Business Activity Index rose from 53.3 in July to 54.1 in August, as demand conditions remained supportive and new business inflows continued to rise",
+      "analysis_hi": "संदर्भ: The seasonally adjusted HSBC India Services PMI Business Activity Index rose from 53.3 in July to 54.1 in August, as demand conditions remained supportive and new business inflows continued to rise...\n\nप्रमुख बिंदु:\n• The seasonally adjusted HSBC India Services PMI Business Activity Index rose from 53.3 in July to 54.1 in August, as demand conditions remained supportive and new business inflows continued to rise\n",
+      "analysis_en": "Reference: The seasonally adjusted HSBC India Services PMI Business Activity Index rose from 53.3 in July to 54.1 in August, as demand conditions remained supportive and new business inflows continued to rise...\n\nKey Points:\n• The seasonally adjusted HSBC India Services PMI Business Activity Index rose from 53.3 in July to 54.1 in August, as demand conditions remained supportive and new business inflows continued to rise\n",
+      "link": "https://www.thehindu.com/business/Economy/india-services-activity-expands-in-august-pace-of-growth-cools-to-over-4-year-low-pmi/article71422789.ece"
+    },
+    {
+      "id": "0047e83a70e3",
+      "date": "02 Sep 2026",
+      "iso_date": "2026-09-02T16:04:34+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "RBI may prioritise closing dollar shorts with FCNR(B) inflow",
+      "title_hi": "RBI may prioritise closing dollar shorts with FCNR(B) inflow",
+      "summary_en": "RBI may prioritise closing dollar shorts with FCNR(B) inflow",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। RBI may prioritise closing dollar shorts with FCNR(B) inflow",
+      "analysis_hi": "संदर्भ: RBI may prioritise closing dollar shorts with FCNR(B) inflow...\n\nप्रमुख बिंदु:\n• RBI may prioritise closing dollar shorts with FCNR(B) inflow\n",
+      "analysis_en": "Reference: RBI may prioritise closing dollar shorts with FCNR(B) inflow...\n\nKey Points:\n• RBI may prioritise closing dollar shorts with FCNR(B) inflow\n",
+      "link": "https://www.thehindu.com/business/Economy/rbi-may-prioritise-closing-dollar-shorts-with-fcnrb-inflow/article71420486.ece"
+    },
+    {
+      "id": "1832528e385c",
+      "date": "02 Sep 2026",
+      "iso_date": "2026-09-02T13:53:05+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Japanese credit rating agency JCR upgrades India to A-, Finance Ministry welcomes move",
+      "title_hi": "Japanese credit rating agency JCR upgrades India to A-, Finance Ministry welcomes move",
+      "summary_en": "A higher rating means that India can borrow at lower costs in the future, leading to a lower interest burden on the exchequer.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A higher rating means that India can borrow at lower costs in the future, leading to a lower interest burden on the exchequer.",
+      "analysis_hi": "संदर्भ: A higher rating means that India can borrow at lower costs in the future, leading to a lower interest burden on the exchequer....\n\nप्रमुख बिंदु:\n• A higher rating means that India can borrow at lower costs in the future, leading to a lower interest burden on the exchequer.\n",
+      "analysis_en": "Reference: A higher rating means that India can borrow at lower costs in the future, leading to a lower interest burden on the exchequer....\n\nKey Points:\n• A higher rating means that India can borrow at lower costs in the future, leading to a lower interest burden on the exchequer.\n",
+      "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
+    },
+    {
+      "id": "d11f178d94b2",
+      "date": "02 Sep 2026",
+      "iso_date": "2026-09-02T13:36:47+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "RBI's forex swap facility draws over $136 billion; more than $127 billion mobilised via FCNR (B) deposits",
+      "title_hi": "RBI's forex swap facility draws over $136 billion; more than $127 billion mobilised via FCNR (B) deposits",
+      "summary_en": "The RBI had introduced a special USD-INR forex swap facility covering these instruments on June 8 this year to deal with forex outflows due to high oil prices and flight of capital owing to exit of Foreign Portfolio Investors (FOIs) from the stock market",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The RBI had introduced a special USD-INR forex swap facility covering these instruments on June 8 this year to deal with forex outflows due to high oil prices and flight of capital owing to exit of Foreign Portfolio Investors (FOIs) from the stock market",
+      "analysis_hi": "संदर्भ: The RBI had introduced a special USD-INR forex swap facility covering these instruments on June 8 this year to deal with forex outflows due to high oil prices and flight of capital owing to exit of Foreign Portfolio Investors (FOIs) from the stock market...\n\nप्रमुख बिंदु:\n• The RBI had introduced a special USD-INR forex swap facility covering these instruments on June 8 this year to deal with forex outflows due to high oil prices and flight of capital owing to exit of Foreign Portfolio Investors (FOIs) from the stock market\n",
+      "analysis_en": "Reference: The RBI had introduced a special USD-INR forex swap facility covering these instruments on June 8 this year to deal with forex outflows due to high oil prices and flight of capital owing to exit of Foreign Portfolio Investors (FOIs) from the stock market...\n\nKey Points:\n• The RBI had introduced a special USD-INR forex swap facility covering these instruments on June 8 this year to deal with forex outflows due to high oil prices and flight of capital owing to exit of Foreign Portfolio Investors (FOIs) from the stock market\n",
+      "link": "https://www.thehindu.com/business/Economy/rbi-forex-inflows-foreign-currency-non-resident-bank-deposits-swap-facility-data/article71419792.ece"
+    },
+    {
+      "id": "9213c2d5d3f5",
+      "date": "02 Sep 2026",
+      "iso_date": "2026-09-02T08:41:28+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "What’s behind the sudden surge in onion prices? | Explained",
+      "title_hi": "What’s behind the sudden surge in onion prices? | Explained",
+      "summary_en": "On September 1, the all-India average price reached ₹49.59 a kg, registering an over 74% increase from last year’s price",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। On September 1, the all-India average price reached ₹49.59 a kg, registering an over 74% increase from last year’s price",
+      "analysis_hi": "संदर्भ: On September 1, the all-India average price reached ₹49.59 a kg, registering an over 74% increase from last year’s price...\n\nप्रमुख बिंदु:\n• On September 1, the all-India average price reached ₹49.59 a kg, registering an over 74% increase from last year’s price\n",
+      "analysis_en": "Reference: On September 1, the all-India average price reached ₹49.59 a kg, registering an over 74% increase from last year’s price...\n\nKey Points:\n• On September 1, the all-India average price reached ₹49.59 a kg, registering an over 74% increase from last year’s price\n",
+      "link": "https://www.thehindu.com/business/agri-business/whats-behind-the-sudden-surge-in-onion-prices-explained/article71418083.ece"
+    },
+    {
+      "id": "87dcdb1feef5",
+      "date": "02 Sep 2026",
+      "iso_date": "2026-09-02T03:57:31+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Endurance test: On the Indian economy’s resilience",
+      "title_hi": "Endurance test: On the Indian economy’s resilience",
+      "summary_en": "The quarters ahead will test the stamina of India’s economic resilience",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The quarters ahead will test the stamina of India’s economic resilience",
+      "analysis_hi": "संदर्भ: The quarters ahead will test the stamina of India’s economic resilience...\n\nप्रमुख बिंदु:\n• The quarters ahead will test the stamina of India’s economic resilience\n",
+      "analysis_en": "Reference: The quarters ahead will test the stamina of India’s economic resilience...\n\nKey Points:\n• The quarters ahead will test the stamina of India’s economic resilience\n",
+      "link": "https://www.thehindu.com/opinion/editorial/endurance-test-on-the-indian-economys-resilience/article71415445.ece"
+    },
+    {
+      "id": "ca1a311576a9",
+      "date": "01 Sep 2026",
+      "iso_date": "2026-09-01T16:59:07+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "High",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "India’s data centre boom is colliding with its climate reality",
+      "title_hi": "India’s data centre boom is colliding with its climate reality",
+      "summary_en": "India’s data centre expansion is attracting billions in investment, but rising electricity and water demand, transmission bottlenecks, heat generation are straining already stressed resources; a national framework with enforceable standards is needed to manage these costs and protect consumers",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India’s data centre expansion is attracting billions in investment, but rising electricity and water demand, transmission bottlenecks, heat generation are straining already stressed resources; a national framework with enforceable standards is needed to manage these costs and protect consumers",
+      "analysis_hi": "संदर्भ: India’s data centre expansion is attracting billions in investment, but rising electricity and water demand, transmission bottlenecks, heat generation are straining already stressed resources; a national framework with enforceable standards is needed to manage these costs and protect consumers...\n\nप्रमुख बिंदु:\n• India’s data centre expansion is attracting billions in investment, but rising electricity and water demand, transmission bottlenecks, heat generation are straining already stressed resources; a national framework with enforceable standards is needed to manage these costs and protect consumers\n",
+      "analysis_en": "Reference: India’s data centre expansion is attracting billions in investment, but rising electricity and water demand, transmission bottlenecks, heat generation are straining already stressed resources; a national framework with enforceable standards is needed to manage these costs and protect consumers...\n\nKey Points:\n• India’s data centre expansion is attracting billions in investment, but rising electricity and water demand, transmission bottlenecks, heat generation are straining already stressed resources; a national framework with enforceable standards is needed to manage these costs and protect consumers\n",
+      "link": "https://www.thehindu.com/business/Economy/indias-data-centre-boom-is-colliding-with-its-climate-reality/article71415273.ece"
+    },
+    {
+      "id": "470c9f087ed9",
+      "date": "01 Sep 2026",
+      "iso_date": "2026-09-01T16:09:51+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Commercial LPG prices hiked by around ₹10 per cylinder, aviation fuel by ₹6.28/litre",
+      "title_hi": "Commercial LPG prices hiked by around ₹10 per cylinder, aviation fuel by ₹6.28/litre",
+      "summary_en": "Prices of the free-trade 5-kg cylinders were also increased by approximately ₹2 per cylinder. The price of domestic cylinders remained unchanged.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Prices of the free-trade 5-kg cylinders were also increased by approximately ₹2 per cylinder. The price of domestic cylinders remained unchanged.",
+      "analysis_hi": "संदर्भ: Prices of the free-trade 5-kg cylinders were also increased by approximately ₹2 per cylinder. The price of domestic cylinders remained unchanged....\n\nप्रमुख बिंदु:\n• Prices of the free-trade 5-kg cylinders were also increased by approximately ₹2 per cylinder\n• The price of domestic cylinders remained unchanged.\n",
+      "analysis_en": "Reference: Prices of the free-trade 5-kg cylinders were also increased by approximately ₹2 per cylinder. The price of domestic cylinders remained unchanged....\n\nKey Points:\n• Prices of the free-trade 5-kg cylinders were also increased by approximately ₹2 per cylinder\n• The price of domestic cylinders remained unchanged.\n",
+      "link": "https://www.thehindu.com/business/Economy/commercial-lpg-prices-hiked-by-10-per-cylinder/article71413554.ece"
+    },
+    {
+      "id": "5f3679a63457",
+      "date": "01 Sep 2026",
+      "iso_date": "2026-09-01T16:05:54+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "LPG consumption declines 16% in August, petrol-diesel accelerate amid erratic monsoons",
+      "title_hi": "LPG consumption declines 16% in August, petrol-diesel accelerate amid erratic monsoons",
+      "summary_en": "Consumption of petrol and diesel spurred about 7.9% and 6.5% respectively amid a lower-than-usual monsoon.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Consumption of petrol and diesel spurred about 7.9% and 6.5% respectively amid a lower-than-usual monsoon.",
+      "analysis_hi": "संदर्भ: Consumption of petrol and diesel spurred about 7.9% and 6.5% respectively amid a lower-than-usual monsoon....\n\nप्रमुख बिंदु:\n• Consumption of petrol and diesel spurred about 7.9% and 6.5% respectively amid a lower-than-usual monsoon.\n",
+      "analysis_en": "Reference: Consumption of petrol and diesel spurred about 7.9% and 6.5% respectively amid a lower-than-usual monsoon....\n\nKey Points:\n• Consumption of petrol and diesel spurred about 7.9% and 6.5% respectively amid a lower-than-usual monsoon.\n",
+      "link": "https://www.thehindu.com/business/Industry/lpg-consumption-declines-16-in-august-petrol-diesel-accelerate-amid-erratic-monsoons/article71416302.ece"
+    },
+    {
+      "id": "5c7d59a97ac2",
+      "date": "01 Sep 2026",
+      "iso_date": "2026-09-01T13:41:43+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "India’s CAD widens to $4.2 billion in Q1FY27",
+      "title_hi": "India’s CAD widens to $4.2 billion in Q1FY27",
+      "summary_en": "A larger merchandise trade deficit and portfolio outflows more than offset gains from services exports, remittances and FDI.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A larger merchandise trade deficit and portfolio outflows more than offset gains from services exports, remittances and FDI.",
+      "analysis_hi": "संदर्भ: A larger merchandise trade deficit and portfolio outflows more than offset gains from services exports, remittances and FDI....\n\nप्रमुख बिंदु:\n• A larger merchandise trade deficit and portfolio outflows more than offset gains from services exports, remittances and FDI.\n",
+      "analysis_en": "Reference: A larger merchandise trade deficit and portfolio outflows more than offset gains from services exports, remittances and FDI....\n\nKey Points:\n• A larger merchandise trade deficit and portfolio outflows more than offset gains from services exports, remittances and FDI.\n",
+      "link": "https://www.thehindu.com/business/Economy/indias-cad-widens-to-42-billion-in-q1fy27/article71415332.ece"
+    },
+    {
+      "id": "d8859a35dfda",
+      "date": "01 Sep 2026",
+      "iso_date": "2026-09-01T13:34:41+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Commerce Ministry discusses India-U.S. trade performance with exporters, their issues on market access",
+      "title_hi": "Commerce Ministry discusses India-U.S. trade performance with exporters, their issues on market access",
+      "summary_en": "“Some exporters urged the Ministry to try to conclude the trade pact with the U.S. at the earliest to reduce the uncertainties on the tariff front,” says industry official",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। “Some exporters urged the Ministry to try to conclude the trade pact with the U.S. at the earliest to reduce the uncertainties on the tariff front,” says industry official",
+      "analysis_hi": "संदर्भ: “Some exporters urged the Ministry to try to conclude the trade pact with the U.S. at the earliest to reduce the uncertainties on the tariff front,” says industry official...\n\nप्रमुख बिंदु:\n• “Some exporters urged the Ministry to try to conclude the trade pact with the U.S\n• at the earliest to reduce the uncertainties on the tariff front,” says industry official\n",
+      "analysis_en": "Reference: “Some exporters urged the Ministry to try to conclude the trade pact with the U.S. at the earliest to reduce the uncertainties on the tariff front,” says industry official...\n\nKey Points:\n• “Some exporters urged the Ministry to try to conclude the trade pact with the U.S\n• at the earliest to reduce the uncertainties on the tariff front,” says industry official\n",
+      "link": "https://www.thehindu.com/news/national/commerce-ministry-discusses-india-us-trade-performance-with-exporters-their-issues-on-market-access/article71415497.ece"
+    },
+    {
+      "id": "fab89f0bbf13",
+      "date": "01 Sep 2026",
+      "iso_date": "2026-09-01T11:02:30+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "GST revenue grows 14.8% in August 2026 to nearly ₹2 lakh crore",
+      "title_hi": "GST revenue grows 14.8% in August 2026 to nearly ₹2 lakh crore",
+      "summary_en": "The data shows that revenue from imports grew 29% whereas revenue from domestic transactions grew in the single digits",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The data shows that revenue from imports grew 29% whereas revenue from domestic transactions grew in the single digits",
+      "analysis_hi": "संदर्भ: The data shows that revenue from imports grew 29% whereas revenue from domestic transactions grew in the single digits...\n\nप्रमुख बिंदु:\n• The data shows that revenue from imports grew 29% whereas revenue from domestic transactions grew in the single digits\n",
+      "analysis_en": "Reference: The data shows that revenue from imports grew 29% whereas revenue from domestic transactions grew in the single digits...\n\nKey Points:\n• The data shows that revenue from imports grew 29% whereas revenue from domestic transactions grew in the single digits\n",
+      "link": "https://www.thehindu.com/business/Economy/gross-gst-mop-up-grows-15-to-2-lakh-crore-in-august/article71414164.ece"
+    },
+    {
+      "id": "011092f3009f",
+      "date": "01 Sep 2026",
+      "iso_date": "2026-09-01T10:41:56+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Tax cuts for FIIs would be ‘asking govt to fund their under-performance’: Elara Capital MD & CEO",
+      "title_hi": "Tax cuts for FIIs would be ‘asking govt to fund their under-performance’: Elara Capital MD & CEO",
+      "summary_en": "Managing Director and CEO of Elara Capital Harendra Kumar said that it is not international investors, but hedge funds and high frequency traders that are complaining about the taxation in India",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Managing Director and CEO of Elara Capital Harendra Kumar said that it is not international investors, but hedge funds and high frequency traders that are complaining about the taxation in India",
+      "analysis_hi": "संदर्भ: Managing Director and CEO of Elara Capital Harendra Kumar said that it is not international investors, but hedge funds and high frequency traders that are complaining about the taxation in India...\n\nप्रमुख बिंदु:\n• Managing Director and CEO of Elara Capital Harendra Kumar said that it is not international investors, but hedge funds and high frequency traders that are complaining about the taxation in India\n",
+      "analysis_en": "Reference: Managing Director and CEO of Elara Capital Harendra Kumar said that it is not international investors, but hedge funds and high frequency traders that are complaining about the taxation in India...\n\nKey Points:\n• Managing Director and CEO of Elara Capital Harendra Kumar said that it is not international investors, but hedge funds and high frequency traders that are complaining about the taxation in India\n",
+      "link": "https://www.thehindu.com/business/Economy/tax-cuts-for-fiis-would-be-asking-govt-to-fund-their-under-performance-elara-capital-md-ceo/article71414446.ece"
+    },
+    {
+      "id": "fb62e2d733a6",
+      "date": "01 Sep 2026",
+      "iso_date": "2026-09-01T10:09:48+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "PM Modi lauds 7.8% growth ‘despite wars, instability’; reiterates appeal for austerity measures",
+      "title_hi": "PM Modi lauds 7.8% growth ‘despite wars, instability’; reiterates appeal for austerity measures",
+      "summary_en": "In a social media video message, the Prime Minister also congratulated the country on the 7.8% GDP growth it had registered in the first quarter of the ongoing financial year 2026-27",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In a social media video message, the प्रधानमंत्री also congratulated the country on the 7.8% GDP growth it had registered in the first quarter of the ongoing financial year 2026-27",
+      "analysis_hi": "संदर्भ: In a social media video message, the Prime Minister also congratulated the country on the 7.8% GDP growth it had registered in the first quarter of the ongoing financial year 2026-27...\n\nप्रमुख बिंदु:\n• In a social media video message, the Prime Minister also congratulated the country on the 7.8% GDP growth it had registered in the first quarter of the ongoing financial year 2026-27\n",
+      "analysis_en": "Reference: In a social media video message, the Prime Minister also congratulated the country on the 7.8% GDP growth it had registered in the first quarter of the ongoing financial year 2026-27...\n\nKey Points:\n• In a social media video message, the Prime Minister also congratulated the country on the 7.8% GDP growth it had registered in the first quarter of the ongoing financial year 2026-27\n",
+      "link": "https://www.thehindu.com/news/national/pm-modi-lauds-78-growth-despite-wars-instability-asks-people-not-to-buy-gold-unless-necessary/article71413656.ece"
+    },
+    {
+      "id": "d8cd85bfa79e",
+      "date": "01 Sep 2026",
+      "iso_date": "2026-09-01T08:34:10+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "UPI transactions near record level of ₹29.8 lakh crore in August",
+      "title_hi": "UPI transactions near record level of ₹29.8 lakh crore in August",
+      "summary_en": "The value of transactions was ₹29.82 lakh crore in August, up from ₹24.85 lakh crore in the same month a year ago, registering 20% annual growth",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The value of transactions was ₹29.82 lakh crore in August, up from ₹24.85 lakh crore in the same month a year ago, registering 20% annual growth",
+      "analysis_hi": "संदर्भ: The value of transactions was ₹29.82 lakh crore in August, up from ₹24.85 lakh crore in the same month a year ago, registering 20% annual growth...\n\nप्रमुख बिंदु:\n• The value of transactions was ₹29.82 lakh crore in August, up from ₹24.85 lakh crore in the same month a year ago, registering 20% annual growth\n",
+      "analysis_en": "Reference: The value of transactions was ₹29.82 lakh crore in August, up from ₹24.85 lakh crore in the same month a year ago, registering 20% annual growth...\n\nKey Points:\n• The value of transactions was ₹29.82 lakh crore in August, up from ₹24.85 lakh crore in the same month a year ago, registering 20% annual growth\n",
+      "link": "https://www.thehindu.com/business/Economy/upi-transactions-near-record-level-in-august/article71414163.ece"
+    },
     {
       "id": "baa61c5f4c93",
       "date": "02 Sep 2026",
@@ -404,35 +1515,6 @@
       "link": "https://www.thehindu.com/news/national/cm-announces-1850-cr-for-road-repairs-in-chennai-and-other-urban-areas/article71420753.ece"
     },
     {
-      "id": "0b87717162da",
-      "date": "02 Sep 2026",
-      "iso_date": "2026-09-02T19:22:52+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Reducing India’s exposure to U.S. tariff risks",
-      "title_hi": "Reducing India’s exposure to U.S. tariff risks",
-      "summary_en": "The Lindsey O. Graham Act puts India under pressure, but export diversification and domestic reforms can cushion shocks",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Lindsey O. Graham Act puts India under pressure, but export diversification and domestic reforms can cushion shocks",
-      "analysis_hi": "संदर्भ: The Lindsey O. Graham Act puts India under pressure, but export diversification and domestic reforms can cushion shocks...\n\nप्रमुख बिंदु:\n• Graham Act puts India under pressure, but export diversification and domestic reforms can cushion shocks\n",
-      "analysis_en": "Reference: The Lindsey O. Graham Act puts India under pressure, but export diversification and domestic reforms can cushion shocks...\n\nKey Points:\n• Graham Act puts India under pressure, but export diversification and domestic reforms can cushion shocks\n",
-      "link": "https://www.thehindu.com/opinion/op-ed/reducing-indias-exposure-to-us-tariff-risks/article71420665.ece"
-    },
-    {
       "id": "ee4cfadfad71",
       "date": "02 Sep 2026",
       "iso_date": "2026-09-02T19:21:55+00:00",
@@ -517,404 +1599,6 @@
       "analysis_hi": "संदर्भ: TVK-Cong relationship muddled after persistent ‘Vijay as PM’ pitch...\n\nप्रमुख बिंदु:\n• TVK-Cong relationship muddled after persistent ‘Vijay as PM’ pitch\n",
       "analysis_en": "Reference: TVK-Cong relationship muddled after persistent ‘Vijay as PM’ pitch...\n\nKey Points:\n• TVK-Cong relationship muddled after persistent ‘Vijay as PM’ pitch\n",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-cong-relationship-muddled-after-persistent-vijay-as-pm-pitch/article71420380.ece"
-    },
-    {
-      "id": "0047e83a70e3",
-      "date": "02 Sep 2026",
-      "iso_date": "2026-09-02T16:04:34+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "RBI may prioritise closing dollar shorts with FCNR(B) inflow",
-      "title_hi": "RBI may prioritise closing dollar shorts with FCNR(B) inflow",
-      "summary_en": "RBI may prioritise closing dollar shorts with FCNR(B) inflow",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। RBI may prioritise closing dollar shorts with FCNR(B) inflow",
-      "analysis_hi": "संदर्भ: RBI may prioritise closing dollar shorts with FCNR(B) inflow...\n\nप्रमुख बिंदु:\n• RBI may prioritise closing dollar shorts with FCNR(B) inflow\n",
-      "analysis_en": "Reference: RBI may prioritise closing dollar shorts with FCNR(B) inflow...\n\nKey Points:\n• RBI may prioritise closing dollar shorts with FCNR(B) inflow\n",
-      "link": "https://www.thehindu.com/business/Economy/rbi-may-prioritise-closing-dollar-shorts-with-fcnrb-inflow/article71420486.ece"
-    },
-    {
-      "id": "1832528e385c",
-      "date": "02 Sep 2026",
-      "iso_date": "2026-09-02T13:53:05+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Japanese credit rating agency JCR upgrades India to A-, Finance Ministry welcomes move",
-      "title_hi": "Japanese credit rating agency JCR upgrades India to A-, Finance Ministry welcomes move",
-      "summary_en": "A higher rating means that India can borrow at lower costs in the future, leading to a lower interest burden on the exchequer.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A higher rating means that India can borrow at lower costs in the future, leading to a lower interest burden on the exchequer.",
-      "analysis_hi": "संदर्भ: A higher rating means that India can borrow at lower costs in the future, leading to a lower interest burden on the exchequer....\n\nप्रमुख बिंदु:\n• A higher rating means that India can borrow at lower costs in the future, leading to a lower interest burden on the exchequer.\n",
-      "analysis_en": "Reference: A higher rating means that India can borrow at lower costs in the future, leading to a lower interest burden on the exchequer....\n\nKey Points:\n• A higher rating means that India can borrow at lower costs in the future, leading to a lower interest burden on the exchequer.\n",
-      "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
-    },
-    {
-      "id": "d11f178d94b2",
-      "date": "02 Sep 2026",
-      "iso_date": "2026-09-02T13:36:47+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "RBI's forex swap facility draws over $136 billion; more than $127 billion mobilised via FCNR (B) deposits",
-      "title_hi": "RBI's forex swap facility draws over $136 billion; more than $127 billion mobilised via FCNR (B) deposits",
-      "summary_en": "The RBI had introduced a special USD-INR forex swap facility covering these instruments on June 8 this year to deal with forex outflows due to high oil prices and flight of capital owing to exit of Foreign Portfolio Investors (FOIs) from the stock market",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The RBI had introduced a special USD-INR forex swap facility covering these instruments on June 8 this year to deal with forex outflows due to high oil prices and flight of capital owing to exit of Foreign Portfolio Investors (FOIs) from the stock market",
-      "analysis_hi": "संदर्भ: The RBI had introduced a special USD-INR forex swap facility covering these instruments on June 8 this year to deal with forex outflows due to high oil prices and flight of capital owing to exit of Foreign Portfolio Investors (FOIs) from the stock market...\n\nप्रमुख बिंदु:\n• The RBI had introduced a special USD-INR forex swap facility covering these instruments on June 8 this year to deal with forex outflows due to high oil prices and flight of capital owing to exit of Foreign Portfolio Investors (FOIs) from the stock market\n",
-      "analysis_en": "Reference: The RBI had introduced a special USD-INR forex swap facility covering these instruments on June 8 this year to deal with forex outflows due to high oil prices and flight of capital owing to exit of Foreign Portfolio Investors (FOIs) from the stock market...\n\nKey Points:\n• The RBI had introduced a special USD-INR forex swap facility covering these instruments on June 8 this year to deal with forex outflows due to high oil prices and flight of capital owing to exit of Foreign Portfolio Investors (FOIs) from the stock market\n",
-      "link": "https://www.thehindu.com/business/Economy/rbi-forex-inflows-foreign-currency-non-resident-bank-deposits-swap-facility-data/article71419792.ece"
-    },
-    {
-      "id": "9213c2d5d3f5",
-      "date": "02 Sep 2026",
-      "iso_date": "2026-09-02T08:41:28+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "What’s behind the sudden surge in onion prices? | Explained",
-      "title_hi": "What’s behind the sudden surge in onion prices? | Explained",
-      "summary_en": "On September 1, the all-India average price reached ₹49.59 a kg, registering an over 74% increase from last year’s price",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। On September 1, the all-India average price reached ₹49.59 a kg, registering an over 74% increase from last year’s price",
-      "analysis_hi": "संदर्भ: On September 1, the all-India average price reached ₹49.59 a kg, registering an over 74% increase from last year’s price...\n\nप्रमुख बिंदु:\n• On September 1, the all-India average price reached ₹49.59 a kg, registering an over 74% increase from last year’s price\n",
-      "analysis_en": "Reference: On September 1, the all-India average price reached ₹49.59 a kg, registering an over 74% increase from last year’s price...\n\nKey Points:\n• On September 1, the all-India average price reached ₹49.59 a kg, registering an over 74% increase from last year’s price\n",
-      "link": "https://www.thehindu.com/business/agri-business/whats-behind-the-sudden-surge-in-onion-prices-explained/article71418083.ece"
-    },
-    {
-      "id": "87dcdb1feef5",
-      "date": "02 Sep 2026",
-      "iso_date": "2026-09-02T03:57:31+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Endurance test: On the Indian economy’s resilience",
-      "title_hi": "Endurance test: On the Indian economy’s resilience",
-      "summary_en": "The quarters ahead will test the stamina of India’s economic resilience",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The quarters ahead will test the stamina of India’s economic resilience",
-      "analysis_hi": "संदर्भ: The quarters ahead will test the stamina of India’s economic resilience...\n\nप्रमुख बिंदु:\n• The quarters ahead will test the stamina of India’s economic resilience\n",
-      "analysis_en": "Reference: The quarters ahead will test the stamina of India’s economic resilience...\n\nKey Points:\n• The quarters ahead will test the stamina of India’s economic resilience\n",
-      "link": "https://www.thehindu.com/opinion/editorial/endurance-test-on-the-indian-economys-resilience/article71415445.ece"
-    },
-    {
-      "id": "ca1a311576a9",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T16:59:07+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "High",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "India’s data centre boom is colliding with its climate reality",
-      "title_hi": "India’s data centre boom is colliding with its climate reality",
-      "summary_en": "India’s data centre expansion is attracting billions in investment, but rising electricity and water demand, transmission bottlenecks, heat generation are straining already stressed resources; a national framework with enforceable standards is needed to manage these costs and protect consumers",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India’s data centre expansion is attracting billions in investment, but rising electricity and water demand, transmission bottlenecks, heat generation are straining already stressed resources; a national framework with enforceable standards is needed to manage these costs and protect consumers",
-      "analysis_hi": "संदर्भ: India’s data centre expansion is attracting billions in investment, but rising electricity and water demand, transmission bottlenecks, heat generation are straining already stressed resources; a national framework with enforceable standards is needed to manage these costs and protect consumers...\n\nप्रमुख बिंदु:\n• India’s data centre expansion is attracting billions in investment, but rising electricity and water demand, transmission bottlenecks, heat generation are straining already stressed resources; a national framework with enforceable standards is needed to manage these costs and protect consumers\n",
-      "analysis_en": "Reference: India’s data centre expansion is attracting billions in investment, but rising electricity and water demand, transmission bottlenecks, heat generation are straining already stressed resources; a national framework with enforceable standards is needed to manage these costs and protect consumers...\n\nKey Points:\n• India’s data centre expansion is attracting billions in investment, but rising electricity and water demand, transmission bottlenecks, heat generation are straining already stressed resources; a national framework with enforceable standards is needed to manage these costs and protect consumers\n",
-      "link": "https://www.thehindu.com/business/Economy/indias-data-centre-boom-is-colliding-with-its-climate-reality/article71415273.ece"
-    },
-    {
-      "id": "470c9f087ed9",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T16:09:51+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Commercial LPG prices hiked by around ₹10 per cylinder, aviation fuel by ₹6.28/litre",
-      "title_hi": "Commercial LPG prices hiked by around ₹10 per cylinder, aviation fuel by ₹6.28/litre",
-      "summary_en": "Prices of the free-trade 5-kg cylinders were also increased by approximately ₹2 per cylinder. The price of domestic cylinders remained unchanged.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Prices of the free-trade 5-kg cylinders were also increased by approximately ₹2 per cylinder. The price of domestic cylinders remained unchanged.",
-      "analysis_hi": "संदर्भ: Prices of the free-trade 5-kg cylinders were also increased by approximately ₹2 per cylinder. The price of domestic cylinders remained unchanged....\n\nप्रमुख बिंदु:\n• Prices of the free-trade 5-kg cylinders were also increased by approximately ₹2 per cylinder\n• The price of domestic cylinders remained unchanged.\n",
-      "analysis_en": "Reference: Prices of the free-trade 5-kg cylinders were also increased by approximately ₹2 per cylinder. The price of domestic cylinders remained unchanged....\n\nKey Points:\n• Prices of the free-trade 5-kg cylinders were also increased by approximately ₹2 per cylinder\n• The price of domestic cylinders remained unchanged.\n",
-      "link": "https://www.thehindu.com/business/Economy/commercial-lpg-prices-hiked-by-10-per-cylinder/article71413554.ece"
-    },
-    {
-      "id": "5f3679a63457",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T16:05:54+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "LPG consumption declines 16% in August, petrol-diesel accelerate amid erratic monsoons",
-      "title_hi": "LPG consumption declines 16% in August, petrol-diesel accelerate amid erratic monsoons",
-      "summary_en": "Consumption of petrol and diesel spurred about 7.9% and 6.5% respectively amid a lower-than-usual monsoon.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Consumption of petrol and diesel spurred about 7.9% and 6.5% respectively amid a lower-than-usual monsoon.",
-      "analysis_hi": "संदर्भ: Consumption of petrol and diesel spurred about 7.9% and 6.5% respectively amid a lower-than-usual monsoon....\n\nप्रमुख बिंदु:\n• Consumption of petrol and diesel spurred about 7.9% and 6.5% respectively amid a lower-than-usual monsoon.\n",
-      "analysis_en": "Reference: Consumption of petrol and diesel spurred about 7.9% and 6.5% respectively amid a lower-than-usual monsoon....\n\nKey Points:\n• Consumption of petrol and diesel spurred about 7.9% and 6.5% respectively amid a lower-than-usual monsoon.\n",
-      "link": "https://www.thehindu.com/business/Industry/lpg-consumption-declines-16-in-august-petrol-diesel-accelerate-amid-erratic-monsoons/article71416302.ece"
-    },
-    {
-      "id": "5c7d59a97ac2",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T13:41:43+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "India’s CAD widens to $4.2 billion in Q1FY27",
-      "title_hi": "India’s CAD widens to $4.2 billion in Q1FY27",
-      "summary_en": "A larger merchandise trade deficit and portfolio outflows more than offset gains from services exports, remittances and FDI.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A larger merchandise trade deficit and portfolio outflows more than offset gains from services exports, remittances and FDI.",
-      "analysis_hi": "संदर्भ: A larger merchandise trade deficit and portfolio outflows more than offset gains from services exports, remittances and FDI....\n\nप्रमुख बिंदु:\n• A larger merchandise trade deficit and portfolio outflows more than offset gains from services exports, remittances and FDI.\n",
-      "analysis_en": "Reference: A larger merchandise trade deficit and portfolio outflows more than offset gains from services exports, remittances and FDI....\n\nKey Points:\n• A larger merchandise trade deficit and portfolio outflows more than offset gains from services exports, remittances and FDI.\n",
-      "link": "https://www.thehindu.com/business/Economy/indias-cad-widens-to-42-billion-in-q1fy27/article71415332.ece"
-    },
-    {
-      "id": "d8859a35dfda",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T13:34:41+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Commerce Ministry discusses India-U.S. trade performance with exporters, their issues on market access",
-      "title_hi": "Commerce Ministry discusses India-U.S. trade performance with exporters, their issues on market access",
-      "summary_en": "“Some exporters urged the Ministry to try to conclude the trade pact with the U.S. at the earliest to reduce the uncertainties on the tariff front,” says industry official",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। “Some exporters urged the Ministry to try to conclude the trade pact with the U.S. at the earliest to reduce the uncertainties on the tariff front,” says industry official",
-      "analysis_hi": "संदर्भ: “Some exporters urged the Ministry to try to conclude the trade pact with the U.S. at the earliest to reduce the uncertainties on the tariff front,” says industry official...\n\nप्रमुख बिंदु:\n• “Some exporters urged the Ministry to try to conclude the trade pact with the U.S\n• at the earliest to reduce the uncertainties on the tariff front,” says industry official\n",
-      "analysis_en": "Reference: “Some exporters urged the Ministry to try to conclude the trade pact with the U.S. at the earliest to reduce the uncertainties on the tariff front,” says industry official...\n\nKey Points:\n• “Some exporters urged the Ministry to try to conclude the trade pact with the U.S\n• at the earliest to reduce the uncertainties on the tariff front,” says industry official\n",
-      "link": "https://www.thehindu.com/news/national/commerce-ministry-discusses-india-us-trade-performance-with-exporters-their-issues-on-market-access/article71415497.ece"
-    },
-    {
-      "id": "fab89f0bbf13",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T11:02:30+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "GST revenue grows 14.8% in August 2026 to nearly ₹2 lakh crore",
-      "title_hi": "GST revenue grows 14.8% in August 2026 to nearly ₹2 lakh crore",
-      "summary_en": "The data shows that revenue from imports grew 29% whereas revenue from domestic transactions grew in the single digits",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The data shows that revenue from imports grew 29% whereas revenue from domestic transactions grew in the single digits",
-      "analysis_hi": "संदर्भ: The data shows that revenue from imports grew 29% whereas revenue from domestic transactions grew in the single digits...\n\nप्रमुख बिंदु:\n• The data shows that revenue from imports grew 29% whereas revenue from domestic transactions grew in the single digits\n",
-      "analysis_en": "Reference: The data shows that revenue from imports grew 29% whereas revenue from domestic transactions grew in the single digits...\n\nKey Points:\n• The data shows that revenue from imports grew 29% whereas revenue from domestic transactions grew in the single digits\n",
-      "link": "https://www.thehindu.com/business/Economy/gross-gst-mop-up-grows-15-to-2-lakh-crore-in-august/article71414164.ece"
-    },
-    {
-      "id": "011092f3009f",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T10:41:56+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Tax cuts for FIIs would be ‘asking govt to fund their under-performance’: Elara Capital MD & CEO",
-      "title_hi": "Tax cuts for FIIs would be ‘asking govt to fund their under-performance’: Elara Capital MD & CEO",
-      "summary_en": "Managing Director and CEO of Elara Capital Harendra Kumar said that it is not international investors, but hedge funds and high frequency traders that are complaining about the taxation in India",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Managing Director and CEO of Elara Capital Harendra Kumar said that it is not international investors, but hedge funds and high frequency traders that are complaining about the taxation in India",
-      "analysis_hi": "संदर्भ: Managing Director and CEO of Elara Capital Harendra Kumar said that it is not international investors, but hedge funds and high frequency traders that are complaining about the taxation in India...\n\nप्रमुख बिंदु:\n• Managing Director and CEO of Elara Capital Harendra Kumar said that it is not international investors, but hedge funds and high frequency traders that are complaining about the taxation in India\n",
-      "analysis_en": "Reference: Managing Director and CEO of Elara Capital Harendra Kumar said that it is not international investors, but hedge funds and high frequency traders that are complaining about the taxation in India...\n\nKey Points:\n• Managing Director and CEO of Elara Capital Harendra Kumar said that it is not international investors, but hedge funds and high frequency traders that are complaining about the taxation in India\n",
-      "link": "https://www.thehindu.com/business/Economy/tax-cuts-for-fiis-would-be-asking-govt-to-fund-their-under-performance-elara-capital-md-ceo/article71414446.ece"
-    },
-    {
-      "id": "fb62e2d733a6",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T10:09:48+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "PM Modi lauds 7.8% growth ‘despite wars, instability’; reiterates appeal for austerity measures",
-      "title_hi": "PM Modi lauds 7.8% growth ‘despite wars, instability’; reiterates appeal for austerity measures",
-      "summary_en": "In a social media video message, the Prime Minister also congratulated the country on the 7.8% GDP growth it had registered in the first quarter of the ongoing financial year 2026-27",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In a social media video message, the प्रधानमंत्री also congratulated the country on the 7.8% GDP growth it had registered in the first quarter of the ongoing financial year 2026-27",
-      "analysis_hi": "संदर्भ: In a social media video message, the Prime Minister also congratulated the country on the 7.8% GDP growth it had registered in the first quarter of the ongoing financial year 2026-27...\n\nप्रमुख बिंदु:\n• In a social media video message, the Prime Minister also congratulated the country on the 7.8% GDP growth it had registered in the first quarter of the ongoing financial year 2026-27\n",
-      "analysis_en": "Reference: In a social media video message, the Prime Minister also congratulated the country on the 7.8% GDP growth it had registered in the first quarter of the ongoing financial year 2026-27...\n\nKey Points:\n• In a social media video message, the Prime Minister also congratulated the country on the 7.8% GDP growth it had registered in the first quarter of the ongoing financial year 2026-27\n",
-      "link": "https://www.thehindu.com/news/national/pm-modi-lauds-78-growth-despite-wars-instability-asks-people-not-to-buy-gold-unless-necessary/article71413656.ece"
-    },
-    {
-      "id": "d8cd85bfa79e",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T08:34:10+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "UPI transactions near record level of ₹29.8 lakh crore in August",
-      "title_hi": "UPI transactions near record level of ₹29.8 lakh crore in August",
-      "summary_en": "The value of transactions was ₹29.82 lakh crore in August, up from ₹24.85 lakh crore in the same month a year ago, registering 20% annual growth",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The value of transactions was ₹29.82 lakh crore in August, up from ₹24.85 lakh crore in the same month a year ago, registering 20% annual growth",
-      "analysis_hi": "संदर्भ: The value of transactions was ₹29.82 lakh crore in August, up from ₹24.85 lakh crore in the same month a year ago, registering 20% annual growth...\n\nप्रमुख बिंदु:\n• The value of transactions was ₹29.82 lakh crore in August, up from ₹24.85 lakh crore in the same month a year ago, registering 20% annual growth\n",
-      "analysis_en": "Reference: The value of transactions was ₹29.82 lakh crore in August, up from ₹24.85 lakh crore in the same month a year ago, registering 20% annual growth...\n\nKey Points:\n• The value of transactions was ₹29.82 lakh crore in August, up from ₹24.85 lakh crore in the same month a year ago, registering 20% annual growth\n",
-      "link": "https://www.thehindu.com/business/Economy/upi-transactions-near-record-level-in-august/article71414163.ece"
     },
     {
       "id": "48bdbbc662aa",
