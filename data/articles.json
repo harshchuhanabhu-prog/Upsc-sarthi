@@ -1,8 +1,1119 @@
 {
-  "last_updated": "2026-09-09T00:45:50.979715+00:00",
-  "last_updated_ist": "09 September 2026, 06:15 AM IST",
+  "last_updated": "2026-09-10T00:40:45.289170+00:00",
+  "last_updated_ist": "10 September 2026, 06:10 AM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "ae0b1ea3b275",
+      "date": "10 Sep 2026",
+      "iso_date": "2026-09-10T00:32:50+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Teaching job aspirants protests in Prayagraj seeking recruitment",
+      "title_hi": "Teaching job aspirants protests in Prayagraj seeking recruitment",
+      "summary_en": "The Sanyukt Pratiyogi Chhatra Hunkar Manch, an organisation based in Prayagraj representing aspirants of competitive government recruitment examinations, has also expressed its support for the candidates.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Sanyukt Pratiyogi Chhatra Hunkar Manch, an organisation based in Prayagraj representing aspirants of competitive सरकार recruitment examinations, has also expressed its support for the candidates.",
+      "analysis_hi": "संदर्भ: The Sanyukt Pratiyogi Chhatra Hunkar Manch, an organisation based in Prayagraj representing aspirants of competitive government recruitment examinations, has also expressed its support for the candidates....\n\nप्रमुख बिंदु:\n• The Sanyukt Pratiyogi Chhatra Hunkar Manch, an organisation based in Prayagraj representing aspirants of competitive government recruitment examinations, has also expressed its support for the candidates.\n",
+      "analysis_en": "Reference: The Sanyukt Pratiyogi Chhatra Hunkar Manch, an organisation based in Prayagraj representing aspirants of competitive government recruitment examinations, has also expressed its support for the candidates....\n\nKey Points:\n• The Sanyukt Pratiyogi Chhatra Hunkar Manch, an organisation based in Prayagraj representing aspirants of competitive government recruitment examinations, has also expressed its support for the candidates.\n",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/teaching-job-aspirants-protests-in-prayagraj-seeking-recruitment/article71448450.ece"
+    },
+    {
+      "id": "44dc1e48891f",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T22:49:09+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "MPSC aspirant allegedly ends life in Pune, Abhijeet Dipke to visit family",
+      "title_hi": "MPSC aspirant allegedly ends life in Pune, Abhijeet Dipke to visit family",
+      "summary_en": "MPSC students and aspirants have been staging massive protests, particularly in cities like Pune and Chhatrapati Sambhajinagar, due to widespread anger over alleged examination irregularities, paper leaks, and delays in the recruitment process.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। MPSC students and aspirants have been staging massive protests, particularly in cities like Pune and Chhatrapati Sambhajinagar, due to widespread anger over alleged examination irregularities, paper leaks, and delays in the recruitment process.",
+      "analysis_hi": "संदर्भ: MPSC students and aspirants have been staging massive protests, particularly in cities like Pune and Chhatrapati Sambhajinagar, due to widespread anger over alleged examination irregularities, paper leaks, and delays in the recruitment process....\n\nप्रमुख बिंदु:\n• MPSC students and aspirants have been staging massive protests, particularly in cities like Pune and Chhatrapati Sambhajinagar, due to widespread anger over alleged examination irregularities, paper leaks, and delays in the recruitment process.\n",
+      "analysis_en": "Reference: MPSC students and aspirants have been staging massive protests, particularly in cities like Pune and Chhatrapati Sambhajinagar, due to widespread anger over alleged examination irregularities, paper leaks, and delays in the recruitment process....\n\nKey Points:\n• MPSC students and aspirants have been staging massive protests, particularly in cities like Pune and Chhatrapati Sambhajinagar, due to widespread anger over alleged examination irregularities, paper leaks, and delays in the recruitment process.\n",
+      "link": "https://www.thehindu.com/news/national/maharashtra/mpsc-aspirant-allegedly-ends-life-in-pune-abhijeet-dipke-to-visit-family/article71448697.ece"
+    },
+    {
+      "id": "f12df436f7b7",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T22:30:16+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Concern grows over structures linked with Muslim community in wake of notices, demolition in Uttar Pradesh",
+      "title_hi": "Concern grows over structures linked with Muslim community in wake of notices, demolition in Uttar Pradesh",
+      "summary_en": "The concern comes against the backdrop of the demolition of a century-old mosque inside the Saharanpur Collectorate complex on September 5 and authorities in Moradabad issuing notice recently to the management of the Mustafa Mosque, describing it as an “unauthorised construction”.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The concern comes against the backdrop of the demolition of a century-old mosque inside the Saharanpur Collectorate complex on September 5 and authorities in Moradabad issuing notice recently to the management of the Mustafa Mosque, describing it as an “unauthorised construction”.",
+      "analysis_hi": "संदर्भ: The concern comes against the backdrop of the demolition of a century-old mosque inside the Saharanpur Collectorate complex on September 5 and authorities in Moradabad issuing notice recently to the management of the Mustafa Mosque, describing it as an “unauthorised construction”....\n\nप्रमुख बिंदु:\n• The concern comes against the backdrop of the demolition of a century-old mosque inside the Saharanpur Collectorate complex on September 5 and authorities in Moradabad issuing notice recently to the management of the Mustafa Mosque, describing it as an “unauthorised construction”.\n",
+      "analysis_en": "Reference: The concern comes against the backdrop of the demolition of a century-old mosque inside the Saharanpur Collectorate complex on September 5 and authorities in Moradabad issuing notice recently to the management of the Mustafa Mosque, describing it as an “unauthorised construction”....\n\nKey Points:\n• The concern comes against the backdrop of the demolition of a century-old mosque inside the Saharanpur Collectorate complex on September 5 and authorities in Moradabad issuing notice recently to the management of the Mustafa Mosque, describing it as an “unauthorised construction”.\n",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/concern-grows-over-structures-linked-with-muslim-community-in-wake-of-notices-demolition-in-uttar-pradesh/article71447863.ece"
+    },
+    {
+      "id": "fec769c49e8c",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T21:58:11+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Punjab govt. employees call off their strike after assurance",
+      "title_hi": "Punjab govt. employees call off their strike after assurance",
+      "summary_en": "The employees, who had on Tuesday, September 8, observed a day-long strike, were demanding that the government withdraw its letter branding their August 27 mass casual leave taken in protest as “unauthorised leave”.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The employees, who had on Tuesday, September 8, observed a day-long strike, were demanding that the सरकार withdraw its letter branding their August 27 mass casual leave taken in protest as “unauthorised leave”.",
+      "analysis_hi": "संदर्भ: The employees, who had on Tuesday, September 8, observed a day-long strike, were demanding that the government withdraw its letter branding their August 27 mass casual leave taken in protest as “unauthorised leave”....\n\nप्रमुख बिंदु:\n• The employees, who had on Tuesday, September 8, observed a day-long strike, were demanding that the government withdraw its letter branding their August 27 mass casual leave taken in protest as “unauthorised leave”.\n",
+      "analysis_en": "Reference: The employees, who had on Tuesday, September 8, observed a day-long strike, were demanding that the government withdraw its letter branding their August 27 mass casual leave taken in protest as “unauthorised leave”....\n\nKey Points:\n• The employees, who had on Tuesday, September 8, observed a day-long strike, were demanding that the government withdraw its letter branding their August 27 mass casual leave taken in protest as “unauthorised leave”.\n",
+      "link": "https://www.thehindu.com/news/national/punjab/punjab-govt-employees-call-off-their-strike-after-assurance/article71447845.ece"
+    },
+    {
+      "id": "f48adcdd6d71",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T21:39:48+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "‘Why nine accused in Palghar doctor assault case are absconding?’: Bombay HC raps police",
+      "title_hi": "‘Why nine accused in Palghar doctor assault case are absconding?’: Bombay HC raps police",
+      "summary_en": "Calling the police action “unacceptable”, Court observed that police has failed to learn from previous incident in July where a doctor was assaulted in Thane District’s Dombivli region’s public hospital",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Calling the police action “unacceptable”, Court observed that police has failed to learn from previous incident in July where a doctor was assaulted in Thane District’s Dombivli region’s public hospital",
+      "analysis_hi": "संदर्भ: Calling the police action “unacceptable”, Court observed that police has failed to learn from previous incident in July where a doctor was assaulted in Thane District’s Dombivli region’s public hospital...\n\nप्रमुख बिंदु:\n• Calling the police action “unacceptable”, Court observed that police has failed to learn from previous incident in July where a doctor was assaulted in Thane District’s Dombivli region’s public hospital\n",
+      "analysis_en": "Reference: Calling the police action “unacceptable”, Court observed that police has failed to learn from previous incident in July where a doctor was assaulted in Thane District’s Dombivli region’s public hospital...\n\nKey Points:\n• Calling the police action “unacceptable”, Court observed that police has failed to learn from previous incident in July where a doctor was assaulted in Thane District’s Dombivli region’s public hospital\n",
+      "link": "https://www.thehindu.com/news/national/maharashtra/why-nine-accused-in-palghar-doctor-assault-case-are-absconding-bombay-hc-raps-police/article71448061.ece"
+    },
+    {
+      "id": "233d80c5ae6e",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T21:25:10+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Madhya Pradesh govt. hikes MBBS intern stipend by 50% amid protests, hindered medical services",
+      "title_hi": "Madhya Pradesh govt. hikes MBBS intern stipend by 50% amid protests, hindered medical services",
+      "summary_en": "The government has ordered an administrative investigation into the use of water cannon and “disproportionate force” during the Monday (September 7) protest of interns.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The सरकार has ordered an administrative investigation into the use of water cannon and “disproportionate force” during the Monday (September 7) protest of interns.",
+      "analysis_hi": "संदर्भ: The government has ordered an administrative investigation into the use of water cannon and “disproportionate force” during the Monday (September 7) protest of interns....\n\nप्रमुख बिंदु:\n• The government has ordered an administrative investigation into the use of water cannon and “disproportionate force” during the Monday (September 7) protest of interns.\n",
+      "analysis_en": "Reference: The government has ordered an administrative investigation into the use of water cannon and “disproportionate force” during the Monday (September 7) protest of interns....\n\nKey Points:\n• The government has ordered an administrative investigation into the use of water cannon and “disproportionate force” during the Monday (September 7) protest of interns.\n",
+      "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-medical-interns-protest-demand-stipend-hike-slam-police-action/article71446487.ece"
+    },
+    {
+      "id": "5f239140305c",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T20:31:33+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Forest rights group asks Tribal Affairs Ministry to withdraw stand on Gram Sabha consent",
+      "title_hi": "Forest rights group asks Tribal Affairs Ministry to withdraw stand on Gram Sabha consent",
+      "summary_en": "Campaign for Survival and Dignity further claims argument that Gram Sabha consent is holding up government projects is part of “misinformation campaign”",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Campaign for Survival and Dignity further claims argument that Gram Sabha consent is holding up सरकार projects is part of “misinformation campaign”",
+      "analysis_hi": "संदर्भ: Campaign for Survival and Dignity further claims argument that Gram Sabha consent is holding up government projects is part of “misinformation campaign”...\n\nप्रमुख बिंदु:\n• Campaign for Survival and Dignity further claims argument that Gram Sabha consent is holding up government projects is part of “misinformation campaign”\n",
+      "analysis_en": "Reference: Campaign for Survival and Dignity further claims argument that Gram Sabha consent is holding up government projects is part of “misinformation campaign”...\n\nKey Points:\n• Campaign for Survival and Dignity further claims argument that Gram Sabha consent is holding up government projects is part of “misinformation campaign”\n",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/forest-rights-group-asks-tribal-affairs-ministry-to-withdraw-stand-on-gram-sabha-consent/article71448173.ece"
+    },
+    {
+      "id": "238ee90266de",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T20:31:06+00:00",
+      "category": "security",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Security"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Linkages between development and spread of extremism",
+        "GS-3: Basics of cyber security",
+        "GS-3: Role of external state and non-state actors"
+      ],
+      "title_en": "‘All parties are treated equally in SC’, CJI says in Rahul Gandhi case",
+      "title_hi": "‘All parties are treated equally in SC’, CJI says in Rahul Gandhi case",
+      "summary_en": "The exchange happened during an oral mentioning by Mr. Bhatia to de-tag Mr. Gandhi’s plea against criminal proceedings arising from his alleged remarks concerning the Army and the Chinese attack in the context of the 2020 Galwan border clash",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The exchange happened during an oral mentioning by Mr. Bhatia to de-tag Mr. Gandhi’s plea against criminal proceedings arising from his alleged remarks concerning the Army and the Chinese attack in the context of the 2020 Galwan border clash",
+      "analysis_hi": "संदर्भ: The exchange happened during an oral mentioning by Mr. Bhatia to de-tag Mr. Gandhi’s plea against criminal proceedings arising from his alleged remarks concerning the Army and the Chinese attack in the context of the 2020 Galwan border clash...\n\nप्रमुख बिंदु:\n• The exchange happened during an oral mentioning by Mr\n• Gandhi’s plea against criminal proceedings arising from his alleged remarks concerning the Army and the Chinese attack in the context of the 2020 Galwan border clash\n",
+      "analysis_en": "Reference: The exchange happened during an oral mentioning by Mr. Bhatia to de-tag Mr. Gandhi’s plea against criminal proceedings arising from his alleged remarks concerning the Army and the Chinese attack in the context of the 2020 Galwan border clash...\n\nKey Points:\n• The exchange happened during an oral mentioning by Mr\n• Gandhi’s plea against criminal proceedings arising from his alleged remarks concerning the Army and the Chinese attack in the context of the 2020 Galwan border clash\n",
+      "link": "https://www.thehindu.com/news/national/all-parties-are-treated-equally-in-sc-cji-says-in-rahul-gandhi-case/article71448660.ece"
+    },
+    {
+      "id": "813e44e61258",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T20:29:10+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Local tribals oppose appointment of dreaded ex-Maoist as co-ordinator at Gondwana University",
+      "title_hi": "Local tribals oppose appointment of dreaded ex-Maoist as co-ordinator at Gondwana University",
+      "summary_en": "‘The man who deceived tribals has been given the responsibility to spread awareness among them’",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ‘The man who deceived tribals has been given the responsibility to spread awareness among them’",
+      "analysis_hi": "संदर्भ: ‘The man who deceived tribals has been given the responsibility to spread awareness among them’...\n\nप्रमुख बिंदु:\n• ‘The man who deceived tribals has been given the responsibility to spread awareness among them’\n",
+      "analysis_en": "Reference: ‘The man who deceived tribals has been given the responsibility to spread awareness among them’...\n\nKey Points:\n• ‘The man who deceived tribals has been given the responsibility to spread awareness among them’\n",
+      "link": "https://www.thehindu.com/news/national/maharashtra/local-tribals-oppose-appointment-of-dreaded-ex-maoist-as-co-ordinator-at-gondwana-university/article71448578.ece"
+    },
+    {
+      "id": "9b82ee7f059a",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T20:20:56+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "IIM-Kozhikode rises 15 places to 54th in FT Masters in Management rankings",
+      "title_hi": "IIM-Kozhikode rises 15 places to 54th in FT Masters in Management rankings",
+      "summary_en": "The achievement places IIM-K’s flagship postgraduate programme among the world’s top 55 management programmes",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The achievement places IIM-K’s flagship postgraduate programme among the world’s top 55 management programmes",
+      "analysis_hi": "संदर्भ: The achievement places IIM-K’s flagship postgraduate programme among the world’s top 55 management programmes...\n\nप्रमुख बिंदु:\n• The achievement places IIM-K’s flagship postgraduate programme among the world’s top 55 management programmes\n",
+      "analysis_en": "Reference: The achievement places IIM-K’s flagship postgraduate programme among the world’s top 55 management programmes...\n\nKey Points:\n• The achievement places IIM-K’s flagship postgraduate programme among the world’s top 55 management programmes\n",
+      "link": "https://www.thehindu.com/news/national/kerala/iim-kozhikode-rises-15-places-to-54th-in-ft-masters-in-management-rankings/article71441425.ece"
+    },
+    {
+      "id": "9d19fa6cf3a8",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T20:03:28+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Rural Development department officials want to know rationale behind appointment of IFS, IAS officers as project directors",
+      "title_hi": "Rural Development department officials want to know rationale behind appointment of IFS, IAS officers as project directors",
+      "summary_en": "Rural Development department officials want to know rationale behind appointment of IFS, IAS officers as project directors",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Rural विकास department officials want to know rationale behind appointment of IFS, IAS officers as project directors",
+      "analysis_hi": "संदर्भ: Rural Development department officials want to know rationale behind appointment of IFS, IAS officers as project directors...\n\nप्रमुख बिंदु:\n• Rural Development department officials want to know rationale behind appointment of IFS, IAS officers as project directors\n",
+      "analysis_en": "Reference: Rural Development department officials want to know rationale behind appointment of IFS, IAS officers as project directors...\n\nKey Points:\n• Rural Development department officials want to know rationale behind appointment of IFS, IAS officers as project directors\n",
+      "link": "https://www.thehindu.com/news/cities/chennai/rural-development-department-officials-want-to-know-rationale-behind-appointment-of-ifs-ias-officers-as-project-directors/article71444173.ece"
+    },
+    {
+      "id": "bc46586cab66",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T20:01:55+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Bypolls in three panchayats in Keralam’s Ernakulam to have little impact on power equations",
+      "title_hi": "Bypolls in three panchayats in Keralam’s Ernakulam to have little impact on power equations",
+      "summary_en": "Kolencherry East of Poothrikka, Madaplathuruth East of Vadakkekara, and Puliyanam East of Parakkadavu will go to the polls on September 28",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Kolencherry East of Poothrikka, Madaplathuruth East of Vadakkekara, and Puliyanam East of Parakkadavu will go to the polls on September 28",
+      "analysis_hi": "संदर्भ: Kolencherry East of Poothrikka, Madaplathuruth East of Vadakkekara, and Puliyanam East of Parakkadavu will go to the polls on September 28...\n\nप्रमुख बिंदु:\n• Kolencherry East of Poothrikka, Madaplathuruth East of Vadakkekara, and Puliyanam East of Parakkadavu will go to the polls on September 28\n",
+      "analysis_en": "Reference: Kolencherry East of Poothrikka, Madaplathuruth East of Vadakkekara, and Puliyanam East of Parakkadavu will go to the polls on September 28...\n\nKey Points:\n• Kolencherry East of Poothrikka, Madaplathuruth East of Vadakkekara, and Puliyanam East of Parakkadavu will go to the polls on September 28\n",
+      "link": "https://www.thehindu.com/news/national/kerala/bypolls-in-three-panchayats-in-keralams-ernakulam-to-have-little-impact-on-power-equations/article71442993.ece"
+    },
+    {
+      "id": "57c8b97154ca",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T19:59:21+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Kerala High Court directs Meta, Google to preserve social media content and records of Guruvayur MLA N.K. Akbar",
+      "title_hi": "Kerala High Court directs Meta, Google to preserve social media content and records of Guruvayur MLA N.K. Akbar",
+      "summary_en": "Petition filed by rival candidate alleges that Akbar engaged in corrupt practices during the election, through the circulation of pamphlets and videos",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Petition filed by rival candidate alleges that Akbar engaged in corrupt practices during the चुनाव, through the circulation of pamphlets and videos",
+      "analysis_hi": "संदर्भ: Petition filed by rival candidate alleges that Akbar engaged in corrupt practices during the election, through the circulation of pamphlets and videos...\n\nप्रमुख बिंदु:\n• Petition filed by rival candidate alleges that Akbar engaged in corrupt practices during the election, through the circulation of pamphlets and videos\n",
+      "analysis_en": "Reference: Petition filed by rival candidate alleges that Akbar engaged in corrupt practices during the election, through the circulation of pamphlets and videos...\n\nKey Points:\n• Petition filed by rival candidate alleges that Akbar engaged in corrupt practices during the election, through the circulation of pamphlets and videos\n",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-meta-google-to-preserve-social-media-content-and-records-of-guruvayur-mla-nk-akbar/article71448503.ece"
+    },
+    {
+      "id": "436e71467f86",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T19:54:25+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Clean chit in departmental inquiry does not mean exemption from criminal proceedings: Kerala High Court",
+      "title_hi": "Clean chit in departmental inquiry does not mean exemption from criminal proceedings: Kerala High Court",
+      "summary_en": "Clean chit in departmental inquiry does not mean exemption from criminal proceedings: Kerala High Court",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Clean chit in departmental inquiry does not mean exemption from criminal proceedings: Kerala High Court",
+      "analysis_hi": "संदर्भ: Clean chit in departmental inquiry does not mean exemption from criminal proceedings: Kerala High Court...\n\nप्रमुख बिंदु:\n• Clean chit in departmental inquiry does not mean exemption from criminal proceedings: Kerala High Court\n",
+      "analysis_en": "Reference: Clean chit in departmental inquiry does not mean exemption from criminal proceedings: Kerala High Court...\n\nKey Points:\n• Clean chit in departmental inquiry does not mean exemption from criminal proceedings: Kerala High Court\n",
+      "link": "https://www.thehindu.com/news/national/kerala/clean-chit-in-departmental-inquiry-does-not-mean-exemption-from-criminal-proceedings-kerala-high-court/article71448311.ece"
+    },
+    {
+      "id": "8e07cb483147",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T19:42:04+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "15 workers rescued, 12 hospitalised after iron slab collapses at construction site in Gandhinagar",
+      "title_hi": "15 workers rescued, 12 hospitalised after iron slab collapses at construction site in Gandhinagar",
+      "summary_en": "The accident took place around 9 p.m. at a building under construction when an iron slab being erected between two buildings suddenly collapsed, trapping workers underneath.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The accident took place around 9 p.m. at a building under construction when an iron slab being erected between two buildings suddenly collapsed, trapping workers underneath.",
+      "analysis_hi": "संदर्भ: The accident took place around 9 p.m. at a building under construction when an iron slab being erected between two buildings suddenly collapsed, trapping workers underneath....\n\nप्रमुख बिंदु:\n• The accident took place around 9 p.m\n• at a building under construction when an iron slab being erected between two buildings suddenly collapsed, trapping workers underneath.\n",
+      "analysis_en": "Reference: The accident took place around 9 p.m. at a building under construction when an iron slab being erected between two buildings suddenly collapsed, trapping workers underneath....\n\nKey Points:\n• The accident took place around 9 p.m\n• at a building under construction when an iron slab being erected between two buildings suddenly collapsed, trapping workers underneath.\n",
+      "link": "https://www.thehindu.com/news/national/gujarat/workers-rescued-several-feared-trapped-as-iron-slab-falls-at-building-site-in-gandhinagar/article71448971.ece"
+    },
+    {
+      "id": "0ea9da6981b0",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T19:34:11+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Two Class 9 students from Keralam to compete at international robotics meet",
+      "title_hi": "Two Class 9 students from Keralam to compete at international robotics meet",
+      "summary_en": "The team showcased a prototype they developed to preserve and digitise palm leaf manuscripts using robotic techniques",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The team showcased a prototype they developed to preserve and digitise palm leaf manuscripts using robotic techniques",
+      "analysis_hi": "संदर्भ: The team showcased a prototype they developed to preserve and digitise palm leaf manuscripts using robotic techniques...\n\nप्रमुख बिंदु:\n• The team showcased a prototype they developed to preserve and digitise palm leaf manuscripts using robotic techniques\n",
+      "analysis_en": "Reference: The team showcased a prototype they developed to preserve and digitise palm leaf manuscripts using robotic techniques...\n\nKey Points:\n• The team showcased a prototype they developed to preserve and digitise palm leaf manuscripts using robotic techniques\n",
+      "link": "https://www.thehindu.com/news/national/kerala/two-keralam-girls-to-compete-at-international-robotics-meet/article71447397.ece"
+    },
+    {
+      "id": "0a5f4c4618b4",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T19:33:39+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "1,169 candidates set to win unopposed in Tripura village committee elections",
+      "title_hi": "1,169 candidates set to win unopposed in Tripura village committee elections",
+      "summary_en": "Polling will not be held in one-third of the 4,597 seats across 587 village committees as only solitary nominations have been received, says the State Election Commission",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Polling will not be held in one-third of the 4,597 seats across 587 village committees as only solitary nominations have been received, says the State चुनाव Commission",
+      "analysis_hi": "संदर्भ: Polling will not be held in one-third of the 4,597 seats across 587 village committees as only solitary nominations have been received, says the State Election Commission...\n\nप्रमुख बिंदु:\n• Polling will not be held in one-third of the 4,597 seats across 587 village committees as only solitary nominations have been received, says the State Election Commission\n",
+      "analysis_en": "Reference: Polling will not be held in one-third of the 4,597 seats across 587 village committees as only solitary nominations have been received, says the State Election Commission...\n\nKey Points:\n• Polling will not be held in one-third of the 4,597 seats across 587 village committees as only solitary nominations have been received, says the State Election Commission\n",
+      "link": "https://www.thehindu.com/news/national/tripura/1169-candidates-set-to-win-unopposed-in-tripura-village-committee-elections/article71448973.ece"
+    },
+    {
+      "id": "a7e26ec2c19d",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T19:30:59+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "New secretariat at Pattinapakkam will result in severe traffic congestion: Anbumani",
+      "title_hi": "New secretariat at Pattinapakkam will result in severe traffic congestion: Anbumani",
+      "summary_en": "New secretariat at Pattinapakkam will result in severe traffic congestion: Anbumani",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। New secretariat at Pattinapakkam will result in severe traffic congestion: Anbumani",
+      "analysis_hi": "संदर्भ: New secretariat at Pattinapakkam will result in severe traffic congestion: Anbumani...\n\nप्रमुख बिंदु:\n• New secretariat at Pattinapakkam will result in severe traffic congestion: Anbumani\n",
+      "analysis_en": "Reference: New secretariat at Pattinapakkam will result in severe traffic congestion: Anbumani...\n\nKey Points:\n• New secretariat at Pattinapakkam will result in severe traffic congestion: Anbumani\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/new-secretariat-at-pattinapakkam-will-result-in-severe-traffic-congestion-anbumani/article71447305.ece"
+    },
+    {
+      "id": "f47f88d8a563",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T19:29:34+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Madurantakam and Dharapuram, going to byelections next month, have more than one common feature",
+      "title_hi": "Madurantakam and Dharapuram, going to byelections next month, have more than one common feature",
+      "summary_en": "Madurantakam and Dharapuram, going to byelections next month, have more than one common feature",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Madurantakam and Dharapuram, going to byelections next month, have more than one common feature",
+      "analysis_hi": "संदर्भ: Madurantakam and Dharapuram, going to byelections next month, have more than one common feature...\n\nप्रमुख बिंदु:\n• Madurantakam and Dharapuram, going to byelections next month, have more than one common feature\n",
+      "analysis_en": "Reference: Madurantakam and Dharapuram, going to byelections next month, have more than one common feature...\n\nKey Points:\n• Madurantakam and Dharapuram, going to byelections next month, have more than one common feature\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/madurantakam-and-dharapuram-going-to-byelections-next-month-have-more-than-one-common-feature/article71447948.ece"
+    },
+    {
+      "id": "aa3a52d22744",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T16:05:01+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "PM-KUSUM 2.0 announcement likely soon; agrivoltaics to get dedicated component",
+      "title_hi": "PM-KUSUM 2.0 announcement likely soon; agrivoltaics to get dedicated component",
+      "summary_en": "Launched in 2019, PM-KUSUM seeks to expand the use of solar energy in agriculture.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Launched in 2019, PM-KUSUM seeks to expand the use of solar energy in कृषि.",
+      "analysis_hi": "संदर्भ: Launched in 2019, PM-KUSUM seeks to expand the use of solar energy in agriculture....\n\nप्रमुख बिंदु:\n• Launched in 2019, PM-KUSUM seeks to expand the use of solar energy in agriculture.\n",
+      "analysis_en": "Reference: Launched in 2019, PM-KUSUM seeks to expand the use of solar energy in agriculture....\n\nKey Points:\n• Launched in 2019, PM-KUSUM seeks to expand the use of solar energy in agriculture.\n",
+      "link": "https://www.thehindu.com/business/Industry/pm-kusum-20-announcement-likely-soon-agrivoltaics-to-get-dedicated-component/article71448484.ece"
+    },
+    {
+      "id": "fb9855a98f6e",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T15:40:05+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "11 insurers begin Ind AS transition from FY27; IRDAI tracks rest for FY28",
+      "title_hi": "11 insurers begin Ind AS transition from FY27; IRDAI tracks rest for FY28",
+      "summary_en": "It is continuing to facilitate the smooth and consistent implementation of Ind AS across the sector. Also closely monitoring insurers that have been granted forbearance and are scheduled to adopt Ind AS from FY28.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। It is continuing to facilitate the smooth and consistent implementation of Ind AS across the sector. Also closely monitoring insurers that have been granted forbearance and are scheduled to adopt Ind AS from FY28.",
+      "analysis_hi": "संदर्भ: It is continuing to facilitate the smooth and consistent implementation of Ind AS across the sector. Also closely monitoring insurers that have been granted forbearance and are scheduled to adopt Ind AS from FY28....\n\nप्रमुख बिंदु:\n• It is continuing to facilitate the smooth and consistent implementation of Ind AS across the sector\n• Also closely monitoring insurers that have been granted forbearance and are scheduled to adopt Ind AS from FY28.\n",
+      "analysis_en": "Reference: It is continuing to facilitate the smooth and consistent implementation of Ind AS across the sector. Also closely monitoring insurers that have been granted forbearance and are scheduled to adopt Ind AS from FY28....\n\nKey Points:\n• It is continuing to facilitate the smooth and consistent implementation of Ind AS across the sector\n• Also closely monitoring insurers that have been granted forbearance and are scheduled to adopt Ind AS from FY28.\n",
+      "link": "https://www.thehindu.com/business/Industry/11-insurers-begin-ind-as-transition-from-fy27-irdai-tracks-rest-for-fy28/article71448276.ece"
+    },
+    {
+      "id": "9ef5c200b435",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T14:37:24+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Women’s representation in senior corporate roles falls; Avtar flags US DEI pullback",
+      "title_hi": "Women’s representation in senior corporate roles falls; Avtar flags US DEI pullback",
+      "summary_en": "Women’s share of Corporate Executive roles among Best Companies falls to 16.7% from 20%; Avtar managing director Saundarya Rajesh says US policy changes have had a “very strong impact” on women in India",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Women’s share of Corporate Executive roles among Best Companies falls to 16.7% from 20%; Avtar managing director Saundarya Rajesh says US नीति changes have had a “very strong impact” on women in India",
+      "analysis_hi": "संदर्भ: Women’s share of Corporate Executive roles among Best Companies falls to 16.7% from 20%; Avtar managing director Saundarya Rajesh says US policy changes have had a “very strong impact” on women in India...\n\nप्रमुख बिंदु:\n• Women’s share of Corporate Executive roles among Best Companies falls to 16.7% from 20%; Avtar managing director Saundarya Rajesh says US policy changes have had a “very strong impact” on women in India\n",
+      "analysis_en": "Reference: Women’s share of Corporate Executive roles among Best Companies falls to 16.7% from 20%; Avtar managing director Saundarya Rajesh says US policy changes have had a “very strong impact” on women in India...\n\nKey Points:\n• Women’s share of Corporate Executive roles among Best Companies falls to 16.7% from 20%; Avtar managing director Saundarya Rajesh says US policy changes have had a “very strong impact” on women in India\n",
+      "link": "https://www.thehindu.com/business/womens-representation-in-senior-corporate-roles-falls-avtar-flags-us-dei-pullback/article71447786.ece"
+    },
+    {
+      "id": "fbad8f609c50",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T14:11:57+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Double deflation debate over GDP methodology no ‘great battle’: Niti Ayog Vice Chairman",
+      "title_hi": "Double deflation debate over GDP methodology no ‘great battle’: Niti Ayog Vice Chairman",
+      "summary_en": "Private capital expenditure (capex) cycle to gain significant momentum once capacity utilisation in the private corporate sector reaches 80%, up from the current 70–75% levels.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Private capital expenditure (capex) cycle to gain significant momentum once capacity utilisation in the private corporate sector reaches 80%, up from the current 70–75% levels.",
+      "analysis_hi": "संदर्भ: Private capital expenditure (capex) cycle to gain significant momentum once capacity utilisation in the private corporate sector reaches 80%, up from the current 70–75% levels....\n\nप्रमुख बिंदु:\n• Private capital expenditure (capex) cycle to gain significant momentum once capacity utilisation in the private corporate sector reaches 80%, up from the current 70–75% levels.\n",
+      "analysis_en": "Reference: Private capital expenditure (capex) cycle to gain significant momentum once capacity utilisation in the private corporate sector reaches 80%, up from the current 70–75% levels....\n\nKey Points:\n• Private capital expenditure (capex) cycle to gain significant momentum once capacity utilisation in the private corporate sector reaches 80%, up from the current 70–75% levels.\n",
+      "link": "https://www.thehindu.com/business/Economy/double-deflation-debate-over-gdp-methodology-no-great-battle-niti-ayog-vice-chairman/article71447459.ece"
+    },
+    {
+      "id": "44a0c91c3918",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T09:16:49+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "FCNR(B) deposits: Who bears the currency risk? | Explained",
+      "title_hi": "FCNR(B) deposits: Who bears the currency risk? | Explained",
+      "summary_en": "The RBI swap shields banks from currency risk on the principal, while banks have to manage dollar interest payments themselves, leaving some exposed if the rupee weakens",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The RBI swap shields banks from currency risk on the principal, while banks have to manage dollar interest payments themselves, leaving some exposed if the rupee weakens",
+      "analysis_hi": "संदर्भ: The RBI swap shields banks from currency risk on the principal, while banks have to manage dollar interest payments themselves, leaving some exposed if the rupee weakens...\n\nप्रमुख बिंदु:\n• The RBI swap shields banks from currency risk on the principal, while banks have to manage dollar interest payments themselves, leaving some exposed if the rupee weakens\n",
+      "analysis_en": "Reference: The RBI swap shields banks from currency risk on the principal, while banks have to manage dollar interest payments themselves, leaving some exposed if the rupee weakens...\n\nKey Points:\n• The RBI swap shields banks from currency risk on the principal, while banks have to manage dollar interest payments themselves, leaving some exposed if the rupee weakens\n",
+      "link": "https://www.thehindu.com/business/Economy/fcnrb-deposits-who-bears-the-currency-risk-explained/article71446140.ece"
+    },
+    {
+      "id": "533d1369ced8",
+      "date": "09 Sep 2026",
+      "iso_date": "2026-09-09T07:28:46+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "NMDC raises lump ore price by ₹150/tonne, holds price of fines",
+      "title_hi": "NMDC raises lump ore price by ₹150/tonne, holds price of fines",
+      "summary_en": "NMDC raises lump ore price by ₹150/tonne, holds price of fines",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। NMDC raises lump ore price by ₹150/tonne, holds price of fines",
+      "analysis_hi": "संदर्भ: NMDC raises lump ore price by ₹150/tonne, holds price of fines...\n\nप्रमुख बिंदु:\n• NMDC raises lump ore price by ₹150/tonne, holds price of fines\n",
+      "analysis_en": "Reference: NMDC raises lump ore price by ₹150/tonne, holds price of fines...\n\nKey Points:\n• NMDC raises lump ore price by ₹150/tonne, holds price of fines\n",
+      "link": "https://www.thehindu.com/business/Economy/nmdc-raises-lump-ore-price-by-150tonne-holds-price-of-fines/article71445856.ece"
+    },
+    {
+      "id": "d783721350ec",
+      "date": "08 Sep 2026",
+      "iso_date": "2026-09-08T16:39:21+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Public Accounts Committee flags failure to transfer ₹9,222 crore in cess collections to designated reserve funds",
+      "title_hi": "Public Accounts Committee flags failure to transfer ₹9,222 crore in cess collections to designated reserve funds",
+      "summary_en": "Members question the Finance Ministry’s explanation; panel chief K.C. Venugopal says cess proceeds must not be used to finance fiscal deficit instead of their intended purpose",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Members question the Finance Ministry’s explanation; panel chief K.C. Venugopal says cess proceeds must not be used to finance fiscal deficit instead of their intended purpose",
+      "analysis_hi": "संदर्भ: Members question the Finance Ministry’s explanation; panel chief K.C. Venugopal says cess proceeds must not be used to finance fiscal deficit instead of their intended purpose...\n\nप्रमुख बिंदु:\n• Members question the Finance Ministry’s explanation; panel chief K.C\n• Venugopal says cess proceeds must not be used to finance fiscal deficit instead of their intended purpose\n",
+      "analysis_en": "Reference: Members question the Finance Ministry’s explanation; panel chief K.C. Venugopal says cess proceeds must not be used to finance fiscal deficit instead of their intended purpose...\n\nKey Points:\n• Members question the Finance Ministry’s explanation; panel chief K.C\n• Venugopal says cess proceeds must not be used to finance fiscal deficit instead of their intended purpose\n",
+      "link": "https://www.thehindu.com/news/national/public-accounts-committee-flags-failure-to-transfer-9222-crore-in-cess-collections-to-designated-reserve-funds/article71443327.ece"
+    },
+    {
+      "id": "d9aa7947258c",
+      "date": "08 Sep 2026",
+      "iso_date": "2026-09-08T16:20:28+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "India has 51 days coal stocks to meet power demand; production recovers after monsoon disruption",
+      "title_hi": "India has 51 days coal stocks to meet power demand; production recovers after monsoon disruption",
+      "summary_en": "The Central Electricity Authority (CEA) had observed recently that 53 thermal power-plants were holding 25% or less than their overall coal requirements.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Central Electricity Authority (CEA) had observed recently that 53 thermal power-plants were holding 25% or less than their overall coal requirements.",
+      "analysis_hi": "संदर्भ: The Central Electricity Authority (CEA) had observed recently that 53 thermal power-plants were holding 25% or less than their overall coal requirements....\n\nप्रमुख बिंदु:\n• The Central Electricity Authority (CEA) had observed recently that 53 thermal power-plants were holding 25% or less than their overall coal requirements.\n",
+      "analysis_en": "Reference: The Central Electricity Authority (CEA) had observed recently that 53 thermal power-plants were holding 25% or less than their overall coal requirements....\n\nKey Points:\n• The Central Electricity Authority (CEA) had observed recently that 53 thermal power-plants were holding 25% or less than their overall coal requirements.\n",
+      "link": "https://www.thehindu.com/business/Industry/coal-stocks-adequate-to-meet-51-days-of-power-demand-coal-minister-whilst-addressing-monsoon-slump-in-production/article71443971.ece"
+    },
+    {
+      "id": "8c6e1250a431",
+      "date": "08 Sep 2026",
+      "iso_date": "2026-09-08T11:50:05+00:00",
+      "category": "schemes",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2",
+        "GS-3"
+      ],
+      "subjects": [
+        "Schemes",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Welfare schemes for vulnerable sections",
+        "GS-3: Government policies and interventions"
+      ],
+      "title_en": "Govt puts bank staff performance-linked incentive scheme on hold ahead of strike",
+      "title_hi": "Govt puts bank staff performance-linked incentive scheme on hold ahead of strike",
+      "summary_en": "The decision followed a meeting between Finance Minister Nirmala Sitharaman and a delegation of bank employees",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The decision followed a meeting between Finance Minister Nirmala Sitharaman and a delegation of bank employees",
+      "analysis_hi": "संदर्भ: The decision followed a meeting between Finance Minister Nirmala Sitharaman and a delegation of bank employees...\n\nप्रमुख बिंदु:\n• The decision followed a meeting between Finance Minister Nirmala Sitharaman and a delegation of bank employees\n",
+      "analysis_en": "Reference: The decision followed a meeting between Finance Minister Nirmala Sitharaman and a delegation of bank employees...\n\nKey Points:\n• The decision followed a meeting between Finance Minister Nirmala Sitharaman and a delegation of bank employees\n",
+      "link": "https://www.thehindu.com/business/govt-puts-bank-staff-performance-linked-incentive-scheme-on-hold-ahead-of-strike/article71442429.ece"
+    },
+    {
+      "id": "b8f68e1b4408",
+      "date": "08 Sep 2026",
+      "iso_date": "2026-09-08T10:22:11+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "What prompted India’s return to the ‘A’ rating after 35 years?",
+      "title_hi": "What prompted India’s return to the ‘A’ rating after 35 years?",
+      "summary_en": "While most sovereign credit rating agencies rate India a grade or two above ‘junk’ status, the recent upgrade by the Japan Credit Rating Agency sees India return to the ‘A’ grade for the first time since early 1988",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। While most sovereign credit rating agencies rate India a grade or two above ‘junk’ status, the recent upgrade by the Japan Credit Rating Agency sees India return to the ‘A’ grade for the first time since early 1988",
+      "analysis_hi": "संदर्भ: While most sovereign credit rating agencies rate India a grade or two above ‘junk’ status, the recent upgrade by the Japan Credit Rating Agency sees India return to the ‘A’ grade for the first time since early 1988...\n\nप्रमुख बिंदु:\n• While most sovereign credit rating agencies rate India a grade or two above ‘junk’ status, the recent upgrade by the Japan Credit Rating Agency sees India return to the ‘A’ grade for the first time since early 1988\n",
+      "analysis_en": "Reference: While most sovereign credit rating agencies rate India a grade or two above ‘junk’ status, the recent upgrade by the Japan Credit Rating Agency sees India return to the ‘A’ grade for the first time since early 1988...\n\nKey Points:\n• While most sovereign credit rating agencies rate India a grade or two above ‘junk’ status, the recent upgrade by the Japan Credit Rating Agency sees India return to the ‘A’ grade for the first time since early 1988\n",
+      "link": "https://www.thehindu.com/business/Economy/what-prompted-indias-return-to-the-a-rating-after-35-years/article71442079.ece"
+    },
+    {
+      "id": "6892ca050a2c",
+      "date": "07 Sep 2026",
+      "iso_date": "2026-09-07T17:44:52+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "LPG booking interval for rural consumers cut to 25 days from 45",
+      "title_hi": "LPG booking interval for rural consumers cut to 25 days from 45",
+      "summary_en": "This brings the interval between bookings for rural consumers on par with urban consumers, for whom the period remains unchanged at 25 days",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। This brings the interval between bookings for rural consumers on par with urban consumers, for whom the period remains unchanged at 25 days",
+      "analysis_hi": "संदर्भ: This brings the interval between bookings for rural consumers on par with urban consumers, for whom the period remains unchanged at 25 days...\n\nप्रमुख बिंदु:\n• This brings the interval between bookings for rural consumers on par with urban consumers, for whom the period remains unchanged at 25 days\n",
+      "analysis_en": "Reference: This brings the interval between bookings for rural consumers on par with urban consumers, for whom the period remains unchanged at 25 days...\n\nKey Points:\n• This brings the interval between bookings for rural consumers on par with urban consumers, for whom the period remains unchanged at 25 days\n",
+      "link": "https://www.thehindu.com/news/national/oil-ministry-lpg-booking-interval-rural-urban-areas-suresh-gopi/article71438250.ece"
+    },
+    {
+      "id": "11a35ac8509b",
+      "date": "07 Sep 2026",
+      "iso_date": "2026-09-07T17:05:21+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Govt spurs coal rake loading by 20% to strengthen stocks positions at thermal plants",
+      "title_hi": "Govt spurs coal rake loading by 20% to strengthen stocks positions at thermal plants",
+      "summary_en": "CEA data indicates 53 domestic coal-fired plants were operating with less than 25% of their critical normative requirements as on September 5",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। CEA data indicates 53 domestic coal-fired plants were operating with less than 25% of their critical normative requirements as on September 5",
+      "analysis_hi": "संदर्भ: CEA data indicates 53 domestic coal-fired plants were operating with less than 25% of their critical normative requirements as on September 5...\n\nप्रमुख बिंदु:\n• CEA data indicates 53 domestic coal-fired plants were operating with less than 25% of their critical normative requirements as on September 5\n",
+      "analysis_en": "Reference: CEA data indicates 53 domestic coal-fired plants were operating with less than 25% of their critical normative requirements as on September 5...\n\nKey Points:\n• CEA data indicates 53 domestic coal-fired plants were operating with less than 25% of their critical normative requirements as on September 5\n",
+      "link": "https://www.thehindu.com/business/Economy/govt-spurs-coal-rake-loading-by-20-to-strengthen-stocks-positions-at-thermal-plants/article71437951.ece"
+    },
+    {
+      "id": "7416c11d26a3",
+      "date": "07 Sep 2026",
+      "iso_date": "2026-09-07T10:13:29+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "C. Rangarajan flags fewer regional rural banks as ‘a step in the wrong direction’; urges RBI to incentivise SFBs",
+      "title_hi": "C. Rangarajan flags fewer regional rural banks as ‘a step in the wrong direction’; urges RBI to incentivise SFBs",
+      "summary_en": "Former RBI Governor says consolidation risks eroding RRBs’ local character; says 11 small finance banks will not meet the sector’s unmet credit needs",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Former RBI Governor says consolidation risks eroding RRBs’ local character; says 11 small finance banks will not meet the sector’s unmet credit needs",
+      "analysis_hi": "संदर्भ: Former RBI Governor says consolidation risks eroding RRBs’ local character; says 11 small finance banks will not meet the sector’s unmet credit needs...\n\nप्रमुख बिंदु:\n• Former RBI Governor says consolidation risks eroding RRBs’ local character; says 11 small finance banks will not meet the sector’s unmet credit needs\n",
+      "analysis_en": "Reference: Former RBI Governor says consolidation risks eroding RRBs’ local character; says 11 small finance banks will not meet the sector’s unmet credit needs...\n\nKey Points:\n• Former RBI Governor says consolidation risks eroding RRBs’ local character; says 11 small finance banks will not meet the sector’s unmet credit needs\n",
+      "link": "https://www.thehindu.com/business/Economy/c-rangarajan-flags-fewer-regional-rural-banks-as-a-step-in-the-wrong-direction-urges-rbi-to-incentivise-sfbs/article71438013.ece"
+    },
+    {
+      "id": "7d2b5878a964",
+      "date": "07 Sep 2026",
+      "iso_date": "2026-09-07T04:45:22+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Does ‘inflation targeting’ work in India?",
+      "title_hi": "Does ‘inflation targeting’ work in India?",
+      "summary_en": "India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India’s Phillips curve is found to be flat, while households’ मुद्रास्फीति expectations remain consistently higher than the RBI’s projections; this suggests that मुद्रास्फीति targeting can lower output and employment without a commensurate reduction in मुद्रास्फीति",
+      "analysis_hi": "संदर्भ: India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation...\n\nप्रमुख बिंदु:\n• India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation\n",
+      "analysis_en": "Reference: India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation...\n\nKey Points:\n• India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation\n",
+      "link": "https://www.thehindu.com/business/Economy/does-inflation-targeting-work-in-india/article71435164.ece"
+    },
+    {
+      "id": "41b7920ae957",
+      "date": "06 Sep 2026",
+      "iso_date": "2026-09-06T19:09:43+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "India’s unemployment data dilemma",
+      "title_hi": "India’s unemployment data dilemma",
+      "summary_en": "A fall in unemployment may indicate distress-driven entry into low-productivity jobs rather than genuine employment creation",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A fall in unemployment may indicate distress-driven entry into low-productivity jobs rather than genuine employment creation",
+      "analysis_hi": "संदर्भ: A fall in unemployment may indicate distress-driven entry into low-productivity jobs rather than genuine employment creation...\n\nप्रमुख बिंदु:\n• A fall in unemployment may indicate distress-driven entry into low-productivity jobs rather than genuine employment creation\n",
+      "analysis_en": "Reference: A fall in unemployment may indicate distress-driven entry into low-productivity jobs rather than genuine employment creation...\n\nKey Points:\n• A fall in unemployment may indicate distress-driven entry into low-productivity jobs rather than genuine employment creation\n",
+      "link": "https://www.thehindu.com/opinion/op-ed/indias-unemployment-data-dilemma/article71436287.ece"
+    },
+    {
+      "id": "0e49ca6b412c",
+      "date": "06 Sep 2026",
+      "iso_date": "2026-09-06T13:27:00+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Gold and silver rise",
+      "title_hi": "Gold and silver rise",
+      "summary_en": "Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached",
+      "analysis_hi": "संदर्भ: Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached...\n\nप्रमुख बिंदु:\n• Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached\n",
+      "analysis_en": "Reference: Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached...\n\nKey Points:\n• Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached\n",
+      "link": "https://www.thehindu.com/business/Economy/gold-and-silver-rise/article71435459.ece"
+    },
+    {
+      "id": "079294b978b7",
+      "date": "05 Sep 2026",
+      "iso_date": "2026-09-05T16:04:12+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Coal production re-accelerates amid easing monsoon; daily output rises to 1.7 MT",
+      "title_hi": "Coal production re-accelerates amid easing monsoon; daily output rises to 1.7 MT",
+      "summary_en": "Coal India’s sizeable inventory position as a cushion against supply disruptions. The improvement in production and dispatch amid easing monsoon offers greater flexibility, supporting higher supplies to power sector.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Coal India’s sizeable inventory position as a cushion against supply disruptions. The improvement in production and dispatch amid easing monsoon offers greater flexibility, supporting higher supplies to power sector.",
+      "analysis_hi": "संदर्भ: Coal India’s sizeable inventory position as a cushion against supply disruptions. The improvement in production and dispatch amid easing monsoon offers greater flexibility, supporting higher supplies to power sector....\n\nप्रमुख बिंदु:\n• Coal India’s sizeable inventory position as a cushion against supply disruptions\n• The improvement in production and dispatch amid easing monsoon offers greater flexibility, supporting higher supplies to power sector.\n",
+      "analysis_en": "Reference: Coal India’s sizeable inventory position as a cushion against supply disruptions. The improvement in production and dispatch amid easing monsoon offers greater flexibility, supporting higher supplies to power sector....\n\nKey Points:\n• Coal India’s sizeable inventory position as a cushion against supply disruptions\n• The improvement in production and dispatch amid easing monsoon offers greater flexibility, supporting higher supplies to power sector.\n",
+      "link": "https://www.thehindu.com/business/Industry/coal-production-re-accelerates-amid-easing-monsoon-daily-output-rises-to-17-mt/article71432824.ece"
+    },
+    {
+      "id": "dc32742205fc",
+      "date": "05 Sep 2026",
+      "iso_date": "2026-09-05T15:07:11+00:00",
+      "category": "schemes",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2",
+        "GS-3"
+      ],
+      "subjects": [
+        "Schemes",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Welfare schemes for vulnerable sections",
+        "GS-3: Government policies and interventions"
+      ],
+      "title_en": "Coal Ministry rejects ‘No Takers’ claim, says TFL, NTPC apply for gasification scheme",
+      "title_hi": "Coal Ministry rejects ‘No Takers’ claim, says TFL, NTPC apply for gasification scheme",
+      "summary_en": "Talcher Fertilisers Ltd is already working on implementing a coal-based ammonia-urea gasification complex, expected to be commissioned in FY 2027-28.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Talcher Fertilisers Ltd is already working on implementing a coal-based ammonia-urea gasification complex, expected to be commissioned in FY 2027-28.",
+      "analysis_hi": "संदर्भ: Talcher Fertilisers Ltd is already working on implementing a coal-based ammonia-urea gasification complex, expected to be commissioned in FY 2027-28....\n\nप्रमुख बिंदु:\n• Talcher Fertilisers Ltd is already working on implementing a coal-based ammonia-urea gasification complex, expected to be commissioned in FY 2027-28.\n",
+      "analysis_en": "Reference: Talcher Fertilisers Ltd is already working on implementing a coal-based ammonia-urea gasification complex, expected to be commissioned in FY 2027-28....\n\nKey Points:\n• Talcher Fertilisers Ltd is already working on implementing a coal-based ammonia-urea gasification complex, expected to be commissioned in FY 2027-28.\n",
+      "link": "https://www.thehindu.com/business/Industry/coal-ministry-rejects-no-takers-claim-says-tfl-ntpc-apply-for-gasification-scheme/article71432557.ece"
+    },
+    {
+      "id": "3ce91e36e408",
+      "date": "04 Sep 2026",
+      "iso_date": "2026-09-04T19:51:14+00:00",
+      "category": "ir",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "International Relations"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: India and its neighborhood- relations",
+        "GS-2: Important International institutions, agencies and fora"
+      ],
+      "title_en": "A BIT of a reset, with a wider debate",
+      "title_hi": "A BIT of a reset, with a wider debate",
+      "summary_en": "Revising India’s bilateral investment treaty (BIT) requires consultation and stronger democratic accountability",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Revising India’s द्विपक्षीय investment संधि (BIT) requires consultation and stronger democratic accountability",
+      "analysis_hi": "संदर्भ: Revising India’s bilateral investment treaty (BIT) requires consultation and stronger democratic accountability...\n\nप्रमुख बिंदु:\n• Revising India’s bilateral investment treaty (BIT) requires consultation and stronger democratic accountability\n",
+      "analysis_en": "Reference: Revising India’s bilateral investment treaty (BIT) requires consultation and stronger democratic accountability...\n\nKey Points:\n• Revising India’s bilateral investment treaty (BIT) requires consultation and stronger democratic accountability\n",
+      "link": "https://www.thehindu.com/opinion/op-ed/a-bit-of-a-reset-with-a-wider-debate/article71429058.ece"
+    },
+    {
+      "id": "f00caa0ec517",
+      "date": "04 Sep 2026",
+      "iso_date": "2026-09-04T17:49:52+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Coal stock management emerges as key challenge for thermal power producers",
+      "title_hi": "Coal stock management emerges as key challenge for thermal power producers",
+      "summary_en": "India may not need a complete overhaul of its coal-allocation policy, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India may not need a complete overhaul of its coal-allocation नीति, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory.",
+      "analysis_hi": "संदर्भ: India may not need a complete overhaul of its coal-allocation policy, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory....\n\nप्रमुख बिंदु:\n• India may not need a complete overhaul of its coal-allocation policy, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory.\n",
+      "analysis_en": "Reference: India may not need a complete overhaul of its coal-allocation policy, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory....\n\nKey Points:\n• India may not need a complete overhaul of its coal-allocation policy, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory.\n",
+      "link": "https://www.thehindu.com/business/Industry/coal-stock-management-emerges-as-key-challenge-for-thermal-power-producers/article71369117.ece"
+    },
     {
       "id": "c9b85be4dc7b",
       "date": "09 Sep 2026",
@@ -484,405 +1595,6 @@
       "analysis_hi": "संदर्भ: Tangedco staff held on bribery charges near Arakkonam...\n\nप्रमुख बिंदु:\n• Tangedco staff held on bribery charges near Arakkonam\n",
       "analysis_en": "Reference: Tangedco staff held on bribery charges near Arakkonam...\n\nKey Points:\n• Tangedco staff held on bribery charges near Arakkonam\n",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/tangedco-staff-held-on-bribery-charges-near-arakkonam/article71442687.ece"
-    },
-    {
-      "id": "d783721350ec",
-      "date": "08 Sep 2026",
-      "iso_date": "2026-09-08T16:39:21+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Public Accounts Committee flags failure to transfer ₹9,222 crore in cess collections to designated reserve funds",
-      "title_hi": "Public Accounts Committee flags failure to transfer ₹9,222 crore in cess collections to designated reserve funds",
-      "summary_en": "Members question the Finance Ministry’s explanation; panel chief K.C. Venugopal says cess proceeds must not be used to finance fiscal deficit instead of their intended purpose",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Members question the Finance Ministry’s explanation; panel chief K.C. Venugopal says cess proceeds must not be used to finance fiscal deficit instead of their intended purpose",
-      "analysis_hi": "संदर्भ: Members question the Finance Ministry’s explanation; panel chief K.C. Venugopal says cess proceeds must not be used to finance fiscal deficit instead of their intended purpose...\n\nप्रमुख बिंदु:\n• Members question the Finance Ministry’s explanation; panel chief K.C\n• Venugopal says cess proceeds must not be used to finance fiscal deficit instead of their intended purpose\n",
-      "analysis_en": "Reference: Members question the Finance Ministry’s explanation; panel chief K.C. Venugopal says cess proceeds must not be used to finance fiscal deficit instead of their intended purpose...\n\nKey Points:\n• Members question the Finance Ministry’s explanation; panel chief K.C\n• Venugopal says cess proceeds must not be used to finance fiscal deficit instead of their intended purpose\n",
-      "link": "https://www.thehindu.com/news/national/public-accounts-committee-flags-failure-to-transfer-9222-crore-in-cess-collections-to-designated-reserve-funds/article71443327.ece"
-    },
-    {
-      "id": "d9aa7947258c",
-      "date": "08 Sep 2026",
-      "iso_date": "2026-09-08T16:20:28+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "India has 51 days coal stocks to meet power demand; production recovers after monsoon disruption",
-      "title_hi": "India has 51 days coal stocks to meet power demand; production recovers after monsoon disruption",
-      "summary_en": "The Central Electricity Authority (CEA) had observed recently that 53 thermal power-plants were holding 25% or less than their overall coal requirements.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Central Electricity Authority (CEA) had observed recently that 53 thermal power-plants were holding 25% or less than their overall coal requirements.",
-      "analysis_hi": "संदर्भ: The Central Electricity Authority (CEA) had observed recently that 53 thermal power-plants were holding 25% or less than their overall coal requirements....\n\nप्रमुख बिंदु:\n• The Central Electricity Authority (CEA) had observed recently that 53 thermal power-plants were holding 25% or less than their overall coal requirements.\n",
-      "analysis_en": "Reference: The Central Electricity Authority (CEA) had observed recently that 53 thermal power-plants were holding 25% or less than their overall coal requirements....\n\nKey Points:\n• The Central Electricity Authority (CEA) had observed recently that 53 thermal power-plants were holding 25% or less than their overall coal requirements.\n",
-      "link": "https://www.thehindu.com/business/Industry/coal-stocks-adequate-to-meet-51-days-of-power-demand-coal-minister-whilst-addressing-monsoon-slump-in-production/article71443971.ece"
-    },
-    {
-      "id": "8c6e1250a431",
-      "date": "08 Sep 2026",
-      "iso_date": "2026-09-08T11:50:05+00:00",
-      "category": "schemes",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2",
-        "GS-3"
-      ],
-      "subjects": [
-        "Schemes",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Welfare schemes for vulnerable sections",
-        "GS-3: Government policies and interventions"
-      ],
-      "title_en": "Govt puts bank staff performance-linked incentive scheme on hold ahead of strike",
-      "title_hi": "Govt puts bank staff performance-linked incentive scheme on hold ahead of strike",
-      "summary_en": "The decision followed a meeting between Finance Minister Nirmala Sitharaman and a delegation of bank employees",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The decision followed a meeting between Finance Minister Nirmala Sitharaman and a delegation of bank employees",
-      "analysis_hi": "संदर्भ: The decision followed a meeting between Finance Minister Nirmala Sitharaman and a delegation of bank employees...\n\nप्रमुख बिंदु:\n• The decision followed a meeting between Finance Minister Nirmala Sitharaman and a delegation of bank employees\n",
-      "analysis_en": "Reference: The decision followed a meeting between Finance Minister Nirmala Sitharaman and a delegation of bank employees...\n\nKey Points:\n• The decision followed a meeting between Finance Minister Nirmala Sitharaman and a delegation of bank employees\n",
-      "link": "https://www.thehindu.com/business/govt-puts-bank-staff-performance-linked-incentive-scheme-on-hold-ahead-of-strike/article71442429.ece"
-    },
-    {
-      "id": "b8f68e1b4408",
-      "date": "08 Sep 2026",
-      "iso_date": "2026-09-08T10:22:11+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "What prompted India’s return to the ‘A’ rating after 35 years?",
-      "title_hi": "What prompted India’s return to the ‘A’ rating after 35 years?",
-      "summary_en": "While most sovereign credit rating agencies rate India a grade or two above ‘junk’ status, the recent upgrade by the Japan Credit Rating Agency sees India return to the ‘A’ grade for the first time since early 1988",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। While most sovereign credit rating agencies rate India a grade or two above ‘junk’ status, the recent upgrade by the Japan Credit Rating Agency sees India return to the ‘A’ grade for the first time since early 1988",
-      "analysis_hi": "संदर्भ: While most sovereign credit rating agencies rate India a grade or two above ‘junk’ status, the recent upgrade by the Japan Credit Rating Agency sees India return to the ‘A’ grade for the first time since early 1988...\n\nप्रमुख बिंदु:\n• While most sovereign credit rating agencies rate India a grade or two above ‘junk’ status, the recent upgrade by the Japan Credit Rating Agency sees India return to the ‘A’ grade for the first time since early 1988\n",
-      "analysis_en": "Reference: While most sovereign credit rating agencies rate India a grade or two above ‘junk’ status, the recent upgrade by the Japan Credit Rating Agency sees India return to the ‘A’ grade for the first time since early 1988...\n\nKey Points:\n• While most sovereign credit rating agencies rate India a grade or two above ‘junk’ status, the recent upgrade by the Japan Credit Rating Agency sees India return to the ‘A’ grade for the first time since early 1988\n",
-      "link": "https://www.thehindu.com/business/Economy/what-prompted-indias-return-to-the-a-rating-after-35-years/article71442079.ece"
-    },
-    {
-      "id": "6892ca050a2c",
-      "date": "07 Sep 2026",
-      "iso_date": "2026-09-07T17:44:52+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "LPG booking interval for rural consumers cut to 25 days from 45",
-      "title_hi": "LPG booking interval for rural consumers cut to 25 days from 45",
-      "summary_en": "This brings the interval between bookings for rural consumers on par with urban consumers, for whom the period remains unchanged at 25 days",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। This brings the interval between bookings for rural consumers on par with urban consumers, for whom the period remains unchanged at 25 days",
-      "analysis_hi": "संदर्भ: This brings the interval between bookings for rural consumers on par with urban consumers, for whom the period remains unchanged at 25 days...\n\nप्रमुख बिंदु:\n• This brings the interval between bookings for rural consumers on par with urban consumers, for whom the period remains unchanged at 25 days\n",
-      "analysis_en": "Reference: This brings the interval between bookings for rural consumers on par with urban consumers, for whom the period remains unchanged at 25 days...\n\nKey Points:\n• This brings the interval between bookings for rural consumers on par with urban consumers, for whom the period remains unchanged at 25 days\n",
-      "link": "https://www.thehindu.com/news/national/oil-ministry-lpg-booking-interval-rural-urban-areas-suresh-gopi/article71438250.ece"
-    },
-    {
-      "id": "11a35ac8509b",
-      "date": "07 Sep 2026",
-      "iso_date": "2026-09-07T17:05:21+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Govt spurs coal rake loading by 20% to strengthen stocks positions at thermal plants",
-      "title_hi": "Govt spurs coal rake loading by 20% to strengthen stocks positions at thermal plants",
-      "summary_en": "CEA data indicates 53 domestic coal-fired plants were operating with less than 25% of their critical normative requirements as on September 5",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। CEA data indicates 53 domestic coal-fired plants were operating with less than 25% of their critical normative requirements as on September 5",
-      "analysis_hi": "संदर्भ: CEA data indicates 53 domestic coal-fired plants were operating with less than 25% of their critical normative requirements as on September 5...\n\nप्रमुख बिंदु:\n• CEA data indicates 53 domestic coal-fired plants were operating with less than 25% of their critical normative requirements as on September 5\n",
-      "analysis_en": "Reference: CEA data indicates 53 domestic coal-fired plants were operating with less than 25% of their critical normative requirements as on September 5...\n\nKey Points:\n• CEA data indicates 53 domestic coal-fired plants were operating with less than 25% of their critical normative requirements as on September 5\n",
-      "link": "https://www.thehindu.com/business/Economy/govt-spurs-coal-rake-loading-by-20-to-strengthen-stocks-positions-at-thermal-plants/article71437951.ece"
-    },
-    {
-      "id": "7416c11d26a3",
-      "date": "07 Sep 2026",
-      "iso_date": "2026-09-07T10:13:29+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "C. Rangarajan flags fewer regional rural banks as ‘a step in the wrong direction’; urges RBI to incentivise SFBs",
-      "title_hi": "C. Rangarajan flags fewer regional rural banks as ‘a step in the wrong direction’; urges RBI to incentivise SFBs",
-      "summary_en": "Former RBI Governor says consolidation risks eroding RRBs’ local character; says 11 small finance banks will not meet the sector’s unmet credit needs",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Former RBI Governor says consolidation risks eroding RRBs’ local character; says 11 small finance banks will not meet the sector’s unmet credit needs",
-      "analysis_hi": "संदर्भ: Former RBI Governor says consolidation risks eroding RRBs’ local character; says 11 small finance banks will not meet the sector’s unmet credit needs...\n\nप्रमुख बिंदु:\n• Former RBI Governor says consolidation risks eroding RRBs’ local character; says 11 small finance banks will not meet the sector’s unmet credit needs\n",
-      "analysis_en": "Reference: Former RBI Governor says consolidation risks eroding RRBs’ local character; says 11 small finance banks will not meet the sector’s unmet credit needs...\n\nKey Points:\n• Former RBI Governor says consolidation risks eroding RRBs’ local character; says 11 small finance banks will not meet the sector’s unmet credit needs\n",
-      "link": "https://www.thehindu.com/business/Economy/c-rangarajan-flags-fewer-regional-rural-banks-as-a-step-in-the-wrong-direction-urges-rbi-to-incentivise-sfbs/article71438013.ece"
-    },
-    {
-      "id": "7d2b5878a964",
-      "date": "07 Sep 2026",
-      "iso_date": "2026-09-07T04:45:22+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Does ‘inflation targeting’ work in India?",
-      "title_hi": "Does ‘inflation targeting’ work in India?",
-      "summary_en": "India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India’s Phillips curve is found to be flat, while households’ मुद्रास्फीति expectations remain consistently higher than the RBI’s projections; this suggests that मुद्रास्फीति targeting can lower output and employment without a commensurate reduction in मुद्रास्फीति",
-      "analysis_hi": "संदर्भ: India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation...\n\nप्रमुख बिंदु:\n• India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation\n",
-      "analysis_en": "Reference: India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation...\n\nKey Points:\n• India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation\n",
-      "link": "https://www.thehindu.com/business/Economy/does-inflation-targeting-work-in-india/article71435164.ece"
-    },
-    {
-      "id": "41b7920ae957",
-      "date": "06 Sep 2026",
-      "iso_date": "2026-09-06T19:09:43+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "India’s unemployment data dilemma",
-      "title_hi": "India’s unemployment data dilemma",
-      "summary_en": "A fall in unemployment may indicate distress-driven entry into low-productivity jobs rather than genuine employment creation",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A fall in unemployment may indicate distress-driven entry into low-productivity jobs rather than genuine employment creation",
-      "analysis_hi": "संदर्भ: A fall in unemployment may indicate distress-driven entry into low-productivity jobs rather than genuine employment creation...\n\nप्रमुख बिंदु:\n• A fall in unemployment may indicate distress-driven entry into low-productivity jobs rather than genuine employment creation\n",
-      "analysis_en": "Reference: A fall in unemployment may indicate distress-driven entry into low-productivity jobs rather than genuine employment creation...\n\nKey Points:\n• A fall in unemployment may indicate distress-driven entry into low-productivity jobs rather than genuine employment creation\n",
-      "link": "https://www.thehindu.com/opinion/op-ed/indias-unemployment-data-dilemma/article71436287.ece"
-    },
-    {
-      "id": "0e49ca6b412c",
-      "date": "06 Sep 2026",
-      "iso_date": "2026-09-06T13:27:00+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Gold and silver rise",
-      "title_hi": "Gold and silver rise",
-      "summary_en": "Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached",
-      "analysis_hi": "संदर्भ: Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached...\n\nप्रमुख बिंदु:\n• Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached\n",
-      "analysis_en": "Reference: Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached...\n\nKey Points:\n• Short-term trend in gold and silver have turned positive post the breakout of key resistance level; the trend would remain positive until the support level is breached\n",
-      "link": "https://www.thehindu.com/business/Economy/gold-and-silver-rise/article71435459.ece"
-    },
-    {
-      "id": "079294b978b7",
-      "date": "05 Sep 2026",
-      "iso_date": "2026-09-05T16:04:12+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Coal production re-accelerates amid easing monsoon; daily output rises to 1.7 MT",
-      "title_hi": "Coal production re-accelerates amid easing monsoon; daily output rises to 1.7 MT",
-      "summary_en": "Coal India’s sizeable inventory position as a cushion against supply disruptions. The improvement in production and dispatch amid easing monsoon offers greater flexibility, supporting higher supplies to power sector.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Coal India’s sizeable inventory position as a cushion against supply disruptions. The improvement in production and dispatch amid easing monsoon offers greater flexibility, supporting higher supplies to power sector.",
-      "analysis_hi": "संदर्भ: Coal India’s sizeable inventory position as a cushion against supply disruptions. The improvement in production and dispatch amid easing monsoon offers greater flexibility, supporting higher supplies to power sector....\n\nप्रमुख बिंदु:\n• Coal India’s sizeable inventory position as a cushion against supply disruptions\n• The improvement in production and dispatch amid easing monsoon offers greater flexibility, supporting higher supplies to power sector.\n",
-      "analysis_en": "Reference: Coal India’s sizeable inventory position as a cushion against supply disruptions. The improvement in production and dispatch amid easing monsoon offers greater flexibility, supporting higher supplies to power sector....\n\nKey Points:\n• Coal India’s sizeable inventory position as a cushion against supply disruptions\n• The improvement in production and dispatch amid easing monsoon offers greater flexibility, supporting higher supplies to power sector.\n",
-      "link": "https://www.thehindu.com/business/Industry/coal-production-re-accelerates-amid-easing-monsoon-daily-output-rises-to-17-mt/article71432824.ece"
-    },
-    {
-      "id": "dc32742205fc",
-      "date": "05 Sep 2026",
-      "iso_date": "2026-09-05T15:07:11+00:00",
-      "category": "schemes",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2",
-        "GS-3"
-      ],
-      "subjects": [
-        "Schemes",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Welfare schemes for vulnerable sections",
-        "GS-3: Government policies and interventions"
-      ],
-      "title_en": "Coal Ministry rejects ‘No Takers’ claim, says TFL, NTPC apply for gasification scheme",
-      "title_hi": "Coal Ministry rejects ‘No Takers’ claim, says TFL, NTPC apply for gasification scheme",
-      "summary_en": "Talcher Fertilisers Ltd is already working on implementing a coal-based ammonia-urea gasification complex, expected to be commissioned in FY 2027-28.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Talcher Fertilisers Ltd is already working on implementing a coal-based ammonia-urea gasification complex, expected to be commissioned in FY 2027-28.",
-      "analysis_hi": "संदर्भ: Talcher Fertilisers Ltd is already working on implementing a coal-based ammonia-urea gasification complex, expected to be commissioned in FY 2027-28....\n\nप्रमुख बिंदु:\n• Talcher Fertilisers Ltd is already working on implementing a coal-based ammonia-urea gasification complex, expected to be commissioned in FY 2027-28.\n",
-      "analysis_en": "Reference: Talcher Fertilisers Ltd is already working on implementing a coal-based ammonia-urea gasification complex, expected to be commissioned in FY 2027-28....\n\nKey Points:\n• Talcher Fertilisers Ltd is already working on implementing a coal-based ammonia-urea gasification complex, expected to be commissioned in FY 2027-28.\n",
-      "link": "https://www.thehindu.com/business/Industry/coal-ministry-rejects-no-takers-claim-says-tfl-ntpc-apply-for-gasification-scheme/article71432557.ece"
-    },
-    {
-      "id": "3ce91e36e408",
-      "date": "04 Sep 2026",
-      "iso_date": "2026-09-04T19:51:14+00:00",
-      "category": "ir",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "International Relations"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: India and its neighborhood- relations",
-        "GS-2: Important International institutions, agencies and fora"
-      ],
-      "title_en": "A BIT of a reset, with a wider debate",
-      "title_hi": "A BIT of a reset, with a wider debate",
-      "summary_en": "Revising India’s bilateral investment treaty (BIT) requires consultation and stronger democratic accountability",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Revising India’s द्विपक्षीय investment संधि (BIT) requires consultation and stronger democratic accountability",
-      "analysis_hi": "संदर्भ: Revising India’s bilateral investment treaty (BIT) requires consultation and stronger democratic accountability...\n\nप्रमुख बिंदु:\n• Revising India’s bilateral investment treaty (BIT) requires consultation and stronger democratic accountability\n",
-      "analysis_en": "Reference: Revising India’s bilateral investment treaty (BIT) requires consultation and stronger democratic accountability...\n\nKey Points:\n• Revising India’s bilateral investment treaty (BIT) requires consultation and stronger democratic accountability\n",
-      "link": "https://www.thehindu.com/opinion/op-ed/a-bit-of-a-reset-with-a-wider-debate/article71429058.ece"
-    },
-    {
-      "id": "f00caa0ec517",
-      "date": "04 Sep 2026",
-      "iso_date": "2026-09-04T17:49:52+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Coal stock management emerges as key challenge for thermal power producers",
-      "title_hi": "Coal stock management emerges as key challenge for thermal power producers",
-      "summary_en": "India may not need a complete overhaul of its coal-allocation policy, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India may not need a complete overhaul of its coal-allocation नीति, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory.",
-      "analysis_hi": "संदर्भ: India may not need a complete overhaul of its coal-allocation policy, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory....\n\nप्रमुख बिंदु:\n• India may not need a complete overhaul of its coal-allocation policy, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory.\n",
-      "analysis_en": "Reference: India may not need a complete overhaul of its coal-allocation policy, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory....\n\nKey Points:\n• India may not need a complete overhaul of its coal-allocation policy, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory.\n",
-      "link": "https://www.thehindu.com/business/Industry/coal-stock-management-emerges-as-key-challenge-for-thermal-power-producers/article71369117.ece"
     },
     {
       "id": "b69c151ebed7",
@@ -4978,723 +5690,6 @@
       "analysis_hi": "संदर्भ: Congress questions methodology behind the latest GDP figures, with Jairam Ramesh alleging that 'statistical gymnastics’ concealed the underlying weakness of the economy...\n\nप्रमुख बिंदु:\n• Congress questions methodology behind the latest GDP figures, with Jairam Ramesh alleging that 'statistical gymnastics’ concealed the underlying weakness of the economy\n",
       "analysis_en": "Reference: Congress questions methodology behind the latest GDP figures, with Jairam Ramesh alleging that 'statistical gymnastics’ concealed the underlying weakness of the economy...\n\nKey Points:\n• Congress questions methodology behind the latest GDP figures, with Jairam Ramesh alleging that 'statistical gymnastics’ concealed the underlying weakness of the economy\n",
       "link": "https://www.thehindu.com/news/national/kharge-terms-modis-gdp-video-pr-exercise-congress-flags-inflation-unemployment/article71415891.ece"
-    },
-    {
-      "id": "29f1f53f5485",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T19:46:44+00:00",
-      "category": "social",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-1",
-        "GS-2"
-      ],
-      "subjects": [
-        "Social Issues"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-1: Population and associated issues",
-        "GS-2: Issues relating to development and management of Social Sector/Services"
-      ],
-      "title_en": "Leaking P&T apartmentskeep students out ofschool; SHRC orders probe",
-      "title_hi": "Leaking P&T apartmentskeep students out ofschool; SHRC orders probe",
-      "summary_en": "Schoolbags and books have been repeatedly soaked by leaks in apartment complex housing around 65 schoolchildren, say residents; GCDA, which constructed the towers, asked to submit report",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Schoolbags and books have been repeatedly soaked by leaks in apartment complex housing around 65 schoolchildren, say residents; GCDA, which constructed the towers, asked to submit report",
-      "analysis_hi": "संदर्भ: Schoolbags and books have been repeatedly soaked by leaks in apartment complex housing around 65 schoolchildren, say residents; GCDA, which constructed the towers, asked to submit report...\n\nप्रमुख बिंदु:\n• Schoolbags and books have been repeatedly soaked by leaks in apartment complex housing around 65 schoolchildren, say residents; GCDA, which constructed the towers, asked to submit report\n",
-      "analysis_en": "Reference: Schoolbags and books have been repeatedly soaked by leaks in apartment complex housing around 65 schoolchildren, say residents; GCDA, which constructed the towers, asked to submit report...\n\nKey Points:\n• Schoolbags and books have been repeatedly soaked by leaks in apartment complex housing around 65 schoolchildren, say residents; GCDA, which constructed the towers, asked to submit report\n",
-      "link": "https://www.thehindu.com/news/national/kerala/leaking-pt-apartmentskeep-students-out-ofschool-shrc-orders-probe/article71415724.ece"
-    },
-    {
-      "id": "e681f9414ceb",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T19:45:55+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Mamata Banerjee’s niece found dead at home in Birbhum",
-      "title_hi": "Mamata Banerjee’s niece found dead at home in Birbhum",
-      "summary_en": "Police say her family members have stated that she has been suffering from severe depression for the last few years and was undergoing psychiatric treatment",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Police say her family members have stated that she has been suffering from severe depression for the last few years and was undergoing psychiatric treatment",
-      "analysis_hi": "संदर्भ: Police say her family members have stated that she has been suffering from severe depression for the last few years and was undergoing psychiatric treatment...\n\nप्रमुख बिंदु:\n• Police say her family members have stated that she has been suffering from severe depression for the last few years and was undergoing psychiatric treatment\n",
-      "analysis_en": "Reference: Police say her family members have stated that she has been suffering from severe depression for the last few years and was undergoing psychiatric treatment...\n\nKey Points:\n• Police say her family members have stated that she has been suffering from severe depression for the last few years and was undergoing psychiatric treatment\n",
-      "link": "https://www.thehindu.com/news/national/west-bengal/former-west-bengal-cm-mamata-banerjees-niece-found-dead-at-birbhum-residence/article71414708.ece"
-    },
-    {
-      "id": "d4ed7050b5c4",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T19:44:39+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Four Naga villages attacked in Manipur, pastor shot at",
-      "title_hi": "Four Naga villages attacked in Manipur, pastor shot at",
-      "summary_en": "Normal life affected across Imphal Valley as pro-NRC group enforces shutdown despite the Centre deferring the Census operation in State",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Normal life affected across Imphal Valley as pro-NRC group enforces shutdown despite the Centre deferring the Census operation in State",
-      "analysis_hi": "संदर्भ: Normal life affected across Imphal Valley as pro-NRC group enforces shutdown despite the Centre deferring the Census operation in State...\n\nप्रमुख बिंदु:\n• Normal life affected across Imphal Valley as pro-NRC group enforces shutdown despite the Centre deferring the Census operation in State\n",
-      "analysis_en": "Reference: Normal life affected across Imphal Valley as pro-NRC group enforces shutdown despite the Centre deferring the Census operation in State...\n\nKey Points:\n• Normal life affected across Imphal Valley as pro-NRC group enforces shutdown despite the Centre deferring the Census operation in State\n",
-      "link": "https://www.thehindu.com/news/national/manipur/four-naga-villages-attacked-in-manipur-pastor-shot-at/article71415317.ece"
-    },
-    {
-      "id": "623a5d15b70a",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T19:38:22+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "The south’s muted voice as political power shifts north",
-      "title_hi": "The south’s muted voice as political power shifts north",
-      "summary_en": "The south’s ‘political retreat’ from its once-influential national role comes amid growing anxieties over representation and federalism",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The south’s ‘political retreat’ from its once-influential national role comes amid growing anxieties over representation and federalism",
-      "analysis_hi": "संदर्भ: The south’s ‘political retreat’ from its once-influential national role comes amid growing anxieties over representation and federalism...\n\nप्रमुख बिंदु:\n• The south’s ‘political retreat’ from its once-influential national role comes amid growing anxieties over representation and federalism\n",
-      "analysis_en": "Reference: The south’s ‘political retreat’ from its once-influential national role comes amid growing anxieties over representation and federalism...\n\nKey Points:\n• The south’s ‘political retreat’ from its once-influential national role comes amid growing anxieties over representation and federalism\n",
-      "link": "https://www.thehindu.com/opinion/lead/the-souths-muted-voice-as-political-power-shifts-north/article71416519.ece"
-    },
-    {
-      "id": "a101339b4ef2",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T19:14:16+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Madras High Court sets aside conviction, imprisonment imposed on BJP leader H. Raja in two criminal cases",
-      "title_hi": "Madras High Court sets aside conviction, imprisonment imposed on BJP leader H. Raja in two criminal cases",
-      "summary_en": "Justice V. Lakshminarayanan allows a couple of criminal appeals filed by the BJP leader challenging the judgments passed against him by a special court for MP/MLA cases in 2024",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Justice V. Lakshminarayanan allows a couple of criminal appeals filed by the BJP leader challenging the judgments passed against him by a special court for MP/MLA cases in 2024",
-      "analysis_hi": "संदर्भ: Justice V. Lakshminarayanan allows a couple of criminal appeals filed by the BJP leader challenging the judgments passed against him by a special court for MP/MLA cases in 2024...\n\nप्रमुख बिंदु:\n• Lakshminarayanan allows a couple of criminal appeals filed by the BJP leader challenging the judgments passed against him by a special court for MP/MLA cases in 2024\n",
-      "analysis_en": "Reference: Justice V. Lakshminarayanan allows a couple of criminal appeals filed by the BJP leader challenging the judgments passed against him by a special court for MP/MLA cases in 2024...\n\nKey Points:\n• Lakshminarayanan allows a couple of criminal appeals filed by the BJP leader challenging the judgments passed against him by a special court for MP/MLA cases in 2024\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-sets-aside-conviction-imprisonment-imposed-on-bjp-leader-h-raja-in-two-criminal-cases/article71413727.ece"
-    },
-    {
-      "id": "fb94b4411aa8",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T19:12:48+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Lucknow University students protest against hostel fee hike, demands rollback",
-      "title_hi": "Lucknow University students protest against hostel fee hike, demands rollback",
-      "summary_en": "Students alleged that hostel fees in all 18 hostels of the University have increased in recent times. Agitated students gathered outside the Vice-Chancellor’s office and proctor’s office, demanding a rollback of the hike.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Students alleged that hostel fees in all 18 hostels of the University have increased in recent times. Agitated students gathered outside the Vice-Chancellor’s office and proctor’s office, demanding a rollback of the hike.",
-      "analysis_hi": "संदर्भ: Students alleged that hostel fees in all 18 hostels of the University have increased in recent times. Agitated students gathered outside the Vice-Chancellor’s office and proctor’s office, demanding a rollback of the hike....\n\nप्रमुख बिंदु:\n• Students alleged that hostel fees in all 18 hostels of the University have increased in recent times\n• Agitated students gathered outside the Vice-Chancellor’s office and proctor’s office, demanding a rollback of the hike.\n",
-      "analysis_en": "Reference: Students alleged that hostel fees in all 18 hostels of the University have increased in recent times. Agitated students gathered outside the Vice-Chancellor’s office and proctor’s office, demanding a rollback of the hike....\n\nKey Points:\n• Students alleged that hostel fees in all 18 hostels of the University have increased in recent times\n• Agitated students gathered outside the Vice-Chancellor’s office and proctor’s office, demanding a rollback of the hike.\n",
-      "link": "https://www.thehindu.com/news/national/uttar-pradesh/lucknow-university-students-protest-against-hostel-fee-hike-demands-rollback/article71415547.ece"
-    },
-    {
-      "id": "611a06008290",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T19:01:51+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "TCS hosts inter-school quiz contest InQuizitive 2026",
-      "title_hi": "TCS hosts inter-school quiz contest InQuizitive 2026",
-      "summary_en": "TCS hosts inter-school quiz contest InQuizitive 2026",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। TCS hosts inter-school quiz contest InQuizitive 2026",
-      "analysis_hi": "संदर्भ: TCS hosts inter-school quiz contest InQuizitive 2026...\n\nप्रमुख बिंदु:\n• TCS hosts inter-school quiz contest InQuizitive 2026\n",
-      "analysis_en": "Reference: TCS hosts inter-school quiz contest InQuizitive 2026...\n\nKey Points:\n• TCS hosts inter-school quiz contest InQuizitive 2026\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tcs-hosts-inter-school-quiz-contest-inquizitive-2026/article71414476.ece"
-    },
-    {
-      "id": "2ae2885d208c",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T18:55:02+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "BJP launches 10-day padayatra against ‘corruption’ in Congress govt.",
-      "title_hi": "BJP launches 10-day padayatra against ‘corruption’ in Congress govt.",
-      "summary_en": "Vijayendra predicts resignation of another senior Minister in the coming days; BJP broadbases protest to take on government over alleged corruption, diversion of SCSP/TSP funds and failure to adequately address drought",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Vijayendra predicts resignation of another senior Minister in the coming days; BJP broadbases protest to take on सरकार over alleged corruption, diversion of SCSP/TSP funds and failure to adequately address drought",
-      "analysis_hi": "संदर्भ: Vijayendra predicts resignation of another senior Minister in the coming days; BJP broadbases protest to take on government over alleged corruption, diversion of SCSP/TSP funds and failure to adequately address drought...\n\nप्रमुख बिंदु:\n• Vijayendra predicts resignation of another senior Minister in the coming days; BJP broadbases protest to take on government over alleged corruption, diversion of SCSP/TSP funds and failure to adequately address drought\n",
-      "analysis_en": "Reference: Vijayendra predicts resignation of another senior Minister in the coming days; BJP broadbases protest to take on government over alleged corruption, diversion of SCSP/TSP funds and failure to adequately address drought...\n\nKey Points:\n• Vijayendra predicts resignation of another senior Minister in the coming days; BJP broadbases protest to take on government over alleged corruption, diversion of SCSP/TSP funds and failure to adequately address drought\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/bjp-launches-10-day-padayatra-against-corruption-in-congress-govt/article71415074.ece"
-    },
-    {
-      "id": "068b81280541",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T18:54:36+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "LiDAR survey to look for Lakkundi’s hidden monuments",
-      "title_hi": "LiDAR survey to look for Lakkundi’s hidden monuments",
-      "summary_en": "MoU was signed on August 27 for use of LiDAR surveys, GIS Mapping, Remote Sensing, Ground Penetrating Radar (GPR) and other technologies to help locate structures that may have been concealed by vegetation overgrowth",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। MoU was signed on August 27 for use of LiDAR surveys, GIS Mapping, Remote Sensing, Ground Penetrating Radar (GPR) and other technologies to help locate structures that may have been concealed by vegetation overgrowth",
-      "analysis_hi": "संदर्भ: MoU was signed on August 27 for use of LiDAR surveys, GIS Mapping, Remote Sensing, Ground Penetrating Radar (GPR) and other technologies to help locate structures that may have been concealed by vegetation overgrowth...\n\nप्रमुख बिंदु:\n• MoU was signed on August 27 for use of LiDAR surveys, GIS Mapping, Remote Sensing, Ground Penetrating Radar (GPR) and other technologies to help locate structures that may have been concealed by vegetation overgrowth\n",
-      "analysis_en": "Reference: MoU was signed on August 27 for use of LiDAR surveys, GIS Mapping, Remote Sensing, Ground Penetrating Radar (GPR) and other technologies to help locate structures that may have been concealed by vegetation overgrowth...\n\nKey Points:\n• MoU was signed on August 27 for use of LiDAR surveys, GIS Mapping, Remote Sensing, Ground Penetrating Radar (GPR) and other technologies to help locate structures that may have been concealed by vegetation overgrowth\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/lidar-survey-to-look-for-lakkundis-hidden-monuments/article71415842.ece"
-    },
-    {
-      "id": "9bfac57d7720",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T18:51:58+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Karnataka urges Centre to give early clearance for pending irrigation and drinking water projects including revised DPR of Mekedatu",
-      "title_hi": "Karnataka urges Centre to give early clearance for pending irrigation and drinking water projects including revised DPR of Mekedatu",
-      "summary_en": "Karnataka has again urged the Centre to provide immediate clearance to various pending irrigation and drinking water projects, including the Mekedatu balancing reservoir project",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Karnataka has again urged the Centre to provide immediate clearance to various pending irrigation and drinking water projects, including the Mekedatu balancing reservoir project",
-      "analysis_hi": "संदर्भ: Karnataka has again urged the Centre to provide immediate clearance to various pending irrigation and drinking water projects, including the Mekedatu balancing reservoir project...\n\nप्रमुख बिंदु:\n• Karnataka has again urged the Centre to provide immediate clearance to various pending irrigation and drinking water projects, including the Mekedatu balancing reservoir project\n",
-      "analysis_en": "Reference: Karnataka has again urged the Centre to provide immediate clearance to various pending irrigation and drinking water projects, including the Mekedatu balancing reservoir project...\n\nKey Points:\n• Karnataka has again urged the Centre to provide immediate clearance to various pending irrigation and drinking water projects, including the Mekedatu balancing reservoir project\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-urges-centre-to-give-early-clearance-for-pending-irrigation-and-drinking-water-projects-including-revised-dpr-of-mekedatu/article71416042.ece"
-    },
-    {
-      "id": "07fa4115414f",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T18:50:58+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Tata Elxsi, Sarla Aviation join hands to develop air taxi",
-      "title_hi": "Tata Elxsi, Sarla Aviation join hands to develop air taxi",
-      "summary_en": "The partnership will also explore opportunities in sensor-fusion-based navigation software, industrial and structural design, and airworthiness testing.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The partnership will also explore opportunities in sensor-fusion-based navigation software, industrial and structural design, and airworthiness testing.",
-      "analysis_hi": "संदर्भ: The partnership will also explore opportunities in sensor-fusion-based navigation software, industrial and structural design, and airworthiness testing....\n\nप्रमुख बिंदु:\n• The partnership will also explore opportunities in sensor-fusion-based navigation software, industrial and structural design, and airworthiness testing.\n",
-      "analysis_en": "Reference: The partnership will also explore opportunities in sensor-fusion-based navigation software, industrial and structural design, and airworthiness testing....\n\nKey Points:\n• The partnership will also explore opportunities in sensor-fusion-based navigation software, industrial and structural design, and airworthiness testing.\n",
-      "link": "https://www.thehindu.com/news/national/tata-elxsi-sarla-aviation-join-hands-to-develop-air-taxi/article71415650.ece"
-    },
-    {
-      "id": "60e6b936975d",
-      "date": "01 Sep 2026",
-      "iso_date": "2026-09-01T18:50:33+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Congress will form counter-strategy to politically tackle BJP’s padayatra: Karnataka Chief Minister",
-      "title_hi": "Congress will form counter-strategy to politically tackle BJP’s padayatra: Karnataka Chief Minister",
-      "summary_en": "The chief minister describes BJP’s padayatra as a politica. ploy to divert public attention from its own in internal differences",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The chief minister describes BJP’s padayatra as a politica. ploy to divert public attention from its own in internal differences",
-      "analysis_hi": "संदर्भ: The chief minister describes BJP’s padayatra as a politica. ploy to divert public attention from its own in internal differences...\n\nप्रमुख बिंदु:\n• The chief minister describes BJP’s padayatra as a politica\n• ploy to divert public attention from its own in internal differences\n",
-      "analysis_en": "Reference: The chief minister describes BJP’s padayatra as a politica. ploy to divert public attention from its own in internal differences...\n\nKey Points:\n• The chief minister describes BJP’s padayatra as a politica\n• ploy to divert public attention from its own in internal differences\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/congress-will-form-counter-strategy-to-politically-tackle-bjps-padayatra-karnataka-chief-minister/article71415595.ece"
-    },
-    {
-      "id": "70e57f62cbb6",
-      "date": "31 Aug 2026",
-      "iso_date": "2026-08-31T05:09:19+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Nirmala Sitharaman in U.S. Asheville city for G-20 finance ministerial meet",
-      "title_hi": "Nirmala Sitharaman in U.S. Asheville city for G-20 finance ministerial meet",
-      "summary_en": "U.S. Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। U.S. Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville",
-      "analysis_hi": "संदर्भ: U.S. Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville...\n\nप्रमुख बिंदु:\n• Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville\n",
-      "analysis_en": "Reference: U.S. Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville...\n\nKey Points:\n• Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville\n",
-      "link": "https://www.thehindu.com/news/national/nirmala-sitharaman-g-20-finance-ministerial-meet-us-asheville/article71409601.ece"
-    },
-    {
-      "id": "539af62c096d",
-      "date": "30 Aug 2026",
-      "iso_date": "2026-08-30T10:19:49+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Why gold should form 10% of investment portfolio",
-      "title_hi": "Why gold should form 10% of investment portfolio",
-      "summary_en": "Most investors think of portfolio in terms of equity and fixed income but buying gold is not a speculative add-on, it is a structural building block of a well-constructed portfolio",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Most investors think of portfolio in terms of equity and fixed income but buying gold is not a speculative add-on, it is a structural building block of a well-constructed portfolio",
-      "analysis_hi": "संदर्भ: Most investors think of portfolio in terms of equity and fixed income but buying gold is not a speculative add-on, it is a structural building block of a well-constructed portfolio...\n\nप्रमुख बिंदु:\n• Most investors think of portfolio in terms of equity and fixed income but buying gold is not a speculative add-on, it is a structural building block of a well-constructed portfolio\n",
-      "analysis_en": "Reference: Most investors think of portfolio in terms of equity and fixed income but buying gold is not a speculative add-on, it is a structural building block of a well-constructed portfolio...\n\nKey Points:\n• Most investors think of portfolio in terms of equity and fixed income but buying gold is not a speculative add-on, it is a structural building block of a well-constructed portfolio\n",
-      "link": "https://www.thehindu.com/business/Economy/why-gold-should-form-10-of-investment-portfolio/article71407437.ece"
-    },
-    {
-      "id": "97421d6e2ef1",
-      "date": "30 Aug 2026",
-      "iso_date": "2026-08-30T08:53:58+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "India re-commits to concluding trade deal with Chile ‘within this year’",
-      "title_hi": "India re-commits to concluding trade deal with Chile ‘within this year’",
-      "summary_en": "The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile",
-      "analysis_hi": "संदर्भ: The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile...\n\nप्रमुख बिंदु:\n• The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile\n",
-      "analysis_en": "Reference: The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile...\n\nKey Points:\n• The statement followed a meeting between Commerce Secretary Rajesh Agrawal and Chile’s Vice-Minister of International Economic Relations Paula Estévez Weinstein in Santiago, Chile\n",
-      "link": "https://www.thehindu.com/business/Economy/committed-to-conclude-trade-pact-talks-this-year-with-chile-centre/article71407223.ece"
-    },
-    {
-      "id": "cd9c0071a226",
-      "date": "30 Aug 2026",
-      "iso_date": "2026-08-30T06:03:31+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Mcap of 7 of top-10 most-valued firms erodes ₹1.13 lakh crore; Airtel, Reliance worst hit",
-      "title_hi": "Mcap of 7 of top-10 most-valued firms erodes ₹1.13 lakh crore; Airtel, Reliance worst hit",
-      "summary_en": "The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore. Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore. Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore.",
-      "analysis_hi": "संदर्भ: The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore. Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore....\n\nप्रमुख बिंदु:\n• The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore\n• Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore.\n",
-      "analysis_en": "Reference: The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore. Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore....\n\nKey Points:\n• The valuation of Bharti Airtel tumbled ₹40,500.85 crore to ₹11,74,462.30 crore\n• Reliance Industries' valuation eroded ₹40,056.32 crore to reach ₹17,38,119.27 crore.\n",
-      "link": "https://www.thehindu.com/business/Economy/mcap-of-7-of-top-10-most-valued-firms-erodes-113-lakh-crore-airtel-reliance-worst-hit/article71407087.ece"
-    },
-    {
-      "id": "d0db00e7c738",
-      "date": "29 Aug 2026",
-      "iso_date": "2026-08-29T05:34:14+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Partial FDI opening in e-commerce “almost worse” than no opening: Competere chief",
-      "title_hi": "Partial FDI opening in e-commerce “almost worse” than no opening: Competere chief",
-      "summary_en": "The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The सरकार in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported.",
-      "analysis_hi": "संदर्भ: The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported....\n\nप्रमुख बिंदु:\n• The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported.\n",
-      "analysis_en": "Reference: The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported....\n\nKey Points:\n• The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported.\n",
-      "link": "https://www.thehindu.com/business/Economy/partial-fdi-opening-in-e-commerce-almost-worse-than-no-opening-competere-chief/article71373215.ece"
-    },
-    {
-      "id": "d7b820a8b9b4",
-      "date": "28 Aug 2026",
-      "iso_date": "2026-08-28T20:46:02+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Fiscal federalism, efficiency versus equity concerns",
-      "title_hi": "Fiscal federalism, efficiency versus equity concerns",
-      "summary_en": "The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation",
-      "analysis_hi": "संदर्भ: The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation...\n\nप्रमुख बिंदु:\n• The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation\n",
-      "analysis_en": "Reference: The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation...\n\nKey Points:\n• The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation\n",
-      "link": "https://www.thehindu.com/opinion/lead/fiscal-federalism-efficiency-versus-equity-concerns/article71310469.ece"
-    },
-    {
-      "id": "ac8e473f7adc",
-      "date": "31 Aug 2026",
-      "iso_date": "2026-08-31T20:37:29+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "After Supreme Court judge’s letters, Collegium recommends new Chief Justice for Rajasthan HC",
-      "title_hi": "After Supreme Court judge’s letters, Collegium recommends new Chief Justice for Rajasthan HC",
-      "summary_en": "Resolution by the Collegium came a weekend after letters written by serving top court judge Justice Sandeep Mehta, complaining of the conduct of Rajasthan Acting Chief Justice S.P. Sharma, became public",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Resolution by the Collegium came a weekend after letters written by serving top court judge Justice Sandeep Mehta, complaining of the conduct of Rajasthan Acting Chief Justice S.P. Sharma, became public",
-      "analysis_hi": "संदर्भ: Resolution by the Collegium came a weekend after letters written by serving top court judge Justice Sandeep Mehta, complaining of the conduct of Rajasthan Acting Chief Justice S.P. Sharma, became public...\n\nप्रमुख बिंदु:\n• Resolution by the Collegium came a weekend after letters written by serving top court judge Justice Sandeep Mehta, complaining of the conduct of Rajasthan Acting Chief Justice S.P\n",
-      "analysis_en": "Reference: Resolution by the Collegium came a weekend after letters written by serving top court judge Justice Sandeep Mehta, complaining of the conduct of Rajasthan Acting Chief Justice S.P. Sharma, became public...\n\nKey Points:\n• Resolution by the Collegium came a weekend after letters written by serving top court judge Justice Sandeep Mehta, complaining of the conduct of Rajasthan Acting Chief Justice S.P\n",
-      "link": "https://www.thehindu.com/news/national/after-supreme-court-judges-letters-collegium-recommends-new-chief-justice-for-rajasthan-hc/article71412531.ece"
-    },
-    {
-      "id": "3cb74a1eed46",
-      "date": "31 Aug 2026",
-      "iso_date": "2026-08-31T20:34:50+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "NCLT's first-ever 5-member Bench to decide on Subhash Chandra repayment plan",
-      "title_hi": "NCLT's first-ever 5-member Bench to decide on Subhash Chandra repayment plan",
-      "summary_en": "A Division Bench had failed to reach a majority verdict in a personal insolvency case involving claims of more than ₹22,000 crore",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A Division Bench had failed to reach a majority verdict in a personal insolvency case involving claims of more than ₹22,000 crore",
-      "analysis_hi": "संदर्भ: A Division Bench had failed to reach a majority verdict in a personal insolvency case involving claims of more than ₹22,000 crore...\n\nप्रमुख बिंदु:\n• A Division Bench had failed to reach a majority verdict in a personal insolvency case involving claims of more than ₹22,000 crore\n",
-      "analysis_en": "Reference: A Division Bench had failed to reach a majority verdict in a personal insolvency case involving claims of more than ₹22,000 crore...\n\nKey Points:\n• A Division Bench had failed to reach a majority verdict in a personal insolvency case involving claims of more than ₹22,000 crore\n",
-      "link": "https://www.thehindu.com/news/national/nclts-first-ever-5-member-bench-to-decide-on-subhash-chandra-repayment-plan/article71412509.ece"
-    },
-    {
-      "id": "c3a162582e8e",
-      "date": "31 Aug 2026",
-      "iso_date": "2026-08-31T20:00:30+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Chief Minister, Cabinet colleagues to attend leadership retreat at IIMK",
-      "title_hi": "Chief Minister, Cabinet colleagues to attend leadership retreat at IIMK",
-      "summary_en": "The residential workshop is aimed at enhancing governance and administrative efficiency",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The residential workshop is aimed at enhancing governance and administrative efficiency",
-      "analysis_hi": "संदर्भ: The residential workshop is aimed at enhancing governance and administrative efficiency...\n\nप्रमुख बिंदु:\n• The residential workshop is aimed at enhancing governance and administrative efficiency\n",
-      "analysis_en": "Reference: The residential workshop is aimed at enhancing governance and administrative efficiency...\n\nKey Points:\n• The residential workshop is aimed at enhancing governance and administrative efficiency\n",
-      "link": "https://www.thehindu.com/news/national/kerala/chief-minister-cabinet-colleagues-to-attend-leadership-retreat-at-iimk/article71411302.ece"
-    },
-    {
-      "id": "cd2e3d4d633f",
-      "date": "31 Aug 2026",
-      "iso_date": "2026-08-31T19:55:52+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Harikatha artistes seek govt. support to promote art",
-      "title_hi": "Harikatha artistes seek govt. support to promote art",
-      "summary_en": "Harikatha artistes seek govt. support to promote art",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Harikatha artistes seek govt. support to promote art",
-      "analysis_hi": "संदर्भ: Harikatha artistes seek govt. support to promote art...\n\nप्रमुख बिंदु:\n",
-      "analysis_en": "Reference: Harikatha artistes seek govt. support to promote art...\n\nKey Points:\n",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/harikatha-artistes-seek-govt-support-to-promote-art/article71410943.ece"
-    },
-    {
-      "id": "5acf699a1555",
-      "date": "31 Aug 2026",
-      "iso_date": "2026-08-31T19:45:03+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Pinarayi accuses Taliparamba MLA of ‘betrayal’",
-      "title_hi": "Pinarayi accuses Taliparamba MLA of ‘betrayal’",
-      "summary_en": "T.K. Govindan alleges that the CPI(M) leadership is destroying the party in pursuit of its own interests and asks if the party leadership is impartially examining the reasons for the CPI(M)’s decline",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। T.K. Govindan alleges that the CPI(M) leadership is destroying the party in pursuit of its own interests and asks if the party leadership is impartially examining the reasons for the CPI(M)’s decline",
-      "analysis_hi": "संदर्भ: T.K. Govindan alleges that the CPI(M) leadership is destroying the party in pursuit of its own interests and asks if the party leadership is impartially examining the reasons for the CPI(M)’s decline...\n\nप्रमुख बिंदु:\n• Govindan alleges that the CPI(M) leadership is destroying the party in pursuit of its own interests and asks if the party leadership is impartially examining the reasons for the CPI(M)’s decline\n",
-      "analysis_en": "Reference: T.K. Govindan alleges that the CPI(M) leadership is destroying the party in pursuit of its own interests and asks if the party leadership is impartially examining the reasons for the CPI(M)’s decline...\n\nKey Points:\n• Govindan alleges that the CPI(M) leadership is destroying the party in pursuit of its own interests and asks if the party leadership is impartially examining the reasons for the CPI(M)’s decline\n",
-      "link": "https://www.thehindu.com/news/national/kerala/pinarayi-accuses-taliparamba-mla-of-betrayal/article71412588.ece"
-    },
-    {
-      "id": "ed83b8f41015",
-      "date": "31 Aug 2026",
-      "iso_date": "2026-08-31T19:31:11+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "BJP targets AAP government over employee protests, ‘unfulfilled’ promises in Punjab",
-      "title_hi": "BJP targets AAP government over employee protests, ‘unfulfilled’ promises in Punjab",
-      "summary_en": "The BJP leader called the Chief Minister’s approach “undemocratic” and questioned why AAP’s own protests were considered democratic while public protests were allegedly met with repression.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The BJP leader called the Chief Minister’s approach “undemocratic” and questioned why AAP’s own protests were considered democratic while public protests were allegedly met with repression.",
-      "analysis_hi": "संदर्भ: The BJP leader called the Chief Minister’s approach “undemocratic” and questioned why AAP’s own protests were considered democratic while public protests were allegedly met with repression....\n\nप्रमुख बिंदु:\n• The BJP leader called the Chief Minister’s approach “undemocratic” and questioned why AAP’s own protests were considered democratic while public protests were allegedly met with repression.\n",
-      "analysis_en": "Reference: The BJP leader called the Chief Minister’s approach “undemocratic” and questioned why AAP’s own protests were considered democratic while public protests were allegedly met with repression....\n\nKey Points:\n• The BJP leader called the Chief Minister’s approach “undemocratic” and questioned why AAP’s own protests were considered democratic while public protests were allegedly met with repression.\n",
-      "link": "https://www.thehindu.com/news/national/punjab/bjp-targets-aap-government-over-employee-protests-unfulfilled-promises-in-punjab/article71411107.ece"
-    },
-    {
-      "id": "810de9a7655d",
-      "date": "31 Aug 2026",
-      "iso_date": "2026-08-31T19:30:31+00:00",
-      "category": "social",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-1",
-        "GS-2"
-      ],
-      "subjects": [
-        "Social Issues"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-1: Population and associated issues",
-        "GS-2: Issues relating to development and management of Social Sector/Services"
-      ],
-      "title_en": "Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike",
-      "title_hi": "Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike",
-      "summary_en": "Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Telangana AYUSH doctors call off 28-day strike after स्वास्थ्य Minister assures stipend hike",
-      "analysis_hi": "संदर्भ: Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike...\n\nप्रमुख बिंदु:\n• Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike\n",
-      "analysis_en": "Reference: Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike...\n\nKey Points:\n• Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike\n",
-      "link": "https://www.thehindu.com/news/national/telangana/telangana-ayush-doctors-call-off-28-day-strike-after-health-minister-assures-stipend-hike/article71412164.ece"
     }
   ]
 }
