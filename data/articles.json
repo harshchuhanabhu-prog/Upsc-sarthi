@@ -1,8 +1,1060 @@
 {
-  "last_updated": "2026-09-19T00:42:17.773141+00:00",
-  "last_updated_ist": "19 September 2026, 06:12 AM IST",
+  "last_updated": "2026-09-20T00:41:06.225721+00:00",
+  "last_updated_ist": "20 September 2026, 06:11 AM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "155693820e91",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T23:22:42+00:00",
+      "category": "social",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-1",
+        "GS-2"
+      ],
+      "subjects": [
+        "Social Issues"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-1: Population and associated issues",
+        "GS-2: Issues relating to development and management of Social Sector/Services"
+      ],
+      "title_en": "Union Home Minister Amit Shah falls ill in Hubballi, skips inauguration of college",
+      "title_hi": "Union Home Minister Amit Shah falls ill in Hubballi, skips inauguration of college",
+      "summary_en": "Union Home Minister Amit Shah skipped the September 19 programme due to ill health",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Union Home Minister Amit Shah skipped the September 19 programme due to ill स्वास्थ्य",
+      "analysis_hi": "संदर्भ: Union Home Minister Amit Shah skipped the September 19 programme due to ill health...\n\nप्रमुख बिंदु:\n• Union Home Minister Amit Shah skipped the September 19 programme due to ill health\n",
+      "analysis_en": "Reference: Union Home Minister Amit Shah skipped the September 19 programme due to ill health...\n\nKey Points:\n• Union Home Minister Amit Shah skipped the September 19 programme due to ill health\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/union-home-minister-amitshah-falls-ill-inhubballi/article71483956.ece"
+    },
+    {
+      "id": "0533dbd6273f",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T21:00:34+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "In India’s capital, Delhiites reduced to documents",
+      "title_hi": "In India’s capital, Delhiites reduced to documents",
+      "summary_en": "Across SIR hearing centres in the national capital, people are making repeated trips, producing documents, and waiting for hours to prove their eligibility, often despite having voted for years. Ishita Mishra and Suruchi Kumari spoke to people appealing to retain their right to vote and officials who share the reality of a process marked by confusion. As always, the burden to prove their identity is falling hardest on society’s poorer, less-documented voter",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Across SIR hearing centres in the national capital, people are making repeated trips, producing documents, and waiting for hours to prove their eligibility, often despite having voted for years. Ishita Mishra and Suruchi Kumari spoke to people appealing to retain their right to vote and officials who share the reality of a process marked by confusion. As always, the burden to prove their identity is falling hardest on society’s poorer, less-documented voter",
+      "analysis_hi": "संदर्भ: Across SIR hearing centres in the national capital, people are making repeated trips, producing documents, and waiting for hours to prove their eligibility, often despite having voted for years. Ishita Mishra and Suruchi Kumari spoke to people appealing to retain their right to vote and officials wh...\n\nप्रमुख बिंदु:\n• Across SIR hearing centres in the national capital, people are making repeated trips, producing documents, and waiting for hours to prove their eligibility, often despite having voted for years. Ishita Mishra and Suruchi Kumari spoke to people appealing to retain their right to vote and officials who share the reality of a process marked by confusion\n• As always, the burden to prove their identity is falling hardest on society’s poorer, less-documented voter\n",
+      "analysis_en": "Reference: Across SIR hearing centres in the national capital, people are making repeated trips, producing documents, and waiting for hours to prove their eligibility, often despite having voted for years. Ishita Mishra and Suruchi Kumari spoke to people appealing to retain their right to vote and officials wh...\n\nKey Points:\n• Across SIR hearing centres in the national capital, people are making repeated trips, producing documents, and waiting for hours to prove their eligibility, often despite having voted for years. Ishita Mishra and Suruchi Kumari spoke to people appealing to retain their right to vote and officials who share the reality of a process marked by confusion\n• As always, the burden to prove their identity is falling hardest on society’s poorer, less-documented voter\n",
+      "link": "https://www.thehindu.com/news/cities/Delhi/in-indias-capital-delhiites-reduced-to-documents/article71484465.ece"
+    },
+    {
+      "id": "2ad152991d79",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T20:45:14+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "What is the India-Pakistan conflict at sea about? | Explained",
+      "title_hi": "What is the India-Pakistan conflict at sea about? | Explained",
+      "summary_en": "What happened on September 15 in the North Arabian Sea? What kind of vessels were involved? Was there any damage to the vessels? How did India react to the incident? What is Pakistan’s version? What is Article 10 of the 1991 Agreement that India alleged Pakistan violated?",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। What happened on September 15 in the North Arabian Sea? What kind of vessels were involved? Was there any damage to the vessels? How did India react to the incident? What is Pakistan’s version? What is Article 10 of the 1991 समझौता that India alleged Pakistan violated?",
+      "analysis_hi": "संदर्भ: What happened on September 15 in the North Arabian Sea? What kind of vessels were involved? Was there any damage to the vessels? How did India react to the incident? What is Pakistan’s version? What is Article 10 of the 1991 Agreement that India alleged Pakistan violated?...\n\nप्रमुख बिंदु:\n• What happened on September 15 in the North Arabian Sea? What kind of vessels were involved? Was there any damage to the vessels? How did India react to the incident? What is Pakistan’s version? What is Article 10 of the 1991 Agreement that India alleged Pakistan violated?\n",
+      "analysis_en": "Reference: What happened on September 15 in the North Arabian Sea? What kind of vessels were involved? Was there any damage to the vessels? How did India react to the incident? What is Pakistan’s version? What is Article 10 of the 1991 Agreement that India alleged Pakistan violated?...\n\nKey Points:\n• What happened on September 15 in the North Arabian Sea? What kind of vessels were involved? Was there any damage to the vessels? How did India react to the incident? What is Pakistan’s version? What is Article 10 of the 1991 Agreement that India alleged Pakistan violated?\n",
+      "link": "https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece"
+    },
+    {
+      "id": "15dcb0687e13",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T20:05:32+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "How will the U.S.’s Sanctioning Act affect India? | Explained",
+      "title_hi": "How will the U.S.’s Sanctioning Act affect India? | Explained",
+      "summary_en": "Why did the U.S. introduce the Lindsey O. Graham Sanctioning Russia and Iran Act, 2026? What does this new law say about tariffs? What particular condition impacts India’s imports of Russian oil? How could this impact India’s economy? Is there any provision for a waiver of tariffs?",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Why did the U.S. introduce the Lindsey O. Graham Sanctioning Russia and Iran Act, 2026? What does this new law say about tariffs? What particular condition impacts India’s imports of Russian oil? How could this impact India’s अर्थव्यवस्था? Is there any provision for a waiver of tariffs?",
+      "analysis_hi": "संदर्भ: Why did the U.S. introduce the Lindsey O. Graham Sanctioning Russia and Iran Act, 2026? What does this new law say about tariffs? What particular condition impacts India’s imports of Russian oil? How could this impact India’s economy? Is there any provision for a waiver of tariffs?...\n\nप्रमुख बिंदु:\n• Graham Sanctioning Russia and Iran Act, 2026? What does this new law say about tariffs? What particular condition impacts India’s imports of Russian oil? How could this impact India’s economy? Is there any provision for a waiver of tariffs?\n",
+      "analysis_en": "Reference: Why did the U.S. introduce the Lindsey O. Graham Sanctioning Russia and Iran Act, 2026? What does this new law say about tariffs? What particular condition impacts India’s imports of Russian oil? How could this impact India’s economy? Is there any provision for a waiver of tariffs?...\n\nKey Points:\n• Graham Sanctioning Russia and Iran Act, 2026? What does this new law say about tariffs? What particular condition impacts India’s imports of Russian oil? How could this impact India’s economy? Is there any provision for a waiver of tariffs?\n",
+      "link": "https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece"
+    },
+    {
+      "id": "eb151e3f3605",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T20:04:27+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "The digital recruiter | Shahzad Bhatti",
+      "title_hi": "The digital recruiter | Shahzad Bhatti",
+      "summary_en": "The Pakistani social media influencer’s campaign to establish fear and clout in India has spread to 14 States, leading the Home Ministry to designate his network as a terror group",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Pakistani social media influencer’s campaign to establish fear and clout in India has spread to 14 States, leading the Home Ministry to designate his network as a terror group",
+      "analysis_hi": "संदर्भ: The Pakistani social media influencer’s campaign to establish fear and clout in India has spread to 14 States, leading the Home Ministry to designate his network as a terror group...\n\nप्रमुख बिंदु:\n• The Pakistani social media influencer’s campaign to establish fear and clout in India has spread to 14 States, leading the Home Ministry to designate his network as a terror group\n",
+      "analysis_en": "Reference: The Pakistani social media influencer’s campaign to establish fear and clout in India has spread to 14 States, leading the Home Ministry to designate his network as a terror group...\n\nKey Points:\n• The Pakistani social media influencer’s campaign to establish fear and clout in India has spread to 14 States, leading the Home Ministry to designate his network as a terror group\n",
+      "link": "https://www.thehindu.com/profile/the-digital-recruiter-shahzad-bhatti/article71485789.ece"
+    },
+    {
+      "id": "e7606e93b69e",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T19:46:18+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Samrat Choudhary promises jobs to one crore women",
+      "title_hi": "Samrat Choudhary promises jobs to one crore women",
+      "summary_en": "Addressing the gathering, Samrat Choudhary said that women in Bihar are moving forward rapidly, and their growing economic, social, and political participation reflects the State’s changing landscape",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Addressing the gathering, Samrat Choudhary said that women in Bihar are moving forward rapidly, and their growing economic, social, and political participation reflects the State’s changing landscape",
+      "analysis_hi": "संदर्भ: Addressing the gathering, Samrat Choudhary said that women in Bihar are moving forward rapidly, and their growing economic, social, and political participation reflects the State’s changing landscape...\n\nप्रमुख बिंदु:\n• Addressing the gathering, Samrat Choudhary said that women in Bihar are moving forward rapidly, and their growing economic, social, and political participation reflects the State’s changing landscape\n",
+      "analysis_en": "Reference: Addressing the gathering, Samrat Choudhary said that women in Bihar are moving forward rapidly, and their growing economic, social, and political participation reflects the State’s changing landscape...\n\nKey Points:\n• Addressing the gathering, Samrat Choudhary said that women in Bihar are moving forward rapidly, and their growing economic, social, and political participation reflects the State’s changing landscape\n",
+      "link": "https://www.thehindu.com/news/national/bihar/samrat-choudhary-promises-jobs-to-one-crore-women/article71485207.ece"
+    },
+    {
+      "id": "c0dd90d52d39",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T19:35:42+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Caste Hindu candidate claims reservation through bogus community certificate, Madras High Court refuses to order release of terminal benefits",
+      "title_hi": "Caste Hindu candidate claims reservation through bogus community certificate, Madras High Court refuses to order release of terminal benefits",
+      "summary_en": "Justice D. Bharatha Chakravarthy refuses to direct Chennai Port Trust to pay full pension and disburse other terminal benefits to the employee who had attained the age of superannuation after 32 years of service",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Justice D. Bharatha Chakravarthy refuses to direct Chennai Port Trust to pay full pension and disburse other terminal benefits to the employee who had attained the age of superannuation after 32 years of service",
+      "analysis_hi": "संदर्भ: Justice D. Bharatha Chakravarthy refuses to direct Chennai Port Trust to pay full pension and disburse other terminal benefits to the employee who had attained the age of superannuation after 32 years of service...\n\nप्रमुख बिंदु:\n• Bharatha Chakravarthy refuses to direct Chennai Port Trust to pay full pension and disburse other terminal benefits to the employee who had attained the age of superannuation after 32 years of service\n",
+      "analysis_en": "Reference: Justice D. Bharatha Chakravarthy refuses to direct Chennai Port Trust to pay full pension and disburse other terminal benefits to the employee who had attained the age of superannuation after 32 years of service...\n\nKey Points:\n• Bharatha Chakravarthy refuses to direct Chennai Port Trust to pay full pension and disburse other terminal benefits to the employee who had attained the age of superannuation after 32 years of service\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/caste-hindu-candidate-claims-reservation-through-bogus-community-certificate-madras-high-court-refuses-to-order-release-of-terminal-benefits/article71484580.ece"
+    },
+    {
+      "id": "b31dafe06463",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T19:34:33+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "TVK regime’s experiment of having two advisers to Vijay alongside Chief Secretary, giving mixed vibes to T.N.’s bureaucratic circles",
+      "title_hi": "TVK regime’s experiment of having two advisers to Vijay alongside Chief Secretary, giving mixed vibes to T.N.’s bureaucratic circles",
+      "summary_en": "Apart from the two advisers, the Chief Minister is aided by a team of four IAS officers, one of whom has 30-odd years’ experience",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Apart from the two advisers, the Chief Minister is aided by a team of four IAS officers, one of whom has 30-odd years’ experience",
+      "analysis_hi": "संदर्भ: Apart from the two advisers, the Chief Minister is aided by a team of four IAS officers, one of whom has 30-odd years’ experience...\n\nप्रमुख बिंदु:\n• Apart from the two advisers, the Chief Minister is aided by a team of four IAS officers, one of whom has 30-odd years’ experience\n",
+      "analysis_en": "Reference: Apart from the two advisers, the Chief Minister is aided by a team of four IAS officers, one of whom has 30-odd years’ experience...\n\nKey Points:\n• Apart from the two advisers, the Chief Minister is aided by a team of four IAS officers, one of whom has 30-odd years’ experience\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-regimes-experiment-of-having-two-advisers-to-vijay-alongside-chief-secretary-giving-mixed-vibes-to-tns-bureaucratic-circles/article71485220.ece"
+    },
+    {
+      "id": "4d13eced6990",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T19:32:57+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Youth stabbed to death over personal enmity in Kalaburagi",
+      "title_hi": "Youth stabbed to death over personal enmity in Kalaburagi",
+      "summary_en": "Youth stabbed to death over personal enmity in Kalaburagi",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Youth stabbed to death over personal enmity in Kalaburagi",
+      "analysis_hi": "संदर्भ: Youth stabbed to death over personal enmity in Kalaburagi...\n\nप्रमुख बिंदु:\n• Youth stabbed to death over personal enmity in Kalaburagi\n",
+      "analysis_en": "Reference: Youth stabbed to death over personal enmity in Kalaburagi...\n\nKey Points:\n• Youth stabbed to death over personal enmity in Kalaburagi\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/youth-stabbed-to-death-over-personal-enmity-in-kalaburagi/article71485338.ece"
+    },
+    {
+      "id": "e2696233b60f",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T19:32:14+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Raichur ZP CEO Ishwar Kumar Kandoo instructs officers to conduct crop loss assessment in drought-hit areas",
+      "title_hi": "Raichur ZP CEO Ishwar Kumar Kandoo instructs officers to conduct crop loss assessment in drought-hit areas",
+      "summary_en": "Raichur ZP CEO Ishwar Kumar Kandoo instructs officers to conduct crop loss assessment in drought-hit areas",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Raichur ZP CEO Ishwar Kumar Kandoo instructs officers to conduct crop loss assessment in drought-hit areas",
+      "analysis_hi": "संदर्भ: Raichur ZP CEO Ishwar Kumar Kandoo instructs officers to conduct crop loss assessment in drought-hit areas...\n\nप्रमुख बिंदु:\n• Raichur ZP CEO Ishwar Kumar Kandoo instructs officers to conduct crop loss assessment in drought-hit areas\n",
+      "analysis_en": "Reference: Raichur ZP CEO Ishwar Kumar Kandoo instructs officers to conduct crop loss assessment in drought-hit areas...\n\nKey Points:\n• Raichur ZP CEO Ishwar Kumar Kandoo instructs officers to conduct crop loss assessment in drought-hit areas\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/raichur-zp-ceo-ishwar-kumar-kandoo-instructs-officers-to-conduct-crop-loss-assessment-in-drought-hit-areas/article71484825.ece"
+    },
+    {
+      "id": "29414a59a5ff",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T19:31:11+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Bihar CM donates one month’s salary to flood victims",
+      "title_hi": "Bihar CM donates one month’s salary to flood victims",
+      "summary_en": "In Bihar, nearly 50 lakh people are affected by floods in 15 districts; on September 16, a central team led by Union Agriculture Minister Shivraj Singh Chouhan visited Bihar to assess the damage",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In Bihar, nearly 50 lakh people are affected by floods in 15 districts; on September 16, a central team led by Union कृषि Minister Shivraj Singh Chouhan visited Bihar to assess the damage",
+      "analysis_hi": "संदर्भ: In Bihar, nearly 50 lakh people are affected by floods in 15 districts; on September 16, a central team led by Union Agriculture Minister Shivraj Singh Chouhan visited Bihar to assess the damage...\n\nप्रमुख बिंदु:\n• In Bihar, nearly 50 lakh people are affected by floods in 15 districts; on September 16, a central team led by Union Agriculture Minister Shivraj Singh Chouhan visited Bihar to assess the damage\n",
+      "analysis_en": "Reference: In Bihar, nearly 50 lakh people are affected by floods in 15 districts; on September 16, a central team led by Union Agriculture Minister Shivraj Singh Chouhan visited Bihar to assess the damage...\n\nKey Points:\n• In Bihar, nearly 50 lakh people are affected by floods in 15 districts; on September 16, a central team led by Union Agriculture Minister Shivraj Singh Chouhan visited Bihar to assess the damage\n",
+      "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-donates-one-months-salary-to-flood-victims/article71485520.ece"
+    },
+    {
+      "id": "90e3832e0e6e",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T19:18:47+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Tasmac employees at retail outlets across T.N. to wear uniform from November 15",
+      "title_hi": "Tasmac employees at retail outlets across T.N. to wear uniform from November 15",
+      "summary_en": "Tasmac employees at retail outlets across T.N. to wear uniform from November 15",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Tasmac employees at retail outlets across T.N. to wear uniform from November 15",
+      "analysis_hi": "संदर्भ: Tasmac employees at retail outlets across T.N. to wear uniform from November 15...\n\nप्रमुख बिंदु:\n• Tasmac employees at retail outlets across T.N\n• to wear uniform from November 15\n",
+      "analysis_en": "Reference: Tasmac employees at retail outlets across T.N. to wear uniform from November 15...\n\nKey Points:\n• Tasmac employees at retail outlets across T.N\n• to wear uniform from November 15\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tasmac-employees-at-retail-outlets-across-tn-to-wear-uniform-from-november-15/article71485836.ece"
+    },
+    {
+      "id": "81b6273ccf7d",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T19:08:12+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Governor Arlekar takes part in beach-cleaning activity on Marina",
+      "title_hi": "Governor Arlekar takes part in beach-cleaning activity on Marina",
+      "summary_en": "Governor Arlekar takes part in beach-cleaning activity on Marina",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Governor Arlekar takes part in beach-cleaning activity on Marina",
+      "analysis_hi": "संदर्भ: Governor Arlekar takes part in beach-cleaning activity on Marina...\n\nप्रमुख बिंदु:\n• Governor Arlekar takes part in beach-cleaning activity on Marina\n",
+      "analysis_en": "Reference: Governor Arlekar takes part in beach-cleaning activity on Marina...\n\nKey Points:\n• Governor Arlekar takes part in beach-cleaning activity on Marina\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/governor-arlekar-takes-part-in-beach-cleaning-activity-on-marina/article71484618.ece"
+    },
+    {
+      "id": "a89c009cbe13",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T19:06:32+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Judiciary at a crossroads, introspection necessary to restore neutrality: Justice Anand Venkatesh",
+      "title_hi": "Judiciary at a crossroads, introspection necessary to restore neutrality: Justice Anand Venkatesh",
+      "summary_en": "Legal profession is not commercial but a service-oriented one; advocates are expected to be fearless in protecting rights of citizens and upholding rule of law, says the Madras High Court Judge",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Legal profession is not commercial but a service-oriented one; advocates are expected to be fearless in protecting rights of citizens and upholding rule of law, says the Madras High Court Judge",
+      "analysis_hi": "संदर्भ: Legal profession is not commercial but a service-oriented one; advocates are expected to be fearless in protecting rights of citizens and upholding rule of law, says the Madras High Court Judge...\n\nप्रमुख बिंदु:\n• Legal profession is not commercial but a service-oriented one; advocates are expected to be fearless in protecting rights of citizens and upholding rule of law, says the Madras High Court Judge\n",
+      "analysis_en": "Reference: Legal profession is not commercial but a service-oriented one; advocates are expected to be fearless in protecting rights of citizens and upholding rule of law, says the Madras High Court Judge...\n\nKey Points:\n• Legal profession is not commercial but a service-oriented one; advocates are expected to be fearless in protecting rights of citizens and upholding rule of law, says the Madras High Court Judge\n",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/judiciary-at-a-crossroads-introspection-necessary-to-restore-neutrality-justice-anand-venkatesh/article71485597.ece"
+    },
+    {
+      "id": "c21f57f3c665",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T19:00:00+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "‘India is entering a period of economic growth that could be unparalleled in our history’",
+      "title_hi": "‘India is entering a period of economic growth that could be unparalleled in our history’",
+      "summary_en": "‘India is entering a period of economic growth that could be unparalleled in our history’",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ‘India is entering a period of economic growth that could be unparalleled in our history’",
+      "analysis_hi": "संदर्भ: ‘India is entering a period of economic growth that could be unparalleled in our history’...\n\nप्रमुख बिंदु:\n• ‘India is entering a period of economic growth that could be unparalleled in our history’\n",
+      "analysis_en": "Reference: ‘India is entering a period of economic growth that could be unparalleled in our history’...\n\nKey Points:\n• ‘India is entering a period of economic growth that could be unparalleled in our history’\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu//article71485038.ece"
+    },
+    {
+      "id": "b92054a16339",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T18:58:43+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Danam disqualification verdict victory for Constitution: Kishan Reddy",
+      "title_hi": "Danam disqualification verdict victory for Constitution: Kishan Reddy",
+      "summary_en": "Danam disqualification verdict victory for Constitution: Kishan Reddy",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Danam disqualification verdict victory for संविधान: Kishan Reddy",
+      "analysis_hi": "संदर्भ: Danam disqualification verdict victory for Constitution: Kishan Reddy...\n\nप्रमुख बिंदु:\n• Danam disqualification verdict victory for Constitution: Kishan Reddy\n",
+      "analysis_en": "Reference: Danam disqualification verdict victory for Constitution: Kishan Reddy...\n\nKey Points:\n• Danam disqualification verdict victory for Constitution: Kishan Reddy\n",
+      "link": "https://www.thehindu.com/news/national/telangana/danam-disqualification-verdict-victory-for-constitution-kishan-reddy/article71485521.ece"
+    },
+    {
+      "id": "ec55a366a145",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T18:57:49+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Calicut varsity research scholars to have separate union; DSU on its way out",
+      "title_hi": "Calicut varsity research scholars to have separate union; DSU on its way out",
+      "summary_en": "These are part of the five-member panel’s proposals approved by Syndicate",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। These are part of the five-member panel’s proposals approved by Syndicate",
+      "analysis_hi": "संदर्भ: These are part of the five-member panel’s proposals approved by Syndicate...\n\nप्रमुख बिंदु:\n• These are part of the five-member panel’s proposals approved by Syndicate\n",
+      "analysis_en": "Reference: These are part of the five-member panel’s proposals approved by Syndicate...\n\nKey Points:\n• These are part of the five-member panel’s proposals approved by Syndicate\n",
+      "link": "https://www.thehindu.com/news/national/kerala/calicut-varsity-research-scholars-to-have-separate-union-dsu-on-its-way-out/article71484848.ece"
+    },
+    {
+      "id": "ec677a2a21b8",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T16:46:16+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "CWC chief flags ‘malpractices’ in phytosanitary certification, pitches integrated logistics to boost agri-exports",
+      "title_hi": "CWC chief flags ‘malpractices’ in phytosanitary certification, pitches integrated logistics to boost agri-exports",
+      "summary_en": "Santosh Sinha says CWC’s technical expertise and end-to-end logistics capabilities could help reduce export rejections",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Santosh Sinha says CWC’s technical expertise and end-to-end logistics capabilities could help reduce export rejections",
+      "analysis_hi": "संदर्भ: Santosh Sinha says CWC’s technical expertise and end-to-end logistics capabilities could help reduce export rejections...\n\nप्रमुख बिंदु:\n• Santosh Sinha says CWC’s technical expertise and end-to-end logistics capabilities could help reduce export rejections\n",
+      "analysis_en": "Reference: Santosh Sinha says CWC’s technical expertise and end-to-end logistics capabilities could help reduce export rejections...\n\nKey Points:\n• Santosh Sinha says CWC’s technical expertise and end-to-end logistics capabilities could help reduce export rejections\n",
+      "link": "https://www.thehindu.com/business/cwc-chief-flags-malpractices-in-phytosanitary-certification-pitches-integrated-logistics-to-boost-agri-exports/article71481879.ece"
+    },
+    {
+      "id": "1b10908dd5b5",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T15:54:07+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Who’s watching what we eat? Inside India’s food adulteration problem",
+      "title_hi": "Who’s watching what we eat? Inside India’s food adulteration problem",
+      "summary_en": "As adulteration cases pile up, and the Indian consumer confronts a complex food chain, where risks are often invisible, who’s responsible for keeping milk and everyday foods safe?",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। As adulteration cases pile up, and the Indian consumer confronts a complex food chain, where risks are often invisible, who’s responsible for keeping milk and everyday foods safe?",
+      "analysis_hi": "संदर्भ: As adulteration cases pile up, and the Indian consumer confronts a complex food chain, where risks are often invisible, who’s responsible for keeping milk and everyday foods safe?...\n\nप्रमुख बिंदु:\n• As adulteration cases pile up, and the Indian consumer confronts a complex food chain, where risks are often invisible, who’s responsible for keeping milk and everyday foods safe?\n",
+      "analysis_en": "Reference: As adulteration cases pile up, and the Indian consumer confronts a complex food chain, where risks are often invisible, who’s responsible for keeping milk and everyday foods safe?...\n\nKey Points:\n• As adulteration cases pile up, and the Indian consumer confronts a complex food chain, where risks are often invisible, who’s responsible for keeping milk and everyday foods safe?\n",
+      "link": "https://www.thehindu.com/society/food-adulteration-india-milk-safety/article71468235.ece"
+    },
+    {
+      "id": "b99f9a6b96be",
+      "date": "19 Sep 2026",
+      "iso_date": "2026-09-19T14:27:55+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "The price of AI is falling; why are enterprises still spending more? Explained",
+      "title_hi": "The price of AI is falling; why are enterprises still spending more? Explained",
+      "summary_en": "Cheaper tokens are encouraging wider use while increasingly complex AI workloads drive up consumption",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Cheaper tokens are encouraging wider use while increasingly complex AI workloads drive up consumption",
+      "analysis_hi": "संदर्भ: Cheaper tokens are encouraging wider use while increasingly complex AI workloads drive up consumption...\n\nप्रमुख बिंदु:\n• Cheaper tokens are encouraging wider use while increasingly complex AI workloads drive up consumption\n",
+      "analysis_en": "Reference: Cheaper tokens are encouraging wider use while increasingly complex AI workloads drive up consumption...\n\nKey Points:\n• Cheaper tokens are encouraging wider use while increasingly complex AI workloads drive up consumption\n",
+      "link": "https://www.thehindu.com/business/the-price-of-ai-is-falling-why-are-enterprises-still-spending-more-explained/article71484317.ece"
+    },
+    {
+      "id": "0b86c119c511",
+      "date": "18 Sep 2026",
+      "iso_date": "2026-09-18T18:58:15+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "What does the latest revision to the EPFO wage ceiling entail? | Explained",
+      "title_hi": "What does the latest revision to the EPFO wage ceiling entail? | Explained",
+      "summary_en": "How does the EPFO wage ceiling revision expand the social security net? What are the concerns of Unions and Employers? What are the legal issues that may arise?",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। How does the EPFO wage ceiling revision expand the social सुरक्षा net? What are the concerns of Unions and Employers? What are the legal issues that may arise?",
+      "analysis_hi": "संदर्भ: How does the EPFO wage ceiling revision expand the social security net? What are the concerns of Unions and Employers? What are the legal issues that may arise?...\n\nप्रमुख बिंदु:\n• How does the EPFO wage ceiling revision expand the social security net? What are the concerns of Unions and Employers? What are the legal issues that may arise?\n",
+      "analysis_en": "Reference: How does the EPFO wage ceiling revision expand the social security net? What are the concerns of Unions and Employers? What are the legal issues that may arise?...\n\nKey Points:\n• How does the EPFO wage ceiling revision expand the social security net? What are the concerns of Unions and Employers? What are the legal issues that may arise?\n",
+      "link": "https://www.thehindu.com/business/Economy/what-does-the-latest-revision-to-the-epfo-wage-ceiling-entail-explained/article71479414.ece"
+    },
+    {
+      "id": "ddd59e7533d7",
+      "date": "18 Sep 2026",
+      "iso_date": "2026-09-18T18:56:03+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "No hard ceilings: On the revision to EPFO wage ceiling",
+      "title_hi": "No hard ceilings: On the revision to EPFO wage ceiling",
+      "summary_en": "A rise in minimum PF pension will protect the worse-off among the retired",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A rise in minimum PF pension will protect the worse-off among the retired",
+      "analysis_hi": "संदर्भ: A rise in minimum PF pension will protect the worse-off among the retired...\n\nप्रमुख बिंदु:\n• A rise in minimum PF pension will protect the worse-off among the retired\n",
+      "analysis_en": "Reference: A rise in minimum PF pension will protect the worse-off among the retired...\n\nKey Points:\n• A rise in minimum PF pension will protect the worse-off among the retired\n",
+      "link": "https://www.thehindu.com/opinion/editorial/no-hard-ceilings-on-the-revision-to-epfo-wage-ceiling/article71480865.ece"
+    },
+    {
+      "id": "3144c84a2ad4",
+      "date": "18 Sep 2026",
+      "iso_date": "2026-09-18T17:11:48+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Data show India yielded to U.S. curbs on oil imports",
+      "title_hi": "Data show India yielded to U.S. curbs on oil imports",
+      "summary_en": "Though the government says that energy sourcing is based on “national interest”, India slashed oil imports from Venezuela, Iran, and Russia in the past following U.S. pressure, but immediately resumed sourcing crude from these sources after the curbs eased",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Though the सरकार says that energy sourcing is based on “national interest”, India slashed oil imports from Venezuela, Iran, and Russia in the past following U.S. pressure, but immediately resumed sourcing crude from these sources after the curbs eased",
+      "analysis_hi": "संदर्भ: Though the government says that energy sourcing is based on “national interest”, India slashed oil imports from Venezuela, Iran, and Russia in the past following U.S. pressure, but immediately resumed sourcing crude from these sources after the curbs eased...\n\nप्रमुख बिंदु:\n• Though the government says that energy sourcing is based on “national interest”, India slashed oil imports from Venezuela, Iran, and Russia in the past following U.S\n• pressure, but immediately resumed sourcing crude from these sources after the curbs eased\n",
+      "analysis_en": "Reference: Though the government says that energy sourcing is based on “national interest”, India slashed oil imports from Venezuela, Iran, and Russia in the past following U.S. pressure, but immediately resumed sourcing crude from these sources after the curbs eased...\n\nKey Points:\n• Though the government says that energy sourcing is based on “national interest”, India slashed oil imports from Venezuela, Iran, and Russia in the past following U.S\n• pressure, but immediately resumed sourcing crude from these sources after the curbs eased\n",
+      "link": "https://www.thehindu.com/business/Economy/venezuela-iran-russia-india-has-historically-complied-with-trump-on-cutting-oil-imports/article71480382.ece"
+    },
+    {
+      "id": "abb1e4aa4eaa",
+      "date": "18 Sep 2026",
+      "iso_date": "2026-09-18T16:45:48+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "MDR apprehension unlikely to spur higher cash usage: RBI Deputy Governor",
+      "title_hi": "MDR apprehension unlikely to spur higher cash usage: RBI Deputy Governor",
+      "summary_en": "From October 15, a 0.4% MDR will apply to person-to-merchant UPI payments above ₹2,000. The charge will be paid by merchants, not consumers, and will be capped at ₹300 for transactions of ₹75,000 or more",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। From October 15, a 0.4% MDR will apply to person-to-merchant UPI payments above ₹2,000. The charge will be paid by merchants, not consumers, and will be capped at ₹300 for transactions of ₹75,000 or more",
+      "analysis_hi": "संदर्भ: From October 15, a 0.4% MDR will apply to person-to-merchant UPI payments above ₹2,000. The charge will be paid by merchants, not consumers, and will be capped at ₹300 for transactions of ₹75,000 or more...\n\nप्रमुख बिंदु:\n• From October 15, a 0.4% MDR will apply to person-to-merchant UPI payments above ₹2,000\n• The charge will be paid by merchants, not consumers, and will be capped at ₹300 for transactions of ₹75,000 or more\n",
+      "analysis_en": "Reference: From October 15, a 0.4% MDR will apply to person-to-merchant UPI payments above ₹2,000. The charge will be paid by merchants, not consumers, and will be capped at ₹300 for transactions of ₹75,000 or more...\n\nKey Points:\n• From October 15, a 0.4% MDR will apply to person-to-merchant UPI payments above ₹2,000\n• The charge will be paid by merchants, not consumers, and will be capped at ₹300 for transactions of ₹75,000 or more\n",
+      "link": "https://www.thehindu.com/business/Economy/mdr-apprehension-unlikely-to-spur-higher-cash-usage-rbi-deputy-governor/article71482058.ece"
+    },
+    {
+      "id": "4ea4151d8df0",
+      "date": "18 Sep 2026",
+      "iso_date": "2026-09-18T15:49:19+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "RBI may deliver two rate hikes by CY 2026:Analysts",
+      "title_hi": "RBI may deliver two rate hikes by CY 2026:Analysts",
+      "summary_en": "The combination of elevated inflation risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The combination of elevated मुद्रास्फीति risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026.",
+      "analysis_hi": "संदर्भ: The combination of elevated inflation risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026....\n\nप्रमुख बिंदु:\n• The combination of elevated inflation risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026.\n",
+      "analysis_en": "Reference: The combination of elevated inflation risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026....\n\nKey Points:\n• The combination of elevated inflation risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026.\n",
+      "link": "https://www.thehindu.com/business/Economy/rbi-may-deliver-two-rate-hikes-by-cy-2026analysts/article71481500.ece"
+    },
+    {
+      "id": "3a2ac130e70d",
+      "date": "18 Sep 2026",
+      "iso_date": "2026-09-18T15:39:21+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "NMDC targets Net Zero operational emissions by 2047",
+      "title_hi": "NMDC targets Net Zero operational emissions by 2047",
+      "summary_en": "The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047",
+      "analysis_hi": "संदर्भ: The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047...\n\nप्रमुख बिंदु:\n• The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047\n",
+      "analysis_en": "Reference: The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047...\n\nKey Points:\n• The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047\n",
+      "link": "https://www.thehindu.com/business/nmdc-targets-net-zero-operational-emissions-by-2047/article71481748.ece"
+    },
+    {
+      "id": "cb57ae638322",
+      "date": "18 Sep 2026",
+      "iso_date": "2026-09-18T11:40:21+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Net direct tax collection rises 13% to over ₹12.12 lakh crore till September 17",
+      "title_hi": "Net direct tax collection rises 13% to over ₹12.12 lakh crore till September 17",
+      "summary_en": "Refund issuance jumped 29.19% to over ₹2.20 lakh crore till September 17, the data released by the Central Board of Direct Taxes (CBDT) showed.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Refund issuance jumped 29.19% to over ₹2.20 lakh crore till September 17, the data released by the Central Board of Direct Taxes (CBDT) showed.",
+      "analysis_hi": "संदर्भ: Refund issuance jumped 29.19% to over ₹2.20 lakh crore till September 17, the data released by the Central Board of Direct Taxes (CBDT) showed....\n\nप्रमुख बिंदु:\n• Refund issuance jumped 29.19% to over ₹2.20 lakh crore till September 17, the data released by the Central Board of Direct Taxes (CBDT) showed.\n",
+      "analysis_en": "Reference: Refund issuance jumped 29.19% to over ₹2.20 lakh crore till September 17, the data released by the Central Board of Direct Taxes (CBDT) showed....\n\nKey Points:\n• Refund issuance jumped 29.19% to over ₹2.20 lakh crore till September 17, the data released by the Central Board of Direct Taxes (CBDT) showed.\n",
+      "link": "https://www.thehindu.com/business/Economy/net-direct-tax-collection-rises-13-to-over-1212-lakh-crore-till-september-17/article71480346.ece"
+    },
+    {
+      "id": "f9c7382baa4e",
+      "date": "18 Sep 2026",
+      "iso_date": "2026-09-18T08:40:13+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "India’s crude oil imports in August fall 3%, import bill rises 18%",
+      "title_hi": "India’s crude oil imports in August fall 3%, import bill rises 18%",
+      "summary_en": "India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion.",
+      "analysis_hi": "संदर्भ: India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion....\n\nप्रमुख बिंदु:\n• India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion.\n",
+      "analysis_en": "Reference: India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion....\n\nKey Points:\n• India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion.\n",
+      "link": "https://www.thehindu.com/business/Economy/indias-crude-oil-imports-in-august-fall-3-spends-18-more/article71477355.ece"
+    },
+    {
+      "id": "94386f52dd21",
+      "date": "18 Sep 2026",
+      "iso_date": "2026-09-18T07:51:40+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Kearney study recommends measures to improve Tamil Nadu’s fiscal capacity",
+      "title_hi": "Kearney study recommends measures to improve Tamil Nadu’s fiscal capacity",
+      "summary_en": "The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says",
+      "analysis_hi": "संदर्भ: The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says...\n\nप्रमुख बिंदु:\n• The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says\n",
+      "analysis_en": "Reference: The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says...\n\nKey Points:\n• The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says\n",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/kearney-study-recommends-measures-to-improve-tamil-nadus-fiscal-capacity/article71479748.ece"
+    },
+    {
+      "id": "ac46a8bb4edc",
+      "date": "18 Sep 2026",
+      "iso_date": "2026-09-18T07:19:46+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Moody's raises India fiscal 2027 GDP growth forecast to 7% on West Asia resilience",
+      "title_hi": "Moody's raises India fiscal 2027 GDP growth forecast to 7% on West Asia resilience",
+      "summary_en": "The agency said elevated energy prices and El Niño-related food price pressures pose risks ‌to inflation, consumption ​and growth",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The agency said elevated energy prices and El Niño-related food price pressures pose risks ‌to मुद्रास्फीति, consumption ​and growth",
+      "analysis_hi": "संदर्भ: The agency said elevated energy prices and El Niño-related food price pressures pose risks ‌to inflation, consumption ​and growth...\n\nप्रमुख बिंदु:\n• The agency said elevated energy prices and El Niño-related food price pressures pose risks ‌to inflation, consumption ​and growth\n",
+      "analysis_en": "Reference: The agency said elevated energy prices and El Niño-related food price pressures pose risks ‌to inflation, consumption ​and growth...\n\nKey Points:\n• The agency said elevated energy prices and El Niño-related food price pressures pose risks ‌to inflation, consumption ​and growth\n",
+      "link": "https://www.thehindu.com/business/Economy/moodys-raises-india-fiscal-2027-gdp-growth-forecast-to-7-on-west-asia-resilience/article71479416.ece"
+    },
+    {
+      "id": "514378b5cf44",
+      "date": "18 Sep 2026",
+      "iso_date": "2026-09-18T06:22:15+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Bank of Japan hikes rates to 31-year high to battle inflation",
+      "title_hi": "Bank of Japan hikes rates to 31-year high to battle inflation",
+      "summary_en": "Pressure has increased on officials to further tighten monetary policy as a spike in oil prices caused by the West Asia crisis",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Pressure has increased on officials to further tighten monetary नीति as a spike in oil prices caused by the West Asia crisis",
+      "analysis_hi": "संदर्भ: Pressure has increased on officials to further tighten monetary policy as a spike in oil prices caused by the West Asia crisis...\n\nप्रमुख बिंदु:\n• Pressure has increased on officials to further tighten monetary policy as a spike in oil prices caused by the West Asia crisis\n",
+      "analysis_en": "Reference: Pressure has increased on officials to further tighten monetary policy as a spike in oil prices caused by the West Asia crisis...\n\nKey Points:\n• Pressure has increased on officials to further tighten monetary policy as a spike in oil prices caused by the West Asia crisis\n",
+      "link": "https://www.thehindu.com/business/Economy/bank-of-japan-hikes-rates-to-31-year-high-to-battle-inflation/article71479482.ece"
+    },
+    {
+      "id": "da09d963987e",
+      "date": "18 Sep 2026",
+      "iso_date": "2026-09-18T02:33:43+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Complex priorities: On UPI transactions, MDR charges",
+      "title_hi": "Complex priorities: On UPI transactions, MDR charges",
+      "summary_en": "A fear of political fallout has led to an overly complex MDR structure on UPI",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A fear of political fallout has led to an overly complex MDR structure on UPI",
+      "analysis_hi": "संदर्भ: A fear of political fallout has led to an overly complex MDR structure on UPI...\n\nप्रमुख बिंदु:\n• A fear of political fallout has led to an overly complex MDR structure on UPI\n",
+      "analysis_en": "Reference: A fear of political fallout has led to an overly complex MDR structure on UPI...\n\nKey Points:\n• A fear of political fallout has led to an overly complex MDR structure on UPI\n",
+      "link": "https://www.thehindu.com/opinion/editorial/complex-priorities-on-upi-transactions-mdr-charges/article71476513.ece"
+    },
+    {
+      "id": "0e29ccfc90de",
+      "date": "18 Sep 2026",
+      "iso_date": "2026-09-18T02:12:59+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Four India-based companies bear the brunt of U.S.’ Iran sanctions",
+      "title_hi": "Four India-based companies bear the brunt of U.S.’ Iran sanctions",
+      "summary_en": "U.S. Treasury Secretary Scott Bessent announced ‘Operation Economic Outcast’, which essentially involved new sanctions that aim to block all potential sources of revenue for Iran",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। U.S. Treasury Secretary Scott Bessent announced ‘Operation Economic Outcast’, which essentially involved new sanctions that aim to block all potential sources of revenue for Iran",
+      "analysis_hi": "संदर्भ: U.S. Treasury Secretary Scott Bessent announced ‘Operation Economic Outcast’, which essentially involved new sanctions that aim to block all potential sources of revenue for Iran...\n\nप्रमुख बिंदु:\n• Treasury Secretary Scott Bessent announced ‘Operation Economic Outcast’, which essentially involved new sanctions that aim to block all potential sources of revenue for Iran\n",
+      "analysis_en": "Reference: U.S. Treasury Secretary Scott Bessent announced ‘Operation Economic Outcast’, which essentially involved new sanctions that aim to block all potential sources of revenue for Iran...\n\nKey Points:\n• Treasury Secretary Scott Bessent announced ‘Operation Economic Outcast’, which essentially involved new sanctions that aim to block all potential sources of revenue for Iran\n",
+      "link": "https://www.thehindu.com/business/Economy/four-india-based-companies-bear-the-brunt-of-us-iran-sanctions/article71388216.ece"
+    },
+    {
+      "id": "b665344d9aad",
+      "date": "17 Sep 2026",
+      "iso_date": "2026-09-17T16:42:25+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Govt puts 25 coal blocks on sale in 16th round of commercial auctions",
+      "title_hi": "Govt puts 25 coal blocks on sale in 16th round of commercial auctions",
+      "summary_en": "The mines span across nine states including Arunachal Pradesh, Bihar, Chhattisgarh, Jharkhand, among others.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The mines span across nine states including Arunachal Pradesh, Bihar, Chhattisgarh, Jharkhand, among others.",
+      "analysis_hi": "संदर्भ: The mines span across nine states including Arunachal Pradesh, Bihar, Chhattisgarh, Jharkhand, among others....\n\nप्रमुख बिंदु:\n• The mines span across nine states including Arunachal Pradesh, Bihar, Chhattisgarh, Jharkhand, among others.\n",
+      "analysis_en": "Reference: The mines span across nine states including Arunachal Pradesh, Bihar, Chhattisgarh, Jharkhand, among others....\n\nKey Points:\n• The mines span across nine states including Arunachal Pradesh, Bihar, Chhattisgarh, Jharkhand, among others.\n",
+      "link": "https://www.thehindu.com/business/Economy/govt-puts-25-coal-blocks-on-sale-in-16th-round-of-commercial-auctions/article71477934.ece"
+    },
+    {
+      "id": "4af194cc70c9",
+      "date": "17 Sep 2026",
+      "iso_date": "2026-09-17T16:19:48+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "PAC pulls up Railways over gaps in passenger amenities despite promises",
+      "title_hi": "PAC pulls up Railways over gaps in passenger amenities despite promises",
+      "summary_en": "Around 96% of stations surveyed had deficient bio-toilets, finds CAG report; panel says Railways ignored observations made since 2007; PAC Chairperson directs Railway Ministry to submit a response within a month",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Around 96% of stations surveyed had deficient bio-toilets, finds CAG report; panel says Railways ignored observations made since 2007; PAC Chairperson directs Railway Ministry to submit a response within a month",
+      "analysis_hi": "संदर्भ: Around 96% of stations surveyed had deficient bio-toilets, finds CAG report; panel says Railways ignored observations made since 2007; PAC Chairperson directs Railway Ministry to submit a response within a month...\n\nप्रमुख बिंदु:\n• Around 96% of stations surveyed had deficient bio-toilets, finds CAG report; panel says Railways ignored observations made since 2007; PAC Chairperson directs Railway Ministry to submit a response within a month\n",
+      "analysis_en": "Reference: Around 96% of stations surveyed had deficient bio-toilets, finds CAG report; panel says Railways ignored observations made since 2007; PAC Chairperson directs Railway Ministry to submit a response within a month...\n\nKey Points:\n• Around 96% of stations surveyed had deficient bio-toilets, finds CAG report; panel says Railways ignored observations made since 2007; PAC Chairperson directs Railway Ministry to submit a response within a month\n",
+      "link": "https://www.thehindu.com/business/pac-pulls-up-railways-over-gaps-in-passenger-amenities-despite-promises/article71477045.ece"
+    },
+    {
+      "id": "dd9ef4693f55",
+      "date": "17 Sep 2026",
+      "iso_date": "2026-09-17T13:55:00+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "As U.S. readies 100% tariffs, Russia provided more than half of India’s oil imports in July",
+      "title_hi": "As U.S. readies 100% tariffs, Russia provided more than half of India’s oil imports in July",
+      "summary_en": "The U.S. House of Representatives passed a Bill on September 16 that seeks to impose tariffs of up to 100% on the top-5 countries absorbing the largest shares of Russia’s oil",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The U.S. House of Representatives passed a विधेयक on September 16 that seeks to impose tariffs of up to 100% on the top-5 countries absorbing the largest shares of Russia’s oil",
+      "analysis_hi": "संदर्भ: The U.S. House of Representatives passed a Bill on September 16 that seeks to impose tariffs of up to 100% on the top-5 countries absorbing the largest shares of Russia’s oil...\n\nप्रमुख बिंदु:\n• House of Representatives passed a Bill on September 16 that seeks to impose tariffs of up to 100% on the top-5 countries absorbing the largest shares of Russia’s oil\n",
+      "analysis_en": "Reference: The U.S. House of Representatives passed a Bill on September 16 that seeks to impose tariffs of up to 100% on the top-5 countries absorbing the largest shares of Russia’s oil...\n\nKey Points:\n• House of Representatives passed a Bill on September 16 that seeks to impose tariffs of up to 100% on the top-5 countries absorbing the largest shares of Russia’s oil\n",
+      "link": "https://www.thehindu.com/business/Economy/as-us-readies-100-tariffs-russia-provided-more-than-half-of-indias-oil-imports-in-july/article71476447.ece"
+    },
+    {
+      "id": "78bd97b628a6",
+      "date": "17 Sep 2026",
+      "iso_date": "2026-09-17T11:57:29+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Govt denies foreign pressure behind UPI MDR, says charge will help Indian UPI apps",
+      "title_hi": "Govt denies foreign pressure behind UPI MDR, says charge will help Indian UPI apps",
+      "summary_en": "The Department of Financial Services took to X to say that the NPCI’s actions had not rectified any of the concerns that the U.S. has raised in the past regarding India’s UPI system",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Department of Financial Services took to X to say that the NPCI’s actions had not rectified any of the concerns that the U.S. has raised in the past regarding India’s UPI system",
+      "analysis_hi": "संदर्भ: The Department of Financial Services took to X to say that the NPCI’s actions had not rectified any of the concerns that the U.S. has raised in the past regarding India’s UPI system...\n\nप्रमुख बिंदु:\n• The Department of Financial Services took to X to say that the NPCI’s actions had not rectified any of the concerns that the U.S\n• has raised in the past regarding India’s UPI system\n",
+      "analysis_en": "Reference: The Department of Financial Services took to X to say that the NPCI’s actions had not rectified any of the concerns that the U.S. has raised in the past regarding India’s UPI system...\n\nKey Points:\n• The Department of Financial Services took to X to say that the NPCI’s actions had not rectified any of the concerns that the U.S\n• has raised in the past regarding India’s UPI system\n",
+      "link": "https://www.thehindu.com/business/Economy/govt-denies-foreign-pressure-behind-upi-mdr-says-charge-will-help-indian-upi-apps/article71476075.ece"
+    },
     {
       "id": "4096b5b0bc7f",
       "date": "18 Sep 2026",
@@ -514,514 +1566,6 @@
       "analysis_hi": "संदर्भ: Four persons killed in road accidents in Ranipet, Tiruvannamalai...\n\nप्रमुख बिंदु:\n• Four persons killed in road accidents in Ranipet, Tiruvannamalai\n",
       "analysis_en": "Reference: Four persons killed in road accidents in Ranipet, Tiruvannamalai...\n\nKey Points:\n• Four persons killed in road accidents in Ranipet, Tiruvannamalai\n",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/four-persons-killed-in-road-accidents-in-ranipet-tiruvannamalai/article71480664.ece"
-    },
-    {
-      "id": "0b86c119c511",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T18:58:15+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "What does the latest revision to the EPFO wage ceiling entail? | Explained",
-      "title_hi": "What does the latest revision to the EPFO wage ceiling entail? | Explained",
-      "summary_en": "How does the EPFO wage ceiling revision expand the social security net? What are the concerns of Unions and Employers? What are the legal issues that may arise?",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। How does the EPFO wage ceiling revision expand the social सुरक्षा net? What are the concerns of Unions and Employers? What are the legal issues that may arise?",
-      "analysis_hi": "संदर्भ: How does the EPFO wage ceiling revision expand the social security net? What are the concerns of Unions and Employers? What are the legal issues that may arise?...\n\nप्रमुख बिंदु:\n• How does the EPFO wage ceiling revision expand the social security net? What are the concerns of Unions and Employers? What are the legal issues that may arise?\n",
-      "analysis_en": "Reference: How does the EPFO wage ceiling revision expand the social security net? What are the concerns of Unions and Employers? What are the legal issues that may arise?...\n\nKey Points:\n• How does the EPFO wage ceiling revision expand the social security net? What are the concerns of Unions and Employers? What are the legal issues that may arise?\n",
-      "link": "https://www.thehindu.com/business/Economy/what-does-the-latest-revision-to-the-epfo-wage-ceiling-entail-explained/article71479414.ece"
-    },
-    {
-      "id": "ddd59e7533d7",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T18:56:03+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "No hard ceilings: On the revision to EPFO wage ceiling",
-      "title_hi": "No hard ceilings: On the revision to EPFO wage ceiling",
-      "summary_en": "A rise in minimum PF pension will protect the worse-off among the retired",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A rise in minimum PF pension will protect the worse-off among the retired",
-      "analysis_hi": "संदर्भ: A rise in minimum PF pension will protect the worse-off among the retired...\n\nप्रमुख बिंदु:\n• A rise in minimum PF pension will protect the worse-off among the retired\n",
-      "analysis_en": "Reference: A rise in minimum PF pension will protect the worse-off among the retired...\n\nKey Points:\n• A rise in minimum PF pension will protect the worse-off among the retired\n",
-      "link": "https://www.thehindu.com/opinion/editorial/no-hard-ceilings-on-the-revision-to-epfo-wage-ceiling/article71480865.ece"
-    },
-    {
-      "id": "3144c84a2ad4",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T17:11:48+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Data show India yielded to U.S. curbs on oil imports",
-      "title_hi": "Data show India yielded to U.S. curbs on oil imports",
-      "summary_en": "Though the government says that energy sourcing is based on “national interest”, India slashed oil imports from Venezuela, Iran, and Russia in the past following U.S. pressure, but immediately resumed sourcing crude from these sources after the curbs eased",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Though the सरकार says that energy sourcing is based on “national interest”, India slashed oil imports from Venezuela, Iran, and Russia in the past following U.S. pressure, but immediately resumed sourcing crude from these sources after the curbs eased",
-      "analysis_hi": "संदर्भ: Though the government says that energy sourcing is based on “national interest”, India slashed oil imports from Venezuela, Iran, and Russia in the past following U.S. pressure, but immediately resumed sourcing crude from these sources after the curbs eased...\n\nप्रमुख बिंदु:\n• Though the government says that energy sourcing is based on “national interest”, India slashed oil imports from Venezuela, Iran, and Russia in the past following U.S\n• pressure, but immediately resumed sourcing crude from these sources after the curbs eased\n",
-      "analysis_en": "Reference: Though the government says that energy sourcing is based on “national interest”, India slashed oil imports from Venezuela, Iran, and Russia in the past following U.S. pressure, but immediately resumed sourcing crude from these sources after the curbs eased...\n\nKey Points:\n• Though the government says that energy sourcing is based on “national interest”, India slashed oil imports from Venezuela, Iran, and Russia in the past following U.S\n• pressure, but immediately resumed sourcing crude from these sources after the curbs eased\n",
-      "link": "https://www.thehindu.com/business/Economy/venezuela-iran-russia-india-has-historically-complied-with-trump-on-cutting-oil-imports/article71480382.ece"
-    },
-    {
-      "id": "abb1e4aa4eaa",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T16:45:48+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "MDR apprehension unlikely to spur higher cash usage: RBI Deputy Governor",
-      "title_hi": "MDR apprehension unlikely to spur higher cash usage: RBI Deputy Governor",
-      "summary_en": "From October 15, a 0.4% MDR will apply to person-to-merchant UPI payments above ₹2,000. The charge will be paid by merchants, not consumers, and will be capped at ₹300 for transactions of ₹75,000 or more",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। From October 15, a 0.4% MDR will apply to person-to-merchant UPI payments above ₹2,000. The charge will be paid by merchants, not consumers, and will be capped at ₹300 for transactions of ₹75,000 or more",
-      "analysis_hi": "संदर्भ: From October 15, a 0.4% MDR will apply to person-to-merchant UPI payments above ₹2,000. The charge will be paid by merchants, not consumers, and will be capped at ₹300 for transactions of ₹75,000 or more...\n\nप्रमुख बिंदु:\n• From October 15, a 0.4% MDR will apply to person-to-merchant UPI payments above ₹2,000\n• The charge will be paid by merchants, not consumers, and will be capped at ₹300 for transactions of ₹75,000 or more\n",
-      "analysis_en": "Reference: From October 15, a 0.4% MDR will apply to person-to-merchant UPI payments above ₹2,000. The charge will be paid by merchants, not consumers, and will be capped at ₹300 for transactions of ₹75,000 or more...\n\nKey Points:\n• From October 15, a 0.4% MDR will apply to person-to-merchant UPI payments above ₹2,000\n• The charge will be paid by merchants, not consumers, and will be capped at ₹300 for transactions of ₹75,000 or more\n",
-      "link": "https://www.thehindu.com/business/Economy/mdr-apprehension-unlikely-to-spur-higher-cash-usage-rbi-deputy-governor/article71482058.ece"
-    },
-    {
-      "id": "4ea4151d8df0",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T15:49:19+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "RBI may deliver two rate hikes by CY 2026:Analysts",
-      "title_hi": "RBI may deliver two rate hikes by CY 2026:Analysts",
-      "summary_en": "The combination of elevated inflation risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The combination of elevated मुद्रास्फीति risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026.",
-      "analysis_hi": "संदर्भ: The combination of elevated inflation risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026....\n\nप्रमुख बिंदु:\n• The combination of elevated inflation risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026.\n",
-      "analysis_en": "Reference: The combination of elevated inflation risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026....\n\nKey Points:\n• The combination of elevated inflation risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026.\n",
-      "link": "https://www.thehindu.com/business/Economy/rbi-may-deliver-two-rate-hikes-by-cy-2026analysts/article71481500.ece"
-    },
-    {
-      "id": "3a2ac130e70d",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T15:39:21+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "NMDC targets Net Zero operational emissions by 2047",
-      "title_hi": "NMDC targets Net Zero operational emissions by 2047",
-      "summary_en": "The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047",
-      "analysis_hi": "संदर्भ: The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047...\n\nप्रमुख बिंदु:\n• The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047\n",
-      "analysis_en": "Reference: The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047...\n\nKey Points:\n• The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047\n",
-      "link": "https://www.thehindu.com/business/nmdc-targets-net-zero-operational-emissions-by-2047/article71481748.ece"
-    },
-    {
-      "id": "1b10908dd5b5",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T14:37:39+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Who’s watching what we eat? Inside India’s food adulteration problem",
-      "title_hi": "Who’s watching what we eat? Inside India’s food adulteration problem",
-      "summary_en": "As adulteration cases pile up, and the Indian consumer confronts a complex food chain, where risks are often invisible, who’s responsible for keeping milk and everyday foods safe?",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। As adulteration cases pile up, and the Indian consumer confronts a complex food chain, where risks are often invisible, who’s responsible for keeping milk and everyday foods safe?",
-      "analysis_hi": "संदर्भ: As adulteration cases pile up, and the Indian consumer confronts a complex food chain, where risks are often invisible, who’s responsible for keeping milk and everyday foods safe?...\n\nप्रमुख बिंदु:\n• As adulteration cases pile up, and the Indian consumer confronts a complex food chain, where risks are often invisible, who’s responsible for keeping milk and everyday foods safe?\n",
-      "analysis_en": "Reference: As adulteration cases pile up, and the Indian consumer confronts a complex food chain, where risks are often invisible, who’s responsible for keeping milk and everyday foods safe?...\n\nKey Points:\n• As adulteration cases pile up, and the Indian consumer confronts a complex food chain, where risks are often invisible, who’s responsible for keeping milk and everyday foods safe?\n",
-      "link": "https://www.thehindu.com/society/food-adulteration-india-milk-safety/article71468235.ece"
-    },
-    {
-      "id": "cb57ae638322",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T11:40:21+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Net direct tax collection rises 13% to over ₹12.12 lakh crore till September 17",
-      "title_hi": "Net direct tax collection rises 13% to over ₹12.12 lakh crore till September 17",
-      "summary_en": "Refund issuance jumped 29.19% to over ₹2.20 lakh crore till September 17, the data released by the Central Board of Direct Taxes (CBDT) showed.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Refund issuance jumped 29.19% to over ₹2.20 lakh crore till September 17, the data released by the Central Board of Direct Taxes (CBDT) showed.",
-      "analysis_hi": "संदर्भ: Refund issuance jumped 29.19% to over ₹2.20 lakh crore till September 17, the data released by the Central Board of Direct Taxes (CBDT) showed....\n\nप्रमुख बिंदु:\n• Refund issuance jumped 29.19% to over ₹2.20 lakh crore till September 17, the data released by the Central Board of Direct Taxes (CBDT) showed.\n",
-      "analysis_en": "Reference: Refund issuance jumped 29.19% to over ₹2.20 lakh crore till September 17, the data released by the Central Board of Direct Taxes (CBDT) showed....\n\nKey Points:\n• Refund issuance jumped 29.19% to over ₹2.20 lakh crore till September 17, the data released by the Central Board of Direct Taxes (CBDT) showed.\n",
-      "link": "https://www.thehindu.com/business/Economy/net-direct-tax-collection-rises-13-to-over-1212-lakh-crore-till-september-17/article71480346.ece"
-    },
-    {
-      "id": "f9c7382baa4e",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T08:40:13+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "India’s crude oil imports in August fall 3%, import bill rises 18%",
-      "title_hi": "India’s crude oil imports in August fall 3%, import bill rises 18%",
-      "summary_en": "India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion.",
-      "analysis_hi": "संदर्भ: India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion....\n\nप्रमुख बिंदु:\n• India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion.\n",
-      "analysis_en": "Reference: India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion....\n\nKey Points:\n• India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion.\n",
-      "link": "https://www.thehindu.com/business/Economy/indias-crude-oil-imports-in-august-fall-3-spends-18-more/article71477355.ece"
-    },
-    {
-      "id": "94386f52dd21",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T07:51:40+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Kearney study recommends measures to improve Tamil Nadu’s fiscal capacity",
-      "title_hi": "Kearney study recommends measures to improve Tamil Nadu’s fiscal capacity",
-      "summary_en": "The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says",
-      "analysis_hi": "संदर्भ: The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says...\n\nप्रमुख बिंदु:\n• The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says\n",
-      "analysis_en": "Reference: The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says...\n\nKey Points:\n• The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says\n",
-      "link": "https://www.thehindu.com/news/cities/Coimbatore/kearney-study-recommends-measures-to-improve-tamil-nadus-fiscal-capacity/article71479748.ece"
-    },
-    {
-      "id": "ac46a8bb4edc",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T07:19:46+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Moody's raises India fiscal 2027 GDP growth forecast to 7% on West Asia resilience",
-      "title_hi": "Moody's raises India fiscal 2027 GDP growth forecast to 7% on West Asia resilience",
-      "summary_en": "The agency said elevated energy prices and El Niño-related food price pressures pose risks ‌to inflation, consumption ​and growth",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The agency said elevated energy prices and El Niño-related food price pressures pose risks ‌to मुद्रास्फीति, consumption ​and growth",
-      "analysis_hi": "संदर्भ: The agency said elevated energy prices and El Niño-related food price pressures pose risks ‌to inflation, consumption ​and growth...\n\nप्रमुख बिंदु:\n• The agency said elevated energy prices and El Niño-related food price pressures pose risks ‌to inflation, consumption ​and growth\n",
-      "analysis_en": "Reference: The agency said elevated energy prices and El Niño-related food price pressures pose risks ‌to inflation, consumption ​and growth...\n\nKey Points:\n• The agency said elevated energy prices and El Niño-related food price pressures pose risks ‌to inflation, consumption ​and growth\n",
-      "link": "https://www.thehindu.com/business/Economy/moodys-raises-india-fiscal-2027-gdp-growth-forecast-to-7-on-west-asia-resilience/article71479416.ece"
-    },
-    {
-      "id": "514378b5cf44",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T06:22:15+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Bank of Japan hikes rates to 31-year high to battle inflation",
-      "title_hi": "Bank of Japan hikes rates to 31-year high to battle inflation",
-      "summary_en": "Pressure has increased on officials to further tighten monetary policy as a spike in oil prices caused by the West Asia crisis",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Pressure has increased on officials to further tighten monetary नीति as a spike in oil prices caused by the West Asia crisis",
-      "analysis_hi": "संदर्भ: Pressure has increased on officials to further tighten monetary policy as a spike in oil prices caused by the West Asia crisis...\n\nप्रमुख बिंदु:\n• Pressure has increased on officials to further tighten monetary policy as a spike in oil prices caused by the West Asia crisis\n",
-      "analysis_en": "Reference: Pressure has increased on officials to further tighten monetary policy as a spike in oil prices caused by the West Asia crisis...\n\nKey Points:\n• Pressure has increased on officials to further tighten monetary policy as a spike in oil prices caused by the West Asia crisis\n",
-      "link": "https://www.thehindu.com/business/Economy/bank-of-japan-hikes-rates-to-31-year-high-to-battle-inflation/article71479482.ece"
-    },
-    {
-      "id": "da09d963987e",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T02:33:43+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Complex priorities: On UPI transactions, MDR charges",
-      "title_hi": "Complex priorities: On UPI transactions, MDR charges",
-      "summary_en": "A fear of political fallout has led to an overly complex MDR structure on UPI",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A fear of political fallout has led to an overly complex MDR structure on UPI",
-      "analysis_hi": "संदर्भ: A fear of political fallout has led to an overly complex MDR structure on UPI...\n\nप्रमुख बिंदु:\n• A fear of political fallout has led to an overly complex MDR structure on UPI\n",
-      "analysis_en": "Reference: A fear of political fallout has led to an overly complex MDR structure on UPI...\n\nKey Points:\n• A fear of political fallout has led to an overly complex MDR structure on UPI\n",
-      "link": "https://www.thehindu.com/opinion/editorial/complex-priorities-on-upi-transactions-mdr-charges/article71476513.ece"
-    },
-    {
-      "id": "0e29ccfc90de",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T02:12:59+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Four India-based companies bear the brunt of U.S.’ Iran sanctions",
-      "title_hi": "Four India-based companies bear the brunt of U.S.’ Iran sanctions",
-      "summary_en": "U.S. Treasury Secretary Scott Bessent announced ‘Operation Economic Outcast’, which essentially involved new sanctions that aim to block all potential sources of revenue for Iran",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। U.S. Treasury Secretary Scott Bessent announced ‘Operation Economic Outcast’, which essentially involved new sanctions that aim to block all potential sources of revenue for Iran",
-      "analysis_hi": "संदर्भ: U.S. Treasury Secretary Scott Bessent announced ‘Operation Economic Outcast’, which essentially involved new sanctions that aim to block all potential sources of revenue for Iran...\n\nप्रमुख बिंदु:\n• Treasury Secretary Scott Bessent announced ‘Operation Economic Outcast’, which essentially involved new sanctions that aim to block all potential sources of revenue for Iran\n",
-      "analysis_en": "Reference: U.S. Treasury Secretary Scott Bessent announced ‘Operation Economic Outcast’, which essentially involved new sanctions that aim to block all potential sources of revenue for Iran...\n\nKey Points:\n• Treasury Secretary Scott Bessent announced ‘Operation Economic Outcast’, which essentially involved new sanctions that aim to block all potential sources of revenue for Iran\n",
-      "link": "https://www.thehindu.com/business/Economy/four-india-based-companies-bear-the-brunt-of-us-iran-sanctions/article71388216.ece"
-    },
-    {
-      "id": "b665344d9aad",
-      "date": "17 Sep 2026",
-      "iso_date": "2026-09-17T16:42:25+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Govt puts 25 coal blocks on sale in 16th round of commercial auctions",
-      "title_hi": "Govt puts 25 coal blocks on sale in 16th round of commercial auctions",
-      "summary_en": "The mines span across nine states including Arunachal Pradesh, Bihar, Chhattisgarh, Jharkhand, among others.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The mines span across nine states including Arunachal Pradesh, Bihar, Chhattisgarh, Jharkhand, among others.",
-      "analysis_hi": "संदर्भ: The mines span across nine states including Arunachal Pradesh, Bihar, Chhattisgarh, Jharkhand, among others....\n\nप्रमुख बिंदु:\n• The mines span across nine states including Arunachal Pradesh, Bihar, Chhattisgarh, Jharkhand, among others.\n",
-      "analysis_en": "Reference: The mines span across nine states including Arunachal Pradesh, Bihar, Chhattisgarh, Jharkhand, among others....\n\nKey Points:\n• The mines span across nine states including Arunachal Pradesh, Bihar, Chhattisgarh, Jharkhand, among others.\n",
-      "link": "https://www.thehindu.com/business/Economy/govt-puts-25-coal-blocks-on-sale-in-16th-round-of-commercial-auctions/article71477934.ece"
-    },
-    {
-      "id": "4af194cc70c9",
-      "date": "17 Sep 2026",
-      "iso_date": "2026-09-17T16:19:48+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "PAC pulls up Railways over gaps in passenger amenities despite promises",
-      "title_hi": "PAC pulls up Railways over gaps in passenger amenities despite promises",
-      "summary_en": "Around 96% of stations surveyed had deficient bio-toilets, finds CAG report; panel says Railways ignored observations made since 2007; PAC Chairperson directs Railway Ministry to submit a response within a month",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Around 96% of stations surveyed had deficient bio-toilets, finds CAG report; panel says Railways ignored observations made since 2007; PAC Chairperson directs Railway Ministry to submit a response within a month",
-      "analysis_hi": "संदर्भ: Around 96% of stations surveyed had deficient bio-toilets, finds CAG report; panel says Railways ignored observations made since 2007; PAC Chairperson directs Railway Ministry to submit a response within a month...\n\nप्रमुख बिंदु:\n• Around 96% of stations surveyed had deficient bio-toilets, finds CAG report; panel says Railways ignored observations made since 2007; PAC Chairperson directs Railway Ministry to submit a response within a month\n",
-      "analysis_en": "Reference: Around 96% of stations surveyed had deficient bio-toilets, finds CAG report; panel says Railways ignored observations made since 2007; PAC Chairperson directs Railway Ministry to submit a response within a month...\n\nKey Points:\n• Around 96% of stations surveyed had deficient bio-toilets, finds CAG report; panel says Railways ignored observations made since 2007; PAC Chairperson directs Railway Ministry to submit a response within a month\n",
-      "link": "https://www.thehindu.com/business/pac-pulls-up-railways-over-gaps-in-passenger-amenities-despite-promises/article71477045.ece"
-    },
-    {
-      "id": "dd9ef4693f55",
-      "date": "17 Sep 2026",
-      "iso_date": "2026-09-17T13:55:00+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "As U.S. readies 100% tariffs, Russia provided more than half of India’s oil imports in July",
-      "title_hi": "As U.S. readies 100% tariffs, Russia provided more than half of India’s oil imports in July",
-      "summary_en": "The U.S. House of Representatives passed a Bill on September 16 that seeks to impose tariffs of up to 100% on the top-5 countries absorbing the largest shares of Russia’s oil",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The U.S. House of Representatives passed a विधेयक on September 16 that seeks to impose tariffs of up to 100% on the top-5 countries absorbing the largest shares of Russia’s oil",
-      "analysis_hi": "संदर्भ: The U.S. House of Representatives passed a Bill on September 16 that seeks to impose tariffs of up to 100% on the top-5 countries absorbing the largest shares of Russia’s oil...\n\nप्रमुख बिंदु:\n• House of Representatives passed a Bill on September 16 that seeks to impose tariffs of up to 100% on the top-5 countries absorbing the largest shares of Russia’s oil\n",
-      "analysis_en": "Reference: The U.S. House of Representatives passed a Bill on September 16 that seeks to impose tariffs of up to 100% on the top-5 countries absorbing the largest shares of Russia’s oil...\n\nKey Points:\n• House of Representatives passed a Bill on September 16 that seeks to impose tariffs of up to 100% on the top-5 countries absorbing the largest shares of Russia’s oil\n",
-      "link": "https://www.thehindu.com/business/Economy/as-us-readies-100-tariffs-russia-provided-more-than-half-of-indias-oil-imports-in-july/article71476447.ece"
-    },
-    {
-      "id": "78bd97b628a6",
-      "date": "17 Sep 2026",
-      "iso_date": "2026-09-17T11:57:29+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Govt denies foreign pressure behind UPI MDR, says charge will help Indian UPI apps",
-      "title_hi": "Govt denies foreign pressure behind UPI MDR, says charge will help Indian UPI apps",
-      "summary_en": "The Department of Financial Services took to X to say that the NPCI’s actions had not rectified any of the concerns that the U.S. has raised in the past regarding India’s UPI system",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Department of Financial Services took to X to say that the NPCI’s actions had not rectified any of the concerns that the U.S. has raised in the past regarding India’s UPI system",
-      "analysis_hi": "संदर्भ: The Department of Financial Services took to X to say that the NPCI’s actions had not rectified any of the concerns that the U.S. has raised in the past regarding India’s UPI system...\n\nप्रमुख बिंदु:\n• The Department of Financial Services took to X to say that the NPCI’s actions had not rectified any of the concerns that the U.S\n• has raised in the past regarding India’s UPI system\n",
-      "analysis_en": "Reference: The Department of Financial Services took to X to say that the NPCI’s actions had not rectified any of the concerns that the U.S. has raised in the past regarding India’s UPI system...\n\nKey Points:\n• The Department of Financial Services took to X to say that the NPCI’s actions had not rectified any of the concerns that the U.S\n• has raised in the past regarding India’s UPI system\n",
-      "link": "https://www.thehindu.com/business/Economy/govt-denies-foreign-pressure-behind-upi-mdr-says-charge-will-help-indian-upi-apps/article71476075.ece"
     },
     {
       "id": "ce43d8c74a1c",
@@ -5134,548 +5678,6 @@
       "analysis_hi": "संदर्भ: On his reasons to switch over, Guru Dhaldas Saheb said the BJP was not acting according to the principles of Guru Baba Ghasidas; expressed interest in contesting the 2028 Assembly polls...\n\nप्रमुख बिंदु:\n• On his reasons to switch over, Guru Dhaldas Saheb said the BJP was not acting according to the principles of Guru Baba Ghasidas; expressed interest in contesting the 2028 Assembly polls\n",
       "analysis_en": "Reference: On his reasons to switch over, Guru Dhaldas Saheb said the BJP was not acting according to the principles of Guru Baba Ghasidas; expressed interest in contesting the 2028 Assembly polls...\n\nKey Points:\n• On his reasons to switch over, Guru Dhaldas Saheb said the BJP was not acting according to the principles of Guru Baba Ghasidas; expressed interest in contesting the 2028 Assembly polls\n",
       "link": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-bjp-ministers-brother-guru-dhaldas-saheb-joins-congress/article71460770.ece"
-    },
-    {
-      "id": "606324de9633",
-      "date": "12 Sep 2026",
-      "iso_date": "2026-09-12T20:18:13+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Jamia hostel protest over mess food escalates; varsity denies assault charges",
-      "title_hi": "Jamia hostel protest over mess food escalates; varsity denies assault charges",
-      "summary_en": "University officials claimed that some students broke two hostel gates and manhandled members of the proctorial team",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। University officials claimed that some students broke two hostel gates and manhandled members of the proctorial team",
-      "analysis_hi": "संदर्भ: University officials claimed that some students broke two hostel gates and manhandled members of the proctorial team...\n\nप्रमुख बिंदु:\n• University officials claimed that some students broke two hostel gates and manhandled members of the proctorial team\n",
-      "analysis_en": "Reference: University officials claimed that some students broke two hostel gates and manhandled members of the proctorial team...\n\nKey Points:\n• University officials claimed that some students broke two hostel gates and manhandled members of the proctorial team\n",
-      "link": "https://www.thehindu.com/news/cities/Delhi/jamia-hostel-protest-aisa-claims-students-assaulted-university-refutes-charge/article71459572.ece"
-    },
-    {
-      "id": "a949e16aaee6",
-      "date": "12 Sep 2026",
-      "iso_date": "2026-09-12T19:58:00+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths",
-      "title_hi": "Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths",
-      "summary_en": "Mr. Dipke’s visit comes days after the Madhya Pradesh High Court issued notices to the State government over the deaths of more than 30 children, allegedly due to infectious diseases",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Mr. Dipke’s visit comes days after the Madhya Pradesh High Court issued notices to the State सरकार over the deaths of more than 30 children, allegedly due to infectious diseases",
-      "analysis_hi": "संदर्भ: Mr. Dipke’s visit comes days after the Madhya Pradesh High Court issued notices to the State government over the deaths of more than 30 children, allegedly due to infectious diseases...\n\nप्रमुख बिंदु:\n• Dipke’s visit comes days after the Madhya Pradesh High Court issued notices to the State government over the deaths of more than 30 children, allegedly due to infectious diseases\n",
-      "analysis_en": "Reference: Mr. Dipke’s visit comes days after the Madhya Pradesh High Court issued notices to the State government over the deaths of more than 30 children, allegedly due to infectious diseases...\n\nKey Points:\n• Dipke’s visit comes days after the Madhya Pradesh High Court issued notices to the State government over the deaths of more than 30 children, allegedly due to infectious diseases\n",
-      "link": "https://www.thehindu.com/news/national/madhya-pradesh/balaghat-child-deaths-cjp-convernor-dipke-visits-tribal-villages-demands-accountability/article71459426.ece"
-    },
-    {
-      "id": "3b467d462acd",
-      "date": "12 Sep 2026",
-      "iso_date": "2026-09-12T19:34:54+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Kerala Assistant Public Prosecutors Association gets new office-bearers",
-      "title_hi": "Kerala Assistant Public Prosecutors Association gets new office-bearers",
-      "summary_en": "Kerala Assistant Public Prosecutors Association gets new office-bearers",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Kerala Assistant Public Prosecutors Association gets new office-bearers",
-      "analysis_hi": "संदर्भ: Kerala Assistant Public Prosecutors Association gets new office-bearers...\n\nप्रमुख बिंदु:\n• Kerala Assistant Public Prosecutors Association gets new office-bearers\n",
-      "analysis_en": "Reference: Kerala Assistant Public Prosecutors Association gets new office-bearers...\n\nKey Points:\n• Kerala Assistant Public Prosecutors Association gets new office-bearers\n",
-      "link": "https://www.thehindu.com/news/national/kerala/kerala-assistant-public-prosecutors-association-gets-new-office-bearers/article71459804.ece"
-    },
-    {
-      "id": "577f6e68faa6",
-      "date": "12 Sep 2026",
-      "iso_date": "2026-09-12T19:33:04+00:00",
-      "category": "social",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-1",
-        "GS-2"
-      ],
-      "subjects": [
-        "Social Issues"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-1: Population and associated issues",
-        "GS-2: Issues relating to development and management of Social Sector/Services"
-      ],
-      "title_en": "Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths",
-      "title_hi": "Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths",
-      "summary_en": "Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths",
-      "analysis_hi": "संदर्भ: Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths...\n\nप्रमुख बिंदु:\n• Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths\n",
-      "analysis_en": "Reference: Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths...\n\nKey Points:\n• Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths\n",
-      "link": "https://www.thehindu.com/news/national/madhya-pradesh/dipkevisits-families-in-mpsbalaghat-puts-lens-on-tribal-childrens-deaths/article71460823.ece"
-    },
-    {
-      "id": "fe63684bd8c4",
-      "date": "12 Sep 2026",
-      "iso_date": "2026-09-12T19:30:56+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Large stock of counterfeit medicines seized from private facility in Bengaluru",
-      "title_hi": "Large stock of counterfeit medicines seized from private facility in Bengaluru",
-      "summary_en": "Large stock of counterfeit medicines seized from private facility in Bengaluru",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Large stock of counterfeit medicines seized from private facility in Bengaluru",
-      "analysis_hi": "संदर्भ: Large stock of counterfeit medicines seized from private facility in Bengaluru...\n\nप्रमुख बिंदु:\n• Large stock of counterfeit medicines seized from private facility in Bengaluru\n",
-      "analysis_en": "Reference: Large stock of counterfeit medicines seized from private facility in Bengaluru...\n\nKey Points:\n• Large stock of counterfeit medicines seized from private facility in Bengaluru\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/large-stock-of-counterfeit-medicines-seized-from-private-facility-in-bengaluru/article71459863.ece"
-    },
-    {
-      "id": "98311a167f59",
-      "date": "12 Sep 2026",
-      "iso_date": "2026-09-12T19:29:30+00:00",
-      "category": "schemes",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2",
-        "GS-3"
-      ],
-      "subjects": [
-        "Schemes",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Welfare schemes for vulnerable sections",
-        "GS-3: Government policies and interventions"
-      ],
-      "title_en": "Why is NCPCR investigating Meta, Instagram?",
-      "title_hi": "Why is NCPCR investigating Meta, Instagram?",
-      "summary_en": "Under what powers can the National Commission for Protection of Child Rights summon social media platforms and other companies?",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Under what powers can the National Commission for Protection of Child Rights summon social media platforms and other companies?",
-      "analysis_hi": "संदर्भ: Under what powers can the National Commission for Protection of Child Rights summon social media platforms and other companies?...\n\nप्रमुख बिंदु:\n• Under what powers can the National Commission for Protection of Child Rights summon social media platforms and other companies?\n",
-      "analysis_en": "Reference: Under what powers can the National Commission for Protection of Child Rights summon social media platforms and other companies?...\n\nKey Points:\n• Under what powers can the National Commission for Protection of Child Rights summon social media platforms and other companies?\n",
-      "link": "https://www.thehindu.com/sci-tech/technology/why-is-ncpcr-investigating-meta-instagram/article71461341.ece"
-    },
-    {
-      "id": "bab114f6623a",
-      "date": "12 Sep 2026",
-      "iso_date": "2026-09-12T19:23:04+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Namma Chennai app opens volunteer registration ahead of Northeast monsoon",
-      "title_hi": "Namma Chennai app opens volunteer registration ahead of Northeast monsoon",
-      "summary_en": "New users have to create an account using their name, mobile number, e-mail address, address and PIN code and log in using an OTP",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। New users have to create an account using their name, mobile number, e-mail address, address and PIN code and log in using an OTP",
-      "analysis_hi": "संदर्भ: New users have to create an account using their name, mobile number, e-mail address, address and PIN code and log in using an OTP...\n\nप्रमुख बिंदु:\n• New users have to create an account using their name, mobile number, e-mail address, address and PIN code and log in using an OTP\n",
-      "analysis_en": "Reference: New users have to create an account using their name, mobile number, e-mail address, address and PIN code and log in using an OTP...\n\nKey Points:\n• New users have to create an account using their name, mobile number, e-mail address, address and PIN code and log in using an OTP\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/namma-chennai-app-opens-volunteer-registration-ahead-of-northeast-monsoon/article71459922.ece"
-    },
-    {
-      "id": "f98aa8bf630b",
-      "date": "12 Sep 2026",
-      "iso_date": "2026-09-12T19:18:54+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "GCC asks over six lakh property owners to clear ₹847 crore dues by Sept. 30",
-      "title_hi": "GCC asks over six lakh property owners to clear ₹847 crore dues by Sept. 30",
-      "summary_en": "Of the 14,15,771 property owners in the city, 8,12,539 have, so far, paid their property tax without arrears",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Of the 14,15,771 property owners in the city, 8,12,539 have, so far, paid their property tax without arrears",
-      "analysis_hi": "संदर्भ: Of the 14,15,771 property owners in the city, 8,12,539 have, so far, paid their property tax without arrears...\n\nप्रमुख बिंदु:\n• Of the 14,15,771 property owners in the city, 8,12,539 have, so far, paid their property tax without arrears\n",
-      "analysis_en": "Reference: Of the 14,15,771 property owners in the city, 8,12,539 have, so far, paid their property tax without arrears...\n\nKey Points:\n• Of the 14,15,771 property owners in the city, 8,12,539 have, so far, paid their property tax without arrears\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/gcc-asks-over-six-lakh-property-owners-to-clear-847-crore-dues-by-sept-30/article71459996.ece"
-    },
-    {
-      "id": "52513e390402",
-      "date": "12 Sep 2026",
-      "iso_date": "2026-09-12T19:15:31+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Medical students heal a broken footpath",
-      "title_hi": "Medical students heal a broken footpath",
-      "summary_en": "Medical students heal a broken footpath",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Medical students heal a broken footpath",
-      "analysis_hi": "संदर्भ: Medical students heal a broken footpath...\n\nप्रमुख बिंदु:\n• Medical students heal a broken footpath\n",
-      "analysis_en": "Reference: Medical students heal a broken footpath...\n\nKey Points:\n• Medical students heal a broken footpath\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/medical-students-heal-a-broken-footpath/article71460171.ece"
-    },
-    {
-      "id": "d849eded0c8f",
-      "date": "12 Sep 2026",
-      "iso_date": "2026-09-12T19:10:27+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Complainant in ED case has relations with Congress, but is a BJP voter: Jarkiholi",
-      "title_hi": "Complainant in ED case has relations with Congress, but is a BJP voter: Jarkiholi",
-      "summary_en": "The Minister says the ED had only expressed suspicions and made allegations, which he will contest and fight legally with facts and documents",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Minister says the ED had only expressed suspicions and made allegations, which he will contest and fight legally with facts and documents",
-      "analysis_hi": "संदर्भ: The Minister says the ED had only expressed suspicions and made allegations, which he will contest and fight legally with facts and documents...\n\nप्रमुख बिंदु:\n• The Minister says the ED had only expressed suspicions and made allegations, which he will contest and fight legally with facts and documents\n",
-      "analysis_en": "Reference: The Minister says the ED had only expressed suspicions and made allegations, which he will contest and fight legally with facts and documents...\n\nKey Points:\n• The Minister says the ED had only expressed suspicions and made allegations, which he will contest and fight legally with facts and documents\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/complainant-in-ed-case-has-relations-with-congress-but-is-a-bjp-voter-jarkiholi/article71460379.ece"
-    },
-    {
-      "id": "fb9855a98f6e",
-      "date": "09 Sep 2026",
-      "iso_date": "2026-09-09T15:40:05+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "11 insurers begin Ind AS transition from FY27; IRDAI tracks rest for FY28",
-      "title_hi": "11 insurers begin Ind AS transition from FY27; IRDAI tracks rest for FY28",
-      "summary_en": "It is continuing to facilitate the smooth and consistent implementation of Ind AS across the sector. Also closely monitoring insurers that have been granted forbearance and are scheduled to adopt Ind AS from FY28.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। It is continuing to facilitate the smooth and consistent implementation of Ind AS across the sector. Also closely monitoring insurers that have been granted forbearance and are scheduled to adopt Ind AS from FY28.",
-      "analysis_hi": "संदर्भ: It is continuing to facilitate the smooth and consistent implementation of Ind AS across the sector. Also closely monitoring insurers that have been granted forbearance and are scheduled to adopt Ind AS from FY28....\n\nप्रमुख बिंदु:\n• It is continuing to facilitate the smooth and consistent implementation of Ind AS across the sector\n• Also closely monitoring insurers that have been granted forbearance and are scheduled to adopt Ind AS from FY28.\n",
-      "analysis_en": "Reference: It is continuing to facilitate the smooth and consistent implementation of Ind AS across the sector. Also closely monitoring insurers that have been granted forbearance and are scheduled to adopt Ind AS from FY28....\n\nKey Points:\n• It is continuing to facilitate the smooth and consistent implementation of Ind AS across the sector\n• Also closely monitoring insurers that have been granted forbearance and are scheduled to adopt Ind AS from FY28.\n",
-      "link": "https://www.thehindu.com/business/Industry/11-insurers-begin-ind-as-transition-from-fy27-irdai-tracks-rest-for-fy28/article71448276.ece"
-    },
-    {
-      "id": "a6ca81df1f1b",
-      "date": "11 Sep 2026",
-      "iso_date": "2026-09-11T22:28:31+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Gauhati High Court says ‘talaq-e-hassan’ is a valid form of divorce",
-      "title_hi": "Gauhati High Court says ‘talaq-e-hassan’ is a valid form of divorce",
-      "summary_en": "The court has directed the petitioner to register his divorce under the Assam Compulsory Registration of Muslim Marriages and Divorce Act, 2024",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The court has directed the petitioner to register his divorce under the Assam Compulsory Registration of Muslim Marriages and Divorce Act, 2024",
-      "analysis_hi": "संदर्भ: The court has directed the petitioner to register his divorce under the Assam Compulsory Registration of Muslim Marriages and Divorce Act, 2024...\n\nप्रमुख बिंदु:\n• The court has directed the petitioner to register his divorce under the Assam Compulsory Registration of Muslim Marriages and Divorce Act, 2024\n",
-      "analysis_en": "Reference: The court has directed the petitioner to register his divorce under the Assam Compulsory Registration of Muslim Marriages and Divorce Act, 2024...\n\nKey Points:\n• The court has directed the petitioner to register his divorce under the Assam Compulsory Registration of Muslim Marriages and Divorce Act, 2024\n",
-      "link": "https://www.thehindu.com/news/national/assam/gauhati-high-court-says-talaq-e-hassan-is-a-valid-form-of-divorce/article71456358.ece"
-    },
-    {
-      "id": "93f8797aa33d",
-      "date": "11 Sep 2026",
-      "iso_date": "2026-09-11T22:07:30+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Tejashwi writes to Bihar CM demanding life-size statues of Ram Vilas, Sharad Yadav and Raghuvansh",
-      "title_hi": "Tejashwi writes to Bihar CM demanding life-size statues of Ram Vilas, Sharad Yadav and Raghuvansh",
-      "summary_en": "Mr. Yadav’s move is seen as an addition to Rashtriya Janata Dal’s (RJD) broader plan of asserting itself as a party which stands for the “A to Z” castes and communities.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Mr. Yadav’s move is seen as an addition to Rashtriya Janata Dal’s (RJD) broader plan of asserting itself as a party which stands for the “A to Z” castes and communities.",
-      "analysis_hi": "संदर्भ: Mr. Yadav’s move is seen as an addition to Rashtriya Janata Dal’s (RJD) broader plan of asserting itself as a party which stands for the “A to Z” castes and communities....\n\nप्रमुख बिंदु:\n• Yadav’s move is seen as an addition to Rashtriya Janata Dal’s (RJD) broader plan of asserting itself as a party which stands for the “A to Z” castes and communities.\n",
-      "analysis_en": "Reference: Mr. Yadav’s move is seen as an addition to Rashtriya Janata Dal’s (RJD) broader plan of asserting itself as a party which stands for the “A to Z” castes and communities....\n\nKey Points:\n• Yadav’s move is seen as an addition to Rashtriya Janata Dal’s (RJD) broader plan of asserting itself as a party which stands for the “A to Z” castes and communities.\n",
-      "link": "https://www.thehindu.com/news/national/bihar/tejashwi-writes-to-bihar-cm-demanding-life-size-statuesof-ram-vilas-sharad-yadav-and-raghuvansh/article71456264.ece"
-    },
-    {
-      "id": "c91fc35a1dc5",
-      "date": "11 Sep 2026",
-      "iso_date": "2026-09-11T21:39:48+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery",
-      "title_hi": "Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery",
-      "summary_en": "The petitioner submitted in the court that authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The petitioner submitted in the court that authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order.",
-      "analysis_hi": "संदर्भ: The petitioner submitted in the court that authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order....\n\nप्रमुख बिंदु:\n• The petitioner submitted in the court that authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order.\n",
-      "analysis_en": "Reference: The petitioner submitted in the court that authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order....\n\nKey Points:\n• The petitioner submitted in the court that authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order.\n",
-      "link": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-seeks-uttar-pradesh-governments-reply-over-saharanpur-mosque-demolition-stays-641-crore-damage-recovery/article71456149.ece"
-    },
-    {
-      "id": "ee2be666c487",
-      "date": "11 Sep 2026",
-      "iso_date": "2026-09-11T21:12:24+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death",
-      "title_hi": "With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death",
-      "summary_en": "The campaign comes close on the heels of a row that erupted following the death of a Dalit villager, who was reportedly under pressure to apologise for questioning Finance Minister Harpal Singh Cheema over the supply of ‘chitta (synthetic drugs)’ in the State.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The campaign comes close on the heels of a row that erupted following the death of a Dalit villager, who was reportedly under pressure to apologise for questioning Finance Minister Harpal Singh Cheema over the supply of ‘chitta (synthetic drugs)’ in the State.",
-      "analysis_hi": "संदर्भ: The campaign comes close on the heels of a row that erupted following the death of a Dalit villager, who was reportedly under pressure to apologise for questioning Finance Minister Harpal Singh Cheema over the supply of ‘chitta (synthetic drugs)’ in the State....\n\nप्रमुख बिंदु:\n• The campaign comes close on the heels of a row that erupted following the death of a Dalit villager, who was reportedly under pressure to apologise for questioning Finance Minister Harpal Singh Cheema over the supply of ‘chitta (synthetic drugs)’ in the State.\n",
-      "analysis_en": "Reference: The campaign comes close on the heels of a row that erupted following the death of a Dalit villager, who was reportedly under pressure to apologise for questioning Finance Minister Harpal Singh Cheema over the supply of ‘chitta (synthetic drugs)’ in the State....\n\nKey Points:\n• The campaign comes close on the heels of a row that erupted following the death of a Dalit villager, who was reportedly under pressure to apologise for questioning Finance Minister Harpal Singh Cheema over the supply of ‘chitta (synthetic drugs)’ in the State.\n",
-      "link": "https://www.thehindu.com/news/national/punjab/with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-row-over-dalit-villagers-death/article71456181.ece"
-    },
-    {
-      "id": "4d88c9e141ad",
-      "date": "11 Sep 2026",
-      "iso_date": "2026-09-11T20:55:42+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Vice-principal of Kolkata college ‘forced’ to resign; ABVP ‘purifies’ her office",
-      "title_hi": "Vice-principal of Kolkata college ‘forced’ to resign; ABVP ‘purifies’ her office",
-      "summary_en": "Was locked in office for entire night, no one came to rescue, Mohammadi Tarannum says after stepping down following 23-hour protest by college students over 70% minimum attendance rule",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Was locked in office for entire night, no one came to rescue, Mohammadi Tarannum says after stepping down following 23-hour protest by college students over 70% minimum attendance rule",
-      "analysis_hi": "संदर्भ: Was locked in office for entire night, no one came to rescue, Mohammadi Tarannum says after stepping down following 23-hour protest by college students over 70% minimum attendance rule...\n\nप्रमुख बिंदु:\n• Was locked in office for entire night, no one came to rescue, Mohammadi Tarannum says after stepping down following 23-hour protest by college students over 70% minimum attendance rule\n",
-      "analysis_en": "Reference: Was locked in office for entire night, no one came to rescue, Mohammadi Tarannum says after stepping down following 23-hour protest by college students over 70% minimum attendance rule...\n\nKey Points:\n• Was locked in office for entire night, no one came to rescue, Mohammadi Tarannum says after stepping down following 23-hour protest by college students over 70% minimum attendance rule\n",
-      "link": "https://www.thehindu.com/news/cities/kolkata/kolkataslaw-college-vice-principal-resigns-after-23-hour-studentprotest-over-attendance/article71456472.ece"
-    },
-    {
-      "id": "4dcc045213f8",
-      "date": "11 Sep 2026",
-      "iso_date": "2026-09-11T20:41:08+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Alleged gold fraud: suspect at large arrested from Malappuram",
-      "title_hi": "Alleged gold fraud: suspect at large arrested from Malappuram",
-      "summary_en": "He had been on the run for over a month following the incident",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। He had been on the run for over a month following the incident",
-      "analysis_hi": "संदर्भ: He had been on the run for over a month following the incident...\n\nप्रमुख बिंदु:\n• He had been on the run for over a month following the incident\n",
-      "analysis_en": "Reference: He had been on the run for over a month following the incident...\n\nKey Points:\n• He had been on the run for over a month following the incident\n",
-      "link": "https://www.thehindu.com/news/national/kerala/alleged-gold-fraud-suspect-at-large-arrested-from-malappuram/article71457575.ece"
-    },
-    {
-      "id": "942491ed34e6",
-      "date": "11 Sep 2026",
-      "iso_date": "2026-09-11T20:39:34+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Artillery shell recovered from fishing net off Puthiyappa harbour",
-      "title_hi": "Artillery shell recovered from fishing net off Puthiyappa harbour",
-      "summary_en": "Following the alert, bomb squad and Elathur Coastal police reached the harbour and examined the object. It was later moved to the Armed Reserve camp for safety reasons",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Following the alert, bomb squad and Elathur Coastal police reached the harbour and examined the object. It was later moved to the Armed Reserve camp for safety reasons",
-      "analysis_hi": "संदर्भ: Following the alert, bomb squad and Elathur Coastal police reached the harbour and examined the object. It was later moved to the Armed Reserve camp for safety reasons...\n\nप्रमुख बिंदु:\n• Following the alert, bomb squad and Elathur Coastal police reached the harbour and examined the object\n• It was later moved to the Armed Reserve camp for safety reasons\n",
-      "analysis_en": "Reference: Following the alert, bomb squad and Elathur Coastal police reached the harbour and examined the object. It was later moved to the Armed Reserve camp for safety reasons...\n\nKey Points:\n• Following the alert, bomb squad and Elathur Coastal police reached the harbour and examined the object\n• It was later moved to the Armed Reserve camp for safety reasons\n",
-      "link": "https://www.thehindu.com/news/national/kerala/artillery-shell-recovered-from-fishing-net-off-puthiyappa-harbour/article71457524.ece"
-    },
-    {
-      "id": "003b895efd15",
-      "date": "11 Sep 2026",
-      "iso_date": "2026-09-11T19:59:01+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "‘Reading kept me going’: Noida stir accused who cracked NET",
-      "title_hi": "‘Reading kept me going’: Noida stir accused who cracked NET",
-      "summary_en": "“Most of my time in jail has been spent reading books. Initially I focused on preparing for NET. The study material was brought by friends from outside jail. Apart from NET material, I read novels, poems and stories,” he told The Hindu at the prison in Greater Noida",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। “Most of my time in jail has been spent reading books. Initially I focused on preparing for NET. The study material was brought by friends from outside jail. Apart from NET material, I read novels, poems and stories,” he told The Hindu at the prison in Greater Noida",
-      "analysis_hi": "संदर्भ: “Most of my time in jail has been spent reading books. Initially I focused on preparing for NET. The study material was brought by friends from outside jail. Apart from NET material, I read novels, poems and stories,” he told The Hindu at the prison in Greater Noida...\n\nप्रमुख बिंदु:\n• “Most of my time in jail has been spent reading books\n• Initially I focused on preparing for NET\n• The study material was brought by friends from outside jail\n• Apart from NET material, I read novels, poems and stories,” he told The Hindu at the prison in Greater Noida\n",
-      "analysis_en": "Reference: “Most of my time in jail has been spent reading books. Initially I focused on preparing for NET. The study material was brought by friends from outside jail. Apart from NET material, I read novels, poems and stories,” he told The Hindu at the prison in Greater Noida...\n\nKey Points:\n• “Most of my time in jail has been spent reading books\n• Initially I focused on preparing for NET\n• The study material was brought by friends from outside jail\n• Apart from NET material, I read novels, poems and stories,” he told The Hindu at the prison in Greater Noida\n",
-      "link": "https://www.thehindu.com/news/cities/Delhi/reading-kept-me-going-noida-stir-accused-who-cracked-net/article71457844.ece"
     }
   ]
 }
