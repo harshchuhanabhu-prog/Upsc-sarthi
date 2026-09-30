@@ -1,8 +1,609 @@
 {
-  "last_updated": "2026-09-29T00:46:13.088726+00:00",
-  "last_updated_ist": "29 September 2026, 06:16 AM IST",
+  "last_updated": "2026-09-30T05:45:56.928059+00:00",
+  "last_updated_ist": "30 September 2026, 11:15 AM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "e87e6b414a51",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:28:27+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "3 U.S.-bound Gujarat residents missing in Ethiopia; kin allege abduction, ₹1 crore ransom demand",
+      "title_hi": "3 U.S.-bound Gujarat residents missing in Ethiopia; kin allege abduction, ₹1 crore ransom demand",
+      "summary_en": "They left for the U.S. on September 20 with the assistance of an agent from Mehsana district, who allegedly connected them with another agent from Vadodara",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। They left for the U.S. on September 20 with the assistance of an agent from Mehsana district, who allegedly connected them with another agent from Vadodara",
+      "analysis_hi": "संदर्भ: They left for the U.S. on September 20 with the assistance of an agent from Mehsana district, who allegedly connected them with another agent from Vadodara...\n\nप्रमुख बिंदु:\n• on September 20 with the assistance of an agent from Mehsana district, who allegedly connected them with another agent from Vadodara\n",
+      "analysis_en": "Reference: They left for the U.S. on September 20 with the assistance of an agent from Mehsana district, who allegedly connected them with another agent from Vadodara...\n\nKey Points:\n• on September 20 with the assistance of an agent from Mehsana district, who allegedly connected them with another agent from Vadodara\n",
+      "link": "https://www.thehindu.com/news/national/gujarat/3-us-bound-gujarat-residents-missing-in-ethiopia-kin-allege-abduction-1-crore-ransom-demand/article71526848.ece"
+    },
+    {
+      "id": "84ee98242c0b",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:25:28+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "India criticises Pakistan’s ‘falsehoods’ and ‘deceit’ at UN; warns terrorism will have consequences",
+      "title_hi": "India criticises Pakistan’s ‘falsehoods’ and ‘deceit’ at UN; warns terrorism will have consequences",
+      "summary_en": "India used its Right of Reply after Pakistan Prime Minister Shehbaz Sharif credited U.S. President Donald Trump for a ‘timely intervention’ in the 2025 conflict and raised the Kashmir issue",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India used its Right of Reply after Pakistan प्रधानमंत्री Shehbaz Sharif credited U.S. राष्ट्रपति Donald Trump for a ‘timely intervention’ in the 2025 conflict and raised the Kashmir issue",
+      "analysis_hi": "संदर्भ: India used its Right of Reply after Pakistan Prime Minister Shehbaz Sharif credited U.S. President Donald Trump for a ‘timely intervention’ in the 2025 conflict and raised the Kashmir issue...\n\nप्रमुख बिंदु:\n• India used its Right of Reply after Pakistan Prime Minister Shehbaz Sharif credited U.S\n• President Donald Trump for a ‘timely intervention’ in the 2025 conflict and raised the Kashmir issue\n",
+      "analysis_en": "Reference: India used its Right of Reply after Pakistan Prime Minister Shehbaz Sharif credited U.S. President Donald Trump for a ‘timely intervention’ in the 2025 conflict and raised the Kashmir issue...\n\nKey Points:\n• India used its Right of Reply after Pakistan Prime Minister Shehbaz Sharif credited U.S\n• President Donald Trump for a ‘timely intervention’ in the 2025 conflict and raised the Kashmir issue\n",
+      "link": "https://www.thehindu.com/news/national/india-criticises-pakistans-falsehoods-and-deceit-at-un-warns-terrorism-will-have-consequences/article71511829.ece"
+    },
+    {
+      "id": "0e66c87eaad2",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:24:17+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "At CWC meet, Rahul says Modi told him: ‘When we go, you will come'",
+      "title_hi": "At CWC meet, Rahul says Modi told him: ‘When we go, you will come'",
+      "summary_en": "Leader of Opposition says Congress must resist both inside Parliament and on the streets; asserts CEC Gyanesh Kumar has to resign",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Leader of Opposition says Congress must resist both inside संसद and on the streets; asserts CEC Gyanesh Kumar has to resign",
+      "analysis_hi": "संदर्भ: Leader of Opposition says Congress must resist both inside Parliament and on the streets; asserts CEC Gyanesh Kumar has to resign...\n\nप्रमुख बिंदु:\n• Leader of Opposition says Congress must resist both inside Parliament and on the streets; asserts CEC Gyanesh Kumar has to resign\n",
+      "analysis_en": "Reference: Leader of Opposition says Congress must resist both inside Parliament and on the streets; asserts CEC Gyanesh Kumar has to resign...\n\nKey Points:\n• Leader of Opposition says Congress must resist both inside Parliament and on the streets; asserts CEC Gyanesh Kumar has to resign\n",
+      "link": "https://www.thehindu.com/news/national/when-we-go-you-will-come-rahul-gandhi-says-pm-told-him-only-congress-can-defeat-bjp/article71523738.ece"
+    },
+    {
+      "id": "0a7c3e3eb9ff",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:22:03+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Kerala HC directs transparency in selection of Sabarimala, Malikappuram Melsanthis",
+      "title_hi": "Kerala HC directs transparency in selection of Sabarimala, Malikappuram Melsanthis",
+      "summary_en": "Court was considering a report filed by Sabarimala Special Commissioner R. Jayakrishnan on the matter",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Court was considering a report filed by Sabarimala Special Commissioner R. Jayakrishnan on the matter",
+      "analysis_hi": "संदर्भ: Court was considering a report filed by Sabarimala Special Commissioner R. Jayakrishnan on the matter...\n\nप्रमुख बिंदु:\n• Court was considering a report filed by Sabarimala Special Commissioner R\n",
+      "analysis_en": "Reference: Court was considering a report filed by Sabarimala Special Commissioner R. Jayakrishnan on the matter...\n\nKey Points:\n• Court was considering a report filed by Sabarimala Special Commissioner R\n",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-transparency-in-selection-of-sabarimala-malikappuram-melsanthis/article71525050.ece"
+    },
+    {
+      "id": "c2339bc9ab91",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:19:00+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Poet Kannadasan: a creative mind that enriched Tamil cinema with exquisite, philosophical songs",
+      "title_hi": "Poet Kannadasan: a creative mind that enriched Tamil cinema with exquisite, philosophical songs",
+      "summary_en": "Kannadasan, whose birth centenary is being celebrated, was born as Muthaiah at Sirukoodalpatti in present day Sivaganga district. An atheist in his early years while active in the Dravidian movement, the Tamil poet later turned spiritual.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Kannadasan, whose birth centenary is being celebrated, was born as Muthaiah at Sirukoodalpatti in present day Sivaganga district. An atheist in his early years while active in the Dravidian movement, the Tamil poet later turned spiritual.",
+      "analysis_hi": "संदर्भ: Kannadasan, whose birth centenary is being celebrated, was born as Muthaiah at Sirukoodalpatti in present day Sivaganga district. An atheist in his early years while active in the Dravidian movement, the Tamil poet later turned spiritual....\n\nप्रमुख बिंदु:\n• Kannadasan, whose birth centenary is being celebrated, was born as Muthaiah at Sirukoodalpatti in present day Sivaganga district\n• An atheist in his early years while active in the Dravidian movement, the Tamil poet later turned spiritual.\n",
+      "analysis_en": "Reference: Kannadasan, whose birth centenary is being celebrated, was born as Muthaiah at Sirukoodalpatti in present day Sivaganga district. An atheist in his early years while active in the Dravidian movement, the Tamil poet later turned spiritual....\n\nKey Points:\n• Kannadasan, whose birth centenary is being celebrated, was born as Muthaiah at Sirukoodalpatti in present day Sivaganga district\n• An atheist in his early years while active in the Dravidian movement, the Tamil poet later turned spiritual.\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/birth-centenary-of-poet-kannadasan-a-creative-mind-that-enriched-tamil-cinema-with-exquisite-philosophical-songs/article71524092.ece"
+    },
+    {
+      "id": "d5cf59278099",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:17:18+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "‘He should better visit Bihar’: Minister takes a dig at Chirag Paswan over his remarks against State govt.",
+      "title_hi": "‘He should better visit Bihar’: Minister takes a dig at Chirag Paswan over his remarks against State govt.",
+      "summary_en": "Bihar Minister and BJP leader Lakhendra Paswan, reacting to Chirag Paswan’s remarks over rising crime against women, suggested the Union minister to directly hold talks with the NDA-led State government",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Bihar Minister and BJP leader Lakhendra Paswan, reacting to Chirag Paswan’s remarks over rising crime against women, suggested the Union minister to directly hold talks with the NDA-led State सरकार",
+      "analysis_hi": "संदर्भ: Bihar Minister and BJP leader Lakhendra Paswan, reacting to Chirag Paswan’s remarks over rising crime against women, suggested the Union minister to directly hold talks with the NDA-led State government...\n\nप्रमुख बिंदु:\n• Bihar Minister and BJP leader Lakhendra Paswan, reacting to Chirag Paswan’s remarks over rising crime against women, suggested the Union minister to directly hold talks with the NDA-led State government\n",
+      "analysis_en": "Reference: Bihar Minister and BJP leader Lakhendra Paswan, reacting to Chirag Paswan’s remarks over rising crime against women, suggested the Union minister to directly hold talks with the NDA-led State government...\n\nKey Points:\n• Bihar Minister and BJP leader Lakhendra Paswan, reacting to Chirag Paswan’s remarks over rising crime against women, suggested the Union minister to directly hold talks with the NDA-led State government\n",
+      "link": "https://www.thehindu.com/news/national/bihar/he-should-better-visit-bihar-minister-takes-a-dig-at-chirag-paswan-over-his-remarks-against-state-govt/article71524847.ece"
+    },
+    {
+      "id": "1b8ff11bef5d",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:16:12+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "A Lok Sabha bypoll in Tamil Nadu that triggered the first Motion of Confidence in Indian legislature",
+      "title_hi": "A Lok Sabha bypoll in Tamil Nadu that triggered the first Motion of Confidence in Indian legislature",
+      "summary_en": "The by-election in question was for the Aruppukottai Lok Sabha constituency, which was considered to be the largest in the country in the early 1950s",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The by-चुनाव in question was for the Aruppukottai Lok Sabha constituency, which was considered to be the largest in the country in the early 1950s",
+      "analysis_hi": "संदर्भ: The by-election in question was for the Aruppukottai Lok Sabha constituency, which was considered to be the largest in the country in the early 1950s...\n\nप्रमुख बिंदु:\n• The by-election in question was for the Aruppukottai Lok Sabha constituency, which was considered to be the largest in the country in the early 1950s\n",
+      "analysis_en": "Reference: The by-election in question was for the Aruppukottai Lok Sabha constituency, which was considered to be the largest in the country in the early 1950s...\n\nKey Points:\n• The by-election in question was for the Aruppukottai Lok Sabha constituency, which was considered to be the largest in the country in the early 1950s\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/a-lok-sabha-bypoll-in-tamil-nadu-that-triggered-the-first-motion-of-confidence-in-indian-legislature/article71525790.ece"
+    },
+    {
+      "id": "3d5c37f0e4c9",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:15:53+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Beyond Fort St. George: Tamil Nadu government’s quest for an Assembly-Secretariat site is more than a century old",
+      "title_hi": "Beyond Fort St. George: Tamil Nadu government’s quest for an Assembly-Secretariat site is more than a century old",
+      "summary_en": "Somehow, the Fort had such an appeal that the legislature kept coming back to the historic 17th-century vestige of the colonial era",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Somehow, the Fort had such an appeal that the legislature kept coming back to the historic 17th-century vestige of the colonial era",
+      "analysis_hi": "संदर्भ: Somehow, the Fort had such an appeal that the legislature kept coming back to the historic 17th-century vestige of the colonial era...\n\nप्रमुख बिंदु:\n• Somehow, the Fort had such an appeal that the legislature kept coming back to the historic 17th-century vestige of the colonial era\n",
+      "analysis_en": "Reference: Somehow, the Fort had such an appeal that the legislature kept coming back to the historic 17th-century vestige of the colonial era...\n\nKey Points:\n• Somehow, the Fort had such an appeal that the legislature kept coming back to the historic 17th-century vestige of the colonial era\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/beyond-fort-st-george-tamil-nadu-governments-quest-for-an-assembly-secretariat-site-is-more-than-a-century-old/article71441612.ece"
+    },
+    {
+      "id": "d7d8541fff07",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:14:01+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "The 1981 byelection that triggered twists and turns in Tamil Nadu politics",
+      "title_hi": "The 1981 byelection that triggered twists and turns in Tamil Nadu politics",
+      "summary_en": "There is an ongoing litigation in the Madras High Court over the election results in the Tirupattur Assembly constituency, where the ruling TVK candidate was declared elected by just one vote. Interestingly, 40 years ago, Tirupattur hogged the limelight, even at the national level, for strange reasons",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। There is an ongoing litigation in the Madras High Court over the चुनाव results in the Tirupattur Assembly constituency, where the ruling TVK candidate was declared elected by just one vote. Interestingly, 40 years ago, Tirupattur hogged the limelight, even at the national level, for strange reasons",
+      "analysis_hi": "संदर्भ: There is an ongoing litigation in the Madras High Court over the election results in the Tirupattur Assembly constituency, where the ruling TVK candidate was declared elected by just one vote. Interestingly, 40 years ago, Tirupattur hogged the limelight, even at the national level, for strange reaso...\n\nप्रमुख बिंदु:\n• There is an ongoing litigation in the Madras High Court over the election results in the Tirupattur Assembly constituency, where the ruling TVK candidate was declared elected by just one vote\n• Interestingly, 40 years ago, Tirupattur hogged the limelight, even at the national level, for strange reasons\n",
+      "analysis_en": "Reference: There is an ongoing litigation in the Madras High Court over the election results in the Tirupattur Assembly constituency, where the ruling TVK candidate was declared elected by just one vote. Interestingly, 40 years ago, Tirupattur hogged the limelight, even at the national level, for strange reaso...\n\nKey Points:\n• There is an ongoing litigation in the Madras High Court over the election results in the Tirupattur Assembly constituency, where the ruling TVK candidate was declared elected by just one vote\n• Interestingly, 40 years ago, Tirupattur hogged the limelight, even at the national level, for strange reasons\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/the-1981-assembly-byelection-that-triggered-turns-and-twists-in-tamil-nadu-politics/article71496870.ece"
+    },
+    {
+      "id": "f4ec14b0eec2",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:13:59+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "‘Dorothy’, a long-awaited embrace for the queer community",
+      "title_hi": "‘Dorothy’, a long-awaited embrace for the queer community",
+      "summary_en": "As ‘Dorothy’ wins over audiences, trans activists and members of the queer community speak about seeing their lives, desires and struggles reflected with tenderness in Karthik Subbaraj’s film",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। As ‘Dorothy’ wins over audiences, trans activists and members of the queer community speak about seeing their lives, desires and struggles reflected with tenderness in Karthik Subbaraj’s film",
+      "analysis_hi": "संदर्भ: As ‘Dorothy’ wins over audiences, trans activists and members of the queer community speak about seeing their lives, desires and struggles reflected with tenderness in Karthik Subbaraj’s film...\n\nप्रमुख बिंदु:\n• As ‘Dorothy’ wins over audiences, trans activists and members of the queer community speak about seeing their lives, desires and struggles reflected with tenderness in Karthik Subbaraj’s film\n",
+      "analysis_en": "Reference: As ‘Dorothy’ wins over audiences, trans activists and members of the queer community speak about seeing their lives, desires and struggles reflected with tenderness in Karthik Subbaraj’s film...\n\nKey Points:\n• As ‘Dorothy’ wins over audiences, trans activists and members of the queer community speak about seeing their lives, desires and struggles reflected with tenderness in Karthik Subbaraj’s film\n",
+      "link": "https://www.thehindu.com/entertainment/movies/dorothy-queer-community-lgbtqia-karthik-subbaraj-ilaiyaraaja-sananth-rishikanth-keerthy-suresh/article71522912.ece"
+    },
+    {
+      "id": "835271968a7e",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:13:08+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Lessons from the history of rebellions in AIADMK and DMK in Tamil Nadu",
+      "title_hi": "Lessons from the history of rebellions in AIADMK and DMK in Tamil Nadu",
+      "summary_en": "With discomfort in the AIADMK showing no signs of subsiding, after former School Education Minister and veteran leader K.A. Sengottaiyan was divested of party posts following his call for the return of estranged leaders, it is a timely moment to revisit some of the most significant uprisings within Tamil Nadu’s two major Dravidian parties",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। With discomfort in the AIADMK showing no signs of subsiding, after former School शिक्षा Minister and veteran leader K.A. Sengottaiyan was divested of party posts following his call for the return of estranged leaders, it is a timely moment to revisit some of the most significant uprisings within Tamil Nadu’s two major Dravidian parties",
+      "analysis_hi": "संदर्भ: With discomfort in the AIADMK showing no signs of subsiding, after former School Education Minister and veteran leader K.A. Sengottaiyan was divested of party posts following his call for the return of estranged leaders, it is a timely moment to revisit some of the most significant uprisings within ...\n\nप्रमुख बिंदु:\n• With discomfort in the AIADMK showing no signs of subsiding, after former School Education Minister and veteran leader K.A\n• Sengottaiyan was divested of party posts following his call for the return of estranged leaders, it is a timely moment to revisit some of the most significant uprisings within Tamil Nadu’s two major Dravidian parties\n",
+      "analysis_en": "Reference: With discomfort in the AIADMK showing no signs of subsiding, after former School Education Minister and veteran leader K.A. Sengottaiyan was divested of party posts following his call for the return of estranged leaders, it is a timely moment to revisit some of the most significant uprisings within ...\n\nKey Points:\n• With discomfort in the AIADMK showing no signs of subsiding, after former School Education Minister and veteran leader K.A\n• Sengottaiyan was divested of party posts following his call for the return of estranged leaders, it is a timely moment to revisit some of the most significant uprisings within Tamil Nadu’s two major Dravidian parties\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/lessons-from-the-history-of-rebellions-in-aiadmk-and-dmk/article70083698.ece"
+    },
+    {
+      "id": "ad1db48d8bd7",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:05:09+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "EAM Jaishankar warns of ‘major food crisis’ in coming months",
+      "title_hi": "EAM Jaishankar warns of ‘major food crisis’ in coming months",
+      "summary_en": "\"We are today looking at a situation where some of the major grain exporters will not be able to send out their shipments, particularly out to the Black Sea,\" S. Jaishankar said",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। \"We are today looking at a situation where some of the major grain exporters will not be able to send out their shipments, particularly out to the Black Sea,\" S. Jaishankar said",
+      "analysis_hi": "संदर्भ: \"We are today looking at a situation where some of the major grain exporters will not be able to send out their shipments, particularly out to the Black Sea,\" S. Jaishankar said...\n\nप्रमुख बिंदु:\n• \"We are today looking at a situation where some of the major grain exporters will not be able to send out their shipments, particularly out to the Black Sea,\" S\n",
+      "analysis_en": "Reference: \"We are today looking at a situation where some of the major grain exporters will not be able to send out their shipments, particularly out to the Black Sea,\" S. Jaishankar said...\n\nKey Points:\n• \"We are today looking at a situation where some of the major grain exporters will not be able to send out their shipments, particularly out to the Black Sea,\" S\n",
+      "link": "https://www.thehindu.com/news/national/eam-jaishankar-warns-ofmajor-food-crisis-in-coming-months/article71526595.ece"
+    },
+    {
+      "id": "81dbe2c2febf",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:01:05+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Congress workers booked for attempt to murder over ‘defacement’ of CEC Gyanesh Kumar’s Agra house",
+      "title_hi": "Congress workers booked for attempt to murder over ‘defacement’ of CEC Gyanesh Kumar’s Agra house",
+      "summary_en": "Congress city president Amit Singh said the case should have been limited to provisions relating to the protest, but police had invoked several \"false\" sections against the workers",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Congress city राष्ट्रपति Amit Singh said the case should have been limited to provisions relating to the protest, but police had invoked several \"false\" sections against the workers",
+      "analysis_hi": "संदर्भ: Congress city president Amit Singh said the case should have been limited to provisions relating to the protest, but police had invoked several \"false\" sections against the workers...\n\nप्रमुख बिंदु:\n• Congress city president Amit Singh said the case should have been limited to provisions relating to the protest, but police had invoked several \"false\" sections against the workers\n",
+      "analysis_en": "Reference: Congress city president Amit Singh said the case should have been limited to provisions relating to the protest, but police had invoked several \"false\" sections against the workers...\n\nKey Points:\n• Congress city president Amit Singh said the case should have been limited to provisions relating to the protest, but police had invoked several \"false\" sections against the workers\n",
+      "link": "https://www.thehindu.com/news/national/congress-workers-booked-for-attempt-to-murder-over-defacement-of-cec-gyanesh-kumars-agra-house/article71526795.ece"
+    },
+    {
+      "id": "d2598edde22e",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:00:42+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Senior journalist seeks to intervene in legislative privilege versus free speech case",
+      "title_hi": "Senior journalist seeks to intervene in legislative privilege versus free speech case",
+      "summary_en": "“Legislative privileges and fundamental rights do not operate in separate, watertight compartments, but must be read together, harmoniously, to give full effect to the constitutional scheme of democratic governance,” the application submitted",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। “Legislative privileges and fundamental rights do not operate in separate, watertight compartments, but must be read together, harmoniously, to give full effect to the constitutional योजना of democratic governance,” the application submitted",
+      "analysis_hi": "संदर्भ: “Legislative privileges and fundamental rights do not operate in separate, watertight compartments, but must be read together, harmoniously, to give full effect to the constitutional scheme of democratic governance,” the application submitted...\n\nप्रमुख बिंदु:\n• “Legislative privileges and fundamental rights do not operate in separate, watertight compartments, but must be read together, harmoniously, to give full effect to the constitutional scheme of democratic governance,” the application submitted\n",
+      "analysis_en": "Reference: “Legislative privileges and fundamental rights do not operate in separate, watertight compartments, but must be read together, harmoniously, to give full effect to the constitutional scheme of democratic governance,” the application submitted...\n\nKey Points:\n• “Legislative privileges and fundamental rights do not operate in separate, watertight compartments, but must be read together, harmoniously, to give full effect to the constitutional scheme of democratic governance,” the application submitted\n",
+      "link": "https://www.thehindu.com/news/national/senior-journalist-seeks-to-intervene-in-legislative-privilege-versus-free-speech-case/article71526758.ece"
+    },
+    {
+      "id": "b74877705d28",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T05:00:32+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Why rare-disease drugs could become India’s next pharma frontier",
+      "title_hi": "Why rare-disease drugs could become India’s next pharma frontier",
+      "summary_en": "Since India has already shown the world how to make drugs affordable, the next challenge is to show the world how to make rare-disease drugs accessible; with a streamlined regulatory pathway, appropriate financial incentives, and government procurement, India could build a globally competitive rare-disease pharmaceutical sector",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Since India has already shown the world how to make drugs affordable, the next challenge is to show the world how to make rare-disease drugs accessible; with a streamlined regulatory pathway, appropriate financial incentives, and सरकार procurement, India could build a globally competitive rare-disease pharmaceutical sector",
+      "analysis_hi": "संदर्भ: Since India has already shown the world how to make drugs affordable, the next challenge is to show the world how to make rare-disease drugs accessible; with a streamlined regulatory pathway, appropriate financial incentives, and government procurement, India could build a globally competitive rare-...\n\nप्रमुख बिंदु:\n• Since India has already shown the world how to make drugs affordable, the next challenge is to show the world how to make rare-disease drugs accessible; with a streamlined regulatory pathway, appropriate financial incentives, and government procurement, India could build a globally competitive rare-disease pharmaceutical sector\n",
+      "analysis_en": "Reference: Since India has already shown the world how to make drugs affordable, the next challenge is to show the world how to make rare-disease drugs accessible; with a streamlined regulatory pathway, appropriate financial incentives, and government procurement, India could build a globally competitive rare-...\n\nKey Points:\n• Since India has already shown the world how to make drugs affordable, the next challenge is to show the world how to make rare-disease drugs accessible; with a streamlined regulatory pathway, appropriate financial incentives, and government procurement, India could build a globally competitive rare-disease pharmaceutical sector\n",
+      "link": "https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece"
+    },
+    {
+      "id": "4d93bdaa5c63",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T04:56:21+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Mammoth protest at Kittur Chennamma Circle by Sugarcane farmers; Farmers agree for talk at Delhi with Joshi after intervention by MLAs Tenginakai, Patil",
+      "title_hi": "Mammoth protest at Kittur Chennamma Circle by Sugarcane farmers; Farmers agree for talk at Delhi with Joshi after intervention by MLAs Tenginakai, Patil",
+      "summary_en": "Thousands of sugarcane growers from across Karnataka and neighbouring Maharashtra and Telangana staged a massive protest at Kittur Chennamma Circle in Hubballi on Tuesday, demanding remunerative prices for sugarcane and a revision of the minimum selling price (MSP) of sugar. After appeal by union minister Pralhad Joshi, intervention by local legislators they agree for talks at Delhi, withdraw protest",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Thousands of sugarcane growers from across Karnataka and neighbouring Maharashtra and Telangana staged a massive protest at Kittur Chennamma Circle in Hubballi on Tuesday, demanding remunerative prices for sugarcane and a revision of the minimum selling price (MSP) of sugar. After appeal by union minister Pralhad Joshi, intervention by local legislators they agree for talks at Delhi, withdraw protest",
+      "analysis_hi": "संदर्भ: Thousands of sugarcane growers from across Karnataka and neighbouring Maharashtra and Telangana staged a massive protest at Kittur Chennamma Circle in Hubballi on Tuesday, demanding remunerative prices for sugarcane and a revision of the minimum selling price (MSP) of sugar. After appeal by union mi...\n\nप्रमुख बिंदु:\n• Thousands of sugarcane growers from across Karnataka and neighbouring Maharashtra and Telangana staged a massive protest at Kittur Chennamma Circle in Hubballi on Tuesday, demanding remunerative prices for sugarcane and a revision of the minimum selling price (MSP) of sugar\n• After appeal by union minister Pralhad Joshi, intervention by local legislators they agree for talks at Delhi, withdraw protest\n",
+      "analysis_en": "Reference: Thousands of sugarcane growers from across Karnataka and neighbouring Maharashtra and Telangana staged a massive protest at Kittur Chennamma Circle in Hubballi on Tuesday, demanding remunerative prices for sugarcane and a revision of the minimum selling price (MSP) of sugar. After appeal by union mi...\n\nKey Points:\n• Thousands of sugarcane growers from across Karnataka and neighbouring Maharashtra and Telangana staged a massive protest at Kittur Chennamma Circle in Hubballi on Tuesday, demanding remunerative prices for sugarcane and a revision of the minimum selling price (MSP) of sugar\n• After appeal by union minister Pralhad Joshi, intervention by local legislators they agree for talks at Delhi, withdraw protest\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/mammoth-protest-at-kittur-chennamma-circle-by-sugarcane-farmers-farmers-agree-for-talk-at-delhi-with-joshi-after-intervention-by-mlas-tenginakai-patil/article71524508.ece"
+    },
+    {
+      "id": "3d194b46a1bd",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T04:52:12+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "At the Chettinad Heritage and Cultural Festival, a revival takes root",
+      "title_hi": "At the Chettinad Heritage and Cultural Festival, a revival takes root",
+      "summary_en": "The Chettinad Heritage and Cultural Festival offers a glimpse of a wider revival, driven by people such as Meenakshi Meyyappan, revivalist Visalakshi Ramaswamy and architect Benny Kuriakose who are finding new ways to preserve, reinvent and draw attention to the region’s architecture, crafts and traditions",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Chettinad Heritage and Cultural Festival offers a glimpse of a wider revival, driven by people such as Meenakshi Meyyappan, revivalist Visalakshi Ramaswamy and architect Benny Kuriakose who are finding new ways to preserve, reinvent and draw attention to the region’s architecture, crafts and traditions",
+      "analysis_hi": "संदर्भ: The Chettinad Heritage and Cultural Festival offers a glimpse of a wider revival, driven by people such as Meenakshi Meyyappan, revivalist Visalakshi Ramaswamy and architect Benny Kuriakose who are finding new ways to preserve, reinvent and draw attention to the region’s architecture, crafts and tra...\n\nप्रमुख बिंदु:\n• The Chettinad Heritage and Cultural Festival offers a glimpse of a wider revival, driven by people such as Meenakshi Meyyappan, revivalist Visalakshi Ramaswamy and architect Benny Kuriakose who are finding new ways to preserve, reinvent and draw attention to the region’s architecture, crafts and traditions\n",
+      "analysis_en": "Reference: The Chettinad Heritage and Cultural Festival offers a glimpse of a wider revival, driven by people such as Meenakshi Meyyappan, revivalist Visalakshi Ramaswamy and architect Benny Kuriakose who are finding new ways to preserve, reinvent and draw attention to the region’s architecture, crafts and tra...\n\nKey Points:\n• The Chettinad Heritage and Cultural Festival offers a glimpse of a wider revival, driven by people such as Meenakshi Meyyappan, revivalist Visalakshi Ramaswamy and architect Benny Kuriakose who are finding new ways to preserve, reinvent and draw attention to the region’s architecture, crafts and traditions\n",
+      "link": "https://www.thehindu.com/society/at-the-chettinad-heritage-and-cultural-festival-a-revival-takes-root/article71519870.ece"
+    },
+    {
+      "id": "5901fbde16f9",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T04:48:32+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Greens question expertise of members on Keralam’s human-wildlife conflict panel",
+      "title_hi": "Greens question expertise of members on Keralam’s human-wildlife conflict panel",
+      "summary_en": "Environmental groups raise concerns over criteria adopted by State government in selecting members, particularly the inclusion of people lacking experience in dealing with human-wildlife conflict",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Environmental groups raise concerns over criteria adopted by State सरकार in selecting members, particularly the inclusion of people lacking experience in dealing with human-wildlife conflict",
+      "analysis_hi": "संदर्भ: Environmental groups raise concerns over criteria adopted by State government in selecting members, particularly the inclusion of people lacking experience in dealing with human-wildlife conflict...\n\nप्रमुख बिंदु:\n• Environmental groups raise concerns over criteria adopted by State government in selecting members, particularly the inclusion of people lacking experience in dealing with human-wildlife conflict\n",
+      "analysis_en": "Reference: Environmental groups raise concerns over criteria adopted by State government in selecting members, particularly the inclusion of people lacking experience in dealing with human-wildlife conflict...\n\nKey Points:\n• Environmental groups raise concerns over criteria adopted by State government in selecting members, particularly the inclusion of people lacking experience in dealing with human-wildlife conflict\n",
+      "link": "https://www.thehindu.com/news/national/kerala/greens-question-expertise-of-members-on-keralams-human-wildlife-conflict-panel/article71524880.ece"
+    },
+    {
+      "id": "6288d4887613",
+      "date": "30 Sep 2026",
+      "iso_date": "2026-09-30T04:47:39+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Technology may change rapidly, but constitutional values must endure: MoS L. Murugan",
+      "title_hi": "Technology may change rapidly, but constitutional values must endure: MoS L. Murugan",
+      "summary_en": "Technology may change rapidly, but constitutional values must endure: MoS L. Murugan",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। प्रौद्योगिकी may change rapidly, but constitutional values must endure: MoS L. Murugan",
+      "analysis_hi": "संदर्भ: Technology may change rapidly, but constitutional values must endure: MoS L. Murugan...\n\nप्रमुख बिंदु:\n• Technology may change rapidly, but constitutional values must endure: MoS L\n",
+      "analysis_en": "Reference: Technology may change rapidly, but constitutional values must endure: MoS L. Murugan...\n\nKey Points:\n• Technology may change rapidly, but constitutional values must endure: MoS L\n",
+      "link": "https://www.thehindu.com/news/national/technology-may-change-rapidly-but-constitutional-values-must-endure-mos-l-murugan/article71525169.ece"
+    },
+    {
+      "id": "55dec807062f",
+      "date": "29 Sep 2026",
+      "iso_date": "2026-09-29T14:13:33+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "‘If you miss India, you’ll miss a large chunk of the 21st century’: Manuel Muñiz",
+      "title_hi": "‘If you miss India, you’ll miss a large chunk of the 21st century’: Manuel Muñiz",
+      "summary_en": "In an interview to The Hindu, the former official in Spain’s foreign office also said that there is an “immense case” to be made for European companies to be investing in India",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In an interview to The Hindu, the former official in Spain’s foreign office also said that there is an “immense case” to be made for European companies to be investing in India",
+      "analysis_hi": "संदर्भ: In an interview to The Hindu, the former official in Spain’s foreign office also said that there is an “immense case” to be made for European companies to be investing in India...\n\nप्रमुख बिंदु:\n• In an interview to The Hindu, the former official in Spain’s foreign office also said that there is an “immense case” to be made for European companies to be investing in India\n",
+      "analysis_en": "Reference: In an interview to The Hindu, the former official in Spain’s foreign office also said that there is an “immense case” to be made for European companies to be investing in India...\n\nKey Points:\n• In an interview to The Hindu, the former official in Spain’s foreign office also said that there is an “immense case” to be made for European companies to be investing in India\n",
+      "link": "https://www.thehindu.com/business/if-you-miss-india-youll-miss-a-large-chunk-of-21st-century-manuel-muniz/article71523928.ece"
+    },
+    {
+      "id": "d0f4fcaccbbc",
+      "date": "29 Sep 2026",
+      "iso_date": "2026-09-29T05:19:30+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Insurance 2.0: After 100% FDI, distribution costs reset",
+      "title_hi": "Insurance 2.0: After 100% FDI, distribution costs reset",
+      "summary_en": "General insurers would see the benchmark shift from gross written premium to domestic GDPI, with the ceiling trending towards 20% within five years against 32.1%",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। General insurers would see the benchmark shift from gross written premium to domestic GDPI, with the ceiling trending towards 20% within five years against 32.1%",
+      "analysis_hi": "संदर्भ: General insurers would see the benchmark shift from gross written premium to domestic GDPI, with the ceiling trending towards 20% within five years against 32.1%...\n\nप्रमुख बिंदु:\n• General insurers would see the benchmark shift from gross written premium to domestic GDPI, with the ceiling trending towards 20% within five years against 32.1%\n",
+      "analysis_en": "Reference: General insurers would see the benchmark shift from gross written premium to domestic GDPI, with the ceiling trending towards 20% within five years against 32.1%...\n\nKey Points:\n• General insurers would see the benchmark shift from gross written premium to domestic GDPI, with the ceiling trending towards 20% within five years against 32.1%\n",
+      "link": "https://www.thehindu.com/business/Economy/insurance-20-after-100-fdi-distribution-costs-reset/article71522591.ece"
+    },
     {
       "id": "e063a791b037",
       "date": "28 Sep 2026",
@@ -31,433 +632,6 @@
       "analysis_hi": "संदर्भ: India and the UAE have set a target of doubling bilateral trade to $200 billion by 2032 after trade reached around $100 billion. The target was agreed by the two countries earlier this year....\n\nप्रमुख बिंदु:\n• India and the UAE have set a target of doubling bilateral trade to $200 billion by 2032 after trade reached around $100 billion\n• The target was agreed by the two countries earlier this year.\n",
       "analysis_en": "Reference: India and the UAE have set a target of doubling bilateral trade to $200 billion by 2032 after trade reached around $100 billion. The target was agreed by the two countries earlier this year....\n\nKey Points:\n• India and the UAE have set a target of doubling bilateral trade to $200 billion by 2032 after trade reached around $100 billion\n• The target was agreed by the two countries earlier this year.\n",
       "link": "https://www.thehindu.com/business/Economy/uae-signals-another-25-billion-investment-in-india-eyes-ports-energy-and-space-sectors-goyal/article71520349.ece"
-    },
-    {
-      "id": "a1554658536b",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T21:19:10+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "SIR row: Congress holds protest across Maharashtra seeking Gyanesh Kumar’s removal",
-      "title_hi": "SIR row: Congress holds protest across Maharashtra seeking Gyanesh Kumar’s removal",
-      "summary_en": "According to the Maharashtra Congress, demonstrations were held outside district collectorates across the State, including in Pune, Nagpur, Nashik, Kolhapur, Solapur, Thane, Amravati and Chhatrapati Sambhajinagar.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। According to the Maharashtra Congress, demonstrations were held outside district collectorates across the State, including in Pune, Nagpur, Nashik, Kolhapur, Solapur, Thane, Amravati and Chhatrapati Sambhajinagar.",
-      "analysis_hi": "संदर्भ: According to the Maharashtra Congress, demonstrations were held outside district collectorates across the State, including in Pune, Nagpur, Nashik, Kolhapur, Solapur, Thane, Amravati and Chhatrapati Sambhajinagar....\n\nप्रमुख बिंदु:\n• According to the Maharashtra Congress, demonstrations were held outside district collectorates across the State, including in Pune, Nagpur, Nashik, Kolhapur, Solapur, Thane, Amravati and Chhatrapati Sambhajinagar.\n",
-      "analysis_en": "Reference: According to the Maharashtra Congress, demonstrations were held outside district collectorates across the State, including in Pune, Nagpur, Nashik, Kolhapur, Solapur, Thane, Amravati and Chhatrapati Sambhajinagar....\n\nKey Points:\n• According to the Maharashtra Congress, demonstrations were held outside district collectorates across the State, including in Pune, Nagpur, Nashik, Kolhapur, Solapur, Thane, Amravati and Chhatrapati Sambhajinagar.\n",
-      "link": "https://www.thehindu.com/news/national/maharashtra/sir-row-congress-holds-protest-across-maharashtra-seeking-gyanesh-kumars-removal/article71520317.ece"
-    },
-    {
-      "id": "ebf03053b891",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T21:04:50+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Sahil Wakode’s parents stage hunger strike at Azad Maidan, demand professor’s arrest",
-      "title_hi": "Sahil Wakode’s parents stage hunger strike at Azad Maidan, demand professor’s arrest",
-      "summary_en": "The family also questioned IIT Bombay’s internal inquiry into Sahil’s death, alleging that none of the members of the institute-appointed committee has contacted them so far.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The family also questioned IIT Bombay’s internal inquiry into Sahil’s death, alleging that none of the members of the institute-appointed committee has contacted them so far.",
-      "analysis_hi": "संदर्भ: The family also questioned IIT Bombay’s internal inquiry into Sahil’s death, alleging that none of the members of the institute-appointed committee has contacted them so far....\n\nप्रमुख बिंदु:\n• The family also questioned IIT Bombay’s internal inquiry into Sahil’s death, alleging that none of the members of the institute-appointed committee has contacted them so far.\n",
-      "analysis_en": "Reference: The family also questioned IIT Bombay’s internal inquiry into Sahil’s death, alleging that none of the members of the institute-appointed committee has contacted them so far....\n\nKey Points:\n• The family also questioned IIT Bombay’s internal inquiry into Sahil’s death, alleging that none of the members of the institute-appointed committee has contacted them so far.\n",
-      "link": "https://www.thehindu.com/news/national/maharashtra/sahil-wakodes-parents-stage-hunger-strike-at-azad-maidan-demand-professors-arrest/article71520922.ece"
-    },
-    {
-      "id": "8585342578a6",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T20:57:34+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Indirectly mining affected people in Odisha get substantial DMF fund, CAG unearths",
-      "title_hi": "Indirectly mining affected people in Odisha get substantial DMF fund, CAG unearths",
-      "summary_en": "Many projects which were inadmissible under Odisha DMF rules were executed in the State, says the audit",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Many projects which were inadmissible under Odisha DMF rules were executed in the State, says the audit",
-      "analysis_hi": "संदर्भ: Many projects which were inadmissible under Odisha DMF rules were executed in the State, says the audit...\n\nप्रमुख बिंदु:\n• Many projects which were inadmissible under Odisha DMF rules were executed in the State, says the audit\n",
-      "analysis_en": "Reference: Many projects which were inadmissible under Odisha DMF rules were executed in the State, says the audit...\n\nKey Points:\n• Many projects which were inadmissible under Odisha DMF rules were executed in the State, says the audit\n",
-      "link": "https://www.thehindu.com/news/national/odisha/indirectly-mining-affected-people-in-odisha-get-substantial-dmf-fund-cag-unearths/article71520592.ece"
-    },
-    {
-      "id": "67d80a6619d2",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T20:18:03+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Shah to chair meeting to resolve Mahanadi water-sharing dispute",
-      "title_hi": "Shah to chair meeting to resolve Mahanadi water-sharing dispute",
-      "summary_en": "Shah to chair meeting to resolve Mahanadi water-sharing dispute",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Shah to chair meeting to resolve Mahanadi water-sharing dispute",
-      "analysis_hi": "संदर्भ: Shah to chair meeting to resolve Mahanadi water-sharing dispute...\n\nप्रमुख बिंदु:\n• Shah to chair meeting to resolve Mahanadi water-sharing dispute\n",
-      "analysis_en": "Reference: Shah to chair meeting to resolve Mahanadi water-sharing dispute...\n\nKey Points:\n• Shah to chair meeting to resolve Mahanadi water-sharing dispute\n",
-      "link": "https://www.thehindu.com/news/national/odisha/shah-to-chair-meeting-to-resolvemahanadiwater-sharing-dispute/article71520979.ece"
-    },
-    {
-      "id": "b3ba9d90f3a0",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T19:43:08+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Punjab campus violence triggers political slugfest; university blames outsiders",
-      "title_hi": "Punjab campus violence triggers political slugfest; university blames outsiders",
-      "summary_en": "Punjab campus violence triggers political slugfest; university blames outsiders",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Punjab campus violence triggers political slugfest; university blames outsiders",
-      "analysis_hi": "संदर्भ: Punjab campus violence triggers political slugfest; university blames outsiders...\n\nप्रमुख बिंदु:\n• Punjab campus violence triggers political slugfest; university blames outsiders\n",
-      "analysis_en": "Reference: Punjab campus violence triggers political slugfest; university blames outsiders...\n\nKey Points:\n• Punjab campus violence triggers political slugfest; university blames outsiders\n",
-      "link": "https://www.thehindu.com/news/national/punjab/punjab-campus-violence-triggers-political-slugfest-university-blames-outsiders/article71520862.ece"
-    },
-    {
-      "id": "df37d09f50b2",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T19:40:43+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Moderate 58.14% voter turnout in byelections in Ernakulam",
-      "title_hi": "Moderate 58.14% voter turnout in byelections in Ernakulam",
-      "summary_en": "Kochi Corporation’s Ayyappankavu division sees only 46.91% voter turnout",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Kochi Corporation’s Ayyappankavu division sees only 46.91% voter turnout",
-      "analysis_hi": "संदर्भ: Kochi Corporation’s Ayyappankavu division sees only 46.91% voter turnout...\n\nप्रमुख बिंदु:\n• Kochi Corporation’s Ayyappankavu division sees only 46.91% voter turnout\n",
-      "analysis_en": "Reference: Kochi Corporation’s Ayyappankavu division sees only 46.91% voter turnout...\n\nKey Points:\n• Kochi Corporation’s Ayyappankavu division sees only 46.91% voter turnout\n",
-      "link": "https://www.thehindu.com/news/national/kerala/5814-voter-turnout-recorded-in-byelections-in-ernakulam/article71520914.ece"
-    },
-    {
-      "id": "64c08ee40768",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T19:16:24+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha",
-      "title_hi": "Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha",
-      "summary_en": "Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Sustainable विकास must go hand-in-hand with environmental conservation: B.S. Jha",
-      "analysis_hi": "संदर्भ: Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha...\n\nप्रमुख बिंदु:\n• Sustainable development must go hand-in-hand with environmental conservation: B.S\n",
-      "analysis_en": "Reference: Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha...\n\nKey Points:\n• Sustainable development must go hand-in-hand with environmental conservation: B.S\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/sustainable-development-must-go-hand-in-hand-with-environmental-conservation-bs-jha/article71519930.ece"
-    },
-    {
-      "id": "8f66ff146ff8",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T19:15:19+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Karnataka youth achieves impressive feat in Shanghai World Skills Competition",
-      "title_hi": "Karnataka youth achieves impressive feat in Shanghai World Skills Competition",
-      "summary_en": "Karnataka youth achieves impressive feat in Shanghai World Skills Competition",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Karnataka youth achieves impressive feat in Shanghai World Skills Competition",
-      "analysis_hi": "संदर्भ: Karnataka youth achieves impressive feat in Shanghai World Skills Competition...\n\nप्रमुख बिंदु:\n• Karnataka youth achieves impressive feat in Shanghai World Skills Competition\n",
-      "analysis_en": "Reference: Karnataka youth achieves impressive feat in Shanghai World Skills Competition...\n\nKey Points:\n• Karnataka youth achieves impressive feat in Shanghai World Skills Competition\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-youth-achieves-impressive-feat-in-shanghai-world-skills-competition/article71520463.ece"
-    },
-    {
-      "id": "4280c27614c9",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T19:15:04+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2",
-      "title_hi": "Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2",
-      "summary_en": "Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2",
-      "analysis_hi": "संदर्भ: Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2...\n\nप्रमुख बिंदु:\n• Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2\n",
-      "analysis_en": "Reference: Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2...\n\nKey Points:\n• Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/bharatiya-vidya-bhavan-to-host-literary-festival-on-karnatakas-indegenous-languages-from-october-2/article71519907.ece"
-    },
-    {
-      "id": "291a6c564eb8",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T19:13:56+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Bengaluru tree branch fall tragedy prompts Karnataka HC to script tech driven public safety framework across State",
-      "title_hi": "Bengaluru tree branch fall tragedy prompts Karnataka HC to script tech driven public safety framework across State",
-      "summary_en": "The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said.",
-      "analysis_hi": "संदर्भ: The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said....\n\nप्रमुख बिंदु:\n• The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said.\n",
-      "analysis_en": "Reference: The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said....\n\nKey Points:\n• The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said.\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-tree-fall-tragedy-prompts-karnataka-hc-to-script-tech-driven-public-safety-framework-across-state/article71520301.ece"
-    },
-    {
-      "id": "ff6e1fe5d623",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T19:13:46+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Locals symbolically ‘open’ Bengaluru Metro Pink Line, demand early launch",
-      "title_hi": "Locals symbolically ‘open’ Bengaluru Metro Pink Line, demand early launch",
-      "summary_en": "The protest came as the Bangalore Metro Rail Corporation Ltd. missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The protest came as the Bangalore Metro Rail Corporation Ltd. missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere",
-      "analysis_hi": "संदर्भ: The protest came as the Bangalore Metro Rail Corporation Ltd. missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere...\n\nप्रमुख बिंदु:\n• The protest came as the Bangalore Metro Rail Corporation Ltd\n• missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere\n",
-      "analysis_en": "Reference: The protest came as the Bangalore Metro Rail Corporation Ltd. missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere...\n\nKey Points:\n• The protest came as the Bangalore Metro Rail Corporation Ltd\n• missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/locals-symbolically-open-bengaluru-metro-pink-line-demand-early-launch/article71521103.ece"
-    },
-    {
-      "id": "136f612ea972",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T18:58:46+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Minister urges youth to become job providers",
-      "title_hi": "Minister urges youth to become job providers",
-      "summary_en": "Minister urges youth to become job providers",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Minister urges youth to become job providers",
-      "analysis_hi": "संदर्भ: Minister urges youth to become job providers...\n\nप्रमुख बिंदु:\n• Minister urges youth to become job providers\n",
-      "analysis_en": "Reference: Minister urges youth to become job providers...\n\nKey Points:\n• Minister urges youth to become job providers\n",
-      "link": "https://www.thehindu.com/news/national/kerala/minister-urges-youth-to-become-job-providers/article71520130.ece"
-    },
-    {
-      "id": "b40ce086d303",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T18:50:22+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Prime accused in overseas recruitment scam gets bail",
-      "title_hi": "Prime accused in overseas recruitment scam gets bail",
-      "summary_en": "Hundreds of victims of the alleged financial fraud staged a protest at the company’s office at Edappally",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Hundreds of victims of the alleged financial fraud staged a protest at the company’s office at Edappally",
-      "analysis_hi": "संदर्भ: Hundreds of victims of the alleged financial fraud staged a protest at the company’s office at Edappally...\n\nप्रमुख बिंदु:\n• Hundreds of victims of the alleged financial fraud staged a protest at the company’s office at Edappally\n",
-      "analysis_en": "Reference: Hundreds of victims of the alleged financial fraud staged a protest at the company’s office at Edappally...\n\nKey Points:\n• Hundreds of victims of the alleged financial fraud staged a protest at the company’s office at Edappally\n",
-      "link": "https://www.thehindu.com/news/national/kerala/prime-accused-in-overseas-recruitment-scam-gets-bail/article71520581.ece"
-    },
-    {
-      "id": "43e24799ddc0",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T18:46:59+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Karnataka forms three committees led by retired DGPs to recommend police reforms in two months",
-      "title_hi": "Karnataka forms three committees led by retired DGPs to recommend police reforms in two months",
-      "summary_en": "Karnataka forms three committees led by retired DGPs to recommend police reforms in two months",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Karnataka forms three committees led by retired DGPs to recommend police reforms in two months",
-      "analysis_hi": "संदर्भ: Karnataka forms three committees led by retired DGPs to recommend police reforms in two months...\n\nप्रमुख बिंदु:\n• Karnataka forms three committees led by retired DGPs to recommend police reforms in two months\n",
-      "analysis_en": "Reference: Karnataka forms three committees led by retired DGPs to recommend police reforms in two months...\n\nKey Points:\n• Karnataka forms three committees led by retired DGPs to recommend police reforms in two months\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-forms-three-committees-led-by-retired-dgps-to-recommend-police-reforms-in-two-months/article71519867.ece"
-    },
-    {
-      "id": "43a3cd9c6e72",
-      "date": "28 Sep 2026",
-      "iso_date": "2026-09-28T18:44:24+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "‘Gem Granites’ Veeramani booked in second POCSO Act case",
-      "title_hi": "‘Gem Granites’ Veeramani booked in second POCSO Act case",
-      "summary_en": "The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman.",
-      "analysis_hi": "संदर्भ: The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman....\n\nप्रमुख बिंदु:\n• The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman.\n",
-      "analysis_en": "Reference: The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman....\n\nKey Points:\n• The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman.\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/gem-granite-veeramani-booked-in-second-pocso-act-case/article71519195.ece"
     },
     {
       "id": "7126229e9be6",
@@ -936,6 +1110,433 @@
       "analysis_hi": "संदर्भ: Maharashtra’s passage of the Women Farmers’ Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership, brings into focus the structural bias against the female agricultural workforce, highlights the need for a database of women farmers and using it to ensure ...\n\nप्रमुख बिंदु:\n• Maharashtra’s passage of the Women Farmers’ Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership, brings into focus the structural bias against the female agricultural workforce, highlights the need for a database of women farmers and using it to ensure access to welfare schemes\n",
       "analysis_en": "Reference: Maharashtra’s passage of the Women Farmers’ Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership, brings into focus the structural bias against the female agricultural workforce, highlights the need for a database of women farmers and using it to ensure ...\n\nKey Points:\n• Maharashtra’s passage of the Women Farmers’ Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership, brings into focus the structural bias against the female agricultural workforce, highlights the need for a database of women farmers and using it to ensure access to welfare schemes\n",
       "link": "https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece"
+    },
+    {
+      "id": "a1554658536b",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T21:19:10+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "SIR row: Congress holds protest across Maharashtra seeking Gyanesh Kumar’s removal",
+      "title_hi": "SIR row: Congress holds protest across Maharashtra seeking Gyanesh Kumar’s removal",
+      "summary_en": "According to the Maharashtra Congress, demonstrations were held outside district collectorates across the State, including in Pune, Nagpur, Nashik, Kolhapur, Solapur, Thane, Amravati and Chhatrapati Sambhajinagar.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। According to the Maharashtra Congress, demonstrations were held outside district collectorates across the State, including in Pune, Nagpur, Nashik, Kolhapur, Solapur, Thane, Amravati and Chhatrapati Sambhajinagar.",
+      "analysis_hi": "संदर्भ: According to the Maharashtra Congress, demonstrations were held outside district collectorates across the State, including in Pune, Nagpur, Nashik, Kolhapur, Solapur, Thane, Amravati and Chhatrapati Sambhajinagar....\n\nप्रमुख बिंदु:\n• According to the Maharashtra Congress, demonstrations were held outside district collectorates across the State, including in Pune, Nagpur, Nashik, Kolhapur, Solapur, Thane, Amravati and Chhatrapati Sambhajinagar.\n",
+      "analysis_en": "Reference: According to the Maharashtra Congress, demonstrations were held outside district collectorates across the State, including in Pune, Nagpur, Nashik, Kolhapur, Solapur, Thane, Amravati and Chhatrapati Sambhajinagar....\n\nKey Points:\n• According to the Maharashtra Congress, demonstrations were held outside district collectorates across the State, including in Pune, Nagpur, Nashik, Kolhapur, Solapur, Thane, Amravati and Chhatrapati Sambhajinagar.\n",
+      "link": "https://www.thehindu.com/news/national/maharashtra/sir-row-congress-holds-protest-across-maharashtra-seeking-gyanesh-kumars-removal/article71520317.ece"
+    },
+    {
+      "id": "ebf03053b891",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T21:04:50+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Sahil Wakode’s parents stage hunger strike at Azad Maidan, demand professor’s arrest",
+      "title_hi": "Sahil Wakode’s parents stage hunger strike at Azad Maidan, demand professor’s arrest",
+      "summary_en": "The family also questioned IIT Bombay’s internal inquiry into Sahil’s death, alleging that none of the members of the institute-appointed committee has contacted them so far.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The family also questioned IIT Bombay’s internal inquiry into Sahil’s death, alleging that none of the members of the institute-appointed committee has contacted them so far.",
+      "analysis_hi": "संदर्भ: The family also questioned IIT Bombay’s internal inquiry into Sahil’s death, alleging that none of the members of the institute-appointed committee has contacted them so far....\n\nप्रमुख बिंदु:\n• The family also questioned IIT Bombay’s internal inquiry into Sahil’s death, alleging that none of the members of the institute-appointed committee has contacted them so far.\n",
+      "analysis_en": "Reference: The family also questioned IIT Bombay’s internal inquiry into Sahil’s death, alleging that none of the members of the institute-appointed committee has contacted them so far....\n\nKey Points:\n• The family also questioned IIT Bombay’s internal inquiry into Sahil’s death, alleging that none of the members of the institute-appointed committee has contacted them so far.\n",
+      "link": "https://www.thehindu.com/news/national/maharashtra/sahil-wakodes-parents-stage-hunger-strike-at-azad-maidan-demand-professors-arrest/article71520922.ece"
+    },
+    {
+      "id": "8585342578a6",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T20:57:34+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Indirectly mining affected people in Odisha get substantial DMF fund, CAG unearths",
+      "title_hi": "Indirectly mining affected people in Odisha get substantial DMF fund, CAG unearths",
+      "summary_en": "Many projects which were inadmissible under Odisha DMF rules were executed in the State, says the audit",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Many projects which were inadmissible under Odisha DMF rules were executed in the State, says the audit",
+      "analysis_hi": "संदर्भ: Many projects which were inadmissible under Odisha DMF rules were executed in the State, says the audit...\n\nप्रमुख बिंदु:\n• Many projects which were inadmissible under Odisha DMF rules were executed in the State, says the audit\n",
+      "analysis_en": "Reference: Many projects which were inadmissible under Odisha DMF rules were executed in the State, says the audit...\n\nKey Points:\n• Many projects which were inadmissible under Odisha DMF rules were executed in the State, says the audit\n",
+      "link": "https://www.thehindu.com/news/national/odisha/indirectly-mining-affected-people-in-odisha-get-substantial-dmf-fund-cag-unearths/article71520592.ece"
+    },
+    {
+      "id": "67d80a6619d2",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T20:18:03+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Shah to chair meeting to resolve Mahanadi water-sharing dispute",
+      "title_hi": "Shah to chair meeting to resolve Mahanadi water-sharing dispute",
+      "summary_en": "Shah to chair meeting to resolve Mahanadi water-sharing dispute",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Shah to chair meeting to resolve Mahanadi water-sharing dispute",
+      "analysis_hi": "संदर्भ: Shah to chair meeting to resolve Mahanadi water-sharing dispute...\n\nप्रमुख बिंदु:\n• Shah to chair meeting to resolve Mahanadi water-sharing dispute\n",
+      "analysis_en": "Reference: Shah to chair meeting to resolve Mahanadi water-sharing dispute...\n\nKey Points:\n• Shah to chair meeting to resolve Mahanadi water-sharing dispute\n",
+      "link": "https://www.thehindu.com/news/national/odisha/shah-to-chair-meeting-to-resolvemahanadiwater-sharing-dispute/article71520979.ece"
+    },
+    {
+      "id": "b3ba9d90f3a0",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T19:43:08+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Punjab campus violence triggers political slugfest; university blames outsiders",
+      "title_hi": "Punjab campus violence triggers political slugfest; university blames outsiders",
+      "summary_en": "Punjab campus violence triggers political slugfest; university blames outsiders",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Punjab campus violence triggers political slugfest; university blames outsiders",
+      "analysis_hi": "संदर्भ: Punjab campus violence triggers political slugfest; university blames outsiders...\n\nप्रमुख बिंदु:\n• Punjab campus violence triggers political slugfest; university blames outsiders\n",
+      "analysis_en": "Reference: Punjab campus violence triggers political slugfest; university blames outsiders...\n\nKey Points:\n• Punjab campus violence triggers political slugfest; university blames outsiders\n",
+      "link": "https://www.thehindu.com/news/national/punjab/punjab-campus-violence-triggers-political-slugfest-university-blames-outsiders/article71520862.ece"
+    },
+    {
+      "id": "df37d09f50b2",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T19:40:43+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Moderate 58.14% voter turnout in byelections in Ernakulam",
+      "title_hi": "Moderate 58.14% voter turnout in byelections in Ernakulam",
+      "summary_en": "Kochi Corporation’s Ayyappankavu division sees only 46.91% voter turnout",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Kochi Corporation’s Ayyappankavu division sees only 46.91% voter turnout",
+      "analysis_hi": "संदर्भ: Kochi Corporation’s Ayyappankavu division sees only 46.91% voter turnout...\n\nप्रमुख बिंदु:\n• Kochi Corporation’s Ayyappankavu division sees only 46.91% voter turnout\n",
+      "analysis_en": "Reference: Kochi Corporation’s Ayyappankavu division sees only 46.91% voter turnout...\n\nKey Points:\n• Kochi Corporation’s Ayyappankavu division sees only 46.91% voter turnout\n",
+      "link": "https://www.thehindu.com/news/national/kerala/5814-voter-turnout-recorded-in-byelections-in-ernakulam/article71520914.ece"
+    },
+    {
+      "id": "64c08ee40768",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T19:16:24+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha",
+      "title_hi": "Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha",
+      "summary_en": "Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Sustainable विकास must go hand-in-hand with environmental conservation: B.S. Jha",
+      "analysis_hi": "संदर्भ: Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha...\n\nप्रमुख बिंदु:\n• Sustainable development must go hand-in-hand with environmental conservation: B.S\n",
+      "analysis_en": "Reference: Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha...\n\nKey Points:\n• Sustainable development must go hand-in-hand with environmental conservation: B.S\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/sustainable-development-must-go-hand-in-hand-with-environmental-conservation-bs-jha/article71519930.ece"
+    },
+    {
+      "id": "8f66ff146ff8",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T19:15:19+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Karnataka youth achieves impressive feat in Shanghai World Skills Competition",
+      "title_hi": "Karnataka youth achieves impressive feat in Shanghai World Skills Competition",
+      "summary_en": "Karnataka youth achieves impressive feat in Shanghai World Skills Competition",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Karnataka youth achieves impressive feat in Shanghai World Skills Competition",
+      "analysis_hi": "संदर्भ: Karnataka youth achieves impressive feat in Shanghai World Skills Competition...\n\nप्रमुख बिंदु:\n• Karnataka youth achieves impressive feat in Shanghai World Skills Competition\n",
+      "analysis_en": "Reference: Karnataka youth achieves impressive feat in Shanghai World Skills Competition...\n\nKey Points:\n• Karnataka youth achieves impressive feat in Shanghai World Skills Competition\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-youth-achieves-impressive-feat-in-shanghai-world-skills-competition/article71520463.ece"
+    },
+    {
+      "id": "4280c27614c9",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T19:15:04+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2",
+      "title_hi": "Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2",
+      "summary_en": "Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2",
+      "analysis_hi": "संदर्भ: Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2...\n\nप्रमुख बिंदु:\n• Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2\n",
+      "analysis_en": "Reference: Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2...\n\nKey Points:\n• Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/bharatiya-vidya-bhavan-to-host-literary-festival-on-karnatakas-indegenous-languages-from-october-2/article71519907.ece"
+    },
+    {
+      "id": "291a6c564eb8",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T19:13:56+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Bengaluru tree branch fall tragedy prompts Karnataka HC to script tech driven public safety framework across State",
+      "title_hi": "Bengaluru tree branch fall tragedy prompts Karnataka HC to script tech driven public safety framework across State",
+      "summary_en": "The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said.",
+      "analysis_hi": "संदर्भ: The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said....\n\nप्रमुख बिंदु:\n• The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said.\n",
+      "analysis_en": "Reference: The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said....\n\nKey Points:\n• The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said.\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-tree-fall-tragedy-prompts-karnataka-hc-to-script-tech-driven-public-safety-framework-across-state/article71520301.ece"
+    },
+    {
+      "id": "ff6e1fe5d623",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T19:13:46+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Locals symbolically ‘open’ Bengaluru Metro Pink Line, demand early launch",
+      "title_hi": "Locals symbolically ‘open’ Bengaluru Metro Pink Line, demand early launch",
+      "summary_en": "The protest came as the Bangalore Metro Rail Corporation Ltd. missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The protest came as the Bangalore Metro Rail Corporation Ltd. missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere",
+      "analysis_hi": "संदर्भ: The protest came as the Bangalore Metro Rail Corporation Ltd. missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere...\n\nप्रमुख बिंदु:\n• The protest came as the Bangalore Metro Rail Corporation Ltd\n• missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere\n",
+      "analysis_en": "Reference: The protest came as the Bangalore Metro Rail Corporation Ltd. missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere...\n\nKey Points:\n• The protest came as the Bangalore Metro Rail Corporation Ltd\n• missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/locals-symbolically-open-bengaluru-metro-pink-line-demand-early-launch/article71521103.ece"
+    },
+    {
+      "id": "136f612ea972",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T18:58:46+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Minister urges youth to become job providers",
+      "title_hi": "Minister urges youth to become job providers",
+      "summary_en": "Minister urges youth to become job providers",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Minister urges youth to become job providers",
+      "analysis_hi": "संदर्भ: Minister urges youth to become job providers...\n\nप्रमुख बिंदु:\n• Minister urges youth to become job providers\n",
+      "analysis_en": "Reference: Minister urges youth to become job providers...\n\nKey Points:\n• Minister urges youth to become job providers\n",
+      "link": "https://www.thehindu.com/news/national/kerala/minister-urges-youth-to-become-job-providers/article71520130.ece"
+    },
+    {
+      "id": "b40ce086d303",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T18:50:22+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Prime accused in overseas recruitment scam gets bail",
+      "title_hi": "Prime accused in overseas recruitment scam gets bail",
+      "summary_en": "Hundreds of victims of the alleged financial fraud staged a protest at the company’s office at Edappally",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Hundreds of victims of the alleged financial fraud staged a protest at the company’s office at Edappally",
+      "analysis_hi": "संदर्भ: Hundreds of victims of the alleged financial fraud staged a protest at the company’s office at Edappally...\n\nप्रमुख बिंदु:\n• Hundreds of victims of the alleged financial fraud staged a protest at the company’s office at Edappally\n",
+      "analysis_en": "Reference: Hundreds of victims of the alleged financial fraud staged a protest at the company’s office at Edappally...\n\nKey Points:\n• Hundreds of victims of the alleged financial fraud staged a protest at the company’s office at Edappally\n",
+      "link": "https://www.thehindu.com/news/national/kerala/prime-accused-in-overseas-recruitment-scam-gets-bail/article71520581.ece"
+    },
+    {
+      "id": "43e24799ddc0",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T18:46:59+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Karnataka forms three committees led by retired DGPs to recommend police reforms in two months",
+      "title_hi": "Karnataka forms three committees led by retired DGPs to recommend police reforms in two months",
+      "summary_en": "Karnataka forms three committees led by retired DGPs to recommend police reforms in two months",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Karnataka forms three committees led by retired DGPs to recommend police reforms in two months",
+      "analysis_hi": "संदर्भ: Karnataka forms three committees led by retired DGPs to recommend police reforms in two months...\n\nप्रमुख बिंदु:\n• Karnataka forms three committees led by retired DGPs to recommend police reforms in two months\n",
+      "analysis_en": "Reference: Karnataka forms three committees led by retired DGPs to recommend police reforms in two months...\n\nKey Points:\n• Karnataka forms three committees led by retired DGPs to recommend police reforms in two months\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-forms-three-committees-led-by-retired-dgps-to-recommend-police-reforms-in-two-months/article71519867.ece"
+    },
+    {
+      "id": "43a3cd9c6e72",
+      "date": "28 Sep 2026",
+      "iso_date": "2026-09-28T18:44:24+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "‘Gem Granites’ Veeramani booked in second POCSO Act case",
+      "title_hi": "‘Gem Granites’ Veeramani booked in second POCSO Act case",
+      "summary_en": "The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman.",
+      "analysis_hi": "संदर्भ: The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman....\n\nप्रमुख बिंदु:\n• The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman.\n",
+      "analysis_en": "Reference: The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman....\n\nKey Points:\n• The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman.\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/gem-granite-veeramani-booked-in-second-pocso-act-case/article71519195.ece"
     },
     {
       "id": "a9d586226dd6",
@@ -5085,602 +5686,6 @@
       "analysis_hi": "संदर्भ: While some progress has been achieved in certain areas as far as implementation of JJM is concerned, yet the overall objective of the Mission has remained unachieved, said NC legislator Hasnain Masoodi...\n\nप्रमुख बिंदु:\n• While some progress has been achieved in certain areas as far as implementation of JJM is concerned, yet the overall objective of the Mission has remained unachieved, said NC legislator Hasnain Masoodi\n",
       "analysis_en": "Reference: While some progress has been achieved in certain areas as far as implementation of JJM is concerned, yet the overall objective of the Mission has remained unachieved, said NC legislator Hasnain Masoodi...\n\nKey Points:\n• While some progress has been achieved in certain areas as far as implementation of JJM is concerned, yet the overall objective of the Mission has remained unachieved, said NC legislator Hasnain Masoodi\n",
       "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-house-committee-finds-irregularities-in-jal-jeevan-mission-calls-for-probe/article71492474.ece"
-    },
-    {
-      "id": "3b3e3c0b84ef",
-      "date": "21 Sep 2026",
-      "iso_date": "2026-09-21T19:38:15+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "BDCC bank waiting for govt. sanction for recruitment, says MLA",
-      "title_hi": "BDCC bank waiting for govt. sanction for recruitment, says MLA",
-      "summary_en": "BDCC bank waiting for govt. sanction for recruitment, says MLA",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। BDCC bank waiting for govt. sanction for recruitment, says MLA",
-      "analysis_hi": "संदर्भ: BDCC bank waiting for govt. sanction for recruitment, says MLA...\n\nप्रमुख बिंदु:\n• sanction for recruitment, says MLA\n",
-      "analysis_en": "Reference: BDCC bank waiting for govt. sanction for recruitment, says MLA...\n\nKey Points:\n• sanction for recruitment, says MLA\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/bdcc-bank-waiting-for-govt-sanction-for-recruitment-says-mla/article71492310.ece"
-    },
-    {
-      "id": "db00516fc3b7",
-      "date": "21 Sep 2026",
-      "iso_date": "2026-09-21T19:34:52+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Belagavi students trained by zilla panchayat get into premier institutions",
-      "title_hi": "Belagavi students trained by zilla panchayat get into premier institutions",
-      "summary_en": "Belagavi students trained by zilla panchayat get into premier institutions",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Belagavi students trained by zilla panchayat get into premier institutions",
-      "analysis_hi": "संदर्भ: Belagavi students trained by zilla panchayat get into premier institutions...\n\nप्रमुख बिंदु:\n• Belagavi students trained by zilla panchayat get into premier institutions\n",
-      "analysis_en": "Reference: Belagavi students trained by zilla panchayat get into premier institutions...\n\nKey Points:\n• Belagavi students trained by zilla panchayat get into premier institutions\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/belagavi-students-trained-by-zilla-panchayat-get-into-premier-institutions/article71492176.ece"
-    },
-    {
-      "id": "59baad45d303",
-      "date": "21 Sep 2026",
-      "iso_date": "2026-09-21T19:22:42+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Supreme Court orders fresh probe into 2012 rape-murder near Dharmasthala in Karnataka",
-      "title_hi": "Supreme Court orders fresh probe into 2012 rape-murder near Dharmasthala in Karnataka",
-      "summary_en": "Top court directs State to constitute a tech-savvy and efficient SIT without any officer from the old probe team and complete the investigation within three months; lone accused in case was acquitted by CBI court in 2023",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Top court directs State to constitute a tech-savvy and efficient SIT without any officer from the old probe team and complete the investigation within three months; lone accused in case was acquitted by CBI court in 2023",
-      "analysis_hi": "संदर्भ: Top court directs State to constitute a tech-savvy and efficient SIT without any officer from the old probe team and complete the investigation within three months; lone accused in case was acquitted by CBI court in 2023...\n\nप्रमुख बिंदु:\n• Top court directs State to constitute a tech-savvy and efficient SIT without any officer from the old probe team and complete the investigation within three months; lone accused in case was acquitted by CBI court in 2023\n",
-      "analysis_en": "Reference: Top court directs State to constitute a tech-savvy and efficient SIT without any officer from the old probe team and complete the investigation within three months; lone accused in case was acquitted by CBI court in 2023...\n\nKey Points:\n• Top court directs State to constitute a tech-savvy and efficient SIT without any officer from the old probe team and complete the investigation within three months; lone accused in case was acquitted by CBI court in 2023\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/supreme-court-orders-fresh-probe-into-2012-rape-murder-near-dharmasthala-in-karnataka/article71492604.ece"
-    },
-    {
-      "id": "a09f0794f0d8",
-      "date": "21 Sep 2026",
-      "iso_date": "2026-09-21T19:21:31+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Ram Temple donations theft case: SIT report finds 105 instances of unauthorised currency removal",
-      "title_hi": "Ram Temple donations theft case: SIT report finds 105 instances of unauthorised currency removal",
-      "summary_en": "Solicitor General Tushar Mehta, appearing for Uttar Pradesh, says probe has been “substantially concluded” and a charge sheet will be filed before the court of Additional Sessions Judge on or before September 25, 2026",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Solicitor General Tushar Mehta, appearing for Uttar Pradesh, says probe has been “substantially concluded” and a charge sheet will be filed before the court of Additional Sessions Judge on or before September 25, 2026",
-      "analysis_hi": "संदर्भ: Solicitor General Tushar Mehta, appearing for Uttar Pradesh, says probe has been “substantially concluded” and a charge sheet will be filed before the court of Additional Sessions Judge on or before September 25, 2026...\n\nप्रमुख बिंदु:\n• Solicitor General Tushar Mehta, appearing for Uttar Pradesh, says probe has been “substantially concluded” and a charge sheet will be filed before the court of Additional Sessions Judge on or before September 25, 2026\n",
-      "analysis_en": "Reference: Solicitor General Tushar Mehta, appearing for Uttar Pradesh, says probe has been “substantially concluded” and a charge sheet will be filed before the court of Additional Sessions Judge on or before September 25, 2026...\n\nKey Points:\n• Solicitor General Tushar Mehta, appearing for Uttar Pradesh, says probe has been “substantially concluded” and a charge sheet will be filed before the court of Additional Sessions Judge on or before September 25, 2026\n",
-      "link": "https://www.thehindu.com/news/national/ram-temple-donations-theft-case-chargesheet-on-or-before-september-25/article71491193.ece"
-    },
-    {
-      "id": "734a5e75263d",
-      "date": "21 Sep 2026",
-      "iso_date": "2026-09-21T19:21:11+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "New checklist by Keralam research team records 3,261 flowering plant species in Agasthyamalai Biosphere Reserve",
-      "title_hi": "New checklist by Keralam research team records 3,261 flowering plant species in Agasthyamalai Biosphere Reserve",
-      "summary_en": "Compilation by team from Jawaharlal Nehru Tropical Botanic Garden and Research Institute seeks to reaffirm global significance of Western Ghats as a biodiversity hotspot and need for focused, region-specific strategies for protecting it",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Compilation by team from Jawaharlal Nehru Tropical Botanic Garden and Research Institute seeks to reaffirm global significance of Western Ghats as a biodiversity hotspot and need for focused, region-specific strategies for protecting it",
-      "analysis_hi": "संदर्भ: Compilation by team from Jawaharlal Nehru Tropical Botanic Garden and Research Institute seeks to reaffirm global significance of Western Ghats as a biodiversity hotspot and need for focused, region-specific strategies for protecting it...\n\nप्रमुख बिंदु:\n• Compilation by team from Jawaharlal Nehru Tropical Botanic Garden and Research Institute seeks to reaffirm global significance of Western Ghats as a biodiversity hotspot and need for focused, region-specific strategies for protecting it\n",
-      "analysis_en": "Reference: Compilation by team from Jawaharlal Nehru Tropical Botanic Garden and Research Institute seeks to reaffirm global significance of Western Ghats as a biodiversity hotspot and need for focused, region-specific strategies for protecting it...\n\nKey Points:\n• Compilation by team from Jawaharlal Nehru Tropical Botanic Garden and Research Institute seeks to reaffirm global significance of Western Ghats as a biodiversity hotspot and need for focused, region-specific strategies for protecting it\n",
-      "link": "https://www.thehindu.com/news/national/kerala/new-checklist-by-keralam-research-team-records-3261-flowering-plant-species-in-agasthyamalai-biosphere-reserve/article71490560.ece"
-    },
-    {
-      "id": "f9c7382baa4e",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T08:40:13+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "India’s crude oil imports in August fall 3%, import bill rises 18%",
-      "title_hi": "India’s crude oil imports in August fall 3%, import bill rises 18%",
-      "summary_en": "India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion.",
-      "analysis_hi": "संदर्भ: India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion....\n\nप्रमुख बिंदु:\n• India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion.\n",
-      "analysis_en": "Reference: India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion....\n\nKey Points:\n• India’s net spend on oil and gas stayed nearly flat in August at $9.3 billion.\n",
-      "link": "https://www.thehindu.com/business/Economy/indias-crude-oil-imports-in-august-fall-3-spends-18-more/article71477355.ece"
-    },
-    {
-      "id": "94386f52dd21",
-      "date": "18 Sep 2026",
-      "iso_date": "2026-09-18T07:51:40+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Kearney study recommends measures to improve Tamil Nadu’s fiscal capacity",
-      "title_hi": "Kearney study recommends measures to improve Tamil Nadu’s fiscal capacity",
-      "summary_en": "The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says",
-      "analysis_hi": "संदर्भ: The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says...\n\nप्रमुख बिंदु:\n• The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says\n",
-      "analysis_en": "Reference: The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says...\n\nKey Points:\n• The State’s core challenge is not that it borrows too much, but that it collects and spends less efficiently than comparable large States, the study says\n",
-      "link": "https://www.thehindu.com/news/cities/Coimbatore/kearney-study-recommends-measures-to-improve-tamil-nadus-fiscal-capacity/article71479748.ece"
-    },
-    {
-      "id": "5b22cc1b36e0",
-      "date": "21 Sep 2026",
-      "iso_date": "2026-09-21T19:20:49+00:00",
-      "category": "social",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-1",
-        "GS-2"
-      ],
-      "subjects": [
-        "Social Issues"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-1: Population and associated issues",
-        "GS-2: Issues relating to development and management of Social Sector/Services"
-      ],
-      "title_en": "Karnataka to track cancer patients after fake drug bust",
-      "title_hi": "Karnataka to track cancer patients after fake drug bust",
-      "summary_en": "In order to make it easy for laboratories, doctors, and pharmaceutical firms to differentiate between fake and original drugs, the department has written to the headquarters of Pfizer to release their reference standards, says Health Minister U.T. Khader",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In order to make it easy for laboratories, doctors, and pharmaceutical firms to differentiate between fake and original drugs, the department has written to the headquarters of Pfizer to release their reference standards, says स्वास्थ्य Minister U.T. Khader",
-      "analysis_hi": "संदर्भ: In order to make it easy for laboratories, doctors, and pharmaceutical firms to differentiate between fake and original drugs, the department has written to the headquarters of Pfizer to release their reference standards, says Health Minister U.T. Khader...\n\nप्रमुख बिंदु:\n• In order to make it easy for laboratories, doctors, and pharmaceutical firms to differentiate between fake and original drugs, the department has written to the headquarters of Pfizer to release their reference standards, says Health Minister U.T\n",
-      "analysis_en": "Reference: In order to make it easy for laboratories, doctors, and pharmaceutical firms to differentiate between fake and original drugs, the department has written to the headquarters of Pfizer to release their reference standards, says Health Minister U.T. Khader...\n\nKey Points:\n• In order to make it easy for laboratories, doctors, and pharmaceutical firms to differentiate between fake and original drugs, the department has written to the headquarters of Pfizer to release their reference standards, says Health Minister U.T\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-track-cancer-patients-after-fake-drug-bust/article71492327.ece"
-    },
-    {
-      "id": "f312819dac61",
-      "date": "21 Sep 2026",
-      "iso_date": "2026-09-21T00:30:58+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Getting away from gunshots",
-      "title_hi": "Getting away from gunshots",
-      "summary_en": "For many young Israelis, Dharamkot in Himachal Pradesh offers an escape from the pressures of military service and conflict, drawing them to India’s Hummus Trail, in search of peace and healing. Though there has been a marginal dip in visitors after the war, locals in the tranquil Himalayan retreat worry about over tourism, drug use, and rave culture, finds Vikas Vasudeva",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। For many young Israelis, Dharamkot in Himachal Pradesh offers an escape from the pressures of military service and conflict, drawing them to India’s Hummus Trail, in search of peace and healing. Though there has been a marginal dip in visitors after the war, locals in the tranquil Himalayan retreat worry about over tourism, drug use, and rave culture, finds Vikas Vasudeva",
-      "analysis_hi": "संदर्भ: For many young Israelis, Dharamkot in Himachal Pradesh offers an escape from the pressures of military service and conflict, drawing them to India’s Hummus Trail, in search of peace and healing. Though there has been a marginal dip in visitors after the war, locals in the tranquil Himalayan retreat ...\n\nप्रमुख बिंदु:\n• For many young Israelis, Dharamkot in Himachal Pradesh offers an escape from the pressures of military service and conflict, drawing them to India’s Hummus Trail, in search of peace and healing\n• Though there has been a marginal dip in visitors after the war, locals in the tranquil Himalayan retreat worry about over tourism, drug use, and rave culture, finds Vikas Vasudeva\n",
-      "analysis_en": "Reference: For many young Israelis, Dharamkot in Himachal Pradesh offers an escape from the pressures of military service and conflict, drawing them to India’s Hummus Trail, in search of peace and healing. Though there has been a marginal dip in visitors after the war, locals in the tranquil Himalayan retreat ...\n\nKey Points:\n• For many young Israelis, Dharamkot in Himachal Pradesh offers an escape from the pressures of military service and conflict, drawing them to India’s Hummus Trail, in search of peace and healing\n• Though there has been a marginal dip in visitors after the war, locals in the tranquil Himalayan retreat worry about over tourism, drug use, and rave culture, finds Vikas Vasudeva\n",
-      "link": "https://www.thehindu.com/news/national/himachal-pradesh/getting-away-from-gunshots/article71484095.ece"
-    },
-    {
-      "id": "95d305c445f5",
-      "date": "21 Sep 2026",
-      "iso_date": "2026-09-21T00:02:40+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Heavy rains, squally wind likely in West Bengal from September 22",
-      "title_hi": "Heavy rains, squally wind likely in West Bengal from September 22",
-      "summary_en": "A low-pressure area over the east-central Bay of Bengal and adjoining north Andaman Sea is likely to intensify into a depression on Monday, bringing a spell of heavy rain and squally weather to West Bengal from September 22 to September 26",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A low-pressure area over the east-central Bay of Bengal and adjoining north Andaman Sea is likely to intensify into a depression on Monday, bringing a spell of heavy rain and squally weather to West Bengal from September 22 to September 26",
-      "analysis_hi": "संदर्भ: A low-pressure area over the east-central Bay of Bengal and adjoining north Andaman Sea is likely to intensify into a depression on Monday, bringing a spell of heavy rain and squally weather to West Bengal from September 22 to September 26...\n\nप्रमुख बिंदु:\n• A low-pressure area over the east-central Bay of Bengal and adjoining north Andaman Sea is likely to intensify into a depression on Monday, bringing a spell of heavy rain and squally weather to West Bengal from September 22 to September 26\n",
-      "analysis_en": "Reference: A low-pressure area over the east-central Bay of Bengal and adjoining north Andaman Sea is likely to intensify into a depression on Monday, bringing a spell of heavy rain and squally weather to West Bengal from September 22 to September 26...\n\nKey Points:\n• A low-pressure area over the east-central Bay of Bengal and adjoining north Andaman Sea is likely to intensify into a depression on Monday, bringing a spell of heavy rain and squally weather to West Bengal from September 22 to September 26\n",
-      "link": "https://www.thehindu.com/news/national/west-bengal/heavy-rains-squally-wind-likely-in-west-bengal-from-september-22/article71488466.ece"
-    },
-    {
-      "id": "54ecfaaded83",
-      "date": "20 Sep 2026",
-      "iso_date": "2026-09-20T21:09:36+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "INLD’s Sampat Singh attacks BJP’s ‘Seva Sankalp Abhiyaan’, alleges misuse of State machinery",
-      "title_hi": "INLD’s Sampat Singh attacks BJP’s ‘Seva Sankalp Abhiyaan’, alleges misuse of State machinery",
-      "summary_en": "This forced participation was not merely an administrative inconvenience; it represented a deep moral and financial corruption, said  Sampat Singh",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। This forced participation was not merely an administrative inconvenience; it represented a deep moral and financial corruption, said  Sampat Singh",
-      "analysis_hi": "संदर्भ: This forced participation was not merely an administrative inconvenience; it represented a deep moral and financial corruption, said  Sampat Singh...\n\nप्रमुख बिंदु:\n• This forced participation was not merely an administrative inconvenience; it represented a deep moral and financial corruption, said  Sampat Singh\n",
-      "analysis_en": "Reference: This forced participation was not merely an administrative inconvenience; it represented a deep moral and financial corruption, said  Sampat Singh...\n\nKey Points:\n• This forced participation was not merely an administrative inconvenience; it represented a deep moral and financial corruption, said  Sampat Singh\n",
-      "link": "https://www.thehindu.com/news/national/haryana/inlds-sampat-singh-attacks-bjps-seva-sankalp-abhiyaan-alleges-misuse-of-state-machinery/article71488503.ece"
-    },
-    {
-      "id": "3d434180e2f2",
-      "date": "20 Sep 2026",
-      "iso_date": "2026-09-20T20:13:40+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Lucknow’s S.R. Group of Institutions signs Five-Year MoU with SODES to strengthen digital education, skill development",
-      "title_hi": "Lucknow’s S.R. Group of Institutions signs Five-Year MoU with SODES to strengthen digital education, skill development",
-      "summary_en": "The MOUs’ broader aim is to make education more closely aligned with the changing requirements of the industry and society, said Piyush Singh Chauhan, the Vice Chairman of SRGI",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The MOUs’ broader aim is to make शिक्षा more closely aligned with the changing requirements of the industry and society, said Piyush Singh Chauhan, the Vice Chairman of SRGI",
-      "analysis_hi": "संदर्भ: The MOUs’ broader aim is to make education more closely aligned with the changing requirements of the industry and society, said Piyush Singh Chauhan, the Vice Chairman of SRGI...\n\nप्रमुख बिंदु:\n• The MOUs’ broader aim is to make education more closely aligned with the changing requirements of the industry and society, said Piyush Singh Chauhan, the Vice Chairman of SRGI\n",
-      "analysis_en": "Reference: The MOUs’ broader aim is to make education more closely aligned with the changing requirements of the industry and society, said Piyush Singh Chauhan, the Vice Chairman of SRGI...\n\nKey Points:\n• The MOUs’ broader aim is to make education more closely aligned with the changing requirements of the industry and society, said Piyush Singh Chauhan, the Vice Chairman of SRGI\n",
-      "link": "https://www.thehindu.com/news/national/odisha/lucknows-sr-group-of-institutions-signs-five-year-mou-with-sodes-to-strengthen-digital-education-skill-development/article71488600.ece"
-    },
-    {
-      "id": "6fd2bd4f4581",
-      "date": "20 Sep 2026",
-      "iso_date": "2026-09-20T20:05:05+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "High",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "BJD mounts pressure on BJP government over MMDR amendment act seeking special session of assembly",
-      "title_hi": "BJD mounts pressure on BJP government over MMDR amendment act seeking special session of assembly",
-      "summary_en": "Former Odisha CM and BJD supremo Naveen Patnaik penned a letter to Chief Minister Mohan Majhi, saying this amendment effectively stripped Odisha of its constitutional right to levy taxes on its mineral wealth",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Former Odisha CM and BJD supremo Naveen Patnaik penned a letter to Chief Minister Mohan Majhi, saying this संशोधन effectively stripped Odisha of its constitutional right to levy taxes on its mineral wealth",
-      "analysis_hi": "संदर्भ: Former Odisha CM and BJD supremo Naveen Patnaik penned a letter to Chief Minister Mohan Majhi, saying this amendment effectively stripped Odisha of its constitutional right to levy taxes on its mineral wealth...\n\nप्रमुख बिंदु:\n• Former Odisha CM and BJD supremo Naveen Patnaik penned a letter to Chief Minister Mohan Majhi, saying this amendment effectively stripped Odisha of its constitutional right to levy taxes on its mineral wealth\n",
-      "analysis_en": "Reference: Former Odisha CM and BJD supremo Naveen Patnaik penned a letter to Chief Minister Mohan Majhi, saying this amendment effectively stripped Odisha of its constitutional right to levy taxes on its mineral wealth...\n\nKey Points:\n• Former Odisha CM and BJD supremo Naveen Patnaik penned a letter to Chief Minister Mohan Majhi, saying this amendment effectively stripped Odisha of its constitutional right to levy taxes on its mineral wealth\n",
-      "link": "https://www.thehindu.com/news/national/odisha/bjd-mounts-pressure-on-bjp-government-over-mmdr-amendment-act-seeking-special-session-of-assembly/article71488059.ece"
-    },
-    {
-      "id": "49f0acba2c67",
-      "date": "20 Sep 2026",
-      "iso_date": "2026-09-20T19:44:03+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "‘Stop Vizag Data Centers’ Instagram account blocked in India",
-      "title_hi": "‘Stop Vizag Data Centers’ Instagram account blocked in India",
-      "summary_en": "‘Stop Vizag Data Centers’ Instagram account blocked in India",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ‘Stop Vizag Data Centers’ Instagram account blocked in India",
-      "analysis_hi": "संदर्भ: ‘Stop Vizag Data Centers’ Instagram account blocked in India...\n\nप्रमुख बिंदु:\n• ‘Stop Vizag Data Centers’ Instagram account blocked in India\n",
-      "analysis_en": "Reference: ‘Stop Vizag Data Centers’ Instagram account blocked in India...\n\nKey Points:\n• ‘Stop Vizag Data Centers’ Instagram account blocked in India\n",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece"
-    },
-    {
-      "id": "ec81350a061e",
-      "date": "20 Sep 2026",
-      "iso_date": "2026-09-20T19:40:32+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Once described as BIMARU, U.P. transformed as country’s growth engine, says CM Yogi",
-      "title_hi": "Once described as BIMARU, U.P. transformed as country’s growth engine, says CM Yogi",
-      "summary_en": "Yogi Adityanath said that the State government has prioritized women in its schemes, stating, ‘in Uttar Pradesh, 54,000 Banking Correspondent Sakhis are providing banking services in villages’",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Yogi Adityanath said that the State सरकार has prioritized women in its schemes, stating, ‘in Uttar Pradesh, 54,000 Banking Correspondent Sakhis are providing banking services in villages’",
-      "analysis_hi": "संदर्भ: Yogi Adityanath said that the State government has prioritized women in its schemes, stating, ‘in Uttar Pradesh, 54,000 Banking Correspondent Sakhis are providing banking services in villages’...\n\nप्रमुख बिंदु:\n• Yogi Adityanath said that the State government has prioritized women in its schemes, stating, ‘in Uttar Pradesh, 54,000 Banking Correspondent Sakhis are providing banking services in villages’\n",
-      "analysis_en": "Reference: Yogi Adityanath said that the State government has prioritized women in its schemes, stating, ‘in Uttar Pradesh, 54,000 Banking Correspondent Sakhis are providing banking services in villages’...\n\nKey Points:\n• Yogi Adityanath said that the State government has prioritized women in its schemes, stating, ‘in Uttar Pradesh, 54,000 Banking Correspondent Sakhis are providing banking services in villages’\n",
-      "link": "https://www.thehindu.com/news/national/uttar-pradesh/once-described-as-bimaru-up-transformed-as-countrys-growth-engine-says-cm-yogi/article71488822.ece"
-    },
-    {
-      "id": "c1579720e457",
-      "date": "20 Sep 2026",
-      "iso_date": "2026-09-20T19:20:45+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "High",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Missing measure in India’s magnet mission",
-      "title_hi": "Missing measure in India’s magnet mission",
-      "summary_en": "The strategic question is not simply whether India possesses rare-earth resources or whether imports from China can be reduced. The real policy challenge is understanding what happens in between",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The strategic question is not simply whether India possesses rare-earth resources or whether imports from China can be reduced. The real नीति challenge is understanding what happens in between",
-      "analysis_hi": "संदर्भ: The strategic question is not simply whether India possesses rare-earth resources or whether imports from China can be reduced. The real policy challenge is understanding what happens in between...\n\nप्रमुख बिंदु:\n• The strategic question is not simply whether India possesses rare-earth resources or whether imports from China can be reduced\n• The real policy challenge is understanding what happens in between\n",
-      "analysis_en": "Reference: The strategic question is not simply whether India possesses rare-earth resources or whether imports from China can be reduced. The real policy challenge is understanding what happens in between...\n\nKey Points:\n• The strategic question is not simply whether India possesses rare-earth resources or whether imports from China can be reduced\n• The real policy challenge is understanding what happens in between\n",
-      "link": "https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece"
-    },
-    {
-      "id": "6a86da5a8aae",
-      "date": "20 Sep 2026",
-      "iso_date": "2026-09-20T19:17:29+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "SIR: As against 80.62 lakh shifted, absent names, only 6.66 lakh Form-6 applications",
-      "title_hi": "SIR: As against 80.62 lakh shifted, absent names, only 6.66 lakh Form-6 applications",
-      "summary_en": "When The Hindu spoke to several voters who had been marked as absent or shifted, many said they did not know about the deadline, September 23, or how to fill the form.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। When The Hindu spoke to several voters who had been marked as absent or shifted, many said they did not know about the deadline, September 23, or how to fill the form.",
-      "analysis_hi": "संदर्भ: When The Hindu spoke to several voters who had been marked as absent or shifted, many said they did not know about the deadline, September 23, or how to fill the form....\n\nप्रमुख बिंदु:\n• When The Hindu spoke to several voters who had been marked as absent or shifted, many said they did not know about the deadline, September 23, or how to fill the form.\n",
-      "analysis_en": "Reference: When The Hindu spoke to several voters who had been marked as absent or shifted, many said they did not know about the deadline, September 23, or how to fill the form....\n\nKey Points:\n• When The Hindu spoke to several voters who had been marked as absent or shifted, many said they did not know about the deadline, September 23, or how to fill the form.\n",
-      "link": "https://www.thehindu.com/news/cities/bangalore/sir-against-8062-lakh-shifted-absent-names-only-666-lakh-form-6-applications/article71488325.ece"
-    },
-    {
-      "id": "ca3fade5a1a0",
-      "date": "20 Sep 2026",
-      "iso_date": "2026-09-20T19:17:17+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Overnight rain brings temperatures down in Bengaluru; KIA weather station records 94.2 mm",
-      "title_hi": "Overnight rain brings temperatures down in Bengaluru; KIA weather station records 94.2 mm",
-      "summary_en": "The rainfall brought down the temperature by a few degrees Celsius which had been hovering above 30°C for the last couple of weeks.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The rainfall brought down the temperature by a few degrees Celsius which had been hovering above 30°C for the last couple of weeks.",
-      "analysis_hi": "संदर्भ: The rainfall brought down the temperature by a few degrees Celsius which had been hovering above 30°C for the last couple of weeks....\n\nप्रमुख बिंदु:\n• The rainfall brought down the temperature by a few degrees Celsius which had been hovering above 30°C for the last couple of weeks.\n",
-      "analysis_en": "Reference: The rainfall brought down the temperature by a few degrees Celsius which had been hovering above 30°C for the last couple of weeks....\n\nKey Points:\n• The rainfall brought down the temperature by a few degrees Celsius which had been hovering above 30°C for the last couple of weeks.\n",
-      "link": "https://www.thehindu.com/news/cities/bangalore/overnight-rain-bring-temperatures-down-in-bengaluru-kia-records-942-mm/article71487287.ece"
-    },
-    {
-      "id": "f831741aafac",
-      "date": "20 Sep 2026",
-      "iso_date": "2026-09-20T19:17:01+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Panathur Railway Underbridge submerged after rain, commuters struggle through hip-deep water",
-      "title_hi": "Panathur Railway Underbridge submerged after rain, commuters struggle through hip-deep water",
-      "summary_en": "Panathur RuB is a key connecting link between Gunjur, Varthur, and the ORR; several techies and employees of private companies on the ORR use the RuB regularly.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Panathur RuB is a key connecting link between Gunjur, Varthur, and the ORR; several techies and employees of private companies on the ORR use the RuB regularly.",
-      "analysis_hi": "संदर्भ: Panathur RuB is a key connecting link between Gunjur, Varthur, and the ORR; several techies and employees of private companies on the ORR use the RuB regularly....\n\nप्रमुख बिंदु:\n• Panathur RuB is a key connecting link between Gunjur, Varthur, and the ORR; several techies and employees of private companies on the ORR use the RuB regularly.\n",
-      "analysis_en": "Reference: Panathur RuB is a key connecting link between Gunjur, Varthur, and the ORR; several techies and employees of private companies on the ORR use the RuB regularly....\n\nKey Points:\n• Panathur RuB is a key connecting link between Gunjur, Varthur, and the ORR; several techies and employees of private companies on the ORR use the RuB regularly.\n",
-      "link": "https://www.thehindu.com/news/cities/bangalore/panathur-railway-underbridge-submerged-after-rain-commuters-struggle-through-hip-deep-water/article71488104.ece"
-    },
-    {
-      "id": "01f6624c7f14",
-      "date": "20 Sep 2026",
-      "iso_date": "2026-09-20T19:13:45+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Boating to boost tourism at Peruvannamuzhi",
-      "title_hi": "Boating to boost tourism at Peruvannamuzhi",
-      "summary_en": "District administration decides to resume boating services at the Peruvannamuzhi reservoir and introduce a new boating service at Thonikadavu. Solar-powered boats to be used to minimise pollution.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। District administration decides to resume boating services at the Peruvannamuzhi reservoir and introduce a new boating service at Thonikadavu. Solar-powered boats to be used to minimise pollution.",
-      "analysis_hi": "संदर्भ: District administration decides to resume boating services at the Peruvannamuzhi reservoir and introduce a new boating service at Thonikadavu. Solar-powered boats to be used to minimise pollution....\n\nप्रमुख बिंदु:\n• District administration decides to resume boating services at the Peruvannamuzhi reservoir and introduce a new boating service at Thonikadavu\n• Solar-powered boats to be used to minimise pollution.\n",
-      "analysis_en": "Reference: District administration decides to resume boating services at the Peruvannamuzhi reservoir and introduce a new boating service at Thonikadavu. Solar-powered boats to be used to minimise pollution....\n\nKey Points:\n• District administration decides to resume boating services at the Peruvannamuzhi reservoir and introduce a new boating service at Thonikadavu\n• Solar-powered boats to be used to minimise pollution.\n",
-      "link": "https://www.thehindu.com/news/national/kerala/boating-to-boost-tourism-at-peruvannamuzhi/article71487538.ece"
-    },
-    {
-      "id": "26106c880340",
-      "date": "20 Sep 2026",
-      "iso_date": "2026-09-20T19:11:10+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Human skull recovered from waste heap in Kozhikode",
-      "title_hi": "Human skull recovered from waste heap in Kozhikode",
-      "summary_en": "The skull is believed to be that of a person who died one to two years ago. Forensic and DNA tests will be done to establish the identity of the deceased, say police",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The skull is believed to be that of a person who died one to two years ago. Forensic and DNA tests will be done to establish the identity of the deceased, say police",
-      "analysis_hi": "संदर्भ: The skull is believed to be that of a person who died one to two years ago. Forensic and DNA tests will be done to establish the identity of the deceased, say police...\n\nप्रमुख बिंदु:\n• The skull is believed to be that of a person who died one to two years ago\n• Forensic and DNA tests will be done to establish the identity of the deceased, say police\n",
-      "analysis_en": "Reference: The skull is believed to be that of a person who died one to two years ago. Forensic and DNA tests will be done to establish the identity of the deceased, say police...\n\nKey Points:\n• The skull is believed to be that of a person who died one to two years ago\n• Forensic and DNA tests will be done to establish the identity of the deceased, say police\n",
-      "link": "https://www.thehindu.com/news/national/kerala/human-skull-recovered-from-waste-heap-in-kozhikode/article71487663.ece"
     }
   ]
 }
