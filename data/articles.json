@@ -1,8 +1,206 @@
 {
-  "last_updated": "2026-10-01T06:13:16.189235+00:00",
-  "last_updated_ist": "01 October 2026, 11:43 AM IST",
+  "last_updated": "2026-10-01T06:20:56.553534+00:00",
+  "last_updated_ist": "01 October 2026, 11:50 AM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "af2a21937075",
+      "date": "01 Oct 2026",
+      "iso_date": "2026-10-01T06:14:00+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Productive discussion with USTR Greer on early conclusion of trade deal: Goyal",
+      "title_hi": "Productive discussion with USTR Greer on early conclusion of trade deal: Goyal",
+      "summary_en": "The meeting came on a day when Prime Minister Narendra Modi and US President Donald Trump held a telephone conversation to review progress in bilateral cooperation",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The meeting came on a day when प्रधानमंत्री Narendra Modi and US राष्ट्रपति Donald Trump held a telephone conversation to review progress in द्विपक्षीय cooperation",
+      "analysis_hi": "संदर्भ: The meeting came on a day when Prime Minister Narendra Modi and US President Donald Trump held a telephone conversation to review progress in bilateral cooperation...\n\nप्रमुख बिंदु:\n• The meeting came on a day when Prime Minister Narendra Modi and US President Donald Trump held a telephone conversation to review progress in bilateral cooperation\n",
+      "analysis_en": "Reference: The meeting came on a day when Prime Minister Narendra Modi and US President Donald Trump held a telephone conversation to review progress in bilateral cooperation...\n\nKey Points:\n• The meeting came on a day when Prime Minister Narendra Modi and US President Donald Trump held a telephone conversation to review progress in bilateral cooperation\n",
+      "link": "https://www.thehindu.com/business/Economy/productive-discussion-with-ustr-greer-on-early-conclusion-of-trade-deal-goyal/article71531414.ece"
+    },
+    {
+      "id": "1efcb6fe684e",
+      "date": "01 Oct 2026",
+      "iso_date": "2026-10-01T06:12:47+00:00",
+      "category": "social",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-1",
+        "GS-2"
+      ],
+      "subjects": [
+        "Social Issues"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-1: Population and associated issues",
+        "GS-2: Issues relating to development and management of Social Sector/Services"
+      ],
+      "title_en": "Conundrum over demography panel’s questionnaire seeking extensive data | Explained",
+      "title_hi": "Conundrum over demography panel’s questionnaire seeking extensive data | Explained",
+      "summary_en": "The HLCDC, headed by retired Supreme Court judge Prakash Prabhakar Naolekar, was constituted by the Ministry of Home Affairs on May 26 to study demographic changes arising from illegal immigration and other ‘abnormal’ reasons and recommend measures to address them; the committee’s terms of reference also require it to recommend an appropriate institutional mechanism for ‘population stabilisation’",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The HLCDC, headed by retired सुप्रीम कोर्ट judge Prakash Prabhakar Naolekar, was constituted by the Ministry of Home Affairs on May 26 to study demographic changes arising from illegal immigration and other ‘abnormal’ reasons and recommend measures to address them; the committee’s terms of reference also require it to recommend an appropriate institutional mechanism for ‘population stabilisation’",
+      "analysis_hi": "संदर्भ: The HLCDC, headed by retired Supreme Court judge Prakash Prabhakar Naolekar, was constituted by the Ministry of Home Affairs on May 26 to study demographic changes arising from illegal immigration and other ‘abnormal’ reasons and recommend measures to address them; the committee’s terms of reference...\n\nप्रमुख बिंदु:\n• The HLCDC, headed by retired Supreme Court judge Prakash Prabhakar Naolekar, was constituted by the Ministry of Home Affairs on May 26 to study demographic changes arising from illegal immigration and other ‘abnormal’ reasons and recommend measures to address them; the committee’s terms of reference also require it to recommend an appropriate institutional mechanism for ‘population stabilisation’\n",
+      "analysis_en": "Reference: The HLCDC, headed by retired Supreme Court judge Prakash Prabhakar Naolekar, was constituted by the Ministry of Home Affairs on May 26 to study demographic changes arising from illegal immigration and other ‘abnormal’ reasons and recommend measures to address them; the committee’s terms of reference...\n\nKey Points:\n• The HLCDC, headed by retired Supreme Court judge Prakash Prabhakar Naolekar, was constituted by the Ministry of Home Affairs on May 26 to study demographic changes arising from illegal immigration and other ‘abnormal’ reasons and recommend measures to address them; the committee’s terms of reference also require it to recommend an appropriate institutional mechanism for ‘population stabilisation’\n",
+      "link": "https://www.thehindu.com/news/national/conundrum-over-panels-questionnaire-seeking-extensive-data-on-demographic-changes-explained/article71523595.ece"
+    },
+    {
+      "id": "d564b3e1c801",
+      "date": "01 Oct 2026",
+      "iso_date": "2026-10-01T06:12:26+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Amravati hospital fire: CCTV footage reveals fire alarm rang three times",
+      "title_hi": "Amravati hospital fire: CCTV footage reveals fire alarm rang three times",
+      "summary_en": "The CCTV footage shows staff either asleep or absent from the ward as the alarms sounded and red warning lights flashed in the wee hours of August 24",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The CCTV footage shows staff either asleep or absent from the ward as the alarms sounded and red warning lights flashed in the wee hours of August 24",
+      "analysis_hi": "संदर्भ: The CCTV footage shows staff either asleep or absent from the ward as the alarms sounded and red warning lights flashed in the wee hours of August 24...\n\nप्रमुख बिंदु:\n• The CCTV footage shows staff either asleep or absent from the ward as the alarms sounded and red warning lights flashed in the wee hours of August 24\n",
+      "analysis_en": "Reference: The CCTV footage shows staff either asleep or absent from the ward as the alarms sounded and red warning lights flashed in the wee hours of August 24...\n\nKey Points:\n• The CCTV footage shows staff either asleep or absent from the ward as the alarms sounded and red warning lights flashed in the wee hours of August 24\n",
+      "link": "https://www.thehindu.com/news/national/maharashtra/amravati-hospital-fire-cctv-footage-shows-three-fire-alarms-staff-absent-and-alleged-lapses/article71529598.ece"
+    },
+    {
+      "id": "0d417eb04f13",
+      "date": "01 Oct 2026",
+      "iso_date": "2026-10-01T06:12:13+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Madras High Court refuses to reject election petition filed against Esakki Subaya’s Ambasamudram win",
+      "title_hi": "Madras High Court refuses to reject election petition filed against Esakki Subaya’s Ambasamudram win",
+      "summary_en": "Justice P.B. Balaji dismisses an application filed by the resigned MLA, who had shifted allegiance from AIADMK to TVK, to reject the election petition filed by a voter",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Justice P.B. Balaji dismisses an application filed by the resigned MLA, who had shifted allegiance from AIADMK to TVK, to reject the चुनाव petition filed by a voter",
+      "analysis_hi": "संदर्भ: Justice P.B. Balaji dismisses an application filed by the resigned MLA, who had shifted allegiance from AIADMK to TVK, to reject the election petition filed by a voter...\n\nप्रमुख बिंदु:\n• Balaji dismisses an application filed by the resigned MLA, who had shifted allegiance from AIADMK to TVK, to reject the election petition filed by a voter\n",
+      "analysis_en": "Reference: Justice P.B. Balaji dismisses an application filed by the resigned MLA, who had shifted allegiance from AIADMK to TVK, to reject the election petition filed by a voter...\n\nKey Points:\n• Balaji dismisses an application filed by the resigned MLA, who had shifted allegiance from AIADMK to TVK, to reject the election petition filed by a voter\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-reject-election-petition-filed-against-esakki-subayas-ambasamudram-win/article71531436.ece"
+    },
+    {
+      "id": "78dd80e2c06a",
+      "date": "01 Oct 2026",
+      "iso_date": "2026-10-01T06:09:16+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "CM Vijay positions TVK as organic successor to AIADMK, justifies Dharapuram candidate’s party switchover",
+      "title_hi": "CM Vijay positions TVK as organic successor to AIADMK, justifies Dharapuram candidate’s party switchover",
+      "summary_en": "Vijay addresses bypoll campaign meeting in Dharapuram; extols the leadership acumen of late Chief Ministers Jayalalithaa and M.G. Ramachandran in handling arch-rival DMK",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Vijay addresses bypoll campaign meeting in Dharapuram; extols the leadership acumen of late Chief Ministers Jayalalithaa and M.G. Ramachandran in handling arch-rival DMK",
+      "analysis_hi": "संदर्भ: Vijay addresses bypoll campaign meeting in Dharapuram; extols the leadership acumen of late Chief Ministers Jayalalithaa and M.G. Ramachandran in handling arch-rival DMK...\n\nप्रमुख बिंदु:\n• Vijay addresses bypoll campaign meeting in Dharapuram; extols the leadership acumen of late Chief Ministers Jayalalithaa and M.G\n• Ramachandran in handling arch-rival DMK\n",
+      "analysis_en": "Reference: Vijay addresses bypoll campaign meeting in Dharapuram; extols the leadership acumen of late Chief Ministers Jayalalithaa and M.G. Ramachandran in handling arch-rival DMK...\n\nKey Points:\n• Vijay addresses bypoll campaign meeting in Dharapuram; extols the leadership acumen of late Chief Ministers Jayalalithaa and M.G\n• Ramachandran in handling arch-rival DMK\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-positions-tvk-as-organic-successor-to-aiadmk-justifies-dharapuram-candidates-party-switchover/article71529345.ece"
+    },
+    {
+      "id": "0ebbcd23643c",
+      "date": "01 Oct 2026",
+      "iso_date": "2026-10-01T06:04:38+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "SIR: Filled Form-7 targeting Muslim voters surface in Belagavi; BLOs allege they were pressured to sign",
+      "title_hi": "SIR: Filled Form-7 targeting Muslim voters surface in Belagavi; BLOs allege they were pressured to sign",
+      "summary_en": "BLOs allege they were pressured to sign, and say that two men, claiming to be from the Belagavi City Corporation, brought a bulk of Form-7 applications seeking deletion of only Muslim names.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। BLOs allege they were pressured to sign, and say that two men, claiming to be from the Belagavi City Corporation, brought a bulk of Form-7 applications seeking deletion of only Muslim names.",
+      "analysis_hi": "संदर्भ: BLOs allege they were pressured to sign, and say that two men, claiming to be from the Belagavi City Corporation, brought a bulk of Form-7 applications seeking deletion of only Muslim names....\n\nप्रमुख बिंदु:\n• BLOs allege they were pressured to sign, and say that two men, claiming to be from the Belagavi City Corporation, brought a bulk of Form-7 applications seeking deletion of only Muslim names.\n",
+      "analysis_en": "Reference: BLOs allege they were pressured to sign, and say that two men, claiming to be from the Belagavi City Corporation, brought a bulk of Form-7 applications seeking deletion of only Muslim names....\n\nKey Points:\n• BLOs allege they were pressured to sign, and say that two men, claiming to be from the Belagavi City Corporation, brought a bulk of Form-7 applications seeking deletion of only Muslim names.\n",
+      "link": "https://www.thehindu.com/news/cities/bangalore/sir-filled-form-7-targeting-muslim-voters-surface-in-belagavi-blos-allege-they-were-pressured-to-sign/article71529328.ece"
+    },
+    {
+      "id": "b619b4dda324",
+      "date": "01 Oct 2026",
+      "iso_date": "2026-10-01T05:52:01+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Thrissur fireworks accident site contaminated with toxic metals, raises health concerns",
+      "title_hi": "Thrissur fireworks accident site contaminated with toxic metals, raises health concerns",
+      "summary_en": "Heavy metals above permissible limits found; contaminated topsoil recommended for removal amid fears of water contamination",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Heavy metals above permissible limits found; contaminated topsoil recommended for removal amid fears of water contamination",
+      "analysis_hi": "संदर्भ: Heavy metals above permissible limits found; contaminated topsoil recommended for removal amid fears of water contamination...\n\nप्रमुख बिंदु:\n• Heavy metals above permissible limits found; contaminated topsoil recommended for removal amid fears of water contamination\n",
+      "analysis_en": "Reference: Heavy metals above permissible limits found; contaminated topsoil recommended for removal amid fears of water contamination...\n\nKey Points:\n• Heavy metals above permissible limits found; contaminated topsoil recommended for removal amid fears of water contamination\n",
+      "link": "https://www.thehindu.com/news/national/kerala/mundathikode-fireworks-accident-site-turns-toxic-hotspot/article71528981.ece"
+    },
     {
       "id": "721c2587c50f",
       "date": "01 Oct 2026",
@@ -370,176 +568,6 @@
       "analysis_hi": "संदर्भ: Youth Congress and SFI activists have blamed each other for triggering the violence by throwing stones and bottles...\n\nप्रमुख बिंदु:\n• Youth Congress and SFI activists have blamed each other for triggering the violence by throwing stones and bottles\n",
       "analysis_en": "Reference: Youth Congress and SFI activists have blamed each other for triggering the violence by throwing stones and bottles...\n\nKey Points:\n• Youth Congress and SFI activists have blamed each other for triggering the violence by throwing stones and bottles\n",
       "link": "https://www.thehindu.com/news/national/kerala/youth-congress-sfi-clashes-police-register-non-bailable-case-sfi-calls-state-wide-protests-in-keralam/article71531435.ece"
-    },
-    {
-      "id": "af2a21937075",
-      "date": "01 Oct 2026",
-      "iso_date": "2026-10-01T04:39:46+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Productive discussion with USTR Greer on early conclusion of trade deal: Goyal",
-      "title_hi": "Productive discussion with USTR Greer on early conclusion of trade deal: Goyal",
-      "summary_en": "The meeting came on a day when Prime Minister Narendra Modi and US President Donald Trump held a telephone conversation to review progress in bilateral cooperation",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The meeting came on a day when प्रधानमंत्री Narendra Modi and US राष्ट्रपति Donald Trump held a telephone conversation to review progress in द्विपक्षीय cooperation",
-      "analysis_hi": "संदर्भ: The meeting came on a day when Prime Minister Narendra Modi and US President Donald Trump held a telephone conversation to review progress in bilateral cooperation...\n\nप्रमुख बिंदु:\n• The meeting came on a day when Prime Minister Narendra Modi and US President Donald Trump held a telephone conversation to review progress in bilateral cooperation\n",
-      "analysis_en": "Reference: The meeting came on a day when Prime Minister Narendra Modi and US President Donald Trump held a telephone conversation to review progress in bilateral cooperation...\n\nKey Points:\n• The meeting came on a day when Prime Minister Narendra Modi and US President Donald Trump held a telephone conversation to review progress in bilateral cooperation\n",
-      "link": "https://www.thehindu.com/business/Economy/productive-discussion-with-ustr-greer-on-early-conclusion-of-trade-deal-goyal/article71531414.ece"
-    },
-    {
-      "id": "0ebbcd23643c",
-      "date": "01 Oct 2026",
-      "iso_date": "2026-10-01T04:14:54+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "SIR: Filled Form-7 targeting Muslim voters surface in Belagavi; BLOs allege they were pressured to sign",
-      "title_hi": "SIR: Filled Form-7 targeting Muslim voters surface in Belagavi; BLOs allege they were pressured to sign",
-      "summary_en": "BLOs allege they were pressured to sign, and say that two men, claiming to be from the Belagavi City Corporation, brought a bulk of Form-7 applications seeking deletion of only Muslim names.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। BLOs allege they were pressured to sign, and say that two men, claiming to be from the Belagavi City Corporation, brought a bulk of Form-7 applications seeking deletion of only Muslim names.",
-      "analysis_hi": "संदर्भ: BLOs allege they were pressured to sign, and say that two men, claiming to be from the Belagavi City Corporation, brought a bulk of Form-7 applications seeking deletion of only Muslim names....\n\nप्रमुख बिंदु:\n• BLOs allege they were pressured to sign, and say that two men, claiming to be from the Belagavi City Corporation, brought a bulk of Form-7 applications seeking deletion of only Muslim names.\n",
-      "analysis_en": "Reference: BLOs allege they were pressured to sign, and say that two men, claiming to be from the Belagavi City Corporation, brought a bulk of Form-7 applications seeking deletion of only Muslim names....\n\nKey Points:\n• BLOs allege they were pressured to sign, and say that two men, claiming to be from the Belagavi City Corporation, brought a bulk of Form-7 applications seeking deletion of only Muslim names.\n",
-      "link": "https://www.thehindu.com/news/cities/bangalore/sir-filled-form-7-targeting-muslim-voters-surface-in-belagavi-blos-allege-they-were-pressured-to-sign/article71529328.ece"
-    },
-    {
-      "id": "6271b926f6cc",
-      "date": "01 Oct 2026",
-      "iso_date": "2026-10-01T04:14:15+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "18th IDSFFK ends without screening “banned” competition films",
-      "title_hi": "18th IDSFFK ends without screening “banned” competition films",
-      "summary_en": "18th IDSFFK ends without screening “banned” competition films",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। 18th IDSFFK ends without screening “banned” competition films",
-      "analysis_hi": "संदर्भ: 18th IDSFFK ends without screening “banned” competition films...\n\nप्रमुख बिंदु:\n• 18th IDSFFK ends without screening “banned” competition films\n",
-      "analysis_en": "Reference: 18th IDSFFK ends without screening “banned” competition films...\n\nKey Points:\n• 18th IDSFFK ends without screening “banned” competition films\n",
-      "link": "https://www.thehindu.com/news/national/kerala/18th-idsffk-ends-without-screening-banned-competition-films/article71529790.ece"
-    },
-    {
-      "id": "afa00c17dccf",
-      "date": "01 Oct 2026",
-      "iso_date": "2026-10-01T03:56:59+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Farmers complain of dry spell induced crop loss in excluded talukas from drought GR",
-      "title_hi": "Farmers complain of dry spell induced crop loss in excluded talukas from drought GR",
-      "summary_en": "Farmers in the talukas of Nanded district said they have suffered losses, but because of faulty weather stations, they were left off the list and did not receive any help",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Farmers in the talukas of Nanded district said they have suffered losses, but because of faulty weather stations, they were left off the list and did not receive any help",
-      "analysis_hi": "संदर्भ: Farmers in the talukas of Nanded district said they have suffered losses, but because of faulty weather stations, they were left off the list and did not receive any help...\n\nप्रमुख बिंदु:\n• Farmers in the talukas of Nanded district said they have suffered losses, but because of faulty weather stations, they were left off the list and did not receive any help\n",
-      "analysis_en": "Reference: Farmers in the talukas of Nanded district said they have suffered losses, but because of faulty weather stations, they were left off the list and did not receive any help...\n\nKey Points:\n• Farmers in the talukas of Nanded district said they have suffered losses, but because of faulty weather stations, they were left off the list and did not receive any help\n",
-      "link": "https://www.thehindu.com/news/national/maharashtra/farmers-complain-of-dry-spell-induced-crop-loss-in-excluded-talukas-from-drought-gr/article71529670.ece"
-    },
-    {
-      "id": "c4f91658621b",
-      "date": "01 Oct 2026",
-      "iso_date": "2026-10-01T03:30:52+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Lean arrivals push up tomato prices in Andhra Pradesh ahead of festive season",
-      "title_hi": "Lean arrivals push up tomato prices in Andhra Pradesh ahead of festive season",
-      "summary_en": "Madanapalle, Asia’s largest tomato market, gets 62 tonnes on Wednesday against up to 1,300 tonnes a day in the peak season; traders expect demand for Dasara and Diwali to keep prices high",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Madanapalle, Asia’s largest tomato market, gets 62 tonnes on Wednesday against up to 1,300 tonnes a day in the peak season; traders expect demand for Dasara and Diwali to keep prices high",
-      "analysis_hi": "संदर्भ: Madanapalle, Asia’s largest tomato market, gets 62 tonnes on Wednesday against up to 1,300 tonnes a day in the peak season; traders expect demand for Dasara and Diwali to keep prices high...\n\nप्रमुख बिंदु:\n• Madanapalle, Asia’s largest tomato market, gets 62 tonnes on Wednesday against up to 1,300 tonnes a day in the peak season; traders expect demand for Dasara and Diwali to keep prices high\n",
-      "analysis_en": "Reference: Madanapalle, Asia’s largest tomato market, gets 62 tonnes on Wednesday against up to 1,300 tonnes a day in the peak season; traders expect demand for Dasara and Diwali to keep prices high...\n\nKey Points:\n• Madanapalle, Asia’s largest tomato market, gets 62 tonnes on Wednesday against up to 1,300 tonnes a day in the peak season; traders expect demand for Dasara and Diwali to keep prices high\n",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/lean-arrivals-push-up-tomato-prices-in-andhra-pradesh-ahead-of-festive-season/article71528594.ece"
-    },
-    {
-      "id": "96b890f94e51",
-      "date": "01 Oct 2026",
-      "iso_date": "2026-10-01T02:30:36+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Bolarum arms theft accused claims eight others helped him steal the cache",
-      "title_hi": "Bolarum arms theft accused claims eight others helped him steal the cache",
-      "summary_en": "Mallesh allegedly planned to sell the stolen arms and ammunition after the theft. Now police have opened a fresh line of investigation into prospective buyers",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Mallesh allegedly planned to sell the stolen arms and ammunition after the theft. Now police have opened a fresh line of investigation into prospective buyers",
-      "analysis_hi": "संदर्भ: Mallesh allegedly planned to sell the stolen arms and ammunition after the theft. Now police have opened a fresh line of investigation into prospective buyers...\n\nप्रमुख बिंदु:\n• Mallesh allegedly planned to sell the stolen arms and ammunition after the theft\n• Now police have opened a fresh line of investigation into prospective buyers\n",
-      "analysis_en": "Reference: Mallesh allegedly planned to sell the stolen arms and ammunition after the theft. Now police have opened a fresh line of investigation into prospective buyers...\n\nKey Points:\n• Mallesh allegedly planned to sell the stolen arms and ammunition after the theft\n• Now police have opened a fresh line of investigation into prospective buyers\n",
-      "link": "https://www.thehindu.com/news/national/telangana/bolarum-arms-theft-accused-claims-eight-others-helped-him-steal-the-cache/article71530045.ece"
     },
     {
       "id": "7ec0dcc6d4c5",
@@ -1075,6 +1103,119 @@
       "analysis_hi": "संदर्भ: improving manufacturing performance and skilling the workforce would remain critical to sustaining economic growth....\n\nप्रमुख बिंदु:\n• improving manufacturing performance and skilling the workforce would remain critical to sustaining economic growth.\n",
       "analysis_en": "Reference: improving manufacturing performance and skilling the workforce would remain critical to sustaining economic growth....\n\nKey Points:\n• improving manufacturing performance and skilling the workforce would remain critical to sustaining economic growth.\n",
       "link": "https://www.thehindu.com/business/Economy/principal-secretary-to-pm-cautions-banks-against-lending-euphoria-urges-focus-on-project-viability/article71500583.ece"
+    },
+    {
+      "id": "6271b926f6cc",
+      "date": "01 Oct 2026",
+      "iso_date": "2026-10-01T04:14:15+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "18th IDSFFK ends without screening “banned” competition films",
+      "title_hi": "18th IDSFFK ends without screening “banned” competition films",
+      "summary_en": "18th IDSFFK ends without screening “banned” competition films",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। 18th IDSFFK ends without screening “banned” competition films",
+      "analysis_hi": "संदर्भ: 18th IDSFFK ends without screening “banned” competition films...\n\nप्रमुख बिंदु:\n• 18th IDSFFK ends without screening “banned” competition films\n",
+      "analysis_en": "Reference: 18th IDSFFK ends without screening “banned” competition films...\n\nKey Points:\n• 18th IDSFFK ends without screening “banned” competition films\n",
+      "link": "https://www.thehindu.com/news/national/kerala/18th-idsffk-ends-without-screening-banned-competition-films/article71529790.ece"
+    },
+    {
+      "id": "afa00c17dccf",
+      "date": "01 Oct 2026",
+      "iso_date": "2026-10-01T03:56:59+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Farmers complain of dry spell induced crop loss in excluded talukas from drought GR",
+      "title_hi": "Farmers complain of dry spell induced crop loss in excluded talukas from drought GR",
+      "summary_en": "Farmers in the talukas of Nanded district said they have suffered losses, but because of faulty weather stations, they were left off the list and did not receive any help",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Farmers in the talukas of Nanded district said they have suffered losses, but because of faulty weather stations, they were left off the list and did not receive any help",
+      "analysis_hi": "संदर्भ: Farmers in the talukas of Nanded district said they have suffered losses, but because of faulty weather stations, they were left off the list and did not receive any help...\n\nप्रमुख बिंदु:\n• Farmers in the talukas of Nanded district said they have suffered losses, but because of faulty weather stations, they were left off the list and did not receive any help\n",
+      "analysis_en": "Reference: Farmers in the talukas of Nanded district said they have suffered losses, but because of faulty weather stations, they were left off the list and did not receive any help...\n\nKey Points:\n• Farmers in the talukas of Nanded district said they have suffered losses, but because of faulty weather stations, they were left off the list and did not receive any help\n",
+      "link": "https://www.thehindu.com/news/national/maharashtra/farmers-complain-of-dry-spell-induced-crop-loss-in-excluded-talukas-from-drought-gr/article71529670.ece"
+    },
+    {
+      "id": "c4f91658621b",
+      "date": "01 Oct 2026",
+      "iso_date": "2026-10-01T03:30:52+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Lean arrivals push up tomato prices in Andhra Pradesh ahead of festive season",
+      "title_hi": "Lean arrivals push up tomato prices in Andhra Pradesh ahead of festive season",
+      "summary_en": "Madanapalle, Asia’s largest tomato market, gets 62 tonnes on Wednesday against up to 1,300 tonnes a day in the peak season; traders expect demand for Dasara and Diwali to keep prices high",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Madanapalle, Asia’s largest tomato market, gets 62 tonnes on Wednesday against up to 1,300 tonnes a day in the peak season; traders expect demand for Dasara and Diwali to keep prices high",
+      "analysis_hi": "संदर्भ: Madanapalle, Asia’s largest tomato market, gets 62 tonnes on Wednesday against up to 1,300 tonnes a day in the peak season; traders expect demand for Dasara and Diwali to keep prices high...\n\nप्रमुख बिंदु:\n• Madanapalle, Asia’s largest tomato market, gets 62 tonnes on Wednesday against up to 1,300 tonnes a day in the peak season; traders expect demand for Dasara and Diwali to keep prices high\n",
+      "analysis_en": "Reference: Madanapalle, Asia’s largest tomato market, gets 62 tonnes on Wednesday against up to 1,300 tonnes a day in the peak season; traders expect demand for Dasara and Diwali to keep prices high...\n\nKey Points:\n• Madanapalle, Asia’s largest tomato market, gets 62 tonnes on Wednesday against up to 1,300 tonnes a day in the peak season; traders expect demand for Dasara and Diwali to keep prices high\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/lean-arrivals-push-up-tomato-prices-in-andhra-pradesh-ahead-of-festive-season/article71528594.ece"
+    },
+    {
+      "id": "96b890f94e51",
+      "date": "01 Oct 2026",
+      "iso_date": "2026-10-01T02:30:36+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Bolarum arms theft accused claims eight others helped him steal the cache",
+      "title_hi": "Bolarum arms theft accused claims eight others helped him steal the cache",
+      "summary_en": "Mallesh allegedly planned to sell the stolen arms and ammunition after the theft. Now police have opened a fresh line of investigation into prospective buyers",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Mallesh allegedly planned to sell the stolen arms and ammunition after the theft. Now police have opened a fresh line of investigation into prospective buyers",
+      "analysis_hi": "संदर्भ: Mallesh allegedly planned to sell the stolen arms and ammunition after the theft. Now police have opened a fresh line of investigation into prospective buyers...\n\nप्रमुख बिंदु:\n• Mallesh allegedly planned to sell the stolen arms and ammunition after the theft\n• Now police have opened a fresh line of investigation into prospective buyers\n",
+      "analysis_en": "Reference: Mallesh allegedly planned to sell the stolen arms and ammunition after the theft. Now police have opened a fresh line of investigation into prospective buyers...\n\nKey Points:\n• Mallesh allegedly planned to sell the stolen arms and ammunition after the theft\n• Now police have opened a fresh line of investigation into prospective buyers\n",
+      "link": "https://www.thehindu.com/news/national/telangana/bolarum-arms-theft-accused-claims-eight-others-helped-him-steal-the-cache/article71530045.ece"
     },
     {
       "id": "e87e6b414a51",
@@ -5539,150 +5680,6 @@
       "analysis_hi": "संदर्भ: Workers’ energy, enthusiasm show lotus will bloom in State again, says BJP chief after concluding his first visit to west U.P. after taking over as party head; ahead of parleys, Oppn. MPs engage in one-upmanship over who can defeat ruling party...\n\nप्रमुख बिंदु:\n• Workers’ energy, enthusiasm show lotus will bloom in State again, says BJP chief after concluding his first visit to west U.P\n• after taking over as party head; ahead of parleys, Oppn\n• MPs engage in one-upmanship over who can defeat ruling party\n",
       "analysis_en": "Reference: Workers’ energy, enthusiasm show lotus will bloom in State again, says BJP chief after concluding his first visit to west U.P. after taking over as party head; ahead of parleys, Oppn. MPs engage in one-upmanship over who can defeat ruling party...\n\nKey Points:\n• Workers’ energy, enthusiasm show lotus will bloom in State again, says BJP chief after concluding his first visit to west U.P\n• after taking over as party head; ahead of parleys, Oppn\n• MPs engage in one-upmanship over who can defeat ruling party\n",
       "link": "https://www.thehindu.com/news/national/uttar-pradesh/confident-of-a-hat-trick-inupnabin/article71495972.ece"
-    },
-    {
-      "id": "f8090917ad87",
-      "date": "22 Sep 2026",
-      "iso_date": "2026-09-22T19:56:22+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "FACT foundation day observed",
-      "title_hi": "FACT foundation day observed",
-      "summary_en": "Communist Party of India alleges deliberate attempt to glorify C.P. Ramaswamy Iyer",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Communist Party of India alleges deliberate attempt to glorify C.P. Ramaswamy Iyer",
-      "analysis_hi": "संदर्भ: Communist Party of India alleges deliberate attempt to glorify C.P. Ramaswamy Iyer...\n\nप्रमुख बिंदु:\n• Communist Party of India alleges deliberate attempt to glorify C.P\n",
-      "analysis_en": "Reference: Communist Party of India alleges deliberate attempt to glorify C.P. Ramaswamy Iyer...\n\nKey Points:\n• Communist Party of India alleges deliberate attempt to glorify C.P\n",
-      "link": "https://www.thehindu.com/news/national/kerala/fact-foundation-day-observed-cpi-alleges-bid-to-glorify-cp-ramaswamy-iyer/article71496727.ece"
-    },
-    {
-      "id": "c786a4a72a6d",
-      "date": "22 Sep 2026",
-      "iso_date": "2026-09-22T19:53:11+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Probe sought into alleged secrecy over Assembly panel’s visit to Aralam farm",
-      "title_hi": "Probe sought into alleged secrecy over Assembly panel’s visit to Aralam farm",
-      "summary_en": "Adivasi Dalit Munnetta Samithi president Sreeraman Koyyon alleges that the secrecy was intended to block discussions on corruption in the tribal rehabilitation area over the past decade",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Adivasi Dalit Munnetta Samithi राष्ट्रपति Sreeraman Koyyon alleges that the secrecy was intended to block discussions on corruption in the tribal rehabilitation area over the past decade",
-      "analysis_hi": "संदर्भ: Adivasi Dalit Munnetta Samithi president Sreeraman Koyyon alleges that the secrecy was intended to block discussions on corruption in the tribal rehabilitation area over the past decade...\n\nप्रमुख बिंदु:\n• Adivasi Dalit Munnetta Samithi president Sreeraman Koyyon alleges that the secrecy was intended to block discussions on corruption in the tribal rehabilitation area over the past decade\n",
-      "analysis_en": "Reference: Adivasi Dalit Munnetta Samithi president Sreeraman Koyyon alleges that the secrecy was intended to block discussions on corruption in the tribal rehabilitation area over the past decade...\n\nKey Points:\n• Adivasi Dalit Munnetta Samithi president Sreeraman Koyyon alleges that the secrecy was intended to block discussions on corruption in the tribal rehabilitation area over the past decade\n",
-      "link": "https://www.thehindu.com/news/national/kerala/probe-sought-into-alleged-secrecy-over-assembly-panels-visit-to-aralam-farm/article71496466.ece"
-    },
-    {
-      "id": "09d93ff79d0d",
-      "date": "22 Sep 2026",
-      "iso_date": "2026-09-22T19:53:01+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "BJP maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats",
-      "title_hi": "BJP maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats",
-      "summary_en": "BJP maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। BJP maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats",
-      "analysis_hi": "संदर्भ: BJP maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats...\n\nप्रमुख बिंदु:\n• BJP maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats\n",
-      "analysis_en": "Reference: BJP maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats...\n\nKey Points:\n• BJP maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats\n",
-      "link": "https://www.thehindu.com/news/national/rajasthan/bjpmaintains-dominance-in-rajasthan-urban-bodies-by-winning-6-deputy-mayor-seats/article71496437.ece"
-    },
-    {
-      "id": "2d8e975fa836",
-      "date": "22 Sep 2026",
-      "iso_date": "2026-09-22T19:50:54+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Freezing democracy: On the Election Commission of India and West Bengal",
-      "title_hi": "Freezing democracy: On the Election Commission of India and West Bengal",
-      "summary_en": "The Election Commission of India is functioning as a tool of the Bharatiya Janata Party in West Bengal",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The चुनाव Commission of India is functioning as a tool of the Bharatiya Janata Party in West Bengal",
-      "analysis_hi": "संदर्भ: The Election Commission of India is functioning as a tool of the Bharatiya Janata Party in West Bengal...\n\nप्रमुख बिंदु:\n• The Election Commission of India is functioning as a tool of the Bharatiya Janata Party in West Bengal\n",
-      "analysis_en": "Reference: The Election Commission of India is functioning as a tool of the Bharatiya Janata Party in West Bengal...\n\nKey Points:\n• The Election Commission of India is functioning as a tool of the Bharatiya Janata Party in West Bengal\n",
-      "link": "https://www.thehindu.com/opinion/editorial/freezing-democracy-on-the-eci-and-west-bengal/article71495672.ece"
-    },
-    {
-      "id": "b0f406ff43d8",
-      "date": "22 Sep 2026",
-      "iso_date": "2026-09-22T19:50:45+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay",
-      "title_hi": "Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay",
-      "summary_en": "Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay",
-      "analysis_hi": "संदर्भ: Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay...\n\nप्रमुख बिंदु:\n• Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay\n",
-      "analysis_en": "Reference: Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay...\n\nKey Points:\n• Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay\n",
-      "link": "https://www.thehindu.com/news/national/haryana/haryana-police-use-water-cannons-tear-gas-to-disperse-farmers-protesting-paddy-procurement-delay/article71496152.ece"
     }
   ]
 }
