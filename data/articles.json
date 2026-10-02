@@ -1,8 +1,65 @@
 {
-  "last_updated": "2026-10-02T05:55:53.305613+00:00",
-  "last_updated_ist": "02 October 2026, 11:25 AM IST",
+  "last_updated": "2026-10-02T05:59:19.360092+00:00",
+  "last_updated_ist": "02 October 2026, 11:29 AM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "e414e53c0b5c",
+      "date": "02 Oct 2026",
+      "iso_date": "2026-10-02T05:52:08+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Internet suspended around Delhi's Jantar Mantar ahead of protest against CEC Gyanesh Kumar; Dipke warns of nationwide unrest | LIVE",
+      "title_hi": "Internet suspended around Delhi's Jantar Mantar ahead of protest against CEC Gyanesh Kumar; Dipke warns of nationwide unrest | LIVE",
+      "summary_en": "AAP's Saurabh Bharadwaj detained from Jantar Mantar",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। AAP's Saurabh Bharadwaj detained from Jantar Mantar",
+      "analysis_hi": "संदर्भ: AAP's Saurabh Bharadwaj detained from Jantar Mantar...\n\nप्रमुख बिंदु:\n• AAP's Saurabh Bharadwaj detained from Jantar Mantar\n",
+      "analysis_en": "Reference: AAP's Saurabh Bharadwaj detained from Jantar Mantar...\n\nKey Points:\n• AAP's Saurabh Bharadwaj detained from Jantar Mantar\n",
+      "link": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-row-cjp-opposition-parties-to-organise-separate-protests-live-updates-october-2-2026/article71535655.ece"
+    },
+    {
+      "id": "3441021f061e",
+      "date": "02 Oct 2026",
+      "iso_date": "2026-10-02T05:51:57+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Rajiv Gandhi assassination case convict A.G. Perarivalan moves Madras HC seeking passport issuance",
+      "title_hi": "Rajiv Gandhi assassination case convict A.G. Perarivalan moves Madras HC seeking passport issuance",
+      "summary_en": "Justice D. Bharatha Chakravarthy directs passport authorities to consider his plea for expeditious disposal of his application",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Justice D. Bharatha Chakravarthy directs passport authorities to consider his plea for expeditious disposal of his application",
+      "analysis_hi": "संदर्भ: Justice D. Bharatha Chakravarthy directs passport authorities to consider his plea for expeditious disposal of his application...\n\nप्रमुख बिंदु:\n• Bharatha Chakravarthy directs passport authorities to consider his plea for expeditious disposal of his application\n",
+      "analysis_en": "Reference: Justice D. Bharatha Chakravarthy directs passport authorities to consider his plea for expeditious disposal of his application...\n\nKey Points:\n• Bharatha Chakravarthy directs passport authorities to consider his plea for expeditious disposal of his application\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/rajiv-gandhi-assassination-case-convict-ag-perarivalan-moves-madras-hc-seeking-passport-issuance/article71535712.ece"
+    },
     {
       "id": "ddb4e743aa4a",
       "date": "02 Oct 2026",
@@ -199,34 +256,6 @@
       "analysis_hi": "संदर्भ: The ECI letter suggested that the BLOs may cover at least 20-25 electors in a week so as to complete this exercise within a period of about one month...\n\nप्रमुख बिंदु:\n• The ECI letter suggested that the BLOs may cover at least 20-25 electors in a week so as to complete this exercise within a period of about one month\n",
       "analysis_en": "Reference: The ECI letter suggested that the BLOs may cover at least 20-25 electors in a week so as to complete this exercise within a period of about one month...\n\nKey Points:\n• The ECI letter suggested that the BLOs may cover at least 20-25 electors in a week so as to complete this exercise within a period of about one month\n",
       "link": "https://www.thehindu.com/news/national/sir-eci-asks-blos-to-revisit-deleted-list-ensure-those-eligible-but-left-out-are-re-enrolled-within-a-month/article71535882.ece"
-    },
-    {
-      "id": "e414e53c0b5c",
-      "date": "02 Oct 2026",
-      "iso_date": "2026-10-02T05:29:58+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Internet suspended around Delhi's Jantar Mantar ahead of protest against CEC Gyanesh Kumar; Dipke warns of nationwide unrest | LIVE",
-      "title_hi": "Internet suspended around Delhi's Jantar Mantar ahead of protest against CEC Gyanesh Kumar; Dipke warns of nationwide unrest | LIVE",
-      "summary_en": "AAP's Saurabh Bharadwaj detained from Jantar Mantar",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। AAP's Saurabh Bharadwaj detained from Jantar Mantar",
-      "analysis_hi": "संदर्भ: AAP's Saurabh Bharadwaj detained from Jantar Mantar...\n\nप्रमुख बिंदु:\n• AAP's Saurabh Bharadwaj detained from Jantar Mantar\n",
-      "analysis_en": "Reference: AAP's Saurabh Bharadwaj detained from Jantar Mantar...\n\nKey Points:\n• AAP's Saurabh Bharadwaj detained from Jantar Mantar\n",
-      "link": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-row-cjp-opposition-parties-to-organise-separate-protests-live-updates-october-2-2026/article71535655.ece"
     },
     {
       "id": "e4878775ed2f",
@@ -5643,34 +5672,6 @@
       "analysis_hi": "संदर्भ: Maharaja Hari Singh took the wise decision in 1947 by acceding to India. How much have we benefited from the decision. Today we are with India, our country, said Darakshan Andrabi...\n\nप्रमुख बिंदु:\n• Maharaja Hari Singh took the wise decision in 1947 by acceding to India\n• How much have we benefited from the decision\n• Today we are with India, our country, said Darakshan Andrabi\n",
       "analysis_en": "Reference: Maharaja Hari Singh took the wise decision in 1947 by acceding to India. How much have we benefited from the decision. Today we are with India, our country, said Darakshan Andrabi...\n\nKey Points:\n• Maharaja Hari Singh took the wise decision in 1947 by acceding to India\n• How much have we benefited from the decision\n• Today we are with India, our country, said Darakshan Andrabi\n",
       "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-observes-holiday-on-dogra-king-hari-singhs-birthday-bjp-holds-special-functions/article71499861.ece"
-    },
-    {
-      "id": "df3e36daccbe",
-      "date": "23 Sep 2026",
-      "iso_date": "2026-09-23T22:52:23+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Bihar BJP MLA criticises own government for distributing ₹10,000 crore to JEEVIKA didis",
-      "title_hi": "Bihar BJP MLA criticises own government for distributing ₹10,000 crore to JEEVIKA didis",
-      "summary_en": "He further argued that how the development will take place if there is a burden of debt, and challenges will arise in mobilising resources for schemes in the future also.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। He further argued that how the विकास will take place if there is a burden of debt, and challenges will arise in mobilising resources for schemes in the future also.",
-      "analysis_hi": "संदर्भ: He further argued that how the development will take place if there is a burden of debt, and challenges will arise in mobilising resources for schemes in the future also....\n\nप्रमुख बिंदु:\n• He further argued that how the development will take place if there is a burden of debt, and challenges will arise in mobilising resources for schemes in the future also.\n",
-      "analysis_en": "Reference: He further argued that how the development will take place if there is a burden of debt, and challenges will arise in mobilising resources for schemes in the future also....\n\nKey Points:\n• He further argued that how the development will take place if there is a burden of debt, and challenges will arise in mobilising resources for schemes in the future also.\n",
-      "link": "https://www.thehindu.com/news/national/bihar/bihar-bjp-mla-criticises-own-government-for-distributing10000-crore-to-jeevika-didis/article71500064.ece"
     }
   ]
 }
