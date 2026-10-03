@@ -1,8 +1,37 @@
 {
-  "last_updated": "2026-10-03T05:30:35.154219+00:00",
-  "last_updated_ist": "03 October 2026, 11:00 AM IST",
+  "last_updated": "2026-10-03T05:34:27.124728+00:00",
+  "last_updated_ist": "03 October 2026, 11:04 AM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "317ee31b8e10",
+      "date": "03 Oct 2026",
+      "iso_date": "2026-10-03T05:28:04+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Who is Pargat Singh, the former Olympic hockey captain who just replaced Warring as Punjab Congress president?",
+      "title_hi": "Who is Pargat Singh, the former Olympic hockey captain who just replaced Warring as Punjab Congress president?",
+      "summary_en": "Pargat Singh’s rare sports-to-politics transition from the hockey turf to the helm of the Punjab Congress explains his political journey and why he replaced Warring as the Punjab Congress president",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Pargat Singh’s rare sports-to-politics transition from the hockey turf to the helm of the Punjab Congress explains his political journey and why he replaced Warring as the Punjab Congress राष्ट्रपति",
+      "analysis_hi": "संदर्भ: Pargat Singh’s rare sports-to-politics transition from the hockey turf to the helm of the Punjab Congress explains his political journey and why he replaced Warring as the Punjab Congress president...\n\nप्रमुख बिंदु:\n• Pargat Singh’s rare sports-to-politics transition from the hockey turf to the helm of the Punjab Congress explains his political journey and why he replaced Warring as the Punjab Congress president\n",
+      "analysis_en": "Reference: Pargat Singh’s rare sports-to-politics transition from the hockey turf to the helm of the Punjab Congress explains his political journey and why he replaced Warring as the Punjab Congress president...\n\nKey Points:\n• Pargat Singh’s rare sports-to-politics transition from the hockey turf to the helm of the Punjab Congress explains his political journey and why he replaced Warring as the Punjab Congress president\n",
+      "link": "https://www.thehindu.com/news/national/punjab/pargat-singh-new-punjab-congress-president-warring-replaced/article71539667.ece"
+    },
     {
       "id": "80c623d8b4ca",
       "date": "03 Oct 2026",
@@ -537,34 +566,6 @@
       "analysis_hi": "संदर्भ: Prominent persons, including actor Shabana Azmi and singer Vishal Dadlani, also took part in the protest against the alleged irregularities in electoral rolls and the Election Commission’s nationwide SIR exercise...\n\nप्रमुख बिंदु:\n• Prominent persons, including actor Shabana Azmi and singer Vishal Dadlani, also took part in the protest against the alleged irregularities in electoral rolls and the Election Commission’s nationwide SIR exercise\n",
       "analysis_en": "Reference: Prominent persons, including actor Shabana Azmi and singer Vishal Dadlani, also took part in the protest against the alleged irregularities in electoral rolls and the Election Commission’s nationwide SIR exercise...\n\nKey Points:\n• Prominent persons, including actor Shabana Azmi and singer Vishal Dadlani, also took part in the protest against the alleged irregularities in electoral rolls and the Election Commission’s nationwide SIR exercise\n",
       "link": "https://www.thehindu.com/news/national/gyanesh-its-done-bro-echoes-as-thousands-join-cjp-protest-seeking-cecs-resignation/article71537570.ece"
-    },
-    {
-      "id": "45edf3249956",
-      "date": "03 Oct 2026",
-      "iso_date": "2026-10-03T01:37:35+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Vande Bharat crosses Chenab, Anji bridges at 100 kmph as Katra-Banihal train speed limit raised",
-      "title_hi": "Vande Bharat crosses Chenab, Anji bridges at 100 kmph as Katra-Banihal train speed limit raised",
-      "summary_en": "He said the Vande Bharat Express (Train No. 26401/26404) created a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 kmph",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। He said the Vande Bharat Express (Train No. 26401/26404) created a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 kmph",
-      "analysis_hi": "संदर्भ: He said the Vande Bharat Express (Train No. 26401/26404) created a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 kmph...\n\nप्रमुख बिंदु:\n• He said the Vande Bharat Express (Train No\n• 26401/26404) created a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 kmph\n",
-      "analysis_en": "Reference: He said the Vande Bharat Express (Train No. 26401/26404) created a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 kmph...\n\nKey Points:\n• He said the Vande Bharat Express (Train No\n• 26401/26404) created a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 kmph\n",
-      "link": "https://www.thehindu.com/news/national/vande-bharat-crosses-chenab-anji-bridges-at-100-kmph-as-katra-banihal-train-speed-limit-raised/article71539493.ece"
     },
     {
       "id": "0d950e3a0955",
@@ -1128,6 +1129,34 @@
       "analysis_hi": "संदर्भ: India and the UAE have set a target of doubling bilateral trade to $200 billion by 2032 after trade reached around $100 billion. The target was agreed by the two countries earlier this year....\n\nप्रमुख बिंदु:\n• India and the UAE have set a target of doubling bilateral trade to $200 billion by 2032 after trade reached around $100 billion\n• The target was agreed by the two countries earlier this year.\n",
       "analysis_en": "Reference: India and the UAE have set a target of doubling bilateral trade to $200 billion by 2032 after trade reached around $100 billion. The target was agreed by the two countries earlier this year....\n\nKey Points:\n• India and the UAE have set a target of doubling bilateral trade to $200 billion by 2032 after trade reached around $100 billion\n• The target was agreed by the two countries earlier this year.\n",
       "link": "https://www.thehindu.com/business/Economy/uae-signals-another-25-billion-investment-in-india-eyes-ports-energy-and-space-sectors-goyal/article71520349.ece"
+    },
+    {
+      "id": "45edf3249956",
+      "date": "03 Oct 2026",
+      "iso_date": "2026-10-03T01:37:35+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Vande Bharat crosses Chenab, Anji bridges at 100 kmph as Katra-Banihal train speed limit raised",
+      "title_hi": "Vande Bharat crosses Chenab, Anji bridges at 100 kmph as Katra-Banihal train speed limit raised",
+      "summary_en": "He said the Vande Bharat Express (Train No. 26401/26404) created a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 kmph",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। He said the Vande Bharat Express (Train No. 26401/26404) created a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 kmph",
+      "analysis_hi": "संदर्भ: He said the Vande Bharat Express (Train No. 26401/26404) created a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 kmph...\n\nप्रमुख बिंदु:\n• He said the Vande Bharat Express (Train No\n• 26401/26404) created a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 kmph\n",
+      "analysis_en": "Reference: He said the Vande Bharat Express (Train No. 26401/26404) created a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 kmph...\n\nKey Points:\n• He said the Vande Bharat Express (Train No\n• 26401/26404) created a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 kmph\n",
+      "link": "https://www.thehindu.com/news/national/vande-bharat-crosses-chenab-anji-bridges-at-100-kmph-as-katra-banihal-train-speed-limit-raised/article71539493.ece"
     },
     {
       "id": "e414e53c0b5c",
@@ -5631,35 +5660,6 @@
       "analysis_hi": "संदर्भ: About 110 Accredited Social Health Activists in Barak Valley collaborated with doctors, programmers, and researchers to help design the digital tools...\n\nप्रमुख बिंदु:\n• About 110 Accredited Social Health Activists in Barak Valley collaborated with doctors, programmers, and researchers to help design the digital tools\n",
       "analysis_en": "Reference: About 110 Accredited Social Health Activists in Barak Valley collaborated with doctors, programmers, and researchers to help design the digital tools...\n\nKey Points:\n• About 110 Accredited Social Health Activists in Barak Valley collaborated with doctors, programmers, and researchers to help design the digital tools\n",
       "link": "https://www.thehindu.com/news/national/assam/inputs-from-ashas-to-shape-ai-enabled-training-platform-for-cervical-cancer-screening-in-assam/article71504049.ece"
-    },
-    {
-      "id": "78f189b32403",
-      "date": "24 Sep 2026",
-      "iso_date": "2026-09-24T23:16:27+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Shutdown over poor school infra paralyses Arunachal capital",
-      "title_hi": "Shutdown over poor school infra paralyses Arunachal capital",
-      "summary_en": "Some stray incidents of violence and vehicle damage were reported in Itanagar and adjoining areas",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Some stray incidents of violence and vehicle damage were reported in Itanagar and adjoining areas",
-      "analysis_hi": "संदर्भ: Some stray incidents of violence and vehicle damage were reported in Itanagar and adjoining areas...\n\nप्रमुख बिंदु:\n• Some stray incidents of violence and vehicle damage were reported in Itanagar and adjoining areas\n",
-      "analysis_en": "Reference: Some stray incidents of violence and vehicle damage were reported in Itanagar and adjoining areas...\n\nKey Points:\n• Some stray incidents of violence and vehicle damage were reported in Itanagar and adjoining areas\n",
-      "link": "https://www.thehindu.com/news/national/arunachal-pradesh/shutdown-over-poor-school-infra-paralyses-arunachal-capital/article71504474.ece"
     }
   ]
 }
