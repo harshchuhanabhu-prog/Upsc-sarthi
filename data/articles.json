@@ -1,12 +1,40 @@
 {
-  "last_updated": "2026-10-10T06:05:38.437378+00:00",
-  "last_updated_ist": "10 October 2026, 11:35 AM IST",
+  "last_updated": "2026-10-10T06:12:02.942983+00:00",
+  "last_updated_ist": "10 October 2026, 11:42 AM IST",
   "total_articles": 200,
   "articles": [
     {
+      "id": "efe8dd447dcb",
+      "date": "10 Oct 2026",
+      "iso_date": "2026-10-10T06:06:05+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Delhi protest: CJP’s Abhijeet Dipke, Saurav Das, Ashutosh Ranka, Ratna Singh detained",
+      "title_hi": "Delhi protest: CJP’s Abhijeet Dipke, Saurav Das, Ashutosh Ranka, Ratna Singh detained",
+      "summary_en": "This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement",
+      "analysis_hi": "संदर्भ: This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement...\n\nप्रमुख बिंदु:\n• This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement\n",
+      "analysis_en": "Reference: This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement...\n\nKey Points:\n• This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement\n",
+      "link": "https://www.thehindu.com/news/cities/Delhi/cec-gyanesh-kumar-protest-delhi-abhijeet-dipke-saurav-das-cjp-leaders-detained-updates/article71567192.ece"
+    },
+    {
       "id": "977cebedfc70",
       "date": "10 Oct 2026",
-      "iso_date": "2026-10-10T05:59:35+00:00",
+      "iso_date": "2026-10-10T06:04:56+00:00",
       "category": "scitech",
       "source": "The Hindu",
       "importance": "Medium",
@@ -32,32 +60,33 @@
       "link": "https://www.thehindu.com/news/cities/Delhi/cjp-protests-jantar-mantar-new-delhi-election-commissioner-gyanesh-kumar-resignation-sir-cec-row-october-10-2026-live-news/article71566021.ece"
     },
     {
-      "id": "80eb21bb5d07",
+      "id": "f007c8c6e6fa",
       "date": "10 Oct 2026",
-      "iso_date": "2026-10-10T05:58:22+00:00",
-      "category": "environment",
+      "iso_date": "2026-10-10T06:01:35+00:00",
+      "category": "polity",
       "source": "The Hindu",
       "importance": "Medium",
       "gs_papers": [
-        "GS-3",
-        "GS-1"
+        "GS-2"
       ],
       "subjects": [
-        "Environment"
+        "Polity",
+        "Governance"
       ],
       "prelims": true,
       "mains": true,
       "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
       ],
-      "title_en": "Delhi protest: CJP’s Abhijeet Dipke, Saurav Das, Ashutosh Ranka detained",
-      "title_hi": "Delhi protest: CJP’s Abhijeet Dipke, Saurav Das, Ashutosh Ranka detained",
-      "summary_en": "This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement",
-      "analysis_hi": "संदर्भ: This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement...\n\nप्रमुख बिंदु:\n• This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement\n",
-      "analysis_en": "Reference: This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement...\n\nKey Points:\n• This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement\n",
-      "link": "https://www.thehindu.com/news/cities/Delhi/cec-gyanesh-kumar-protest-delhi-abhijeet-dipke-saurav-das-cjp-leaders-detained-updates/article71567192.ece"
+      "title_en": "In Pune, the long wait for a government job",
+      "title_hi": "In Pune, the long wait for a government job",
+      "summary_en": "In Pune, hundreds of students are protesting leaked exam papers that qualify people for State government service jobs. In public, they demand accountability, a transparent process, and fixed dates for exams; in private, they fear police notices that could jeopardise their chances at future interviews. At the protest site, Chinmay Gaikwad speaks to students, who wonder how they will build a future in uncertainty and economic hardships",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In Pune, hundreds of students are protesting leaked exam papers that qualify people for State सरकार service jobs. In public, they demand accountability, a transparent process, and fixed dates for exams; in private, they fear police notices that could jeopardise their chances at future interviews. At the protest site, Chinmay Gaikwad speaks to students, who wonder how they will build a future in uncertainty and economic hardships",
+      "analysis_hi": "संदर्भ: In Pune, hundreds of students are protesting leaked exam papers that qualify people for State government service jobs. In public, they demand accountability, a transparent process, and fixed dates for exams; in private, they fear police notices that could jeopardise their chances at future interview...\n\nप्रमुख बिंदु:\n• In Pune, hundreds of students are protesting leaked exam papers that qualify people for State government service jobs\n• In public, they demand accountability, a transparent process, and fixed dates for exams; in private, they fear police notices that could jeopardise their chances at future interviews\n• At the protest site, Chinmay Gaikwad speaks to students, who wonder how they will build a future in uncertainty and economic hardships\n",
+      "analysis_en": "Reference: In Pune, hundreds of students are protesting leaked exam papers that qualify people for State government service jobs. In public, they demand accountability, a transparent process, and fixed dates for exams; in private, they fear police notices that could jeopardise their chances at future interview...\n\nKey Points:\n• In Pune, hundreds of students are protesting leaked exam papers that qualify people for State government service jobs\n• In public, they demand accountability, a transparent process, and fixed dates for exams; in private, they fear police notices that could jeopardise their chances at future interviews\n• At the protest site, Chinmay Gaikwad speaks to students, who wonder how they will build a future in uncertainty and economic hardships\n",
+      "link": "https://www.thehindu.com/news/national/maharashtra/pune-protest-maharashtra-public-service-commission-mpsc-paper-leak-ground-zero/article71564646.ece"
     },
     {
       "id": "de1dbfc90ae4",
@@ -540,35 +569,6 @@
       "analysis_hi": "संदर्भ: Those detained from across 15 districts were suspected of joining the CJP-led protest at Jantar Mantar, sources said...\n\nप्रमुख बिंदु:\n• Those detained from across 15 districts were suspected of joining the CJP-led protest at Jantar Mantar, sources said\n",
       "analysis_en": "Reference: Those detained from across 15 districts were suspected of joining the CJP-led protest at Jantar Mantar, sources said...\n\nKey Points:\n• Those detained from across 15 districts were suspected of joining the CJP-led protest at Jantar Mantar, sources said\n",
       "link": "https://www.thehindu.com/news/cities/Delhi/delhi-police-detain-at-least-100-with-criminal-records-in-overnight-ops-ahead-of-cjp-protest/article71566967.ece"
-    },
-    {
-      "id": "b3a190b49b10",
-      "date": "10 Oct 2026",
-      "iso_date": "2026-10-10T04:38:48+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Telangana CM Revanth calls for Personal Rapid Transit system to improve public transport in Hyderabad",
-      "title_hi": "Telangana CM Revanth calls for Personal Rapid Transit system to improve public transport in Hyderabad",
-      "summary_en": "Reddy stressed the need to give priority to advanced technology, careful selection of locations and efficient maintenance while designing the system",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Reddy stressed the need to give priority to advanced प्रौद्योगिकी, careful selection of locations and efficient maintenance while designing the system",
-      "analysis_hi": "संदर्भ: Reddy stressed the need to give priority to advanced technology, careful selection of locations and efficient maintenance while designing the system...\n\nप्रमुख बिंदु:\n• Reddy stressed the need to give priority to advanced technology, careful selection of locations and efficient maintenance while designing the system\n",
-      "analysis_en": "Reference: Reddy stressed the need to give priority to advanced technology, careful selection of locations and efficient maintenance while designing the system...\n\nKey Points:\n• Reddy stressed the need to give priority to advanced technology, careful selection of locations and efficient maintenance while designing the system\n",
-      "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-calls-for-prt-system-to-improve-public-transport-in-hyderabad/article71567016.ece"
     },
     {
       "id": "e94adae912b5",
@@ -1131,6 +1131,63 @@
       "analysis_hi": "संदर्भ: Tamil Nadu Chief Minister Joseph Vijay seems to have mastered the art of welfare politics by accommodating the gratis within an about ₹4 lakh crore revenue-spending framework. However, the real test is whether the government can convert 84 lakh daily journeys into measurable gains in female employme...\n\nप्रमुख बिंदु:\n• Tamil Nadu Chief Minister Joseph Vijay seems to have mastered the art of welfare politics by accommodating the gratis within an about ₹4 lakh crore revenue-spending framework\n• However, the real test is whether the government can convert 84 lakh daily journeys into measurable gains in female employment, productivity, household income and mobility\n",
       "analysis_en": "Reference: Tamil Nadu Chief Minister Joseph Vijay seems to have mastered the art of welfare politics by accommodating the gratis within an about ₹4 lakh crore revenue-spending framework. However, the real test is whether the government can convert 84 lakh daily journeys into measurable gains in female employme...\n\nKey Points:\n• Tamil Nadu Chief Minister Joseph Vijay seems to have mastered the art of welfare politics by accommodating the gratis within an about ₹4 lakh crore revenue-spending framework\n• However, the real test is whether the government can convert 84 lakh daily journeys into measurable gains in female employment, productivity, household income and mobility\n",
       "link": "https://www.thehindu.com/business/Economy/vettri-payanam-what-is-the-economic-mileage-of-a-free-ride/article71554318.ece"
+    },
+    {
+      "id": "80eb21bb5d07",
+      "date": "10 Oct 2026",
+      "iso_date": "2026-10-10T05:58:22+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Delhi protest: CJP’s Abhijeet Dipke, Saurav Das, Ashutosh Ranka detained",
+      "title_hi": "Delhi protest: CJP’s Abhijeet Dipke, Saurav Das, Ashutosh Ranka detained",
+      "summary_en": "This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement",
+      "analysis_hi": "संदर्भ: This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement...\n\nप्रमुख बिंदु:\n• This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement\n",
+      "analysis_en": "Reference: This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement...\n\nKey Points:\n• This pre-planned interception by the Delhi Police aims to cripple the leadership of today’s peaceful demonstrations before they even reach the protest site, reads the CJP statement\n",
+      "link": "https://www.thehindu.com/news/cities/Delhi/cec-gyanesh-kumar-protest-delhi-abhijeet-dipke-saurav-das-cjp-leaders-detained-updates/article71567192.ece"
+    },
+    {
+      "id": "b3a190b49b10",
+      "date": "10 Oct 2026",
+      "iso_date": "2026-10-10T04:38:48+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Telangana CM Revanth calls for Personal Rapid Transit system to improve public transport in Hyderabad",
+      "title_hi": "Telangana CM Revanth calls for Personal Rapid Transit system to improve public transport in Hyderabad",
+      "summary_en": "Reddy stressed the need to give priority to advanced technology, careful selection of locations and efficient maintenance while designing the system",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Reddy stressed the need to give priority to advanced प्रौद्योगिकी, careful selection of locations and efficient maintenance while designing the system",
+      "analysis_hi": "संदर्भ: Reddy stressed the need to give priority to advanced technology, careful selection of locations and efficient maintenance while designing the system...\n\nप्रमुख बिंदु:\n• Reddy stressed the need to give priority to advanced technology, careful selection of locations and efficient maintenance while designing the system\n",
+      "analysis_en": "Reference: Reddy stressed the need to give priority to advanced technology, careful selection of locations and efficient maintenance while designing the system...\n\nKey Points:\n• Reddy stressed the need to give priority to advanced technology, careful selection of locations and efficient maintenance while designing the system\n",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-calls-for-prt-system-to-improve-public-transport-in-hyderabad/article71567016.ece"
     },
     {
       "id": "81f663fcf878",
@@ -5614,62 +5671,6 @@
       "analysis_hi": "संदर्भ: BJD launches ‘Jan Sampark Padayatra’, its annual month-long public outreach programme on occasion birth anniversary of Mahatma Gandhi...\n\nप्रमुख बिंदु:\n• BJD launches ‘Jan Sampark Padayatra’, its annual month-long public outreach programme on occasion birth anniversary of Mahatma Gandhi\n",
       "analysis_en": "Reference: BJD launches ‘Jan Sampark Padayatra’, its annual month-long public outreach programme on occasion birth anniversary of Mahatma Gandhi...\n\nKey Points:\n• BJD launches ‘Jan Sampark Padayatra’, its annual month-long public outreach programme on occasion birth anniversary of Mahatma Gandhi\n",
       "link": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-brands-odishas-government-as-mismanaged/article71537058.ece"
-    },
-    {
-      "id": "4d4b17e5bd94",
-      "date": "03 Oct 2026",
-      "iso_date": "2026-10-03T05:09:08+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Amid P&T apartment controversy, Kochi Corporation drops TDLC bid",
-      "title_hi": "Amid P&T apartment controversy, Kochi Corporation drops TDLC bid",
-      "summary_en": "Thrissur District Labour Contract Cooperative Society had emerged as lowest bidder in tender floated by Kochi Corporation in August for preparing a DPR for proposed convention centre at Edappally",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Thrissur District Labour Contract Cooperative Society had emerged as lowest bidder in tender floated by Kochi Corporation in August for preparing a DPR for proposed convention centre at Edappally",
-      "analysis_hi": "संदर्भ: Thrissur District Labour Contract Cooperative Society had emerged as lowest bidder in tender floated by Kochi Corporation in August for preparing a DPR for proposed convention centre at Edappally...\n\nप्रमुख बिंदु:\n• Thrissur District Labour Contract Cooperative Society had emerged as lowest bidder in tender floated by Kochi Corporation in August for preparing a DPR for proposed convention centre at Edappally\n",
-      "analysis_en": "Reference: Thrissur District Labour Contract Cooperative Society had emerged as lowest bidder in tender floated by Kochi Corporation in August for preparing a DPR for proposed convention centre at Edappally...\n\nKey Points:\n• Thrissur District Labour Contract Cooperative Society had emerged as lowest bidder in tender floated by Kochi Corporation in August for preparing a DPR for proposed convention centre at Edappally\n",
-      "link": "https://www.thehindu.com/news/national/kerala/amid-pt-apartment-controversy-kochi-corporation-drops-tdlc-bid/article71539690.ece"
-    },
-    {
-      "id": "0b8dc692907f",
-      "date": "03 Oct 2026",
-      "iso_date": "2026-10-03T04:54:01+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Allahabad HC to hear suo motu PIL on noise pollution after student’s death",
-      "title_hi": "Allahabad HC to hear suo motu PIL on noise pollution after student’s death",
-      "summary_en": "Seven-year-old Class 2 student died at Balrampur school while a procession carrying loudspeakers and a music system was passing nearby; court clarifies no link has been established between noise and death",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Seven-year-old Class 2 student died at Balrampur school while a procession carrying loudspeakers and a music system was passing nearby; court clarifies no link has been established between noise and death",
-      "analysis_hi": "संदर्भ: Seven-year-old Class 2 student died at Balrampur school while a procession carrying loudspeakers and a music system was passing nearby; court clarifies no link has been established between noise and death...\n\nप्रमुख बिंदु:\n• Seven-year-old Class 2 student died at Balrampur school while a procession carrying loudspeakers and a music system was passing nearby; court clarifies no link has been established between noise and death\n",
-      "analysis_en": "Reference: Seven-year-old Class 2 student died at Balrampur school while a procession carrying loudspeakers and a music system was passing nearby; court clarifies no link has been established between noise and death...\n\nKey Points:\n• Seven-year-old Class 2 student died at Balrampur school while a procession carrying loudspeakers and a music system was passing nearby; court clarifies no link has been established between noise and death\n",
-      "link": "https://www.thehindu.com/news/national/allahabad-hc-to-hear-suo-motu-pil-on-noise-pollution-after-students-death/article71536862.ece"
     }
   ]
 }
