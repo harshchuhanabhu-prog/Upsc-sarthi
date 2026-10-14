@@ -1,8 +1,120 @@
 {
-  "last_updated": "2026-10-14T05:07:19.118510+00:00",
-  "last_updated_ist": "14 October 2026, 10:37 AM IST",
+  "last_updated": "2026-10-14T05:11:40.856103+00:00",
+  "last_updated_ist": "14 October 2026, 10:41 AM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "a49b0bd6db11",
+      "date": "14 Oct 2026",
+      "iso_date": "2026-10-14T05:02:45+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Mamata’s party files police complaint over alleged ‘knife attack attempt’ on former CM near her home",
+      "title_hi": "Mamata’s party files police complaint over alleged ‘knife attack attempt’ on former CM near her home",
+      "summary_en": "There were no reports of any injuries to the former Chief Minister",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। There were no reports of any injuries to the former Chief Minister",
+      "analysis_hi": "संदर्भ: There were no reports of any injuries to the former Chief Minister...\n\nप्रमुख बिंदु:\n• There were no reports of any injuries to the former Chief Minister\n",
+      "analysis_en": "Reference: There were no reports of any injuries to the former Chief Minister...\n\nKey Points:\n• There were no reports of any injuries to the former Chief Minister\n",
+      "link": "https://www.thehindu.com/news/cities/kolkata/mamatas-party-files-police-complaint-over-alleged-knife-attack-attempt-on-former-cm-near-her-home/article71580768.ece"
+    },
+    {
+      "id": "72556b9fc691",
+      "date": "14 Oct 2026",
+      "iso_date": "2026-10-14T05:00:50+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Rupee rises 44 paise to 94.92 against U.S. dollar in early trade",
+      "title_hi": "Rupee rises 44 paise to 94.92 against U.S. dollar in early trade",
+      "summary_en": "The rupee gained for a fourth straight session, helped by RBI measures to curb speculative trading, as Finance Minister Nirmala Sitharaman said the currency had depreciated “significantly” over the past 18 months",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The rupee gained for a fourth straight session, helped by RBI measures to curb speculative trading, as Finance Minister Nirmala Sitharaman said the currency had depreciated “significantly” over the past 18 months",
+      "analysis_hi": "संदर्भ: The rupee gained for a fourth straight session, helped by RBI measures to curb speculative trading, as Finance Minister Nirmala Sitharaman said the currency had depreciated “significantly” over the past 18 months...\n\nप्रमुख बिंदु:\n• The rupee gained for a fourth straight session, helped by RBI measures to curb speculative trading, as Finance Minister Nirmala Sitharaman said the currency had depreciated “significantly” over the past 18 months\n",
+      "analysis_en": "Reference: The rupee gained for a fourth straight session, helped by RBI measures to curb speculative trading, as Finance Minister Nirmala Sitharaman said the currency had depreciated “significantly” over the past 18 months...\n\nKey Points:\n• The rupee gained for a fourth straight session, helped by RBI measures to curb speculative trading, as Finance Minister Nirmala Sitharaman said the currency had depreciated “significantly” over the past 18 months\n",
+      "link": "https://www.thehindu.com/business/rupee-rises-44-paise-to-9492-against-us-dollar-in-early-trade/article71582299.ece"
+    },
+    {
+      "id": "1803c3ec3100",
+      "date": "14 Oct 2026",
+      "iso_date": "2026-10-14T04:58:30+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Delhi Police registers four FIRs against ‘rumour-mongers’, Pakistan social media handles under scanner",
+      "title_hi": "Delhi Police registers four FIRs against ‘rumour-mongers’, Pakistan social media handles under scanner",
+      "summary_en": "Cases have been registered against social media handles allegedly disseminating misleading information, attempting to create an “anti-India narrative” and disturb law and order, officials said",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Cases have been registered against social media handles allegedly disseminating misleading information, attempting to create an “anti-India narrative” and disturb law and order, officials said",
+      "analysis_hi": "संदर्भ: Cases have been registered against social media handles allegedly disseminating misleading information, attempting to create an “anti-India narrative” and disturb law and order, officials said...\n\nप्रमुख बिंदु:\n• Cases have been registered against social media handles allegedly disseminating misleading information, attempting to create an “anti-India narrative” and disturb law and order, officials said\n",
+      "analysis_en": "Reference: Cases have been registered against social media handles allegedly disseminating misleading information, attempting to create an “anti-India narrative” and disturb law and order, officials said...\n\nKey Points:\n• Cases have been registered against social media handles allegedly disseminating misleading information, attempting to create an “anti-India narrative” and disturb law and order, officials said\n",
+      "link": "https://www.thehindu.com/news/national/delhi-police-registers-four-firs-against-rumour-mongers-pakistan-social-media-handles-under-scanner/article71578965.ece"
+    },
+    {
+      "id": "47c00b07ca80",
+      "date": "14 Oct 2026",
+      "iso_date": "2026-10-14T04:53:43+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "SIR: Special camps on October 15, 16 to help enrol omitted voters in Telangana",
+      "title_hi": "SIR: Special camps on October 15, 16 to help enrol omitted voters in Telangana",
+      "summary_en": "First-time electors can also apply for enrolment through Form-6; though the claims and objections period has ended, enrolment will remain open until November 7",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। First-time electors can also apply for enrolment through Form-6; though the claims and objections period has ended, enrolment will remain open until November 7",
+      "analysis_hi": "संदर्भ: First-time electors can also apply for enrolment through Form-6; though the claims and objections period has ended, enrolment will remain open until November 7...\n\nप्रमुख बिंदु:\n• First-time electors can also apply for enrolment through Form-6; though the claims and objections period has ended, enrolment will remain open until November 7\n",
+      "analysis_en": "Reference: First-time electors can also apply for enrolment through Form-6; though the claims and objections period has ended, enrolment will remain open until November 7...\n\nKey Points:\n• First-time electors can also apply for enrolment through Form-6; though the claims and objections period has ended, enrolment will remain open until November 7\n",
+      "link": "https://www.thehindu.com/news/national/telangana/sir-special-camps-on-october-15-16-to-help-enrol-omitted-voters-in-telangana/article71580414.ece"
+    },
     {
       "id": "d5881147be3a",
       "date": "14 Oct 2026",
@@ -454,120 +566,6 @@
       "analysis_hi": "संदर्भ: India also expressed its strong objection to a reference made to it in a UN report on the rights of indigenous peoples focused on demarcation, registration and titling of lands, territories and resources...\n\nप्रमुख बिंदु:\n• India also expressed its strong objection to a reference made to it in a UN report on the rights of indigenous peoples focused on demarcation, registration and titling of lands, territories and resources\n",
       "analysis_en": "Reference: India also expressed its strong objection to a reference made to it in a UN report on the rights of indigenous peoples focused on demarcation, registration and titling of lands, territories and resources...\n\nKey Points:\n• India also expressed its strong objection to a reference made to it in a UN report on the rights of indigenous peoples focused on demarcation, registration and titling of lands, territories and resources\n",
       "link": "https://www.thehindu.com/news/national/india-urges-un-human-rights-mechanisms-to-avoid-politicisation-selectivity/article71582184.ece"
-    },
-    {
-      "id": "8ad94c00ec1b",
-      "date": "14 Oct 2026",
-      "iso_date": "2026-10-14T03:37:57+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Modi speaks to Carney, says India and Canada contribute to stable, prosperous world",
-      "title_hi": "Modi speaks to Carney, says India and Canada contribute to stable, prosperous world",
-      "summary_en": "The two Prime Ministers had a phone call as senior Canadian Ministers are in Delhi for talks; India steps up its middle power engagement",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The two Prime Ministers had a phone call as senior Canadian Ministers are in Delhi for talks; India steps up its middle power engagement",
-      "analysis_hi": "संदर्भ: The two Prime Ministers had a phone call as senior Canadian Ministers are in Delhi for talks; India steps up its middle power engagement...\n\nप्रमुख बिंदु:\n• The two Prime Ministers had a phone call as senior Canadian Ministers are in Delhi for talks; India steps up its middle power engagement\n",
-      "analysis_en": "Reference: The two Prime Ministers had a phone call as senior Canadian Ministers are in Delhi for talks; India steps up its middle power engagement...\n\nKey Points:\n• The two Prime Ministers had a phone call as senior Canadian Ministers are in Delhi for talks; India steps up its middle power engagement\n",
-      "link": "https://www.thehindu.com/news/national/modi-speaks-to-carney-says-india-and-canada-contribute-to-stable-prosperous-world/article71581011.ece"
-    },
-    {
-      "id": "f289d4d1c1ca",
-      "date": "14 Oct 2026",
-      "iso_date": "2026-10-14T03:34:55+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Indian airlines cancel flights to Saudi Arabian cities till Oct 17",
-      "title_hi": "Indian airlines cancel flights to Saudi Arabian cities till Oct 17",
-      "summary_en": "While announcing cancellation of flights to and from Riyadh, Dammam and Jeddah till October 17, Air India also said it was closely monitoring and assessing the developments in the region to resume safe operations",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। While announcing cancellation of flights to and from Riyadh, Dammam and Jeddah till October 17, Air India also said it was closely monitoring and assessing the developments in the region to resume safe operations",
-      "analysis_hi": "संदर्भ: While announcing cancellation of flights to and from Riyadh, Dammam and Jeddah till October 17, Air India also said it was closely monitoring and assessing the developments in the region to resume safe operations...\n\nप्रमुख बिंदु:\n• While announcing cancellation of flights to and from Riyadh, Dammam and Jeddah till October 17, Air India also said it was closely monitoring and assessing the developments in the region to resume safe operations\n",
-      "analysis_en": "Reference: While announcing cancellation of flights to and from Riyadh, Dammam and Jeddah till October 17, Air India also said it was closely monitoring and assessing the developments in the region to resume safe operations...\n\nKey Points:\n• While announcing cancellation of flights to and from Riyadh, Dammam and Jeddah till October 17, Air India also said it was closely monitoring and assessing the developments in the region to resume safe operations\n",
-      "link": "https://www.thehindu.com/news/national/indian-airlines-cancel-flights-to-saudi-arabian-cities-till-oct-17/article71582062.ece"
-    },
-    {
-      "id": "d4d50923b4e9",
-      "date": "14 Oct 2026",
-      "iso_date": "2026-10-14T03:34:01+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Muslims disproportionately flagged in Delhi SIR",
-      "title_hi": "Muslims disproportionately flagged in Delhi SIR",
-      "summary_en": "Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the Election Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims accounted for 18.4% of deleted electors, in line with their 17.7% share in population",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the चुनाव Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims accounted for 18.4% of deleted electors, in line with their 17.7% share in population",
-      "analysis_hi": "संदर्भ: Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the Election Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims ...\n\nप्रमुख बिंदु:\n• Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the Election Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims accounted for 18.4% of deleted electors, in line with their 17.7% share in population\n",
-      "analysis_en": "Reference: Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the Election Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims ...\n\nKey Points:\n• Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the Election Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims accounted for 18.4% of deleted electors, in line with their 17.7% share in population\n",
-      "link": "https://www.thehindu.com/data/muslims-disproportionately-flagged-in-delhi-sir/article71580772.ece"
-    },
-    {
-      "id": "006e4bdc1858",
-      "date": "14 Oct 2026",
-      "iso_date": "2026-10-14T03:32:32+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Shiva’s Baraat in Batman’s mask: In the battle of cultural narratives, Rahul Gandhi blends Puranic lore and pop culture idioms",
-      "title_hi": "Shiva’s Baraat in Batman’s mask: In the battle of cultural narratives, Rahul Gandhi blends Puranic lore and pop culture idioms",
-      "summary_en": "By anchoring its street protests in the inclusivity of Shivji ki Baraat and Batman’s vigilante aesthetic, the Congress has crafted a visual syntax that challenges the BJP’s monopoly on cultural semiotics.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। By anchoring its street protests in the inclusivity of Shivji ki Baraat and Batman’s vigilante aesthetic, the Congress has crafted a visual syntax that challenges the BJP’s monopoly on cultural semiotics.",
-      "analysis_hi": "संदर्भ: By anchoring its street protests in the inclusivity of Shivji ki Baraat and Batman’s vigilante aesthetic, the Congress has crafted a visual syntax that challenges the BJP’s monopoly on cultural semiotics....\n\nप्रमुख बिंदु:\n• By anchoring its street protests in the inclusivity of Shivji ki Baraat and Batman’s vigilante aesthetic, the Congress has crafted a visual syntax that challenges the BJP’s monopoly on cultural semiotics.\n",
-      "analysis_en": "Reference: By anchoring its street protests in the inclusivity of Shivji ki Baraat and Batman’s vigilante aesthetic, the Congress has crafted a visual syntax that challenges the BJP’s monopoly on cultural semiotics....\n\nKey Points:\n• By anchoring its street protests in the inclusivity of Shivji ki Baraat and Batman’s vigilante aesthetic, the Congress has crafted a visual syntax that challenges the BJP’s monopoly on cultural semiotics.\n",
-      "link": "https://www.thehindu.com/news/national/shivas-baraat-in-batmans-mask-in-the-battle-of-cultural-narratives-rahul-gandhi-blends-puranic-lore-and-pop-culture-idioms/article71582192.ece"
     },
     {
       "id": "7fe2c151d138",
@@ -1106,6 +1104,120 @@
       "analysis_hi": "संदर्भ: Electricity officials around India are grappling with the many ways Artificial Intelligence infrastructure is reshaping power transmission dynamics....\n\nप्रमुख बिंदु:\n• Electricity officials around India are grappling with the many ways Artificial Intelligence infrastructure is reshaping power transmission dynamics.\n",
       "analysis_en": "Reference: Electricity officials around India are grappling with the many ways Artificial Intelligence infrastructure is reshaping power transmission dynamics....\n\nKey Points:\n• Electricity officials around India are grappling with the many ways Artificial Intelligence infrastructure is reshaping power transmission dynamics.\n",
       "link": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece"
+    },
+    {
+      "id": "8ad94c00ec1b",
+      "date": "14 Oct 2026",
+      "iso_date": "2026-10-14T03:37:57+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Modi speaks to Carney, says India and Canada contribute to stable, prosperous world",
+      "title_hi": "Modi speaks to Carney, says India and Canada contribute to stable, prosperous world",
+      "summary_en": "The two Prime Ministers had a phone call as senior Canadian Ministers are in Delhi for talks; India steps up its middle power engagement",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The two Prime Ministers had a phone call as senior Canadian Ministers are in Delhi for talks; India steps up its middle power engagement",
+      "analysis_hi": "संदर्भ: The two Prime Ministers had a phone call as senior Canadian Ministers are in Delhi for talks; India steps up its middle power engagement...\n\nप्रमुख बिंदु:\n• The two Prime Ministers had a phone call as senior Canadian Ministers are in Delhi for talks; India steps up its middle power engagement\n",
+      "analysis_en": "Reference: The two Prime Ministers had a phone call as senior Canadian Ministers are in Delhi for talks; India steps up its middle power engagement...\n\nKey Points:\n• The two Prime Ministers had a phone call as senior Canadian Ministers are in Delhi for talks; India steps up its middle power engagement\n",
+      "link": "https://www.thehindu.com/news/national/modi-speaks-to-carney-says-india-and-canada-contribute-to-stable-prosperous-world/article71581011.ece"
+    },
+    {
+      "id": "f289d4d1c1ca",
+      "date": "14 Oct 2026",
+      "iso_date": "2026-10-14T03:34:55+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Indian airlines cancel flights to Saudi Arabian cities till Oct 17",
+      "title_hi": "Indian airlines cancel flights to Saudi Arabian cities till Oct 17",
+      "summary_en": "While announcing cancellation of flights to and from Riyadh, Dammam and Jeddah till October 17, Air India also said it was closely monitoring and assessing the developments in the region to resume safe operations",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। While announcing cancellation of flights to and from Riyadh, Dammam and Jeddah till October 17, Air India also said it was closely monitoring and assessing the developments in the region to resume safe operations",
+      "analysis_hi": "संदर्भ: While announcing cancellation of flights to and from Riyadh, Dammam and Jeddah till October 17, Air India also said it was closely monitoring and assessing the developments in the region to resume safe operations...\n\nप्रमुख बिंदु:\n• While announcing cancellation of flights to and from Riyadh, Dammam and Jeddah till October 17, Air India also said it was closely monitoring and assessing the developments in the region to resume safe operations\n",
+      "analysis_en": "Reference: While announcing cancellation of flights to and from Riyadh, Dammam and Jeddah till October 17, Air India also said it was closely monitoring and assessing the developments in the region to resume safe operations...\n\nKey Points:\n• While announcing cancellation of flights to and from Riyadh, Dammam and Jeddah till October 17, Air India also said it was closely monitoring and assessing the developments in the region to resume safe operations\n",
+      "link": "https://www.thehindu.com/news/national/indian-airlines-cancel-flights-to-saudi-arabian-cities-till-oct-17/article71582062.ece"
+    },
+    {
+      "id": "d4d50923b4e9",
+      "date": "14 Oct 2026",
+      "iso_date": "2026-10-14T03:34:01+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Muslims disproportionately flagged in Delhi SIR",
+      "title_hi": "Muslims disproportionately flagged in Delhi SIR",
+      "summary_en": "Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the Election Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims accounted for 18.4% of deleted electors, in line with their 17.7% share in population",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the चुनाव Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims accounted for 18.4% of deleted electors, in line with their 17.7% share in population",
+      "analysis_hi": "संदर्भ: Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the Election Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims ...\n\nप्रमुख बिंदु:\n• Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the Election Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims accounted for 18.4% of deleted electors, in line with their 17.7% share in population\n",
+      "analysis_en": "Reference: Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the Election Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims ...\n\nKey Points:\n• Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the Election Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims accounted for 18.4% of deleted electors, in line with their 17.7% share in population\n",
+      "link": "https://www.thehindu.com/data/muslims-disproportionately-flagged-in-delhi-sir/article71580772.ece"
+    },
+    {
+      "id": "006e4bdc1858",
+      "date": "14 Oct 2026",
+      "iso_date": "2026-10-14T03:32:32+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Shiva’s Baraat in Batman’s mask: In the battle of cultural narratives, Rahul Gandhi blends Puranic lore and pop culture idioms",
+      "title_hi": "Shiva’s Baraat in Batman’s mask: In the battle of cultural narratives, Rahul Gandhi blends Puranic lore and pop culture idioms",
+      "summary_en": "By anchoring its street protests in the inclusivity of Shivji ki Baraat and Batman’s vigilante aesthetic, the Congress has crafted a visual syntax that challenges the BJP’s monopoly on cultural semiotics.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। By anchoring its street protests in the inclusivity of Shivji ki Baraat and Batman’s vigilante aesthetic, the Congress has crafted a visual syntax that challenges the BJP’s monopoly on cultural semiotics.",
+      "analysis_hi": "संदर्भ: By anchoring its street protests in the inclusivity of Shivji ki Baraat and Batman’s vigilante aesthetic, the Congress has crafted a visual syntax that challenges the BJP’s monopoly on cultural semiotics....\n\nप्रमुख बिंदु:\n• By anchoring its street protests in the inclusivity of Shivji ki Baraat and Batman’s vigilante aesthetic, the Congress has crafted a visual syntax that challenges the BJP’s monopoly on cultural semiotics.\n",
+      "analysis_en": "Reference: By anchoring its street protests in the inclusivity of Shivji ki Baraat and Batman’s vigilante aesthetic, the Congress has crafted a visual syntax that challenges the BJP’s monopoly on cultural semiotics....\n\nKey Points:\n• By anchoring its street protests in the inclusivity of Shivji ki Baraat and Batman’s vigilante aesthetic, the Congress has crafted a visual syntax that challenges the BJP’s monopoly on cultural semiotics.\n",
+      "link": "https://www.thehindu.com/news/national/shivas-baraat-in-batmans-mask-in-the-battle-of-cultural-narratives-rahul-gandhi-blends-puranic-lore-and-pop-culture-idioms/article71582192.ece"
     },
     {
       "id": "de92b70bc1b4",
@@ -5560,120 +5672,6 @@
       "analysis_hi": "संदर्भ: The law specifies four offences for which an individual can be punished: having membership of an unlawful organisation; a non-member raising funds for such an organisation, assisting in its management or committing an unlawful activity....\n\nप्रमुख बिंदु:\n• The law specifies four offences for which an individual can be punished: having membership of an unlawful organisation; a non-member raising funds for such an organisation, assisting in its management or committing an unlawful activity.\n",
       "analysis_en": "Reference: The law specifies four offences for which an individual can be punished: having membership of an unlawful organisation; a non-member raising funds for such an organisation, assisting in its management or committing an unlawful activity....\n\nKey Points:\n• The law specifies four offences for which an individual can be punished: having membership of an unlawful organisation; a non-member raising funds for such an organisation, assisting in its management or committing an unlawful activity.\n",
       "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-hub-of-urban-maoist-activities-government-on-special-public-security-act/article71554386.ece"
-    },
-    {
-      "id": "d4c0b1c74e86",
-      "date": "07 Oct 2026",
-      "iso_date": "2026-10-07T05:18:52+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Unlawful detention of Rahul Gandhi reflective of hubris of a failing govt.: Telangana CM",
-      "title_hi": "Unlawful detention of Rahul Gandhi reflective of hubris of a failing govt.: Telangana CM",
-      "summary_en": "BJP afraid of Rahul’s leadership, Revanth Reddy said",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। BJP afraid of Rahul’s leadership, Revanth Reddy said",
-      "analysis_hi": "संदर्भ: BJP afraid of Rahul’s leadership, Revanth Reddy said...\n\nप्रमुख बिंदु:\n• BJP afraid of Rahul’s leadership, Revanth Reddy said\n",
-      "analysis_en": "Reference: BJP afraid of Rahul’s leadership, Revanth Reddy said...\n\nKey Points:\n• BJP afraid of Rahul’s leadership, Revanth Reddy said\n",
-      "link": "https://www.thehindu.com/news/national/telangana/unlawful-detention-of-rahul-gandhi-reflective-of-hubris-of-a-failing-govt-telangana-cm/article71552977.ece"
-    },
-    {
-      "id": "e586bad142ce",
-      "date": "07 Oct 2026",
-      "iso_date": "2026-10-07T05:18:38+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "High",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "RBI hikes repo rate by 25 basis points to 5.5%",
-      "title_hi": "RBI hikes repo rate by 25 basis points to 5.5%",
-      "summary_en": "The hike comes after nearly three-and-a half years; monetary policy stance was changed to ‘calibrated tightening’ from ‘neutral’",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The hike comes after nearly three-and-a half years; monetary नीति stance was changed to ‘calibrated tightening’ from ‘neutral’",
-      "analysis_hi": "संदर्भ: The hike comes after nearly three-and-a half years; monetary policy stance was changed to ‘calibrated tightening’ from ‘neutral’...\n\nप्रमुख बिंदु:\n• The hike comes after nearly three-and-a half years; monetary policy stance was changed to ‘calibrated tightening’ from ‘neutral’\n",
-      "analysis_en": "Reference: The hike comes after nearly three-and-a half years; monetary policy stance was changed to ‘calibrated tightening’ from ‘neutral’...\n\nKey Points:\n• The hike comes after nearly three-and-a half years; monetary policy stance was changed to ‘calibrated tightening’ from ‘neutral’\n",
-      "link": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece"
-    },
-    {
-      "id": "f52aee554c58",
-      "date": "07 Oct 2026",
-      "iso_date": "2026-10-07T05:06:46+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Chief Minister Vijay has claimed ownership over 50 cents of poromboke land in Kodaikanal, alleges election petitioner before Madras HC",
-      "title_hi": "Chief Minister Vijay has claimed ownership over 50 cents of poromboke land in Kodaikanal, alleges election petitioner before Madras HC",
-      "summary_en": "He also says, the Neelangarai bungalow was not inherited but acquired through a settlement deed executed by his father S.A. Chandrasekhar in 2005",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। He also says, the Neelangarai bungalow was not inherited but acquired through a settlement deed executed by his father S.A. Chandrasekhar in 2005",
-      "analysis_hi": "संदर्भ: He also says, the Neelangarai bungalow was not inherited but acquired through a settlement deed executed by his father S.A. Chandrasekhar in 2005...\n\nप्रमुख बिंदु:\n• He also says, the Neelangarai bungalow was not inherited but acquired through a settlement deed executed by his father S.A\n",
-      "analysis_en": "Reference: He also says, the Neelangarai bungalow was not inherited but acquired through a settlement deed executed by his father S.A. Chandrasekhar in 2005...\n\nKey Points:\n• He also says, the Neelangarai bungalow was not inherited but acquired through a settlement deed executed by his father S.A\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-has-claimed-ownership-over-50-cents-of-poromboke-land-in-kodaikanal-alleges-election-petitioner-before-madras-hc/article71551690.ece"
-    },
-    {
-      "id": "265c8b32c9ac",
-      "date": "07 Oct 2026",
-      "iso_date": "2026-10-07T05:04:16+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Three arrested for extortion, cadre recruitment for banned outfits in Manipur",
-      "title_hi": "Three arrested for extortion, cadre recruitment for banned outfits in Manipur",
-      "summary_en": "The two members of the People's Liberation Army — Maibam Arun (50) and Wahengbam Bimol (26) — were arrested on Tuesday (Ocotber 6), a police official said.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The two members of the People's Liberation Army — Maibam Arun (50) and Wahengbam Bimol (26) — were arrested on Tuesday (Ocotber 6), a police official said.",
-      "analysis_hi": "संदर्भ: The two members of the People's Liberation Army — Maibam Arun (50) and Wahengbam Bimol (26) — were arrested on Tuesday (Ocotber 6), a police official said....\n\nप्रमुख बिंदु:\n• The two members of the People's Liberation Army — Maibam Arun (50) and Wahengbam Bimol (26) — were arrested on Tuesday (Ocotber 6), a police official said.\n",
-      "analysis_en": "Reference: The two members of the People's Liberation Army — Maibam Arun (50) and Wahengbam Bimol (26) — were arrested on Tuesday (Ocotber 6), a police official said....\n\nKey Points:\n• The two members of the People's Liberation Army — Maibam Arun (50) and Wahengbam Bimol (26) — were arrested on Tuesday (Ocotber 6), a police official said.\n",
-      "link": "https://www.thehindu.com/news/national/manipur/three-arrested-for-extortion-cadre-recruitment-for-banned-outfits-in-manipur/article71554339.ece"
     }
   ]
 }
