@@ -1,8 +1,93 @@
 {
-  "last_updated": "2026-10-16T04:45:44.795047+00:00",
-  "last_updated_ist": "16 October 2026, 10:15 AM IST",
+  "last_updated": "2026-10-16T04:48:55.226949+00:00",
+  "last_updated_ist": "16 October 2026, 10:18 AM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "bfbf5f8b7748",
+      "date": "16 Oct 2026",
+      "iso_date": "2026-10-16T04:46:29+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Car crashes into lorry carrying steel rods on ORR, two critical",
+      "title_hi": "Car crashes into lorry carrying steel rods on ORR, two critical",
+      "summary_en": "Car crashes into lorry carrying steel rods on ORR, two critical",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Car crashes into lorry carrying steel rods on ORR, two critical",
+      "analysis_hi": "संदर्भ: Car crashes into lorry carrying steel rods on ORR, two critical...\n\nप्रमुख बिंदु:\n• Car crashes into lorry carrying steel rods on ORR, two critical\n",
+      "analysis_en": "Reference: Car crashes into lorry carrying steel rods on ORR, two critical...\n\nKey Points:\n• Car crashes into lorry carrying steel rods on ORR, two critical\n",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/car-crashes-into-lorry-carrying-steel-rods-on-orr-two-critical/article71544747.ece"
+    },
+    {
+      "id": "80a5db6358c5",
+      "date": "16 Oct 2026",
+      "iso_date": "2026-10-16T04:36:18+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Colours of life: How this eight hearing-impaired women stitched a new future through skill training in Malappuram",
+      "title_hi": "Colours of life: How this eight hearing-impaired women stitched a new future through skill training in Malappuram",
+      "summary_en": "Sabna V.K., Ramya A., Afeefa K., Sameena M.K., Nimmy N., Rajeena P., Salma V.P., and Sajeena C. began ‘Colours’ after completing a assistant dress maker course under Jan Shikshan Sansthan",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Sabna V.K., Ramya A., Afeefa K., Sameena M.K., Nimmy N., Rajeena P., Salma V.P., and Sajeena C. began ‘Colours’ after completing a assistant dress maker course under Jan Shikshan Sansthan",
+      "analysis_hi": "संदर्भ: Sabna V.K., Ramya A., Afeefa K., Sameena M.K., Nimmy N., Rajeena P., Salma V.P., and Sajeena C. began ‘Colours’ after completing a assistant dress maker course under Jan Shikshan Sansthan...\n\nप्रमुख बिंदु:\n• Sabna V.K., Ramya A., Afeefa K., Sameena M.K., Nimmy N., Rajeena P., Salma V.P., and Sajeena C\n• began ‘Colours’ after completing a assistant dress maker course under Jan Shikshan Sansthan\n",
+      "analysis_en": "Reference: Sabna V.K., Ramya A., Afeefa K., Sameena M.K., Nimmy N., Rajeena P., Salma V.P., and Sajeena C. began ‘Colours’ after completing a assistant dress maker course under Jan Shikshan Sansthan...\n\nKey Points:\n• Sabna V.K., Ramya A., Afeefa K., Sameena M.K., Nimmy N., Rajeena P., Salma V.P., and Sajeena C\n• began ‘Colours’ after completing a assistant dress maker course under Jan Shikshan Sansthan\n",
+      "link": "https://www.thehindu.com/news/national/kerala/eight-hearing-impaired-women-stitch-a-new-future-through-skill-training-in-malappuram/article71588949.ece"
+    },
+    {
+      "id": "21e4b2b0d01c",
+      "date": "16 Oct 2026",
+      "iso_date": "2026-10-16T04:34:35+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Ambani's Reliance welcomes Starlink competition in first response to Musk",
+      "title_hi": "Ambani's Reliance welcomes Starlink competition in first response to Musk",
+      "summary_en": "\"Jio's own satellite services await clearances,\" Reliance said on October 16, 2026",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। \"Jio's own satellite services await clearances,\" Reliance said on October 16, 2026",
+      "analysis_hi": "संदर्भ: \"Jio's own satellite services await clearances,\" Reliance said on October 16, 2026...\n\nप्रमुख बिंदु:\n• \"Jio's own satellite services await clearances,\" Reliance said on October 16, 2026\n",
+      "analysis_en": "Reference: \"Jio's own satellite services await clearances,\" Reliance said on October 16, 2026...\n\nKey Points:\n• \"Jio's own satellite services await clearances,\" Reliance said on October 16, 2026\n",
+      "link": "https://www.thehindu.com/business/reliance-welcomes-starlink-competition/article71591110.ece"
+    },
     {
       "id": "8508f32041e9",
       "date": "16 Oct 2026",
@@ -116,34 +201,6 @@
       "analysis_hi": "संदर्भ: The Delhi High Court refused to restrain the CJP from holding the proposed 'Tiranga Lehrao' protest in the national capital...\n\nप्रमुख बिंदु:\n• The Delhi High Court refused to restrain the CJP from holding the proposed 'Tiranga Lehrao' protest in the national capital\n",
       "analysis_en": "Reference: The Delhi High Court refused to restrain the CJP from holding the proposed 'Tiranga Lehrao' protest in the national capital...\n\nKey Points:\n• The Delhi High Court refused to restrain the CJP from holding the proposed 'Tiranga Lehrao' protest in the national capital\n",
       "link": "https://www.thehindu.com/news/national/cjp-delhi-tiranga-march-oct-16-2026-live-updates/article71590925.ece"
-    },
-    {
-      "id": "80a5db6358c5",
-      "date": "16 Oct 2026",
-      "iso_date": "2026-10-16T04:21:25+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Colours of life: How this eight hearing-impaired women stitched a new future through skill training in Malappuram",
-      "title_hi": "Colours of life: How this eight hearing-impaired women stitched a new future through skill training in Malappuram",
-      "summary_en": "Sabna V.K., Ramya A., Afeefa K., Sameena M.K., Nimmy N., Rajeena P., Salma V.P., and Sajeena C. began ‘Colours’ after completing a assistant dress maker course under Jan Shikshan Sansthan",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Sabna V.K., Ramya A., Afeefa K., Sameena M.K., Nimmy N., Rajeena P., Salma V.P., and Sajeena C. began ‘Colours’ after completing a assistant dress maker course under Jan Shikshan Sansthan",
-      "analysis_hi": "संदर्भ: Sabna V.K., Ramya A., Afeefa K., Sameena M.K., Nimmy N., Rajeena P., Salma V.P., and Sajeena C. began ‘Colours’ after completing a assistant dress maker course under Jan Shikshan Sansthan...\n\nप्रमुख बिंदु:\n• Sabna V.K., Ramya A., Afeefa K., Sameena M.K., Nimmy N., Rajeena P., Salma V.P., and Sajeena C\n• began ‘Colours’ after completing a assistant dress maker course under Jan Shikshan Sansthan\n",
-      "analysis_en": "Reference: Sabna V.K., Ramya A., Afeefa K., Sameena M.K., Nimmy N., Rajeena P., Salma V.P., and Sajeena C. began ‘Colours’ after completing a assistant dress maker course under Jan Shikshan Sansthan...\n\nKey Points:\n• Sabna V.K., Ramya A., Afeefa K., Sameena M.K., Nimmy N., Rajeena P., Salma V.P., and Sajeena C\n• began ‘Colours’ after completing a assistant dress maker course under Jan Shikshan Sansthan\n",
-      "link": "https://www.thehindu.com/news/national/kerala/eight-hearing-impaired-women-stitch-a-new-future-through-skill-training-in-malappuram/article71588949.ece"
     },
     {
       "id": "f13476af4614",
@@ -459,63 +516,6 @@
       "analysis_hi": "संदर्भ: New Delhi Municipal Council (NDMC) on Thursday (October 15, 2026) announced that Central Park in Connaught Place would remain closed to the public on October 16 and 17 for “administrative reasons”...\n\nप्रमुख बिंदु:\n• New Delhi Municipal Council (NDMC) on Thursday (October 15, 2026) announced that Central Park in Connaught Place would remain closed to the public on October 16 and 17 for “administrative reasons”\n",
       "analysis_en": "Reference: New Delhi Municipal Council (NDMC) on Thursday (October 15, 2026) announced that Central Park in Connaught Place would remain closed to the public on October 16 and 17 for “administrative reasons”...\n\nKey Points:\n• New Delhi Municipal Council (NDMC) on Thursday (October 15, 2026) announced that Central Park in Connaught Place would remain closed to the public on October 16 and 17 for “administrative reasons”\n",
       "link": "https://www.thehindu.com/news/cities/Delhi/cjp-tiranga-rally-movement-around-connaught-place-likely-to-be-affected-says-delhi-traffic-police/article71590971.ece"
-    },
-    {
-      "id": "fcc520d3b06e",
-      "date": "16 Oct 2026",
-      "iso_date": "2026-10-16T03:41:00+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Export levy on petrol hiked, diesel lowered",
-      "title_hi": "Export levy on petrol hiked, diesel lowered",
-      "summary_en": "There is no change in the duty of either of the retail fuels meant for domestic consumption",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। There is no change in the duty of either of the retail fuels meant for domestic consumption",
-      "analysis_hi": "संदर्भ: There is no change in the duty of either of the retail fuels meant for domestic consumption...\n\nप्रमुख बिंदु:\n• There is no change in the duty of either of the retail fuels meant for domestic consumption\n",
-      "analysis_en": "Reference: There is no change in the duty of either of the retail fuels meant for domestic consumption...\n\nKey Points:\n• There is no change in the duty of either of the retail fuels meant for domestic consumption\n",
-      "link": "https://www.thehindu.com/business/india-raises-windfall-tax-on-petrol-cuts-duty-on-diesel/article71590967.ece"
-    },
-    {
-      "id": "796214962910",
-      "date": "16 Oct 2026",
-      "iso_date": "2026-10-16T03:38:54+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "ABVP, BCJD claim victories in Odisha student union elections",
-      "title_hi": "ABVP, BCJD claim victories in Odisha student union elections",
-      "summary_en": "While the ABVP claimed a clean sweep in Ganjam district and said it had dominated in Kendujhar and Mayurbhanj districts, the BCJD said its candidates had won the presidents’ posts at four major universities",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। While the ABVP claimed a clean sweep in Ganjam district and said it had dominated in Kendujhar and Mayurbhanj districts, the BCJD said its candidates had won the presidents’ posts at four major universities",
-      "analysis_hi": "संदर्भ: While the ABVP claimed a clean sweep in Ganjam district and said it had dominated in Kendujhar and Mayurbhanj districts, the BCJD said its candidates had won the presidents’ posts at four major universities...\n\nप्रमुख बिंदु:\n• While the ABVP claimed a clean sweep in Ganjam district and said it had dominated in Kendujhar and Mayurbhanj districts, the BCJD said its candidates had won the presidents’ posts at four major universities\n",
-      "analysis_en": "Reference: While the ABVP claimed a clean sweep in Ganjam district and said it had dominated in Kendujhar and Mayurbhanj districts, the BCJD said its candidates had won the presidents’ posts at four major universities...\n\nKey Points:\n• While the ABVP claimed a clean sweep in Ganjam district and said it had dominated in Kendujhar and Mayurbhanj districts, the BCJD said its candidates had won the presidents’ posts at four major universities\n",
-      "link": "https://www.thehindu.com/news/national/odisha/abvp-bcjd-claim-victories-in-odisha-student-union-elections/article71589361.ece"
     },
     {
       "id": "8a20a3909d6d",
@@ -1083,6 +1083,63 @@
       "analysis_hi": "संदर्भ: ADNOC supplied more than 500,000 barrels of crude a day to India in 2025, “almost one in ten barrels of [India’s] crude imports”. The company is exploring opportunities with ISPRL to expand storage of crude oil, LNG and LPG, including strategic reserves...\n\nप्रमुख बिंदु:\n• ADNOC supplied more than 500,000 barrels of crude a day to India in 2025, “almost one in ten barrels of [India’s] crude imports”\n• The company is exploring opportunities with ISPRL to expand storage of crude oil, LNG and LPG, including strategic reserves\n",
       "analysis_en": "Reference: ADNOC supplied more than 500,000 barrels of crude a day to India in 2025, “almost one in ten barrels of [India’s] crude imports”. The company is exploring opportunities with ISPRL to expand storage of crude oil, LNG and LPG, including strategic reserves...\n\nKey Points:\n• ADNOC supplied more than 500,000 barrels of crude a day to India in 2025, “almost one in ten barrels of [India’s] crude imports”\n• The company is exploring opportunities with ISPRL to expand storage of crude oil, LNG and LPG, including strategic reserves\n",
       "link": "https://www.thehindu.com/business/Economy/adnoc-open-to-long-term-lpg-deals-with-india-eyes-bigger-strategic-reserves/article71575015.ece"
+    },
+    {
+      "id": "fcc520d3b06e",
+      "date": "16 Oct 2026",
+      "iso_date": "2026-10-16T03:41:00+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Export levy on petrol hiked, diesel lowered",
+      "title_hi": "Export levy on petrol hiked, diesel lowered",
+      "summary_en": "There is no change in the duty of either of the retail fuels meant for domestic consumption",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। There is no change in the duty of either of the retail fuels meant for domestic consumption",
+      "analysis_hi": "संदर्भ: There is no change in the duty of either of the retail fuels meant for domestic consumption...\n\nप्रमुख बिंदु:\n• There is no change in the duty of either of the retail fuels meant for domestic consumption\n",
+      "analysis_en": "Reference: There is no change in the duty of either of the retail fuels meant for domestic consumption...\n\nKey Points:\n• There is no change in the duty of either of the retail fuels meant for domestic consumption\n",
+      "link": "https://www.thehindu.com/business/india-raises-windfall-tax-on-petrol-cuts-duty-on-diesel/article71590967.ece"
+    },
+    {
+      "id": "796214962910",
+      "date": "16 Oct 2026",
+      "iso_date": "2026-10-16T03:38:54+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "ABVP, BCJD claim victories in Odisha student union elections",
+      "title_hi": "ABVP, BCJD claim victories in Odisha student union elections",
+      "summary_en": "While the ABVP claimed a clean sweep in Ganjam district and said it had dominated in Kendujhar and Mayurbhanj districts, the BCJD said its candidates had won the presidents’ posts at four major universities",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। While the ABVP claimed a clean sweep in Ganjam district and said it had dominated in Kendujhar and Mayurbhanj districts, the BCJD said its candidates had won the presidents’ posts at four major universities",
+      "analysis_hi": "संदर्भ: While the ABVP claimed a clean sweep in Ganjam district and said it had dominated in Kendujhar and Mayurbhanj districts, the BCJD said its candidates had won the presidents’ posts at four major universities...\n\nप्रमुख बिंदु:\n• While the ABVP claimed a clean sweep in Ganjam district and said it had dominated in Kendujhar and Mayurbhanj districts, the BCJD said its candidates had won the presidents’ posts at four major universities\n",
+      "analysis_en": "Reference: While the ABVP claimed a clean sweep in Ganjam district and said it had dominated in Kendujhar and Mayurbhanj districts, the BCJD said its candidates had won the presidents’ posts at four major universities...\n\nKey Points:\n• While the ABVP claimed a clean sweep in Ganjam district and said it had dominated in Kendujhar and Mayurbhanj districts, the BCJD said its candidates had won the presidents’ posts at four major universities\n",
+      "link": "https://www.thehindu.com/news/national/odisha/abvp-bcjd-claim-victories-in-odisha-student-union-elections/article71589361.ece"
     },
     {
       "id": "4460979accbd",
@@ -5618,63 +5675,6 @@
       "analysis_hi": "संदर्भ: Salur student M. Naresh and Chirala’s E. Swathi win the State-level 5K run organised by the AIDS Control Society...\n\nप्रमुख बिंदु:\n• Swathi win the State-level 5K run organised by the AIDS Control Society\n",
       "analysis_en": "Reference: Salur student M. Naresh and Chirala’s E. Swathi win the State-level 5K run organised by the AIDS Control Society...\n\nKey Points:\n• Swathi win the State-level 5K run organised by the AIDS Control Society\n",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/misconceptions-about-hiv-still-fuel-discrimination-says-apsacs-chief-at-red-run-in-vijayawada/article71560043.ece"
-    },
-    {
-      "id": "a4b1ca05b474",
-      "date": "09 Oct 2026",
-      "iso_date": "2026-10-09T06:13:09+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Four CRPF personnel injured in blast during explosives disposal in Sukma",
-      "title_hi": "Four CRPF personnel injured in blast during explosives disposal in Sukma",
-      "summary_en": "The team was carrying out the disposal process following prescribed safety protocols near Bodrajpadar Nala, around 200 metres from the security camp, when a fragment of an explosive accidentally flew, landed nearby, and exploded",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The team was carrying out the disposal process following prescribed safety protocols near Bodrajpadar Nala, around 200 metres from the सुरक्षा camp, when a fragment of an explosive accidentally flew, landed nearby, and exploded",
-      "analysis_hi": "संदर्भ: The team was carrying out the disposal process following prescribed safety protocols near Bodrajpadar Nala, around 200 metres from the security camp, when a fragment of an explosive accidentally flew, landed nearby, and exploded...\n\nप्रमुख बिंदु:\n• The team was carrying out the disposal process following prescribed safety protocols near Bodrajpadar Nala, around 200 metres from the security camp, when a fragment of an explosive accidentally flew, landed nearby, and exploded\n",
-      "analysis_en": "Reference: The team was carrying out the disposal process following prescribed safety protocols near Bodrajpadar Nala, around 200 metres from the security camp, when a fragment of an explosive accidentally flew, landed nearby, and exploded...\n\nKey Points:\n• The team was carrying out the disposal process following prescribed safety protocols near Bodrajpadar Nala, around 200 metres from the security camp, when a fragment of an explosive accidentally flew, landed nearby, and exploded\n",
-      "link": "https://www.thehindu.com/news/national/chhattisgarh/four-crpf-personnel-injured-in-blast-during-explosives-disposal-in-sukma/article71562794.ece"
-    },
-    {
-      "id": "4b10336ab665",
-      "date": "09 Oct 2026",
-      "iso_date": "2026-10-09T06:12:38+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Counting begins for Bengal bypolls, BJP's first electoral test after coming to power",
-      "title_hi": "Counting begins for Bengal bypolls, BJP's first electoral test after coming to power",
-      "summary_en": "The counting started amid tight security arrangements at the designated centres in both constituencies, with officials first taking up postal ballots and Electronically Transmitted Postal Ballots before proceeding with the EVM votes.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The counting started amid tight सुरक्षा arrangements at the designated centres in both constituencies, with officials first taking up postal ballots and Electronically Transmitted Postal Ballots before proceeding with the EVM votes.",
-      "analysis_hi": "संदर्भ: The counting started amid tight security arrangements at the designated centres in both constituencies, with officials first taking up postal ballots and Electronically Transmitted Postal Ballots before proceeding with the EVM votes....\n\nप्रमुख बिंदु:\n• The counting started amid tight security arrangements at the designated centres in both constituencies, with officials first taking up postal ballots and Electronically Transmitted Postal Ballots before proceeding with the EVM votes.\n",
-      "analysis_en": "Reference: The counting started amid tight security arrangements at the designated centres in both constituencies, with officials first taking up postal ballots and Electronically Transmitted Postal Ballots before proceeding with the EVM votes....\n\nKey Points:\n• The counting started amid tight security arrangements at the designated centres in both constituencies, with officials first taking up postal ballots and Electronically Transmitted Postal Ballots before proceeding with the EVM votes.\n",
-      "link": "https://www.thehindu.com/news/national/west-bengal/counting-begins-for-bengal-bypolls-as-bjp-faces-first-electoral-test/article71562480.ece"
     }
   ]
 }
