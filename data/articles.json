@@ -1,8 +1,36 @@
 {
-  "last_updated": "2026-10-21T05:04:26.088411+00:00",
-  "last_updated_ist": "21 October 2026, 10:34 AM IST",
+  "last_updated": "2026-10-21T05:07:55.551930+00:00",
+  "last_updated_ist": "21 October 2026, 10:37 AM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "7bcd97079a64",
+      "date": "21 Oct 2026",
+      "iso_date": "2026-10-21T05:01:25+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Special officers to administer rural local bodies in 37 districts till April 2027 in T.N.",
+      "title_hi": "Special officers to administer rural local bodies in 37 districts till April 2027 in T.N.",
+      "summary_en": "Special officers are administering rural local bodies in several districts since January 2025",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Special officers are administering rural local bodies in several districts since January 2025",
+      "analysis_hi": "संदर्भ: Special officers are administering rural local bodies in several districts since January 2025...\n\nप्रमुख बिंदु:\n• Special officers are administering rural local bodies in several districts since January 2025\n",
+      "analysis_en": "Reference: Special officers are administering rural local bodies in several districts since January 2025...\n\nKey Points:\n• Special officers are administering rural local bodies in several districts since January 2025\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/special-officers-to-administer-rural-local-bodies-in-37-districts-till-april-2027-in-tn/article71606232.ece"
+    },
     {
       "id": "d8529f51f2f5",
       "date": "21 Oct 2026",
@@ -573,35 +601,6 @@
       "link": "https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece"
     },
     {
-      "id": "44106d06bf97",
-      "date": "20 Oct 2026",
-      "iso_date": "2026-10-20T23:16:25+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
-      "title_hi": "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
-      "summary_en": "The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals",
-      "analysis_hi": "संदर्भ: The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals...\n\nप्रमुख बिंदु:\n• The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals\n",
-      "analysis_en": "Reference: The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals...\n\nKey Points:\n• The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals\n",
-      "link": "https://www.thehindu.com/news/national/west-bengal/left-parties-should-sell-books-from-party-offices-not-at-durga-puja-pandals-says-west-bengal-cm/article71605199.ece"
-    },
-    {
       "id": "3b6602032f06",
       "date": "20 Oct 2026",
       "iso_date": "2026-10-20T22:27:35+00:00",
@@ -1082,6 +1081,35 @@
       "analysis_hi": "संदर्भ: The rural unemployment rate remains “broadly stable” at 4.2% against 4.1% in August, while urban rate marginally rises from 6.8% in August to 6.9% in this month...\n\nप्रमुख बिंदु:\n• The rural unemployment rate remains “broadly stable” at 4.2% against 4.1% in August, while urban rate marginally rises from 6.8% in August to 6.9% in this month\n",
       "analysis_en": "Reference: The rural unemployment rate remains “broadly stable” at 4.2% against 4.1% in August, while urban rate marginally rises from 6.8% in August to 6.9% in this month...\n\nKey Points:\n• The rural unemployment rate remains “broadly stable” at 4.2% against 4.1% in August, while urban rate marginally rises from 6.8% in August to 6.9% in this month\n",
       "link": "https://www.thehindu.com/business/Economy/unemployment-rate-in-country-stands-at-5-in-september-stable-compared-to-august-nso/article71589002.ece"
+    },
+    {
+      "id": "44106d06bf97",
+      "date": "20 Oct 2026",
+      "iso_date": "2026-10-20T23:16:25+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
+      "title_hi": "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
+      "summary_en": "The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals",
+      "analysis_hi": "संदर्भ: The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals...\n\nप्रमुख बिंदु:\n• The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals\n",
+      "analysis_en": "Reference: The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals...\n\nKey Points:\n• The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals\n",
+      "link": "https://www.thehindu.com/news/national/west-bengal/left-parties-should-sell-books-from-party-offices-not-at-durga-puja-pandals-says-west-bengal-cm/article71605199.ece"
     },
     {
       "id": "7a3ff84401d9",
@@ -5651,35 +5679,6 @@
       "analysis_hi": "संदर्भ: The police action follows an FIR registered against them on charges including criminal trespass, violation of a bond and disobedience of orders, among others, officials said...\n\nप्रमुख बिंदु:\n• The police action follows an FIR registered against them on charges including criminal trespass, violation of a bond and disobedience of orders, among others, officials said\n",
       "analysis_en": "Reference: The police action follows an FIR registered against them on charges including criminal trespass, violation of a bond and disobedience of orders, among others, officials said...\n\nKey Points:\n• The police action follows an FIR registered against them on charges including criminal trespass, violation of a bond and disobedience of orders, among others, officials said\n",
       "link": "https://www.thehindu.com/news/national/cjp-anto-cec-protest-jantar-mantar-case-saurav-das-ashutosh-ranka-arrest-update/article71582061.ece"
-    },
-    {
-      "id": "181e3ee05383",
-      "date": "14 Oct 2026",
-      "iso_date": "2026-10-14T04:06:51+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "West Bengal By-elections and what they mean for Opposition politics in the State",
-      "title_hi": "West Bengal By-elections and what they mean for Opposition politics in the State",
-      "summary_en": "Despite these trends, the margin of victory of the BJP in the recently concluded bypolls at Nandigram and Rejinagar is something that must ring alarm bells for the Opposition parties.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Despite these trends, the margin of victory of the BJP in the recently concluded bypolls at Nandigram and Rejinagar is something that must ring alarm bells for the Opposition parties.",
-      "analysis_hi": "संदर्भ: Despite these trends, the margin of victory of the BJP in the recently concluded bypolls at Nandigram and Rejinagar is something that must ring alarm bells for the Opposition parties....\n\nप्रमुख बिंदु:\n• Despite these trends, the margin of victory of the BJP in the recently concluded bypolls at Nandigram and Rejinagar is something that must ring alarm bells for the Opposition parties.\n",
-      "analysis_en": "Reference: Despite these trends, the margin of victory of the BJP in the recently concluded bypolls at Nandigram and Rejinagar is something that must ring alarm bells for the Opposition parties....\n\nKey Points:\n• Despite these trends, the margin of victory of the BJP in the recently concluded bypolls at Nandigram and Rejinagar is something that must ring alarm bells for the Opposition parties.\n",
-      "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-by-elections-and-what-they-mean-for-opposition-politics-in-the-state/article71582230.ece"
     }
   ]
 }
