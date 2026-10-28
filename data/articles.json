@@ -1,8 +1,94 @@
 {
-  "last_updated": "2026-10-28T05:58:47.381944+00:00",
-  "last_updated_ist": "28 October 2026, 11:28 AM IST",
+  "last_updated": "2026-10-28T06:01:36.509821+00:00",
+  "last_updated_ist": "28 October 2026, 11:31 AM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "cb852e943a9c",
+      "date": "28 Oct 2026",
+      "iso_date": "2026-10-28T05:57:21+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Karnataka’s final electoral roll published after SIR",
+      "title_hi": "Karnataka’s final electoral roll published after SIR",
+      "summary_en": "More than 99.32 lakh names have been knocked off the rolls as part of the Special Intensive Revision (SIR) in Karnataka.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। More than 99.32 lakh names have been knocked off the rolls as part of the Special Intensive Revision (SIR) in Karnataka.",
+      "analysis_hi": "संदर्भ: More than 99.32 lakh names have been knocked off the rolls as part of the Special Intensive Revision (SIR) in Karnataka....\n\nप्रमुख बिंदु:\n• More than 99.32 lakh names have been knocked off the rolls as part of the Special Intensive Revision (SIR) in Karnataka.\n",
+      "analysis_en": "Reference: More than 99.32 lakh names have been knocked off the rolls as part of the Special Intensive Revision (SIR) in Karnataka....\n\nKey Points:\n• More than 99.32 lakh names have been knocked off the rolls as part of the Special Intensive Revision (SIR) in Karnataka.\n",
+      "link": "https://www.thehindu.com/videos/karnatakas-final-electoral-roll-published-after-sir/article71630933.ece"
+    },
+    {
+      "id": "10f6dadd036e",
+      "date": "28 Oct 2026",
+      "iso_date": "2026-10-28T05:57:19+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Polling underway for phase 2 of Rajasthan Panchayat polls, faulty EVMs delay start at few booths",
+      "title_hi": "Polling underway for phase 2 of Rajasthan Panchayat polls, faulty EVMs delay start at few booths",
+      "summary_en": "The polling began at 7 a.m. for 352 wards of 22 zila parishads and 2,197 wards of 124 panchayat samitis. In some places, however, it was delayed as electronic voting machines (EVMs) malfunctioned",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The polling began at 7 a.m. for 352 wards of 22 zila parishads and 2,197 wards of 124 panchayat samitis. In some places, however, it was delayed as electronic voting machines (EVMs) malfunctioned",
+      "analysis_hi": "संदर्भ: The polling began at 7 a.m. for 352 wards of 22 zila parishads and 2,197 wards of 124 panchayat samitis. In some places, however, it was delayed as electronic voting machines (EVMs) malfunctioned...\n\nप्रमुख बिंदु:\n• for 352 wards of 22 zila parishads and 2,197 wards of 124 panchayat samitis\n• In some places, however, it was delayed as electronic voting machines (EVMs) malfunctioned\n",
+      "analysis_en": "Reference: The polling began at 7 a.m. for 352 wards of 22 zila parishads and 2,197 wards of 124 panchayat samitis. In some places, however, it was delayed as electronic voting machines (EVMs) malfunctioned...\n\nKey Points:\n• for 352 wards of 22 zila parishads and 2,197 wards of 124 panchayat samitis\n• In some places, however, it was delayed as electronic voting machines (EVMs) malfunctioned\n",
+      "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-panchayat-polls-phase-2-polling-on-october-28-2026/article71634507.ece"
+    },
+    {
+      "id": "79645ae6f5e5",
+      "date": "28 Oct 2026",
+      "iso_date": "2026-10-28T05:55:16+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "EC appoints 11 nodal officers for 2027 Manipur Assembly polls",
+      "title_hi": "EC appoints 11 nodal officers for 2027 Manipur Assembly polls",
+      "summary_en": "Senior IPS officer Kamei Angam Romanus has been named the nodal officer-in-charge of the law and order and security plan, while IAS officer Hungyo Worshang will take charge of excise",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Senior IPS officer Kamei Angam Romanus has been named the nodal officer-in-charge of the law and order and सुरक्षा plan, while IAS officer Hungyo Worshang will take charge of excise",
+      "analysis_hi": "संदर्भ: Senior IPS officer Kamei Angam Romanus has been named the nodal officer-in-charge of the law and order and security plan, while IAS officer Hungyo Worshang will take charge of excise...\n\nप्रमुख बिंदु:\n• Senior IPS officer Kamei Angam Romanus has been named the nodal officer-in-charge of the law and order and security plan, while IAS officer Hungyo Worshang will take charge of excise\n",
+      "analysis_en": "Reference: Senior IPS officer Kamei Angam Romanus has been named the nodal officer-in-charge of the law and order and security plan, while IAS officer Hungyo Worshang will take charge of excise...\n\nKey Points:\n• Senior IPS officer Kamei Angam Romanus has been named the nodal officer-in-charge of the law and order and security plan, while IAS officer Hungyo Worshang will take charge of excise\n",
+      "link": "https://www.thehindu.com/news/national/manipur/ec-appoints-11-nodal-officers-for-2027-manipur-assembly-polls/article71634468.ece"
+    },
     {
       "id": "f0108dc0959b",
       "date": "28 Oct 2026",
@@ -458,90 +544,6 @@
       "analysis_hi": "संदर्भ: The petitions argued that government orders had imposed a “sectarian prayer to particular goddesses of one particular religion as the National Song” which violated fundamental rights of religion and attracted the criminal law...\n\nप्रमुख बिंदु:\n• The petitions argued that government orders had imposed a “sectarian prayer to particular goddesses of one particular religion as the National Song” which violated fundamental rights of religion and attracted the criminal law\n",
       "analysis_en": "Reference: The petitions argued that government orders had imposed a “sectarian prayer to particular goddesses of one particular religion as the National Song” which violated fundamental rights of religion and attracted the criminal law...\n\nKey Points:\n• The petitions argued that government orders had imposed a “sectarian prayer to particular goddesses of one particular religion as the National Song” which violated fundamental rights of religion and attracted the criminal law\n",
       "link": "https://www.thehindu.com/news/national/supreme-court-seeks-government-response-on-pleas-challenging-vande-mataram-as-a-divisive-religious-war-song/article71630270.ece"
-    },
-    {
-      "id": "1c8dd3de1c0e",
-      "date": "28 Oct 2026",
-      "iso_date": "2026-10-28T04:37:25+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Tamil Nadu government revises auto-rickshaw fares in Chennai, other regions",
-      "title_hi": "Tamil Nadu government revises auto-rickshaw fares in Chennai, other regions",
-      "summary_en": "According to a notification published in the government gazette, the minimum fare has been fixed at ₹50 for upto 1.8 km",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। According to a notification published in the सरकार gazette, the minimum fare has been fixed at ₹50 for upto 1.8 km",
-      "analysis_hi": "संदर्भ: According to a notification published in the government gazette, the minimum fare has been fixed at ₹50 for upto 1.8 km...\n\nप्रमुख बिंदु:\n• According to a notification published in the government gazette, the minimum fare has been fixed at ₹50 for upto 1.8 km\n",
-      "analysis_en": "Reference: According to a notification published in the government gazette, the minimum fare has been fixed at ₹50 for upto 1.8 km...\n\nKey Points:\n• According to a notification published in the government gazette, the minimum fare has been fixed at ₹50 for upto 1.8 km\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-revises-auto-rickshaw-fares-in-chennai-other-regions/article71633085.ece"
-    },
-    {
-      "id": "6ae578864d4f",
-      "date": "28 Oct 2026",
-      "iso_date": "2026-10-28T04:34:16+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "‘Magazine’: How Shubham Shevade turned a Maharashtra village into a dazzling Marathi indie",
-      "title_hi": "‘Magazine’: How Shubham Shevade turned a Maharashtra village into a dazzling Marathi indie",
-      "summary_en": "The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more",
-      "analysis_hi": "संदर्भ: The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more...\n\nप्रमुख बिंदु:\n• The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more\n",
-      "analysis_en": "Reference: The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more...\n\nKey Points:\n• The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more\n",
-      "link": "https://www.thehindu.com/entertainment/movies/magazine-how-shubham-shevade-turned-a-maharashtra-village-into-a-dazzling-marathi-indie/article71631249.ece"
-    },
-    {
-      "id": "67eaa7f364a6",
-      "date": "28 Oct 2026",
-      "iso_date": "2026-10-28T04:33:38+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Probe sought into suspected theft of 30 sandalwood trees from Nenmara forest in Keralam",
-      "title_hi": "Probe sought into suspected theft of 30 sandalwood trees from Nenmara forest in Keralam",
-      "summary_en": "Animals and Nature Ethics Community (ANEC) Trust, a wildlife conservation and environmental organisation, has demanded an inquiry into the reported thefts and suspected illegal felling, citing concerns over forest protection and possible lapses in enforcement",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Animals and Nature Ethics Community (ANEC) Trust, a wildlife conservation and environmental organisation, has demanded an inquiry into the reported thefts and suspected illegal felling, citing concerns over forest protection and possible lapses in enforcement",
-      "analysis_hi": "संदर्भ: Animals and Nature Ethics Community (ANEC) Trust, a wildlife conservation and environmental organisation, has demanded an inquiry into the reported thefts and suspected illegal felling, citing concerns over forest protection and possible lapses in enforcement...\n\nप्रमुख बिंदु:\n• Animals and Nature Ethics Community (ANEC) Trust, a wildlife conservation and environmental organisation, has demanded an inquiry into the reported thefts and suspected illegal felling, citing concerns over forest protection and possible lapses in enforcement\n",
-      "analysis_en": "Reference: Animals and Nature Ethics Community (ANEC) Trust, a wildlife conservation and environmental organisation, has demanded an inquiry into the reported thefts and suspected illegal felling, citing concerns over forest protection and possible lapses in enforcement...\n\nKey Points:\n• Animals and Nature Ethics Community (ANEC) Trust, a wildlife conservation and environmental organisation, has demanded an inquiry into the reported thefts and suspected illegal felling, citing concerns over forest protection and possible lapses in enforcement\n",
-      "link": "https://www.thehindu.com/news/national/kerala/probe-sought-into-suspected-theft-of-30-sandalwood-trees-from-nenmara-forest-in-keralam/article71634274.ece"
     },
     {
       "id": "971c1a799628",
@@ -1077,6 +1079,90 @@
       "analysis_hi": "संदर्भ: Most State government expenditure is on social sectors, such as health and education, and economic sectors, such as agriculture and irrigation. In Kerala, such spending has driven social progress since the 1960s. The gap between expenditure and receipts is usually financed through market borrowings....\n\nप्रमुख बिंदु:\n• Most State government expenditure is on social sectors, such as health and education, and economic sectors, such as agriculture and irrigation\n• In Kerala, such spending has driven social progress since the 1960s\n• The gap between expenditure and receipts is usually financed through market borrowings.\n",
       "analysis_en": "Reference: Most State government expenditure is on social sectors, such as health and education, and economic sectors, such as agriculture and irrigation. In Kerala, such spending has driven social progress since the 1960s. The gap between expenditure and receipts is usually financed through market borrowings....\n\nKey Points:\n• Most State government expenditure is on social sectors, such as health and education, and economic sectors, such as agriculture and irrigation\n• In Kerala, such spending has driven social progress since the 1960s\n• The gap between expenditure and receipts is usually financed through market borrowings.\n",
       "link": "https://www.thehindu.com/business/Economy/the-fiscal-tightrope-for-state-governments/article71167296.ece"
+    },
+    {
+      "id": "1c8dd3de1c0e",
+      "date": "28 Oct 2026",
+      "iso_date": "2026-10-28T04:37:25+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Tamil Nadu government revises auto-rickshaw fares in Chennai, other regions",
+      "title_hi": "Tamil Nadu government revises auto-rickshaw fares in Chennai, other regions",
+      "summary_en": "According to a notification published in the government gazette, the minimum fare has been fixed at ₹50 for upto 1.8 km",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। According to a notification published in the सरकार gazette, the minimum fare has been fixed at ₹50 for upto 1.8 km",
+      "analysis_hi": "संदर्भ: According to a notification published in the government gazette, the minimum fare has been fixed at ₹50 for upto 1.8 km...\n\nप्रमुख बिंदु:\n• According to a notification published in the government gazette, the minimum fare has been fixed at ₹50 for upto 1.8 km\n",
+      "analysis_en": "Reference: According to a notification published in the government gazette, the minimum fare has been fixed at ₹50 for upto 1.8 km...\n\nKey Points:\n• According to a notification published in the government gazette, the minimum fare has been fixed at ₹50 for upto 1.8 km\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-revises-auto-rickshaw-fares-in-chennai-other-regions/article71633085.ece"
+    },
+    {
+      "id": "6ae578864d4f",
+      "date": "28 Oct 2026",
+      "iso_date": "2026-10-28T04:34:16+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "‘Magazine’: How Shubham Shevade turned a Maharashtra village into a dazzling Marathi indie",
+      "title_hi": "‘Magazine’: How Shubham Shevade turned a Maharashtra village into a dazzling Marathi indie",
+      "summary_en": "The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more",
+      "analysis_hi": "संदर्भ: The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more...\n\nप्रमुख बिंदु:\n• The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more\n",
+      "analysis_en": "Reference: The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more...\n\nKey Points:\n• The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more\n",
+      "link": "https://www.thehindu.com/entertainment/movies/magazine-how-shubham-shevade-turned-a-maharashtra-village-into-a-dazzling-marathi-indie/article71631249.ece"
+    },
+    {
+      "id": "67eaa7f364a6",
+      "date": "28 Oct 2026",
+      "iso_date": "2026-10-28T04:33:38+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Probe sought into suspected theft of 30 sandalwood trees from Nenmara forest in Keralam",
+      "title_hi": "Probe sought into suspected theft of 30 sandalwood trees from Nenmara forest in Keralam",
+      "summary_en": "Animals and Nature Ethics Community (ANEC) Trust, a wildlife conservation and environmental organisation, has demanded an inquiry into the reported thefts and suspected illegal felling, citing concerns over forest protection and possible lapses in enforcement",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Animals and Nature Ethics Community (ANEC) Trust, a wildlife conservation and environmental organisation, has demanded an inquiry into the reported thefts and suspected illegal felling, citing concerns over forest protection and possible lapses in enforcement",
+      "analysis_hi": "संदर्भ: Animals and Nature Ethics Community (ANEC) Trust, a wildlife conservation and environmental organisation, has demanded an inquiry into the reported thefts and suspected illegal felling, citing concerns over forest protection and possible lapses in enforcement...\n\nप्रमुख बिंदु:\n• Animals and Nature Ethics Community (ANEC) Trust, a wildlife conservation and environmental organisation, has demanded an inquiry into the reported thefts and suspected illegal felling, citing concerns over forest protection and possible lapses in enforcement\n",
+      "analysis_en": "Reference: Animals and Nature Ethics Community (ANEC) Trust, a wildlife conservation and environmental organisation, has demanded an inquiry into the reported thefts and suspected illegal felling, citing concerns over forest protection and possible lapses in enforcement...\n\nKey Points:\n• Animals and Nature Ethics Community (ANEC) Trust, a wildlife conservation and environmental organisation, has demanded an inquiry into the reported thefts and suspected illegal felling, citing concerns over forest protection and possible lapses in enforcement\n",
+      "link": "https://www.thehindu.com/news/national/kerala/probe-sought-into-suspected-theft-of-30-sandalwood-trees-from-nenmara-forest-in-keralam/article71634274.ece"
     },
     {
       "id": "97a7b7b466e6",
@@ -5588,91 +5674,6 @@
       "analysis_hi": "संदर्भ: Corporate investment as a share of GDP in India has declined sharply since demonetisation, with the fall persisting despite tax cuts and a low-interest-rate regime; smaller firms face higher interest costs, while larger firms are more constrained by demand; reviving investment requires government ex...\n\nप्रमुख बिंदु:\n• Corporate investment as a share of GDP in India has declined sharply since demonetisation, with the fall persisting despite tax cuts and a low-interest-rate regime; smaller firms face higher interest costs, while larger firms are more constrained by demand; reviving investment requires government expenditure to push profitability up\n",
       "analysis_en": "Reference: Corporate investment as a share of GDP in India has declined sharply since demonetisation, with the fall persisting despite tax cuts and a low-interest-rate regime; smaller firms face higher interest costs, while larger firms are more constrained by demand; reviving investment requires government ex...\n\nKey Points:\n• Corporate investment as a share of GDP in India has declined sharply since demonetisation, with the fall persisting despite tax cuts and a low-interest-rate regime; smaller firms face higher interest costs, while larger firms are more constrained by demand; reviving investment requires government expenditure to push profitability up\n",
       "link": "https://www.thehindu.com/business/Economy/what-drives-corporate-investment/article71360385.ece"
-    },
-    {
-      "id": "7d2b5878a964",
-      "date": "18 Oct 2026",
-      "iso_date": "2026-10-18T16:18:26+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Does ‘inflation targeting’ work in India?",
-      "title_hi": "Does ‘inflation targeting’ work in India?",
-      "summary_en": "India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India’s Phillips curve is found to be flat, while households’ मुद्रास्फीति expectations remain consistently higher than the RBI’s projections; this suggests that मुद्रास्फीति targeting can lower output and employment without a commensurate reduction in मुद्रास्फीति",
-      "analysis_hi": "संदर्भ: India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation...\n\nप्रमुख बिंदु:\n• India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation\n",
-      "analysis_en": "Reference: India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation...\n\nKey Points:\n• India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation\n",
-      "link": "https://www.thehindu.com/business/Economy/does-inflation-targeting-work-in-india/article71435164.ece"
-    },
-    {
-      "id": "ce43d8c74a1c",
-      "date": "18 Oct 2026",
-      "iso_date": "2026-10-18T16:18:14+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "What lies beyond India’s E20 push",
-      "title_hi": "What lies beyond India’s E20 push",
-      "summary_en": "The E20 blend’s promised savings were offset by lower mileage, with consumers spending an estimated ₹88,234 cr. extra over the last three years; its benefits for emissions and forex savings are uncertain, as higher fuel consumption can raise emissions while diverting crops to ethanol can affect food security and exports",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The E20 blend’s promised savings were offset by lower mileage, with consumers spending an estimated ₹88,234 cr. extra over the last three years; its benefits for emissions and forex savings are uncertain, as higher fuel consumption can raise emissions while diverting crops to ethanol can affect food सुरक्षा and exports",
-      "analysis_hi": "संदर्भ: The E20 blend’s promised savings were offset by lower mileage, with consumers spending an estimated ₹88,234 cr. extra over the last three years; its benefits for emissions and forex savings are uncertain, as higher fuel consumption can raise emissions while diverting crops to ethanol can affect food...\n\nप्रमुख बिंदु:\n• The E20 blend’s promised savings were offset by lower mileage, with consumers spending an estimated ₹88,234 cr\n• extra over the last three years; its benefits for emissions and forex savings are uncertain, as higher fuel consumption can raise emissions while diverting crops to ethanol can affect food security and exports\n",
-      "analysis_en": "Reference: The E20 blend’s promised savings were offset by lower mileage, with consumers spending an estimated ₹88,234 cr. extra over the last three years; its benefits for emissions and forex savings are uncertain, as higher fuel consumption can raise emissions while diverting crops to ethanol can affect food...\n\nKey Points:\n• The E20 blend’s promised savings were offset by lower mileage, with consumers spending an estimated ₹88,234 cr\n• extra over the last three years; its benefits for emissions and forex savings are uncertain, as higher fuel consumption can raise emissions while diverting crops to ethanol can affect food security and exports\n",
-      "link": "https://www.thehindu.com/business/Economy/what-lies-beyond-indias-e20-push/article71472275.ece"
-    },
-    {
-      "id": "f481a5477e9f",
-      "date": "18 Oct 2026",
-      "iso_date": "2026-10-18T16:17:59+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "India’s trade caught in the middle",
-      "title_hi": "India’s trade caught in the middle",
-      "summary_en": "India’s trade surplus with the U.S. is critical as it offsets a structural trade deficit with China, but a heavy U.S. tariff and the potential impact of AI on exports could put this surplus at risk and intensify pressure on the rupee; India should treat the tariff threat as a wake-up call to diversify its export markets and products",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India’s trade surplus with the U.S. is critical as it offsets a structural trade deficit with China, but a heavy U.S. tariff and the potential impact of AI on exports could put this surplus at risk and intensify pressure on the rupee; India should treat the tariff threat as a wake-up call to diversify its export markets and products",
-      "analysis_hi": "संदर्भ: India’s trade surplus with the U.S. is critical as it offsets a structural trade deficit with China, but a heavy U.S. tariff and the potential impact of AI on exports could put this surplus at risk and intensify pressure on the rupee; India should treat the tariff threat as a wake-up call to diversi...\n\nप्रमुख बिंदु:\n• India’s trade surplus with the U.S\n• is critical as it offsets a structural trade deficit with China, but a heavy U.S\n• tariff and the potential impact of AI on exports could put this surplus at risk and intensify pressure on the rupee; India should treat the tariff threat as a wake-up call to diversify its export markets and products\n",
-      "analysis_en": "Reference: India’s trade surplus with the U.S. is critical as it offsets a structural trade deficit with China, but a heavy U.S. tariff and the potential impact of AI on exports could put this surplus at risk and intensify pressure on the rupee; India should treat the tariff threat as a wake-up call to diversi...\n\nKey Points:\n• India’s trade surplus with the U.S\n• is critical as it offsets a structural trade deficit with China, but a heavy U.S\n• tariff and the potential impact of AI on exports could put this surplus at risk and intensify pressure on the rupee; India should treat the tariff threat as a wake-up call to diversify its export markets and products\n",
-      "link": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece"
     }
   ]
 }
