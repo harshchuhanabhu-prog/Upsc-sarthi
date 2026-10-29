@@ -1,8 +1,150 @@
 {
-  "last_updated": "2026-10-29T06:05:21.284261+00:00",
-  "last_updated_ist": "29 October 2026, 11:35 AM IST",
+  "last_updated": "2026-10-29T06:12:50.613434+00:00",
+  "last_updated_ist": "29 October 2026, 11:42 AM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "1ddcd1ddaff5",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T06:07:21+00:00",
+      "category": "security",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Security"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Linkages between development and spread of extremism",
+        "GS-3: Basics of cyber security",
+        "GS-3: Role of external state and non-state actors"
+      ],
+      "title_en": "Extremely harmful to Indian democracy: Rijiju slams Naseeruddin Shah's 'dimagi naxal' video",
+      "title_hi": "Extremely harmful to Indian democracy: Rijiju slams Naseeruddin Shah's 'dimagi naxal' video",
+      "summary_en": "In a video posted on Facebook, a visibly angry Naseeruddin Shah came out in support of Jamia Millia Islamia students, who have been protesting for the restoration of the students' union, and called himself a \"dimagi naxal\"",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In a video posted on Facebook, a visibly angry Naseeruddin Shah came out in support of Jamia Millia Islamia students, who have been protesting for the restoration of the students' union, and called himself a \"dimagi naxal\"",
+      "analysis_hi": "संदर्भ: In a video posted on Facebook, a visibly angry Naseeruddin Shah came out in support of Jamia Millia Islamia students, who have been protesting for the restoration of the students' union, and called himself a \"dimagi naxal\"...\n\nप्रमुख बिंदु:\n• In a video posted on Facebook, a visibly angry Naseeruddin Shah came out in support of Jamia Millia Islamia students, who have been protesting for the restoration of the students' union, and called himself a \"dimagi naxal\"\n",
+      "analysis_en": "Reference: In a video posted on Facebook, a visibly angry Naseeruddin Shah came out in support of Jamia Millia Islamia students, who have been protesting for the restoration of the students' union, and called himself a \"dimagi naxal\"...\n\nKey Points:\n• In a video posted on Facebook, a visibly angry Naseeruddin Shah came out in support of Jamia Millia Islamia students, who have been protesting for the restoration of the students' union, and called himself a \"dimagi naxal\"\n",
+      "link": "https://www.thehindu.com/news/national/rijiju-slams-naseeruddin-shah-dimagi-naxal-video/article71639205.ece"
+    },
+    {
+      "id": "51524cf78f72",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T06:07:10+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Postal Department organises awareness rally in Yadgir to promote integrity",
+      "title_hi": "Postal Department organises awareness rally in Yadgir to promote integrity",
+      "summary_en": "​Flagging off the rally, Assistant Superintendent of Post Offices (Yadgir division) Krishna Mohite stressed that honesty, morality, and accountability form the foundation of individual and societal prosperity",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ​Flagging off the rally, Assistant Superintendent of Post Offices (Yadgir division) Krishna Mohite stressed that honesty, morality, and accountability form the foundation of individual and societal prosperity",
+      "analysis_hi": "संदर्भ: ​Flagging off the rally, Assistant Superintendent of Post Offices (Yadgir division) Krishna Mohite stressed that honesty, morality, and accountability form the foundation of individual and societal prosperity...\n\nप्रमुख बिंदु:\n• ​Flagging off the rally, Assistant Superintendent of Post Offices (Yadgir division) Krishna Mohite stressed that honesty, morality, and accountability form the foundation of individual and societal prosperity\n",
+      "analysis_en": "Reference: ​Flagging off the rally, Assistant Superintendent of Post Offices (Yadgir division) Krishna Mohite stressed that honesty, morality, and accountability form the foundation of individual and societal prosperity...\n\nKey Points:\n• ​Flagging off the rally, Assistant Superintendent of Post Offices (Yadgir division) Krishna Mohite stressed that honesty, morality, and accountability form the foundation of individual and societal prosperity\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/postal-department-organises-awareness-rally-in-yadgir-to-promote-integrity/article71635858.ece"
+    },
+    {
+      "id": "2dc799b5b0b8",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T06:04:05+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Durga Puja 2026: All set for the beat of the dhak",
+      "title_hi": "Durga Puja 2026: All set for the beat of the dhak",
+      "summary_en": "As India gears up for Durga Puja 2026, the air will once again thrum with the beat of the dhak. In this special package, we bring you stories from pandals across cities, meet the artisans shaping this year’s idols, and tune in to the music, food, and festive fervour that define the season.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। As India gears up for Durga Puja 2026, the air will once again thrum with the beat of the dhak. In this special package, we bring you stories from pandals across cities, meet the artisans shaping this year’s idols, and tune in to the music, food, and festive fervour that define the season.",
+      "analysis_hi": "संदर्भ: As India gears up for Durga Puja 2026, the air will once again thrum with the beat of the dhak. In this special package, we bring you stories from pandals across cities, meet the artisans shaping this year’s idols, and tune in to the music, food, and festive fervour that define the season....\n\nप्रमुख बिंदु:\n• As India gears up for Durga Puja 2026, the air will once again thrum with the beat of the dhak\n• In this special package, we bring you stories from pandals across cities, meet the artisans shaping this year’s idols, and tune in to the music, food, and festive fervour that define the season.\n",
+      "analysis_en": "Reference: As India gears up for Durga Puja 2026, the air will once again thrum with the beat of the dhak. In this special package, we bring you stories from pandals across cities, meet the artisans shaping this year’s idols, and tune in to the music, food, and festive fervour that define the season....\n\nKey Points:\n• As India gears up for Durga Puja 2026, the air will once again thrum with the beat of the dhak\n• In this special package, we bring you stories from pandals across cities, meet the artisans shaping this year’s idols, and tune in to the music, food, and festive fervour that define the season.\n",
+      "link": "https://www.thehindu.com/society/history-and-culture/durga-puja-2026-stories-on-pandals-idols-food-festival/article71591166.ece"
+    },
+    {
+      "id": "43cf6092df4c",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T06:02:59+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Kerala HC quashes cheating case against Nivin Pauly, director Abrid Shine after out-of-court settlement in dispute over film rights",
+      "title_hi": "Kerala HC quashes cheating case against Nivin Pauly, director Abrid Shine after out-of-court settlement in dispute over film rights",
+      "summary_en": "Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2. The complainant alleged that after entering into an agreement to produce the film, its overseas rights were sold to another party without his knowledge",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2. The complainant alleged that after entering into an समझौता to produce the film, its overseas rights were sold to another party without his knowledge",
+      "analysis_hi": "संदर्भ: Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2. The complainant alleged that after entering into an agreement to produce the film, its overseas rights were sold to another party without his knowledge...\n\nप्रमुख बिंदु:\n• Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2\n• The complainant alleged that after entering into an agreement to produce the film, its overseas rights were sold to another party without his knowledge\n",
+      "analysis_en": "Reference: Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2. The complainant alleged that after entering into an agreement to produce the film, its overseas rights were sold to another party without his knowledge...\n\nKey Points:\n• Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2\n• The complainant alleged that after entering into an agreement to produce the film, its overseas rights were sold to another party without his knowledge\n",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-quashes-cheating-case-against-nivin-pauly-director-abrid-shine-after-out-of-court-settlement-in-dispute-over-film-rights/article71636612.ece"
+    },
+    {
+      "id": "63229c3e91b0",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T05:59:13+00:00",
+      "category": "social",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-1",
+        "GS-2"
+      ],
+      "subjects": [
+        "Social Issues"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-1: Population and associated issues",
+        "GS-2: Issues relating to development and management of Social Sector/Services"
+      ],
+      "title_en": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+      "title_hi": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+      "summary_en": "Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals",
+      "analysis_hi": "संदर्भ: Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals...\n\nप्रमुख बिंदु:\n• Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals\n",
+      "analysis_en": "Reference: Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals...\n\nKey Points:\n• Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals\n",
+      "link": "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece"
+    },
     {
       "id": "683c71c23c5c",
       "date": "29 Oct 2026",
@@ -201,34 +343,6 @@
       "link": "https://www.thehindu.com/news/cities/Visakhapatnam/cyclone-arnab-corporator-candidates-shifts-focus-to-relief-works-from-electioneering-in-vizag/article71635899.ece"
     },
     {
-      "id": "43cf6092df4c",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T05:34:29+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Kerala HC quashes cheating case against Nivin Pauly, director Abrid Shine after out-of-court settlement in dispute over film rights",
-      "title_hi": "Kerala HC quashes cheating case against Nivin Pauly, director Abrid Shine after out-of-court settlement in dispute over film rights",
-      "summary_en": "Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2. The complainant alleged that after entering into an agreement to produce the film, its overseas rights were sold to another party without his knowledge",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2. The complainant alleged that after entering into an समझौता to produce the film, its overseas rights were sold to another party without his knowledge",
-      "analysis_hi": "संदर्भ: Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2. The complainant alleged that after entering into an agreement to produce the film, its overseas rights were sold to another party without his knowledge...\n\nप्रमुख बिंदु:\n• Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2\n• The complainant alleged that after entering into an agreement to produce the film, its overseas rights were sold to another party without his knowledge\n",
-      "analysis_en": "Reference: Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2. The complainant alleged that after entering into an agreement to produce the film, its overseas rights were sold to another party without his knowledge...\n\nKey Points:\n• Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2\n• The complainant alleged that after entering into an agreement to produce the film, its overseas rights were sold to another party without his knowledge\n",
-      "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-quashes-cheating-case-against-nivin-pauly-director-abrid-shine-after-out-of-court-settlement-in-dispute-over-film-rights/article71636612.ece"
-    },
-    {
       "id": "0adcbb00d3f5",
       "date": "29 Oct 2026",
       "iso_date": "2026-10-29T05:27:49+00:00",
@@ -312,34 +426,6 @@
       "analysis_hi": "संदर्भ: Accessible and affordable public spaces for literary programmes, better coordination of local events and initiatives to encourage young writers sought...\n\nप्रमुख बिंदु:\n• Accessible and affordable public spaces for literary programmes, better coordination of local events and initiatives to encourage young writers sought\n",
       "analysis_en": "Reference: Accessible and affordable public spaces for literary programmes, better coordination of local events and initiatives to encourage young writers sought...\n\nKey Points:\n• Accessible and affordable public spaces for literary programmes, better coordination of local events and initiatives to encourage young writers sought\n",
       "link": "https://www.thehindu.com/news/national/kerala/as-kozhikode-marks-three-years-of-city-of-literature-recognition-writers-seek-more-focus-at-local-level/article71636386.ece"
-    },
-    {
-      "id": "63229c3e91b0",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T05:19:50+00:00",
-      "category": "social",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-1",
-        "GS-2"
-      ],
-      "subjects": [
-        "Social Issues"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-1: Population and associated issues",
-        "GS-2: Issues relating to development and management of Social Sector/Services"
-      ],
-      "title_en": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
-      "title_hi": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
-      "summary_en": "Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals",
-      "analysis_hi": "संदर्भ: Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals...\n\nप्रमुख बिंदु:\n• Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals\n",
-      "analysis_en": "Reference: Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals...\n\nKey Points:\n• Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals\n",
-      "link": "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece"
     },
     {
       "id": "f7755dca70f0",
@@ -481,91 +567,6 @@
       "analysis_hi": "संदर्भ: Traders’ association claims that unregulated street vending and encroachments on public spaces are affecting local businesses...\n\nप्रमुख बिंदु:\n• Traders’ association claims that unregulated street vending and encroachments on public spaces are affecting local businesses\n",
       "analysis_en": "Reference: Traders’ association claims that unregulated street vending and encroachments on public spaces are affecting local businesses...\n\nKey Points:\n• Traders’ association claims that unregulated street vending and encroachments on public spaces are affecting local businesses\n",
       "link": "https://www.thehindu.com/news/national/karnataka/traders-seek-action-against-street-vendors-encroachments-in-dharwad/article71636398.ece"
-    },
-    {
-      "id": "a1f5eb7bf44d",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T04:07:23+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Telangana SIR: Form-6 rejections and Form-7 deletions unusually high during pre-SIR period",
-      "title_hi": "Telangana SIR: Form-6 rejections and Form-7 deletions unusually high during pre-SIR period",
-      "summary_en": "The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high",
-      "analysis_hi": "संदर्भ: The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high...\n\nप्रमुख बिंदु:\n• The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high\n",
-      "analysis_en": "Reference: The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high...\n\nKey Points:\n• The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high\n",
-      "link": "https://www.thehindu.com/news/national/telangana/telangana-sir-form-6-rejections-and-form-7-deletions-unusually-high-during-pre-sir-period/article71637814.ece"
-    },
-    {
-      "id": "8f76a6cd2bc9",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T03:47:46+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district",
-      "title_hi": "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district",
-      "summary_en": "The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi",
-      "analysis_hi": "संदर्भ: The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi...\n\nप्रमुख बिंदु:\n• The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi\n",
-      "analysis_en": "Reference: The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi...\n\nKey Points:\n• The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/revenue-authorities-told-to-examine-records-in-13-year-old-land-dispute-involving-70-acres-of-government-land-in-kalaburagi-district/article71636439.ece"
-    },
-    {
-      "id": "d3ebe568c51f",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T03:31:04+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Cyberabad Police plan one-way loop to ease IT corridor traffic",
-      "title_hi": "Cyberabad Police plan one-way loop to ease IT corridor traffic",
-      "summary_en": "Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system",
-      "analysis_hi": "संदर्भ: Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system...\n\nप्रमुख बिंदु:\n• Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system\n",
-      "analysis_en": "Reference: Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system...\n\nKey Points:\n• Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system\n",
-      "link": "https://www.thehindu.com/news/national/telangana/cyberabad-police-plan-one-way-loop-to-ease-it-corridor-traffic/article71637785.ece"
     },
     {
       "id": "6e0a5170c531",
@@ -1128,6 +1129,91 @@
       "analysis_hi": "संदर्भ: Bharat Petroleum’s revenues spurred 29% whilst net profit declined 22.5% on a year-over-year basis in Q2...\n\nप्रमुख बिंदु:\n• Bharat Petroleum’s revenues spurred 29% whilst net profit declined 22.5% on a year-over-year basis in Q2\n",
       "analysis_en": "Reference: Bharat Petroleum’s revenues spurred 29% whilst net profit declined 22.5% on a year-over-year basis in Q2...\n\nKey Points:\n• Bharat Petroleum’s revenues spurred 29% whilst net profit declined 22.5% on a year-over-year basis in Q2\n",
       "link": "https://www.thehindu.com/business/Industry/bharat-petroleums-net-profit-dips-amid-volatile-crude-prices-in-q2/article71617243.ece"
+    },
+    {
+      "id": "a1f5eb7bf44d",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T04:07:23+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Telangana SIR: Form-6 rejections and Form-7 deletions unusually high during pre-SIR period",
+      "title_hi": "Telangana SIR: Form-6 rejections and Form-7 deletions unusually high during pre-SIR period",
+      "summary_en": "The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high",
+      "analysis_hi": "संदर्भ: The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high...\n\nप्रमुख बिंदु:\n• The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high\n",
+      "analysis_en": "Reference: The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high...\n\nKey Points:\n• The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high\n",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-sir-form-6-rejections-and-form-7-deletions-unusually-high-during-pre-sir-period/article71637814.ece"
+    },
+    {
+      "id": "8f76a6cd2bc9",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T03:47:46+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district",
+      "title_hi": "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district",
+      "summary_en": "The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi",
+      "analysis_hi": "संदर्भ: The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi...\n\nप्रमुख बिंदु:\n• The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi\n",
+      "analysis_en": "Reference: The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi...\n\nKey Points:\n• The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/revenue-authorities-told-to-examine-records-in-13-year-old-land-dispute-involving-70-acres-of-government-land-in-kalaburagi-district/article71636439.ece"
+    },
+    {
+      "id": "d3ebe568c51f",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T03:31:04+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Cyberabad Police plan one-way loop to ease IT corridor traffic",
+      "title_hi": "Cyberabad Police plan one-way loop to ease IT corridor traffic",
+      "summary_en": "Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system",
+      "analysis_hi": "संदर्भ: Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system...\n\nप्रमुख बिंदु:\n• Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system\n",
+      "analysis_en": "Reference: Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system...\n\nKey Points:\n• Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system\n",
+      "link": "https://www.thehindu.com/news/national/telangana/cyberabad-police-plan-one-way-loop-to-ease-it-corridor-traffic/article71637785.ece"
     },
     {
       "id": "cb852e943a9c",
@@ -5582,91 +5668,6 @@
       "analysis_hi": "संदर्भ: Rule 8 of the RER, 1960, prescribes Form-4 issued by the Electoral Registration Officers to collect details of the electors in all kinds of revisions of the electoral rolls, be it Special Summary Revision or Special Intensive Revision...\n\nप्रमुख बिंदु:\n• Rule 8 of the RER, 1960, prescribes Form-4 issued by the Electoral Registration Officers to collect details of the electors in all kinds of revisions of the electoral rolls, be it Special Summary Revision or Special Intensive Revision\n",
       "analysis_en": "Reference: Rule 8 of the RER, 1960, prescribes Form-4 issued by the Electoral Registration Officers to collect details of the electors in all kinds of revisions of the electoral rolls, be it Special Summary Revision or Special Intensive Revision...\n\nKey Points:\n• Rule 8 of the RER, 1960, prescribes Form-4 issued by the Electoral Registration Officers to collect details of the electors in all kinds of revisions of the electoral rolls, be it Special Summary Revision or Special Intensive Revision\n",
       "link": "https://www.thehindu.com/news/national/telangana/ecis-enumeration-form-format-for-special-intensive-revision-raises-legal-questions/article71608981.ece"
-    },
-    {
-      "id": "4e676176a9ae",
-      "date": "22 Oct 2026",
-      "iso_date": "2026-10-22T03:17:22+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Mumbai Police issue notices to 24 ''X'' accounts over Sabeer Bhatia's documentary",
-      "title_hi": "Mumbai Police issue notices to 24 ''X'' accounts over Sabeer Bhatia's documentary",
-      "summary_en": "The notices were issued on October 18, days after the documentary, allegedly containing false and disparaging claims about Prime Minister Narendra Modi and industrialist Gautam Adani, sparked a controversy",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The notices were issued on October 18, days after the documentary, allegedly containing false and disparaging claims about प्रधानमंत्री Narendra Modi and industrialist Gautam Adani, sparked a controversy",
-      "analysis_hi": "संदर्भ: The notices were issued on October 18, days after the documentary, allegedly containing false and disparaging claims about Prime Minister Narendra Modi and industrialist Gautam Adani, sparked a controversy...\n\nप्रमुख बिंदु:\n• The notices were issued on October 18, days after the documentary, allegedly containing false and disparaging claims about Prime Minister Narendra Modi and industrialist Gautam Adani, sparked a controversy\n",
-      "analysis_en": "Reference: The notices were issued on October 18, days after the documentary, allegedly containing false and disparaging claims about Prime Minister Narendra Modi and industrialist Gautam Adani, sparked a controversy...\n\nKey Points:\n• The notices were issued on October 18, days after the documentary, allegedly containing false and disparaging claims about Prime Minister Narendra Modi and industrialist Gautam Adani, sparked a controversy\n",
-      "link": "https://www.thehindu.com/news/cities/mumbai/mumbai-police-issue-notices-to-24-x-accounts-over-sabeer-bhatias-documentary/article71609861.ece"
-    },
-    {
-      "id": "cd6275dab4bd",
-      "date": "22 Oct 2026",
-      "iso_date": "2026-10-22T03:12:38+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "CMRL-Exalogic case: In an update from oral pronouncement, Supreme Court specifies freeze period as 10 days in published order",
-      "title_hi": "CMRL-Exalogic case: In an update from oral pronouncement, Supreme Court specifies freeze period as 10 days in published order",
-      "summary_en": "The oral pronouncement in open court on October 21 had specifically dictated the time of stay as a week or seven days",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The oral pronouncement in open court on October 21 had specifically dictated the time of stay as a week or seven days",
-      "analysis_hi": "संदर्भ: The oral pronouncement in open court on October 21 had specifically dictated the time of stay as a week or seven days...\n\nप्रमुख बिंदु:\n• The oral pronouncement in open court on October 21 had specifically dictated the time of stay as a week or seven days\n",
-      "analysis_en": "Reference: The oral pronouncement in open court on October 21 had specifically dictated the time of stay as a week or seven days...\n\nKey Points:\n• The oral pronouncement in open court on October 21 had specifically dictated the time of stay as a week or seven days\n",
-      "link": "https://www.thehindu.com/news/national/cmrl-exalogic-case-in-an-update-from-oral-pronouncement-supreme-court-specifies-freeze-period-as-10-days-in-published-order/article71609959.ece"
-    },
-    {
-      "id": "a6f727f2cf27",
-      "date": "22 Oct 2026",
-      "iso_date": "2026-10-22T03:10:47+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Schools closed in five Tamil Nadu districts after overnight rain",
-      "title_hi": "Schools closed in five Tamil Nadu districts after overnight rain",
-      "summary_en": "Mamallapuram recorded the highest rainfall at 9 cm, followed by Tenkasi and Sattankulam in Thoothukudi district, which received 6 cm each. Tirunelveli, Mayiladuthurai and Tiruvarur recorded 5 cm each",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Mamallapuram recorded the highest rainfall at 9 cm, followed by Tenkasi and Sattankulam in Thoothukudi district, which received 6 cm each. Tirunelveli, Mayiladuthurai and Tiruvarur recorded 5 cm each",
-      "analysis_hi": "संदर्भ: Mamallapuram recorded the highest rainfall at 9 cm, followed by Tenkasi and Sattankulam in Thoothukudi district, which received 6 cm each. Tirunelveli, Mayiladuthurai and Tiruvarur recorded 5 cm each...\n\nप्रमुख बिंदु:\n• Mamallapuram recorded the highest rainfall at 9 cm, followed by Tenkasi and Sattankulam in Thoothukudi district, which received 6 cm each\n• Tirunelveli, Mayiladuthurai and Tiruvarur recorded 5 cm each\n",
-      "analysis_en": "Reference: Mamallapuram recorded the highest rainfall at 9 cm, followed by Tenkasi and Sattankulam in Thoothukudi district, which received 6 cm each. Tirunelveli, Mayiladuthurai and Tiruvarur recorded 5 cm each...\n\nKey Points:\n• Mamallapuram recorded the highest rainfall at 9 cm, followed by Tenkasi and Sattankulam in Thoothukudi district, which received 6 cm each\n• Tirunelveli, Mayiladuthurai and Tiruvarur recorded 5 cm each\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/schools-closed-in-five-tamil-nadu-districts-after-overnight-rain/article71609927.ece"
     }
   ]
 }
