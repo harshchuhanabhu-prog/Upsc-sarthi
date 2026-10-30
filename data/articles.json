@@ -1,8 +1,65 @@
 {
-  "last_updated": "2026-10-30T06:06:37.886009+00:00",
-  "last_updated_ist": "30 October 2026, 11:36 AM IST",
+  "last_updated": "2026-10-30T06:12:41.422108+00:00",
+  "last_updated_ist": "30 October 2026, 11:42 AM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "68009a5de187",
+      "date": "30 Oct 2026",
+      "iso_date": "2026-10-30T06:08:10+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "ECI extends SIR deadline in six States including Delhi",
+      "title_hi": "ECI extends SIR deadline in six States including Delhi",
+      "summary_en": "While the claims and objections deadline has been extended in Delhi, the window has been reopened in the States of Maharashtra, Andhra Pradesh, Haryana, Telangana, and Nagaland",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। While the claims and objections deadline has been extended in Delhi, the window has been reopened in the States of Maharashtra, Andhra Pradesh, Haryana, Telangana, and Nagaland",
+      "analysis_hi": "संदर्भ: While the claims and objections deadline has been extended in Delhi, the window has been reopened in the States of Maharashtra, Andhra Pradesh, Haryana, Telangana, and Nagaland...\n\nप्रमुख बिंदु:\n• While the claims and objections deadline has been extended in Delhi, the window has been reopened in the States of Maharashtra, Andhra Pradesh, Haryana, Telangana, and Nagaland\n",
+      "analysis_en": "Reference: While the claims and objections deadline has been extended in Delhi, the window has been reopened in the States of Maharashtra, Andhra Pradesh, Haryana, Telangana, and Nagaland...\n\nKey Points:\n• While the claims and objections deadline has been extended in Delhi, the window has been reopened in the States of Maharashtra, Andhra Pradesh, Haryana, Telangana, and Nagaland\n",
+      "link": "https://www.thehindu.com/news/national/eci-extends-sir-timelines-in-maharashtra-delhi-andhra-haryana-telangana-nagaland/article71642254.ece"
+    },
+    {
+      "id": "987eea1ac090",
+      "date": "30 Oct 2026",
+      "iso_date": "2026-10-30T06:06:19+00:00",
+      "category": "schemes",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2",
+        "GS-3"
+      ],
+      "subjects": [
+        "Schemes",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Welfare schemes for vulnerable sections",
+        "GS-3: Government policies and interventions"
+      ],
+      "title_en": "Labour Ministry sets up National Social Security Boards for unorganised, gig and platform workers",
+      "title_hi": "Labour Ministry sets up National Social Security Boards for unorganised, gig and platform workers",
+      "summary_en": "The mandate of the Boards include design, monitor, and recommend targeted welfare schemes to gig and platform workers and traditional unorganised workers",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The mandate of the Boards include design, monitor, and recommend targeted welfare schemes to gig and platform workers and traditional unorganised workers",
+      "analysis_hi": "संदर्भ: The mandate of the Boards include design, monitor, and recommend targeted welfare schemes to gig and platform workers and traditional unorganised workers...\n\nप्रमुख बिंदु:\n• The mandate of the Boards include design, monitor, and recommend targeted welfare schemes to gig and platform workers and traditional unorganised workers\n",
+      "analysis_en": "Reference: The mandate of the Boards include design, monitor, and recommend targeted welfare schemes to gig and platform workers and traditional unorganised workers...\n\nKey Points:\n• The mandate of the Boards include design, monitor, and recommend targeted welfare schemes to gig and platform workers and traditional unorganised workers\n",
+      "link": "https://www.thehindu.com/news/national/labour-ministry-sets-up-national-social-security-boards-for-unorganised-gig-and-platform-workers/article71643865.ece"
+    },
     {
       "id": "a10bded682d7",
       "date": "30 Oct 2026",
@@ -514,64 +571,6 @@
       "analysis_hi": "संदर्भ: The decision was taken at the Cabinet meeting chaired CM Vijay at the Secretariat in Chennai on Thursday...\n\nप्रमुख बिंदु:\n• The decision was taken at the Cabinet meeting chaired CM Vijay at the Secretariat in Chennai on Thursday\n",
       "analysis_en": "Reference: The decision was taken at the Cabinet meeting chaired CM Vijay at the Secretariat in Chennai on Thursday...\n\nKey Points:\n• The decision was taken at the Cabinet meeting chaired CM Vijay at the Secretariat in Chennai on Thursday\n",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cabinet-decides-to-form-commission-headed-by-retd-hc-judge-to-conduct-social-justice-survey/article71639709.ece"
-    },
-    {
-      "id": "25a276b420a5",
-      "date": "30 Oct 2026",
-      "iso_date": "2026-10-30T05:08:17+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "DVAC searches premises linked to ex-Minister K.N. Nehru",
-      "title_hi": "DVAC searches premises linked to ex-Minister K.N. Nehru",
-      "summary_en": "The search at Mr. Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The search at Mr. Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m.",
-      "analysis_hi": "संदर्भ: The search at Mr. Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m....\n\nप्रमुख बिंदु:\n• Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m.\n",
-      "analysis_en": "Reference: The search at Mr. Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m....\n\nKey Points:\n• Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m.\n",
-      "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/dvac-launches-search-at-ex-minister-kn-nehrus-residence-in-tiruchi/article71638830.ece"
-    },
-    {
-      "id": "497199267267",
-      "date": "30 Oct 2026",
-      "iso_date": "2026-10-30T05:04:03+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "DVAC searches places linked to former DMK MLA in Vellore",
-      "title_hi": "DVAC searches places linked to former DMK MLA in Vellore",
-      "summary_en": "The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N. Nehru in connection with an alleged ₹634-crore cash-for-jobs scam",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N. Nehru in connection with an alleged ₹634-crore cash-for-jobs scam",
-      "analysis_hi": "संदर्भ: The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N. Nehru in connection with an alleged ₹634-crore cash-for-jobs scam...\n\nप्रमुख बिंदु:\n• The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N\n• Nehru in connection with an alleged ₹634-crore cash-for-jobs scam\n",
-      "analysis_en": "Reference: The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N. Nehru in connection with an alleged ₹634-crore cash-for-jobs scam...\n\nKey Points:\n• The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N\n• Nehru in connection with an alleged ₹634-crore cash-for-jobs scam\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/dvac-searches-places-linked-to-former-dmk-mla-in-vellore/article71640674.ece"
     },
     {
       "id": "085fc07ede80",
@@ -1133,6 +1132,64 @@
       "analysis_hi": "संदर्भ: It’s easy to swipe a card to satisfy a desire and gratify an impulse. However, unmindful swipe scan accumulate into a mountain of debt, take a toll on monthly budget, and derail financial goals...\n\nप्रमुख बिंदु:\n• It’s easy to swipe a card to satisfy a desire and gratify an impulse\n• However, unmindful swipe scan accumulate into a mountain of debt, take a toll on monthly budget, and derail financial goals\n",
       "analysis_en": "Reference: It’s easy to swipe a card to satisfy a desire and gratify an impulse. However, unmindful swipe scan accumulate into a mountain of debt, take a toll on monthly budget, and derail financial goals...\n\nKey Points:\n• It’s easy to swipe a card to satisfy a desire and gratify an impulse\n• However, unmindful swipe scan accumulate into a mountain of debt, take a toll on monthly budget, and derail financial goals\n",
       "link": "https://www.thehindu.com/business/swiping-in-dark-the-hidden-cost-of-plastic-money/article71623078.ece"
+    },
+    {
+      "id": "25a276b420a5",
+      "date": "30 Oct 2026",
+      "iso_date": "2026-10-30T05:08:17+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "DVAC searches premises linked to ex-Minister K.N. Nehru",
+      "title_hi": "DVAC searches premises linked to ex-Minister K.N. Nehru",
+      "summary_en": "The search at Mr. Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The search at Mr. Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m.",
+      "analysis_hi": "संदर्भ: The search at Mr. Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m....\n\nप्रमुख बिंदु:\n• Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m.\n",
+      "analysis_en": "Reference: The search at Mr. Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m....\n\nKey Points:\n• Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m.\n",
+      "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/dvac-launches-search-at-ex-minister-kn-nehrus-residence-in-tiruchi/article71638830.ece"
+    },
+    {
+      "id": "497199267267",
+      "date": "30 Oct 2026",
+      "iso_date": "2026-10-30T05:04:03+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "DVAC searches places linked to former DMK MLA in Vellore",
+      "title_hi": "DVAC searches places linked to former DMK MLA in Vellore",
+      "summary_en": "The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N. Nehru in connection with an alleged ₹634-crore cash-for-jobs scam",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N. Nehru in connection with an alleged ₹634-crore cash-for-jobs scam",
+      "analysis_hi": "संदर्भ: The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N. Nehru in connection with an alleged ₹634-crore cash-for-jobs scam...\n\nप्रमुख बिंदु:\n• The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N\n• Nehru in connection with an alleged ₹634-crore cash-for-jobs scam\n",
+      "analysis_en": "Reference: The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N. Nehru in connection with an alleged ₹634-crore cash-for-jobs scam...\n\nKey Points:\n• The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N\n• Nehru in connection with an alleged ₹634-crore cash-for-jobs scam\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/dvac-searches-places-linked-to-former-dmk-mla-in-vellore/article71640674.ece"
     },
     {
       "id": "1ddcd1ddaff5",
@@ -5614,62 +5671,6 @@
       "analysis_hi": "संदर्भ: Six such ‘games,’ resembling the Manjadippala or Kadippala boards, were found carved on rocks, hinting that people engaged in recreational activities thousands of years ago. However, doubts have been raised about their antiquity and purpose. Further studies and scientific dating are required to dete...\n\nप्रमुख बिंदु:\n• Six such ‘games,’ resembling the Manjadippala or Kadippala boards, were found carved on rocks, hinting that people engaged in recreational activities thousands of years ago\n• However, doubts have been raised about their antiquity and purpose\n• Further studies and scientific dating are required to determine their precise age\n",
       "analysis_en": "Reference: Six such ‘games,’ resembling the Manjadippala or Kadippala boards, were found carved on rocks, hinting that people engaged in recreational activities thousands of years ago. However, doubts have been raised about their antiquity and purpose. Further studies and scientific dating are required to dete...\n\nKey Points:\n• Six such ‘games,’ resembling the Manjadippala or Kadippala boards, were found carved on rocks, hinting that people engaged in recreational activities thousands of years ago\n• However, doubts have been raised about their antiquity and purpose\n• Further studies and scientific dating are required to determine their precise age\n",
       "link": "https://www.thehindu.com/news/national/kerala/board-games-carved-on-rocks-in-kasaragod-hint-at-historical-leisure-spots/article71610866.ece"
-    },
-    {
-      "id": "18af53cfcaad",
-      "date": "23 Oct 2026",
-      "iso_date": "2026-10-23T01:41:32+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "How India thwarted Pakistan’s bid to steal crucial defence data",
-      "title_hi": "How India thwarted Pakistan’s bid to steal crucial defence data",
-      "summary_en": "Officers of the Counter Intelligence Cell of Andhra Pradesh, intrigued by a slew of messaging patterns across various social media platforms, busted a major digital honey-trap racket, including the Indian conduits, whose motive was to leak sensitive defence details, specifically Naval intelligence, to the neighbouring country’s Inter-Services Intelligence, writes Sumit Bhattacharjee",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Officers of the Counter Intelligence Cell of Andhra Pradesh, intrigued by a slew of messaging patterns across various social media platforms, busted a major digital honey-trap racket, including the Indian conduits, whose motive was to leak sensitive रक्षा details, specifically Naval intelligence, to the neighbouring country’s Inter-Services Intelligence, writes Sumit Bhattacharjee",
-      "analysis_hi": "संदर्भ: Officers of the Counter Intelligence Cell of Andhra Pradesh, intrigued by a slew of messaging patterns across various social media platforms, busted a major digital honey-trap racket, including the Indian conduits, whose motive was to leak sensitive defence details, specifically Naval intelligence, ...\n\nप्रमुख बिंदु:\n• Officers of the Counter Intelligence Cell of Andhra Pradesh, intrigued by a slew of messaging patterns across various social media platforms, busted a major digital honey-trap racket, including the Indian conduits, whose motive was to leak sensitive defence details, specifically Naval intelligence, to the neighbouring country’s Inter-Services Intelligence, writes Sumit Bhattacharjee\n",
-      "analysis_en": "Reference: Officers of the Counter Intelligence Cell of Andhra Pradesh, intrigued by a slew of messaging patterns across various social media platforms, busted a major digital honey-trap racket, including the Indian conduits, whose motive was to leak sensitive defence details, specifically Naval intelligence, ...\n\nKey Points:\n• Officers of the Counter Intelligence Cell of Andhra Pradesh, intrigued by a slew of messaging patterns across various social media platforms, busted a major digital honey-trap racket, including the Indian conduits, whose motive was to leak sensitive defence details, specifically Naval intelligence, to the neighbouring country’s Inter-Services Intelligence, writes Sumit Bhattacharjee\n",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/how-india-thwarted-pakistans-bid-to-steal-crucial-defence-data/article71612709.ece"
-    },
-    {
-      "id": "ead72fcce01e",
-      "date": "23 Oct 2026",
-      "iso_date": "2026-10-23T01:35:57+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "When mob takes law into its own hands: another man lynched in Keralam’s Palakkad",
-      "title_hi": "When mob takes law into its own hands: another man lynched in Keralam’s Palakkad",
-      "summary_en": "The brutal lynching of an aurally challenged, unidentified man near the Moolathara dam in Keralam’s Palakkad has once again shaken the conscience of society. Abdul Latheef Naha speaks to investigators, psychiatrists and forensic experts to understand how did a homeless man become the target of a group that took it upon itself to punish him and such incidents are recurring.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The brutal lynching of an aurally challenged, unidentified man near the Moolathara dam in Keralam’s Palakkad has once again shaken the conscience of society. Abdul Latheef Naha speaks to investigators, psychiatrists and forensic experts to understand how did a homeless man become the target of a group that took it upon itself to punish him and such incidents are recurring.",
-      "analysis_hi": "संदर्भ: The brutal lynching of an aurally challenged, unidentified man near the Moolathara dam in Keralam’s Palakkad has once again shaken the conscience of society. Abdul Latheef Naha speaks to investigators, psychiatrists and forensic experts to understand how did a homeless man become the target of a gro...\n\nप्रमुख बिंदु:\n• The brutal lynching of an aurally challenged, unidentified man near the Moolathara dam in Keralam’s Palakkad has once again shaken the conscience of society\n• Abdul Latheef Naha speaks to investigators, psychiatrists and forensic experts to understand how did a homeless man become the target of a group that took it upon itself to punish him and such incidents are recurring.\n",
-      "analysis_en": "Reference: The brutal lynching of an aurally challenged, unidentified man near the Moolathara dam in Keralam’s Palakkad has once again shaken the conscience of society. Abdul Latheef Naha speaks to investigators, psychiatrists and forensic experts to understand how did a homeless man become the target of a gro...\n\nKey Points:\n• The brutal lynching of an aurally challenged, unidentified man near the Moolathara dam in Keralam’s Palakkad has once again shaken the conscience of society\n• Abdul Latheef Naha speaks to investigators, psychiatrists and forensic experts to understand how did a homeless man become the target of a group that took it upon itself to punish him and such incidents are recurring.\n",
-      "link": "https://www.thehindu.com/news/national/kerala/when-mob-takes-law-into-its-own-hands-another-man-lynched-in-keralams-palakkad/article71608681.ece"
     }
   ]
 }
