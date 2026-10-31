@@ -1,12 +1,69 @@
 {
-  "last_updated": "2026-10-31T06:00:28.875782+00:00",
-  "last_updated_ist": "31 October 2026, 11:30 AM IST",
+  "last_updated": "2026-10-31T06:06:09.207515+00:00",
+  "last_updated_ist": "31 October 2026, 11:36 AM IST",
   "total_articles": 200,
   "articles": [
     {
+      "id": "5c57e2b150d4",
+      "date": "31 Oct 2026",
+      "iso_date": "2026-10-31T05:57:59+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Man escapes from police custody before being lodged in Coimbatore Central Prison",
+      "title_hi": "Man escapes from police custody before being lodged in Coimbatore Central Prison",
+      "summary_en": "This is the second time Raghavan, a theft case convict, has escaped from police custody; four personnel suspended",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। This is the second time Raghavan, a theft case convict, has escaped from police custody; four personnel suspended",
+      "analysis_hi": "संदर्भ: This is the second time Raghavan, a theft case convict, has escaped from police custody; four personnel suspended...\n\nप्रमुख बिंदु:\n• This is the second time Raghavan, a theft case convict, has escaped from police custody; four personnel suspended\n",
+      "analysis_en": "Reference: This is the second time Raghavan, a theft case convict, has escaped from police custody; four personnel suspended...\n\nKey Points:\n• This is the second time Raghavan, a theft case convict, has escaped from police custody; four personnel suspended\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/convict-escapes-from-police-custody-before-being-lodged-in-coimbatore-central-prison/article71648346.ece"
+    },
+    {
+      "id": "91a1345a87da",
+      "date": "31 Oct 2026",
+      "iso_date": "2026-10-31T05:57:25+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Amid accident deaths, Keralam Home Minister Ramesh Chennithala warns of crackdown on intoxicated driving",
+      "title_hi": "Amid accident deaths, Keralam Home Minister Ramesh Chennithala warns of crackdown on intoxicated driving",
+      "summary_en": "Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State",
+      "analysis_hi": "संदर्भ: Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State...\n\nप्रमुख बिंदु:\n• Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State\n",
+      "analysis_en": "Reference: Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State...\n\nKey Points:\n• Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State\n",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-home-minister-ramesh-chennithala-warns-of-crackdown-on-intoxicated-driving/article71648253.ece"
+    },
+    {
       "id": "ff664860cbaa",
       "date": "31 Oct 2026",
-      "iso_date": "2026-10-31T05:51:59+00:00",
+      "iso_date": "2026-10-31T05:55:37+00:00",
       "category": "scitech",
       "source": "The Hindu",
       "importance": "Medium",
@@ -59,35 +116,6 @@
       "analysis_hi": "संदर्भ: INDIA bloc to hold ‘public impeachment’ of CEC Gyanesh Kumar today | LIVE...\n\nप्रमुख बिंदु:\n• INDIA bloc to hold ‘public impeachment’ of CEC Gyanesh Kumar today | LIVE\n",
       "analysis_en": "Reference: INDIA bloc to hold ‘public impeachment’ of CEC Gyanesh Kumar today | LIVE...\n\nKey Points:\n• INDIA bloc to hold ‘public impeachment’ of CEC Gyanesh Kumar today | LIVE\n",
       "link": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece"
-    },
-    {
-      "id": "5c57e2b150d4",
-      "date": "31 Oct 2026",
-      "iso_date": "2026-10-31T05:50:29+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Man escapes from police custody before being lodged in Coimbatore Central Prison",
-      "title_hi": "Man escapes from police custody before being lodged in Coimbatore Central Prison",
-      "summary_en": "This is the second time Raghavan, a theft case convict, has escaped from police custody",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। This is the second time Raghavan, a theft case convict, has escaped from police custody",
-      "analysis_hi": "संदर्भ: This is the second time Raghavan, a theft case convict, has escaped from police custody...\n\nप्रमुख बिंदु:\n• This is the second time Raghavan, a theft case convict, has escaped from police custody\n",
-      "analysis_en": "Reference: This is the second time Raghavan, a theft case convict, has escaped from police custody...\n\nKey Points:\n• This is the second time Raghavan, a theft case convict, has escaped from police custody\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/convict-escapes-from-police-custody-before-being-lodged-in-coimbatore-central-prison/article71648346.ece"
     },
     {
       "id": "2bb5e940f844",
@@ -200,34 +228,6 @@
       "analysis_hi": "संदर्भ: Kashmir’s traditional varieties carry cold-tolerance and other locally adapted genes that modern varieties have partly lost, making them potentially valuable as climate change increases stress on crops, new research has found. The analysis also indicated the varieties are more closely related to tho...\n\nप्रमुख बिंदु:\n• Kashmir’s traditional varieties carry cold-tolerance and other locally adapted genes that modern varieties have partly lost, making them potentially valuable as climate change increases stress on crops, new research has found\n• The analysis also indicated the varieties are more closely related to those from the Korean Peninsula and Northeast China\n",
       "analysis_en": "Reference: Kashmir’s traditional varieties carry cold-tolerance and other locally adapted genes that modern varieties have partly lost, making them potentially valuable as climate change increases stress on crops, new research has found. The analysis also indicated the varieties are more closely related to tho...\n\nKey Points:\n• Kashmir’s traditional varieties carry cold-tolerance and other locally adapted genes that modern varieties have partly lost, making them potentially valuable as climate change increases stress on crops, new research has found\n• The analysis also indicated the varieties are more closely related to those from the Korean Peninsula and Northeast China\n",
       "link": "https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece"
-    },
-    {
-      "id": "df8f3e3439bf",
-      "date": "31 Oct 2026",
-      "iso_date": "2026-10-31T04:47:51+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Keralam Home Minister Ramesh Chennithala warns of crackdown on intoxicated driving",
-      "title_hi": "Keralam Home Minister Ramesh Chennithala warns of crackdown on intoxicated driving",
-      "summary_en": "Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State",
-      "analysis_hi": "संदर्भ: Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State...\n\nप्रमुख बिंदु:\n• Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State\n",
-      "analysis_en": "Reference: Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State...\n\nKey Points:\n• Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State\n",
-      "link": "https://www.thehindu.com/news/national/kerala/keralam-home-minister-ramesh-chennithala-warns-of-crackdown-on-intoxicated-driving/article71648253.ece"
     },
     {
       "id": "a957f680d0d7",
@@ -572,61 +572,6 @@
       "link": "https://www.thehindu.com/news/national/jaishankar-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece"
     },
     {
-      "id": "6e0a5170c531",
-      "date": "30 Oct 2026",
-      "iso_date": "2026-10-30T07:53:02+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Disinvestment as key economic strategy",
-      "title_hi": "Disinvestment as key economic strategy",
-      "summary_en": "Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure",
-      "analysis_hi": "संदर्भ: Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure...\n\nप्रमुख बिंदु:\n• Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure\n",
-      "analysis_en": "Reference: Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure...\n\nKey Points:\n• Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure\n",
-      "link": "https://www.thehindu.com/opinion/op-ed/disinvestment-as-key-economic-strategy/article71637709.ece"
-    },
-    {
-      "id": "c9512810bae7",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T16:04:13+00:00",
-      "category": "ir",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "International Relations"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: India and its neighborhood- relations",
-        "GS-2: Important International institutions, agencies and fora"
-      ],
-      "title_en": "Coal India profit jumps 57% as higher offtake, prices weigh over costs",
-      "title_hi": "Coal India profit jumps 57% as higher offtake, prices weigh over costs",
-      "summary_en": "Cost of input materials increased 20% during the quarter.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Cost of input materials increased 20% during the quarter.",
-      "analysis_hi": "संदर्भ: Cost of input materials increased 20% during the quarter....\n\nप्रमुख बिंदु:\n• Cost of input materials increased 20% during the quarter.\n",
-      "analysis_en": "Reference: Cost of input materials increased 20% during the quarter....\n\nKey Points:\n• Cost of input materials increased 20% during the quarter.\n",
-      "link": "https://www.thehindu.com/business/Economy/coal-india-profit-jumps-57-as-higher-offtake-prices-weigh-over-costs/article71641279.ece"
-    },
-    {
       "id": "085fc07ede80",
       "date": "29 Oct 2026",
       "iso_date": "2026-10-29T15:51:33+00:00",
@@ -653,6 +598,33 @@
       "analysis_hi": "संदर्भ: With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity...\n\nप्रमुख बिंदु:\n• With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity\n",
       "analysis_en": "Reference: With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity...\n\nKey Points:\n• With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity\n",
       "link": "https://www.thehindu.com/news/cities/Coimbatore/deepavali-sales-expected-to-gain-momentum-in-coimbatore-next-week/article71641807.ece"
+    },
+    {
+      "id": "c9512810bae7",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T15:30:50+00:00",
+      "category": "ir",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "International Relations"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: India and its neighborhood- relations",
+        "GS-2: Important International institutions, agencies and fora"
+      ],
+      "title_en": "Coal India profit jumps 57% as higher offtake, prices weigh over costs",
+      "title_hi": "Coal India profit jumps 57% as higher offtake, prices weigh over costs",
+      "summary_en": "Cost of input materials increased 20% during the quarter.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Cost of input materials increased 20% during the quarter.",
+      "analysis_hi": "संदर्भ: Cost of input materials increased 20% during the quarter....\n\nप्रमुख बिंदु:\n• Cost of input materials increased 20% during the quarter.\n",
+      "analysis_en": "Reference: Cost of input materials increased 20% during the quarter....\n\nKey Points:\n• Cost of input materials increased 20% during the quarter.\n",
+      "link": "https://www.thehindu.com/business/Economy/coal-india-profit-jumps-57-as-higher-offtake-prices-weigh-over-costs/article71641279.ece"
     },
     {
       "id": "56c0b711a6e3",
@@ -709,6 +681,34 @@
       "analysis_hi": "संदर्भ: The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation...\n\nप्रमुख बिंदु:\n• The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation\n",
       "analysis_en": "Reference: The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation...\n\nKey Points:\n• The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation\n",
       "link": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
+    },
+    {
+      "id": "6e0a5170c531",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T04:58:24+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Disinvestment as key economic strategy",
+      "title_hi": "Disinvestment as key economic strategy",
+      "summary_en": "Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure",
+      "analysis_hi": "संदर्भ: Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure...\n\nप्रमुख बिंदु:\n• Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure\n",
+      "analysis_en": "Reference: Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure...\n\nKey Points:\n• Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure\n",
+      "link": "https://www.thehindu.com/opinion/op-ed/disinvestment-as-key-economic-strategy/article71637709.ece"
     },
     {
       "id": "30aac6013ce7",
@@ -1131,6 +1131,34 @@
       "analysis_hi": "संदर्भ: It’s easy to swipe a card to satisfy a desire and gratify an impulse. However, unmindful swipe scan accumulate into a mountain of debt, take a toll on monthly budget, and derail financial goals...\n\nप्रमुख बिंदु:\n• It’s easy to swipe a card to satisfy a desire and gratify an impulse\n• However, unmindful swipe scan accumulate into a mountain of debt, take a toll on monthly budget, and derail financial goals\n",
       "analysis_en": "Reference: It’s easy to swipe a card to satisfy a desire and gratify an impulse. However, unmindful swipe scan accumulate into a mountain of debt, take a toll on monthly budget, and derail financial goals...\n\nKey Points:\n• It’s easy to swipe a card to satisfy a desire and gratify an impulse\n• However, unmindful swipe scan accumulate into a mountain of debt, take a toll on monthly budget, and derail financial goals\n",
       "link": "https://www.thehindu.com/business/swiping-in-dark-the-hidden-cost-of-plastic-money/article71623078.ece"
+    },
+    {
+      "id": "df8f3e3439bf",
+      "date": "31 Oct 2026",
+      "iso_date": "2026-10-31T04:47:51+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Keralam Home Minister Ramesh Chennithala warns of crackdown on intoxicated driving",
+      "title_hi": "Keralam Home Minister Ramesh Chennithala warns of crackdown on intoxicated driving",
+      "summary_en": "Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State",
+      "analysis_hi": "संदर्भ: Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State...\n\nप्रमुख बिंदु:\n• Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State\n",
+      "analysis_en": "Reference: Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State...\n\nKey Points:\n• Minister visits family of Cheranalloor crash victim Jayabalakrishnan, says accidents caused by intoxicated drivers, claiming the lives of innocent people, have become widespread in the State\n",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-home-minister-ramesh-chennithala-warns-of-crackdown-on-intoxicated-driving/article71648253.ece"
     },
     {
       "id": "68009a5de187",
@@ -5645,34 +5673,6 @@
       "analysis_hi": "संदर्भ: CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft...\n\nप्रमुख बिंदु:\n• CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft\n",
       "analysis_en": "Reference: CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft...\n\nKey Points:\n• CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft\n",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/credai-chennai-sets-up-anti-corruption-panel-frames-sop-for-reporting-graft/article71617238.ece"
-    },
-    {
-      "id": "f8b611529136",
-      "date": "23 Oct 2026",
-      "iso_date": "2026-10-23T19:45:50+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Alleged confrontations between goons, cops raise law and order questions in Ernakulam",
-      "title_hi": "Alleged confrontations between goons, cops raise law and order questions in Ernakulam",
-      "summary_en": "Senior officials in the district claim that the reported incidents are isolated cases, and that strict action is being taken against miscreants",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Senior officials in the district claim that the reported incidents are isolated cases, and that strict action is being taken against miscreants",
-      "analysis_hi": "संदर्भ: Senior officials in the district claim that the reported incidents are isolated cases, and that strict action is being taken against miscreants...\n\nप्रमुख बिंदु:\n• Senior officials in the district claim that the reported incidents are isolated cases, and that strict action is being taken against miscreants\n",
-      "analysis_en": "Reference: Senior officials in the district claim that the reported incidents are isolated cases, and that strict action is being taken against miscreants...\n\nKey Points:\n• Senior officials in the district claim that the reported incidents are isolated cases, and that strict action is being taken against miscreants\n",
-      "link": "https://www.thehindu.com/news/national/kerala/alleged-confrontations-between-goons-cops-raise-law-and-order-questions-in-ernakulam/article71616956.ece"
     }
   ]
 }
