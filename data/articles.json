@@ -1,8 +1,1108 @@
 {
-  "last_updated": "2026-10-31T06:06:09.207515+00:00",
-  "last_updated_ist": "31 October 2026, 11:36 AM IST",
+  "last_updated": "2026-11-01T06:30:21.227342+00:00",
+  "last_updated_ist": "01 November 2026, 12:00 PM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "818119e9312b",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T06:17:00+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Andhra civic polls: TDP, YSRCP workers clash in Pulivendula; slow turnout in cities | LIVE",
+      "title_hi": "Andhra civic polls: TDP, YSRCP workers clash in Pulivendula; slow turnout in cities | LIVE",
+      "summary_en": "Fourteen vehicles were set on fire in Pulivendula, Kadapa district, Andhra Pradesh hours before polling began on Sunday",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Fourteen vehicles were set on fire in Pulivendula, Kadapa district, Andhra Pradesh hours before polling began on Sunday",
+      "analysis_hi": "संदर्भ: Fourteen vehicles were set on fire in Pulivendula, Kadapa district, Andhra Pradesh hours before polling began on Sunday...\n\nप्रमुख बिंदु:\n• Fourteen vehicles were set on fire in Pulivendula, Kadapa district, Andhra Pradesh hours before polling began on Sunday\n",
+      "analysis_en": "Reference: Fourteen vehicles were set on fire in Pulivendula, Kadapa district, Andhra Pradesh hours before polling began on Sunday...\n\nKey Points:\n• Fourteen vehicles were set on fire in Pulivendula, Kadapa district, Andhra Pradesh hours before polling began on Sunday\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections-polling-municipalities-corporation-results-november-1-2026-live-updates/article71651965.ece"
+    },
+    {
+      "id": "c3c85becab51",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T06:16:12+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Woman with disability dies in midnight fire at Korattur apartment",
+      "title_hi": "Woman with disability dies in midnight fire at Korattur apartment",
+      "summary_en": "An air-conditioner and a refrigerator, among other electrical appliances, reportedly exploded as the fire spread rapidly through the house. A suspected electrical short circuit is believed to have triggered the blaze",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। An air-conditioner and a refrigerator, among other electrical appliances, reportedly exploded as the fire spread rapidly through the house. A suspected electrical short circuit is believed to have triggered the blaze",
+      "analysis_hi": "संदर्भ: An air-conditioner and a refrigerator, among other electrical appliances, reportedly exploded as the fire spread rapidly through the house. A suspected electrical short circuit is believed to have triggered the blaze...\n\nप्रमुख बिंदु:\n• An air-conditioner and a refrigerator, among other electrical appliances, reportedly exploded as the fire spread rapidly through the house\n• A suspected electrical short circuit is believed to have triggered the blaze\n",
+      "analysis_en": "Reference: An air-conditioner and a refrigerator, among other electrical appliances, reportedly exploded as the fire spread rapidly through the house. A suspected electrical short circuit is believed to have triggered the blaze...\n\nKey Points:\n• An air-conditioner and a refrigerator, among other electrical appliances, reportedly exploded as the fire spread rapidly through the house\n• A suspected electrical short circuit is believed to have triggered the blaze\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/woman-with-disability-dies-in-midnight-fire-at-korattur-apartment/article71652193.ece"
+    },
+    {
+      "id": "4d6e20436a06",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T06:12:17+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "INDIA bloc holds symbolic ‘public impeachment’ of CEC Gyanesh Kumar on six charges",
+      "title_hi": "INDIA bloc holds symbolic ‘public impeachment’ of CEC Gyanesh Kumar on six charges",
+      "summary_en": "Move reflects the closure of institutional avenues, says LoP Rahul Gandhi; terms it a political weapon against all who colluded to destroy votes; warns ECI officials that they are first target; says CEC should be tried for treason",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Move reflects the closure of institutional avenues, says LoP Rahul Gandhi; terms it a political weapon against all who colluded to destroy votes; warns ECI officials that they are first target; says CEC should be tried for treason",
+      "analysis_hi": "संदर्भ: Move reflects the closure of institutional avenues, says LoP Rahul Gandhi; terms it a political weapon against all who colluded to destroy votes; warns ECI officials that they are first target; says CEC should be tried for treason...\n\nप्रमुख बिंदु:\n• Move reflects the closure of institutional avenues, says LoP Rahul Gandhi; terms it a political weapon against all who colluded to destroy votes; warns ECI officials that they are first target; says CEC should be tried for treason\n",
+      "analysis_en": "Reference: Move reflects the closure of institutional avenues, says LoP Rahul Gandhi; terms it a political weapon against all who colluded to destroy votes; warns ECI officials that they are first target; says CEC should be tried for treason...\n\nKey Points:\n• Move reflects the closure of institutional avenues, says LoP Rahul Gandhi; terms it a political weapon against all who colluded to destroy votes; warns ECI officials that they are first target; says CEC should be tried for treason\n",
+      "link": "https://www.thehindu.com/news/national/india-bloc-holds-symbolic-public-impeachment-of-cec-gyanesh-kumar-on-six-charges/article71650457.ece"
+    },
+    {
+      "id": "c1011b7ba875",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T06:11:33+00:00",
+      "category": "ir",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "International Relations"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: India and its neighborhood- relations",
+        "GS-2: Important International institutions, agencies and fora"
+      ],
+      "title_en": "Every squadron, air defence unit, air warrior must be ready to respond at moment’s notice: IAF Chief Dixit",
+      "title_hi": "Every squadron, air defence unit, air warrior must be ready to respond at moment’s notice: IAF Chief Dixit",
+      "summary_en": "Air Chief Marshal Dixit outlined his core focus areas under the acronym VAYU, defining his vision as Vigilance and operational readiness, Aatmanirbharta (self-reliance), Yukti (tactical innovation), and Unity of effort across the tri-services.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Air Chief Marshal Dixit outlined his core focus areas under the acronym VAYU, defining his vision as Vigilance and operational readiness, Aatmanirbharta (self-reliance), Yukti (tactical innovation), and Unity of effort across the tri-services.",
+      "analysis_hi": "संदर्भ: Air Chief Marshal Dixit outlined his core focus areas under the acronym VAYU, defining his vision as Vigilance and operational readiness, Aatmanirbharta (self-reliance), Yukti (tactical innovation), and Unity of effort across the tri-services....\n\nप्रमुख बिंदु:\n• Air Chief Marshal Dixit outlined his core focus areas under the acronym VAYU, defining his vision as Vigilance and operational readiness, Aatmanirbharta (self-reliance), Yukti (tactical innovation), and Unity of effort across the tri-services.\n",
+      "analysis_en": "Reference: Air Chief Marshal Dixit outlined his core focus areas under the acronym VAYU, defining his vision as Vigilance and operational readiness, Aatmanirbharta (self-reliance), Yukti (tactical innovation), and Unity of effort across the tri-services....\n\nKey Points:\n• Air Chief Marshal Dixit outlined his core focus areas under the acronym VAYU, defining his vision as Vigilance and operational readiness, Aatmanirbharta (self-reliance), Yukti (tactical innovation), and Unity of effort across the tri-services.\n",
+      "link": "https://www.thehindu.com/news/national/newly-appointed-chief-of-air-staff-air-chief-marshal-ashutosh-dixit/article71652223.ece"
+    },
+    {
+      "id": "f3044bf1a358",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T06:08:20+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "INDIA bloc’s ‘Chalo Dilli’ protest: Supporters gather at Ramlila Maidan, across capital",
+      "title_hi": "INDIA bloc’s ‘Chalo Dilli’ protest: Supporters gather at Ramlila Maidan, across capital",
+      "summary_en": "Many supporters arrived in Delhi, while several others had reached the national capital on October 31, 2026 or earlier as parties mobilised their cadres from different states for the protest",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Many supporters arrived in Delhi, while several others had reached the national capital on October 31, 2026 or earlier as parties mobilised their cadres from different states for the protest",
+      "analysis_hi": "संदर्भ: Many supporters arrived in Delhi, while several others had reached the national capital on October 31, 2026 or earlier as parties mobilised their cadres from different states for the protest...\n\nप्रमुख बिंदु:\n• Many supporters arrived in Delhi, while several others had reached the national capital on October 31, 2026 or earlier as parties mobilised their cadres from different states for the protest\n",
+      "analysis_en": "Reference: Many supporters arrived in Delhi, while several others had reached the national capital on October 31, 2026 or earlier as parties mobilised their cadres from different states for the protest...\n\nKey Points:\n• Many supporters arrived in Delhi, while several others had reached the national capital on October 31, 2026 or earlier as parties mobilised their cadres from different states for the protest\n",
+      "link": "https://www.thehindu.com/news/national/india-blocs-chalo-dilli-protest-supporters-gather-at-ramlila-maidan-across-capital/article71652142.ece"
+    },
+    {
+      "id": "4ea0c6ff68d9",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T06:01:59+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "‘Chalo Delhi’ posters dominate as INDIA bloc prepares for mega rally at Ramlila Maidan | LIVE",
+      "title_hi": "‘Chalo Delhi’ posters dominate as INDIA bloc prepares for mega rally at Ramlila Maidan | LIVE",
+      "summary_en": "INDA bloc's 'public impeachment' of CEC Gyanesh Kumar featured accounts from voters who alleged that their names had been deleted from electoral rolls",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। INDA bloc's 'public impeachment' of CEC Gyanesh Kumar featured accounts from voters who alleged that their names had been deleted from electoral rolls",
+      "analysis_hi": "संदर्भ: INDA bloc's 'public impeachment' of CEC Gyanesh Kumar featured accounts from voters who alleged that their names had been deleted from electoral rolls...\n\nप्रमुख बिंदु:\n• INDA bloc's 'public impeachment' of CEC Gyanesh Kumar featured accounts from voters who alleged that their names had been deleted from electoral rolls\n",
+      "analysis_en": "Reference: INDA bloc's 'public impeachment' of CEC Gyanesh Kumar featured accounts from voters who alleged that their names had been deleted from electoral rolls...\n\nKey Points:\n• INDA bloc's 'public impeachment' of CEC Gyanesh Kumar featured accounts from voters who alleged that their names had been deleted from electoral rolls\n",
+      "link": "https://www.thehindu.com/news/national/india-bloc-mega-delhi-rally-cec-gyanesh-kumar-impeachment-anti-cec-protests-sir-row-live-updates-november-1-2026/article71651970.ece"
+    },
+    {
+      "id": "e9c8e7f52c71",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T06:00:59+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Urban local body elections begin in Andhra Pradesh",
+      "title_hi": "Urban local body elections begin in Andhra Pradesh",
+      "summary_en": "State Election Commissioner Anil Chandra Punetha and his team of officers are personally monitoring the conduct of the elections, for which elaborate arrangements were made, including the installation of CCTV cameras and deployment of drones at places where clashes are anticipated",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। State चुनाव Commissioner Anil Chandra Punetha and his team of officers are personally monitoring the conduct of the elections, for which elaborate arrangements were made, including the installation of CCTV cameras and deployment of drones at places where clashes are anticipated",
+      "analysis_hi": "संदर्भ: State Election Commissioner Anil Chandra Punetha and his team of officers are personally monitoring the conduct of the elections, for which elaborate arrangements were made, including the installation of CCTV cameras and deployment of drones at places where clashes are anticipated...\n\nप्रमुख बिंदु:\n• State Election Commissioner Anil Chandra Punetha and his team of officers are personally monitoring the conduct of the elections, for which elaborate arrangements were made, including the installation of CCTV cameras and deployment of drones at places where clashes are anticipated\n",
+      "analysis_en": "Reference: State Election Commissioner Anil Chandra Punetha and his team of officers are personally monitoring the conduct of the elections, for which elaborate arrangements were made, including the installation of CCTV cameras and deployment of drones at places where clashes are anticipated...\n\nKey Points:\n• State Election Commissioner Anil Chandra Punetha and his team of officers are personally monitoring the conduct of the elections, for which elaborate arrangements were made, including the installation of CCTV cameras and deployment of drones at places where clashes are anticipated\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections/article71651976.ece"
+    },
+    {
+      "id": "d57f6b3c6f42",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T05:59:16+00:00",
+      "category": "social",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-1",
+        "GS-2"
+      ],
+      "subjects": [
+        "Social Issues"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-1: Population and associated issues",
+        "GS-2: Issues relating to development and management of Social Sector/Services"
+      ],
+      "title_en": "How significant is the TVK-led regime’s move to hold Social Justice Survey? | Explained",
+      "title_hi": "How significant is the TVK-led regime’s move to hold Social Justice Survey? | Explained",
+      "summary_en": "The feature of an ‘open column’, where respondents can state their caste during the second phase of the Census, to be carried out in most parts of the country during February next year, has forced many parties and other stakeholders to express concerns over the utility of the whole exercise",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The feature of an ‘open column’, where respondents can state their caste during the second phase of the Census, to be carried out in most parts of the country during February next year, has forced many parties and other stakeholders to express concerns over the utility of the whole exercise",
+      "analysis_hi": "संदर्भ: The feature of an ‘open column’, where respondents can state their caste during the second phase of the Census, to be carried out in most parts of the country during February next year, has forced many parties and other stakeholders to express concerns over the utility of the whole exercise...\n\nप्रमुख बिंदु:\n• The feature of an ‘open column’, where respondents can state their caste during the second phase of the Census, to be carried out in most parts of the country during February next year, has forced many parties and other stakeholders to express concerns over the utility of the whole exercise\n",
+      "analysis_en": "Reference: The feature of an ‘open column’, where respondents can state their caste during the second phase of the Census, to be carried out in most parts of the country during February next year, has forced many parties and other stakeholders to express concerns over the utility of the whole exercise...\n\nKey Points:\n• The feature of an ‘open column’, where respondents can state their caste during the second phase of the Census, to be carried out in most parts of the country during February next year, has forced many parties and other stakeholders to express concerns over the utility of the whole exercise\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/how-significant-is-the-tvk-led-regimes-move-to-hold-social-justice-survey-explained/article71649252.ece"
+    },
+    {
+      "id": "1618dffe9bef",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T05:45:05+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "PM Modi greets people of six States on foundation day",
+      "title_hi": "PM Modi greets people of six States on foundation day",
+      "summary_en": "Six States celebrating Foundation Day on November 1 are: Madhya Pradesh, Chhattisgarh, Haryana, Karnataka, Tamil Nadu and Keralam",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Six States celebrating Foundation Day on November 1 are: Madhya Pradesh, Chhattisgarh, Haryana, Karnataka, Tamil Nadu and Keralam",
+      "analysis_hi": "संदर्भ: Six States celebrating Foundation Day on November 1 are: Madhya Pradesh, Chhattisgarh, Haryana, Karnataka, Tamil Nadu and Keralam...\n\nप्रमुख बिंदु:\n• Six States celebrating Foundation Day on November 1 are: Madhya Pradesh, Chhattisgarh, Haryana, Karnataka, Tamil Nadu and Keralam\n",
+      "analysis_en": "Reference: Six States celebrating Foundation Day on November 1 are: Madhya Pradesh, Chhattisgarh, Haryana, Karnataka, Tamil Nadu and Keralam...\n\nKey Points:\n• Six States celebrating Foundation Day on November 1 are: Madhya Pradesh, Chhattisgarh, Haryana, Karnataka, Tamil Nadu and Keralam\n",
+      "link": "https://www.thehindu.com/news/national/pm-modi-greets-people-of-six-states-on-foundation-day/article71652205.ece"
+    },
+    {
+      "id": "97b047227185",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T05:41:42+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Visakhapatnam reports 3.34% voting in first two hours; Voter participation in core urban areas yet to gather pace",
+      "title_hi": "Visakhapatnam reports 3.34% voting in first two hours; Voter participation in core urban areas yet to gather pace",
+      "summary_en": "According to booth-level officials, voter turnout was thin between 7 a.m. and 8 a.m., with only a handful of people visiting several polling stations during the first hour",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। According to booth-level officials, voter turnout was thin between 7 a.m. and 8 a.m., with only a handful of people visiting several polling stations during the first hour",
+      "analysis_hi": "संदर्भ: According to booth-level officials, voter turnout was thin between 7 a.m. and 8 a.m., with only a handful of people visiting several polling stations during the first hour...\n\nप्रमुख बिंदु:\n• According to booth-level officials, voter turnout was thin between 7 a.m\n• and 8 a.m., with only a handful of people visiting several polling stations during the first hour\n",
+      "analysis_en": "Reference: According to booth-level officials, voter turnout was thin between 7 a.m. and 8 a.m., with only a handful of people visiting several polling stations during the first hour...\n\nKey Points:\n• According to booth-level officials, voter turnout was thin between 7 a.m\n• and 8 a.m., with only a handful of people visiting several polling stations during the first hour\n",
+      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/vizag-reports-334-voting-in-first-two-hours-voter-participation-in-core-urban-areas-yet-to-gather-pace-pics-by-raju/article71652100.ece"
+    },
+    {
+      "id": "a5e0e28f549b",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T05:35:52+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Maharashtra FDA issues order to curb sale, repackaging of expired food items",
+      "title_hi": "Maharashtra FDA issues order to curb sale, repackaging of expired food items",
+      "summary_en": "Speaking at a press conference in October 30, Mr. Mundhe says that instead of destroying stale and expired food items properly, they are being “disposed of only on paper.” These goods are brought back after being repacked by some agents and then sold to citizens. In some cases, even the production dates are being manipulated",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Speaking at a press conference in October 30, Mr. Mundhe says that instead of destroying stale and expired food items properly, they are being “disposed of only on paper.” These goods are brought back after being repacked by some agents and then sold to citizens. In some cases, even the production dates are being manipulated",
+      "analysis_hi": "संदर्भ: Speaking at a press conference in October 30, Mr. Mundhe says that instead of destroying stale and expired food items properly, they are being “disposed of only on paper.” These goods are brought back after being repacked by some agents and then sold to citizens. In some cases, even the production d...\n\nप्रमुख बिंदु:\n• Speaking at a press conference in October 30, Mr\n• Mundhe says that instead of destroying stale and expired food items properly, they are being “disposed of only on paper.” These goods are brought back after being repacked by some agents and then sold to citizens\n• In some cases, even the production dates are being manipulated\n",
+      "analysis_en": "Reference: Speaking at a press conference in October 30, Mr. Mundhe says that instead of destroying stale and expired food items properly, they are being “disposed of only on paper.” These goods are brought back after being repacked by some agents and then sold to citizens. In some cases, even the production d...\n\nKey Points:\n• Speaking at a press conference in October 30, Mr\n• Mundhe says that instead of destroying stale and expired food items properly, they are being “disposed of only on paper.” These goods are brought back after being repacked by some agents and then sold to citizens\n• In some cases, even the production dates are being manipulated\n",
+      "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-issues-order-to-curb-sale-repackaging-of-expired-food-items/article71650559.ece"
+    },
+    {
+      "id": "5b6b87908a4c",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T05:34:34+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Two newly-elected Bihar Independent MLCs now support BJP",
+      "title_hi": "Two newly-elected Bihar Independent MLCs now support BJP",
+      "summary_en": "Both the Independent candidates, significantly, had defeated the ruling alliance partner Janata Dal-United candidates from their respective constituencies",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Both the Independent candidates, significantly, had defeated the ruling alliance partner Janata Dal-United candidates from their respective constituencies",
+      "analysis_hi": "संदर्भ: Both the Independent candidates, significantly, had defeated the ruling alliance partner Janata Dal-United candidates from their respective constituencies...\n\nप्रमुख बिंदु:\n• Both the Independent candidates, significantly, had defeated the ruling alliance partner Janata Dal-United candidates from their respective constituencies\n",
+      "analysis_en": "Reference: Both the Independent candidates, significantly, had defeated the ruling alliance partner Janata Dal-United candidates from their respective constituencies...\n\nKey Points:\n• Both the Independent candidates, significantly, had defeated the ruling alliance partner Janata Dal-United candidates from their respective constituencies\n",
+      "link": "https://www.thehindu.com/news/national/bihar/two-newly-elected-bihar-independent-mlcs-now-support-bjp/article71652125.ece"
+    },
+    {
+      "id": "ccf0aed90a37",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T05:31:42+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "PM Modi cites World Bank report to highlight ‘historic’ fall in India’s extreme poverty",
+      "title_hi": "PM Modi cites World Bank report to highlight ‘historic’ fall in India’s extreme poverty",
+      "summary_en": "In a post on Instagram featuring the inspiring and energetic song ‘Thaan Liya’ from the Bollywood movie ‘Dasvi’ as background music, Mr. Modi highlighted that the “historic\" drop in poverty represents a generational surge in opportunities",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In a post on Instagram featuring the inspiring and energetic song ‘Thaan Liya’ from the Bollywood movie ‘Dasvi’ as background music, Mr. Modi highlighted that the “historic\" drop in poverty represents a generational surge in opportunities",
+      "analysis_hi": "संदर्भ: In a post on Instagram featuring the inspiring and energetic song ‘Thaan Liya’ from the Bollywood movie ‘Dasvi’ as background music, Mr. Modi highlighted that the “historic\" drop in poverty represents a generational surge in opportunities...\n\nप्रमुख बिंदु:\n• In a post on Instagram featuring the inspiring and energetic song ‘Thaan Liya’ from the Bollywood movie ‘Dasvi’ as background music, Mr\n• Modi highlighted that the “historic\" drop in poverty represents a generational surge in opportunities\n",
+      "analysis_en": "Reference: In a post on Instagram featuring the inspiring and energetic song ‘Thaan Liya’ from the Bollywood movie ‘Dasvi’ as background music, Mr. Modi highlighted that the “historic\" drop in poverty represents a generational surge in opportunities...\n\nKey Points:\n• In a post on Instagram featuring the inspiring and energetic song ‘Thaan Liya’ from the Bollywood movie ‘Dasvi’ as background music, Mr\n• Modi highlighted that the “historic\" drop in poverty represents a generational surge in opportunities\n",
+      "link": "https://www.thehindu.com/news/national/pm-modi-cities-world-bank-report-to-highlight-historic-fall-in-indias-extreme-poverty/article71652106.ece"
+    },
+    {
+      "id": "6e97d68bd0a2",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T05:26:41+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "INDIA bloc rally today: What to know about the Ramlila Maidan protest",
+      "title_hi": "INDIA bloc rally today: What to know about the Ramlila Maidan protest",
+      "summary_en": "Here’s what to know about the INDIA bloc mega rally in New Delhi, demanding the resignation of CEC Gyanesh Kumar.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Here’s what to know about the INDIA bloc mega rally in New Delhi, demanding the resignation of CEC Gyanesh Kumar.",
+      "analysis_hi": "संदर्भ: Here’s what to know about the INDIA bloc mega rally in New Delhi, demanding the resignation of CEC Gyanesh Kumar....\n\nप्रमुख बिंदु:\n• Here’s what to know about the INDIA bloc mega rally in New Delhi, demanding the resignation of CEC Gyanesh Kumar.\n",
+      "analysis_en": "Reference: Here’s what to know about the INDIA bloc mega rally in New Delhi, demanding the resignation of CEC Gyanesh Kumar....\n\nKey Points:\n• Here’s what to know about the INDIA bloc mega rally in New Delhi, demanding the resignation of CEC Gyanesh Kumar.\n",
+      "link": "https://www.thehindu.com/news/national/india-bloc-mega-rally-ramilila-maidan-protest-today-cec-gyanesh-kumar-resignation-sir-row-chalo-dilli-march-november-1/article71652047.ece"
+    },
+    {
+      "id": "e7dd0057ac99",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T05:23:04+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "INDIA bloc Ramlila Maidan rally traffic curbs on November 1: Which roads to avoid, timing and more",
+      "title_hi": "INDIA bloc Ramlila Maidan rally traffic curbs on November 1: Which roads to avoid, timing and more",
+      "summary_en": "For the INDIA bloc Ramlila Maidan rally on November 1, Delhi Traffic Police impose restrictions from 10 a.m. to 5 p.m., including key diversions and curbs on bus movements",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। For the INDIA bloc Ramlila Maidan rally on November 1, Delhi Traffic Police impose restrictions from 10 a.m. to 5 p.m., including key diversions and curbs on bus movements",
+      "analysis_hi": "संदर्भ: For the INDIA bloc Ramlila Maidan rally on November 1, Delhi Traffic Police impose restrictions from 10 a.m. to 5 p.m., including key diversions and curbs on bus movements...\n\nप्रमुख बिंदु:\n• For the INDIA bloc Ramlila Maidan rally on November 1, Delhi Traffic Police impose restrictions from 10 a.m\n• to 5 p.m., including key diversions and curbs on bus movements\n",
+      "analysis_en": "Reference: For the INDIA bloc Ramlila Maidan rally on November 1, Delhi Traffic Police impose restrictions from 10 a.m. to 5 p.m., including key diversions and curbs on bus movements...\n\nKey Points:\n• For the INDIA bloc Ramlila Maidan rally on November 1, Delhi Traffic Police impose restrictions from 10 a.m\n• to 5 p.m., including key diversions and curbs on bus movements\n",
+      "link": "https://www.thehindu.com/news/cities/Delhi/india-bloc-rally-ramlila-maidan-november-1-traffic-curbs-roads-to-avoid-timings/article71648423.ece"
+    },
+    {
+      "id": "c5c98c78d191",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T05:08:58+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "1,172 candidates receive offer letters at job fair held in Villupuram",
+      "title_hi": "1,172 candidates receive offer letters at job fair held in Villupuram",
+      "summary_en": "More than 167 companies interviewed 4,214 candidates at the fair. Besides those selected for employment, as many as 163 candidates qualified for the second round of selection",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। More than 167 companies interviewed 4,214 candidates at the fair. Besides those selected for employment, as many as 163 candidates qualified for the second round of selection",
+      "analysis_hi": "संदर्भ: More than 167 companies interviewed 4,214 candidates at the fair. Besides those selected for employment, as many as 163 candidates qualified for the second round of selection...\n\nप्रमुख बिंदु:\n• More than 167 companies interviewed 4,214 candidates at the fair\n• Besides those selected for employment, as many as 163 candidates qualified for the second round of selection\n",
+      "analysis_en": "Reference: More than 167 companies interviewed 4,214 candidates at the fair. Besides those selected for employment, as many as 163 candidates qualified for the second round of selection...\n\nKey Points:\n• More than 167 companies interviewed 4,214 candidates at the fair\n• Besides those selected for employment, as many as 163 candidates qualified for the second round of selection\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/1172-candidates-receive-offer-letters-at-job-fair-held-in-villupuram/article71652132.ece"
+    },
+    {
+      "id": "74402428c28d",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T05:03:37+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Seven Rameswaram fishermen detained by Sri Lankan Navy near Katchatheevu islet",
+      "title_hi": "Seven Rameswaram fishermen detained by Sri Lankan Navy near Katchatheevu islet",
+      "summary_en": "Fishermen leaders have condemned the incident and urged the governments to get them released at the earliest",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Fishermen leaders have condemned the incident and urged the governments to get them released at the earliest",
+      "analysis_hi": "संदर्भ: Fishermen leaders have condemned the incident and urged the governments to get them released at the earliest...\n\nप्रमुख बिंदु:\n• Fishermen leaders have condemned the incident and urged the governments to get them released at the earliest\n",
+      "analysis_en": "Reference: Fishermen leaders have condemned the incident and urged the governments to get them released at the earliest...\n\nKey Points:\n• Fishermen leaders have condemned the incident and urged the governments to get them released at the earliest\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/seven-rameswaram-fishermen-detained-by-sri-lankan-navy-near-katchatheevu-islet/article71652111.ece"
+    },
+    {
+      "id": "f1890b1e44ee",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T04:48:29+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Steady turnout marks peaceful polling in Andhra’s Madhurawada zone",
+      "title_hi": "Steady turnout marks peaceful polling in Andhra’s Madhurawada zone",
+      "summary_en": "Officials overseeing the polling said residents of neighbouring habitations accounted for most of the early turnout, while voters from apartment complexes in the vicinity were yet to turn up in significant numbers",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Officials overseeing the polling said residents of neighbouring habitations accounted for most of the early turnout, while voters from apartment complexes in the vicinity were yet to turn up in significant numbers",
+      "analysis_hi": "संदर्भ: Officials overseeing the polling said residents of neighbouring habitations accounted for most of the early turnout, while voters from apartment complexes in the vicinity were yet to turn up in significant numbers...\n\nप्रमुख बिंदु:\n• Officials overseeing the polling said residents of neighbouring habitations accounted for most of the early turnout, while voters from apartment complexes in the vicinity were yet to turn up in significant numbers\n",
+      "analysis_en": "Reference: Officials overseeing the polling said residents of neighbouring habitations accounted for most of the early turnout, while voters from apartment complexes in the vicinity were yet to turn up in significant numbers...\n\nKey Points:\n• Officials overseeing the polling said residents of neighbouring habitations accounted for most of the early turnout, while voters from apartment complexes in the vicinity were yet to turn up in significant numbers\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/steady-turnout-marks-peaceful-polling-in-andhras-madhurawada-zone/article71652101.ece"
+    },
+    {
+      "id": "6922f39f1fe7",
+      "date": "01 Nov 2026",
+      "iso_date": "2026-11-01T04:47:03+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Minister inaugurates modern paddy storage facilities in Cuddalore district",
+      "title_hi": "Minister inaugurates modern paddy storage facilities in Cuddalore district",
+      "summary_en": "The facilities, constructed with financial assistance under the National Bank for Agriculture and Rural Development (NABARD),  have a combined storage capacity of 7,000 tonnes",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The facilities, constructed with financial assistance under the National Bank for कृषि and Rural विकास (NABARD),  have a combined storage capacity of 7,000 tonnes",
+      "analysis_hi": "संदर्भ: The facilities, constructed with financial assistance under the National Bank for Agriculture and Rural Development (NABARD),  have a combined storage capacity of 7,000 tonnes...\n\nप्रमुख बिंदु:\n• The facilities, constructed with financial assistance under the National Bank for Agriculture and Rural Development (NABARD),  have a combined storage capacity of 7,000 tonnes\n",
+      "analysis_en": "Reference: The facilities, constructed with financial assistance under the National Bank for Agriculture and Rural Development (NABARD),  have a combined storage capacity of 7,000 tonnes...\n\nKey Points:\n• The facilities, constructed with financial assistance under the National Bank for Agriculture and Rural Development (NABARD),  have a combined storage capacity of 7,000 tonnes\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/minister-inaugurates-modern-paddy-storage-facilities-in-cuddalore-district/article71652117.ece"
+    },
+    {
+      "id": "47688ffe5971",
+      "date": "31 Oct 2026",
+      "iso_date": "2026-10-31T16:09:42+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "IOC says crude Q2 price volatile as procurement swings between discounts and premiums",
+      "title_hi": "IOC says crude Q2 price volatile as procurement swings between discounts and premiums",
+      "summary_en": "Anuj Jain, Director (Finance) at Indian Oil also stated under-recoveries on LPG is projected at ₹309/cylinder in November and ₹370/cylinder in December.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Anuj Jain, Director (Finance) at Indian Oil also stated under-recoveries on LPG is projected at ₹309/cylinder in November and ₹370/cylinder in December.",
+      "analysis_hi": "संदर्भ: Anuj Jain, Director (Finance) at Indian Oil also stated under-recoveries on LPG is projected at ₹309/cylinder in November and ₹370/cylinder in December....\n\nप्रमुख बिंदु:\n• Anuj Jain, Director (Finance) at Indian Oil also stated under-recoveries on LPG is projected at ₹309/cylinder in November and ₹370/cylinder in December.\n",
+      "analysis_en": "Reference: Anuj Jain, Director (Finance) at Indian Oil also stated under-recoveries on LPG is projected at ₹309/cylinder in November and ₹370/cylinder in December....\n\nKey Points:\n• Anuj Jain, Director (Finance) at Indian Oil also stated under-recoveries on LPG is projected at ₹309/cylinder in November and ₹370/cylinder in December.\n",
+      "link": "https://www.thehindu.com/business/Economy/crude-oil-prices-very-volatile-in-q2-carried-both-discounts-premium-at-varying-intervals-iocl-official/article71650317.ece"
+    },
+    {
+      "id": "93c1b27315bc",
+      "date": "31 Oct 2026",
+      "iso_date": "2026-10-31T13:49:20+00:00",
+      "category": "schemes",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2",
+        "GS-3"
+      ],
+      "subjects": [
+        "Schemes",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Welfare schemes for vulnerable sections",
+        "GS-3: Government policies and interventions"
+      ],
+      "title_en": "Towards recognising women farmers",
+      "title_hi": "Towards recognising women farmers",
+      "summary_en": "Maharashtra’s passage of the Women Farmers’ Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership, brings into focus the structural bias against the female agricultural workforce, highlights the need for a database of women farmers and using it to ensure access to welfare schemes",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Maharashtra’s passage of the Women Farmers’ Empowerment विधेयक, granting women independent recognition as farmers irrespective of land ownership, brings into focus the structural bias against the female agricultural workforce, highlights the need for a database of women farmers and using it to ensure access to welfare schemes",
+      "analysis_hi": "संदर्भ: Maharashtra’s passage of the Women Farmers’ Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership, brings into focus the structural bias against the female agricultural workforce, highlights the need for a database of women farmers and using it to ensure ...\n\nप्रमुख बिंदु:\n• Maharashtra’s passage of the Women Farmers’ Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership, brings into focus the structural bias against the female agricultural workforce, highlights the need for a database of women farmers and using it to ensure access to welfare schemes\n",
+      "analysis_en": "Reference: Maharashtra’s passage of the Women Farmers’ Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership, brings into focus the structural bias against the female agricultural workforce, highlights the need for a database of women farmers and using it to ensure ...\n\nKey Points:\n• Maharashtra’s passage of the Women Farmers’ Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership, brings into focus the structural bias against the female agricultural workforce, highlights the need for a database of women farmers and using it to ensure access to welfare schemes\n",
+      "link": "https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece"
+    },
+    {
+      "id": "5b73d094e0a9",
+      "date": "31 Oct 2026",
+      "iso_date": "2026-10-31T11:16:41+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Petrol export duty cut to nil, diesel levy raised by ₹3 a litre",
+      "title_hi": "Petrol export duty cut to nil, diesel levy raised by ₹3 a litre",
+      "summary_en": "The government’s fortnightly review raised the export levy on diesel to ₹11.5 per litre from ₹8.5 and on aviation turbine fuel to ₹11 per litre from ₹10.5, while India’s diesel exports touched 700 kilo barrels per day in October, the highest since September 2025, according to Kpler",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The सरकार’s fortnightly review raised the export levy on diesel to ₹11.5 per litre from ₹8.5 and on aviation turbine fuel to ₹11 per litre from ₹10.5, while India’s diesel exports touched 700 kilo barrels per day in October, the highest since September 2025, according to Kpler",
+      "analysis_hi": "संदर्भ: The government’s fortnightly review raised the export levy on diesel to ₹11.5 per litre from ₹8.5 and on aviation turbine fuel to ₹11 per litre from ₹10.5, while India’s diesel exports touched 700 kilo barrels per day in October, the highest since September 2025, according to Kpler...\n\nप्रमुख बिंदु:\n• The government’s fortnightly review raised the export levy on diesel to ₹11.5 per litre from ₹8.5 and on aviation turbine fuel to ₹11 per litre from ₹10.5, while India’s diesel exports touched 700 kilo barrels per day in October, the highest since September 2025, according to Kpler\n",
+      "analysis_en": "Reference: The government’s fortnightly review raised the export levy on diesel to ₹11.5 per litre from ₹8.5 and on aviation turbine fuel to ₹11 per litre from ₹10.5, while India’s diesel exports touched 700 kilo barrels per day in October, the highest since September 2025, according to Kpler...\n\nKey Points:\n• The government’s fortnightly review raised the export levy on diesel to ₹11.5 per litre from ₹8.5 and on aviation turbine fuel to ₹11 per litre from ₹10.5, while India’s diesel exports touched 700 kilo barrels per day in October, the highest since September 2025, according to Kpler\n",
+      "link": "https://www.thehindu.com/business/petrol-export-duty-cut-to-nil-diesel-levy-raised-by-3-a-litre/article71649004.ece"
+    },
+    {
+      "id": "6e0a5170c531",
+      "date": "30 Oct 2026",
+      "iso_date": "2026-10-30T07:53:02+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Disinvestment as key economic strategy",
+      "title_hi": "Disinvestment as key economic strategy",
+      "summary_en": "Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure",
+      "analysis_hi": "संदर्भ: Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure...\n\nप्रमुख बिंदु:\n• Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure\n",
+      "analysis_en": "Reference: Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure...\n\nKey Points:\n• Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure\n",
+      "link": "https://www.thehindu.com/opinion/op-ed/disinvestment-as-key-economic-strategy/article71637709.ece"
+    },
+    {
+      "id": "c9512810bae7",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T16:04:13+00:00",
+      "category": "ir",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "International Relations"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: India and its neighborhood- relations",
+        "GS-2: Important International institutions, agencies and fora"
+      ],
+      "title_en": "Coal India profit jumps 57% as higher offtake, prices weigh over costs",
+      "title_hi": "Coal India profit jumps 57% as higher offtake, prices weigh over costs",
+      "summary_en": "Cost of input materials increased 20% during the quarter.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Cost of input materials increased 20% during the quarter.",
+      "analysis_hi": "संदर्भ: Cost of input materials increased 20% during the quarter....\n\nप्रमुख बिंदु:\n• Cost of input materials increased 20% during the quarter.\n",
+      "analysis_en": "Reference: Cost of input materials increased 20% during the quarter....\n\nKey Points:\n• Cost of input materials increased 20% during the quarter.\n",
+      "link": "https://www.thehindu.com/business/Economy/coal-india-profit-jumps-57-as-higher-offtake-prices-weigh-over-costs/article71641279.ece"
+    },
+    {
+      "id": "085fc07ede80",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T15:51:33+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Deepavali sales expected to gain momentum in Coimbatore next week",
+      "title_hi": "Deepavali sales expected to gain momentum in Coimbatore next week",
+      "summary_en": "With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity",
+      "analysis_hi": "संदर्भ: With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity...\n\nप्रमुख बिंदु:\n• With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity\n",
+      "analysis_en": "Reference: With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity...\n\nKey Points:\n• With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity\n",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/deepavali-sales-expected-to-gain-momentum-in-coimbatore-next-week/article71641807.ece"
+    },
+    {
+      "id": "56c0b711a6e3",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T10:21:53+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "U.S. Fed holds rates steady; pressure on emerging markets expected with stronger dollar outlook",
+      "title_hi": "U.S. Fed holds rates steady; pressure on emerging markets expected with stronger dollar outlook",
+      "summary_en": "The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors",
+      "analysis_hi": "संदर्भ: The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors...\n\nप्रमुख बिंदु:\n• Fed is expected to keep the rates elevated, making U.S\n• Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors\n",
+      "analysis_en": "Reference: The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors...\n\nKey Points:\n• Fed is expected to keep the rates elevated, making U.S\n• Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors\n",
+      "link": "https://www.thehindu.com/business/Economy/fed-holds-rates-steady-and-cuts-future-meetings-stronger-dollar-outlook-pressures-emerging-markets/article71639815.ece"
+    },
+    {
+      "id": "996ae0def39b",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T06:18:28+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "U.S. Fed holds interest rates steady despite surging inflation",
+      "title_hi": "U.S. Fed holds interest rates steady despite surging inflation",
+      "summary_en": "The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against मुद्रास्फीति",
+      "analysis_hi": "संदर्भ: The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation...\n\nप्रमुख बिंदु:\n• The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation\n",
+      "analysis_en": "Reference: The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation...\n\nKey Points:\n• The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation\n",
+      "link": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
+    },
+    {
+      "id": "30aac6013ce7",
+      "date": "28 Oct 2026",
+      "iso_date": "2026-10-28T17:56:13+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "How neoliberalism turned the world against its young",
+      "title_hi": "How neoliberalism turned the world against its young",
+      "summary_en": "The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs, rising education costs and an economic system that prioritises profits",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs, rising शिक्षा costs and an economic system that prioritises profits",
+      "analysis_hi": "संदर्भ: The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs, rising education costs and an economic system that prioritises profits...\n\nप्रमुख बिंदु:\n• The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs, rising education costs and an economic system that prioritises profits\n",
+      "analysis_en": "Reference: The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs, rising education costs and an economic system that prioritises profits...\n\nKey Points:\n• The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs, rising education costs and an economic system that prioritises profits\n",
+      "link": "https://www.thehindu.com/business/Economy/how-neoliberalism-turned-the-world-against-its-young/article71635741.ece"
+    },
+    {
+      "id": "725822d4d6ff",
+      "date": "28 Oct 2026",
+      "iso_date": "2026-10-28T16:36:18+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Vedanta Group eyeing $20 billion profits over next two years: Chairman Anil Agarwal",
+      "title_hi": "Vedanta Group eyeing $20 billion profits over next two years: Chairman Anil Agarwal",
+      "summary_en": "Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said.",
+      "analysis_hi": "संदर्भ: Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said....\n\nप्रमुख बिंदु:\n• Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said.\n",
+      "analysis_en": "Reference: Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said....\n\nKey Points:\n• Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said.\n",
+      "link": "https://www.thehindu.com/business/Industry/vedanta-group-eyeing-20-billion-profits-over-next-two-years-chairman-anil-agarwal/article71637399.ece"
+    },
+    {
+      "id": "5bc844150024",
+      "date": "28 Oct 2026",
+      "iso_date": "2026-10-28T16:20:43+00:00",
+      "category": "social",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-1",
+        "GS-2"
+      ],
+      "subjects": [
+        "Social Issues"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-1: Population and associated issues",
+        "GS-2: Issues relating to development and management of Social Sector/Services"
+      ],
+      "title_en": "The way out of the dangerous trap",
+      "title_hi": "The way out of the dangerous trap",
+      "summary_en": "India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational शिक्षा, wider diffusion of प्रौद्योगिकी and useful knowledge, and greater social value for skilled work",
+      "analysis_hi": "संदर्भ: India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work...\n\nप्रमुख बिंदु:\n• India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work\n",
+      "analysis_en": "Reference: India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work...\n\nKey Points:\n• India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work\n",
+      "link": "https://www.thehindu.com/business/Economy/the-way-out-of-the-dangerous-trap/article71451541.ece"
+    },
+    {
+      "id": "ee490ad340ff",
+      "date": "28 Oct 2026",
+      "iso_date": "2026-10-28T16:10:40+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "The gap in manufacturing sector GVA",
+      "title_hi": "The gap in manufacturing sector GVA",
+      "summary_en": "According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a closer look at the official estimate",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a closer look at the official estimate",
+      "analysis_hi": "संदर्भ: According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a...\n\nप्रमुख बिंदु:\n• According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a closer look at the official estimate\n",
+      "analysis_en": "Reference: According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a...\n\nKey Points:\n• According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a closer look at the official estimate\n",
+      "link": "https://www.thehindu.com/business/Economy/the-gap-in-manufacturing-sector-gva/article71425499.ece"
+    },
+    {
+      "id": "e31d6ee7b496",
+      "date": "28 Oct 2026",
+      "iso_date": "2026-10-28T14:30:00+00:00",
+      "category": "ir",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "International Relations"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: India and its neighborhood- relations",
+        "GS-2: Important International institutions, agencies and fora"
+      ],
+      "title_en": "India and Mexico sign Terms of Reference for preferential trade agreement negotiations to begin",
+      "title_hi": "India and Mexico sign Terms of Reference for preferential trade agreement negotiations to begin",
+      "summary_en": "Commerce Secretary Rajesh Agrawal visited Mexico for the signing. The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Commerce Secretary Rajesh Agrawal visited Mexico for the signing. The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027",
+      "analysis_hi": "संदर्भ: Commerce Secretary Rajesh Agrawal visited Mexico for the signing. The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027...\n\nप्रमुख बिंदु:\n• Commerce Secretary Rajesh Agrawal visited Mexico for the signing\n• The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027\n",
+      "analysis_en": "Reference: Commerce Secretary Rajesh Agrawal visited Mexico for the signing. The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027...\n\nKey Points:\n• Commerce Secretary Rajesh Agrawal visited Mexico for the signing\n• The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027\n",
+      "link": "https://www.thehindu.com/business/Economy/india-and-mexico-sign-terms-of-reference-for-preferential-trade-agreement-negotiations-to-begin/article71635915.ece"
+    },
+    {
+      "id": "971c1a799628",
+      "date": "28 Oct 2026",
+      "iso_date": "2026-10-28T12:54:42+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "On the question of KIIFB’s future",
+      "title_hi": "On the question of KIIFB’s future",
+      "summary_en": "An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। An expert panel constituted by Keralam’s UDF सरकार to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State सरकार, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam",
+      "analysis_hi": "संदर्भ: An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam...\n\nप्रमुख बिंदु:\n• An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam\n",
+      "analysis_en": "Reference: An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam...\n\nKey Points:\n• An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam\n",
+      "link": "https://www.thehindu.com/news/national/kerala/on-the-question-of-kiifbs-future/article71633074.ece"
+    },
+    {
+      "id": "bae7fa62ac88",
+      "date": "28 Oct 2026",
+      "iso_date": "2026-10-28T04:54:33+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "High",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "What the new E100 vehicle rules mean | Explained",
+      "title_hi": "What the new E100 vehicle rules mean | Explained",
+      "summary_en": "The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing",
+      "analysis_hi": "संदर्भ: The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing...\n\nप्रमुख बिंदु:\n• The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing\n",
+      "analysis_en": "Reference: The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing...\n\nKey Points:\n• The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing\n",
+      "link": "https://www.thehindu.com/news/national/what-the-new-e100-vehicle-rules-mean-explained/article71629895.ece"
+    },
+    {
+      "id": "607a86477589",
+      "date": "27 Oct 2026",
+      "iso_date": "2026-10-27T13:58:00+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Coal India H1 capital expenditure surges 27% to ₹7,966-cr, exceeds target",
+      "title_hi": "Coal India H1 capital expenditure surges 27% to ₹7,966-cr, exceeds target",
+      "summary_en": "The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period.",
+      "analysis_hi": "संदर्भ: The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period....\n\nप्रमुख बिंदु:\n• The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period.\n",
+      "analysis_en": "Reference: The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period....\n\nKey Points:\n• The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period.\n",
+      "link": "https://www.thehindu.com/business/Economy/coal-india-h1-capital-expenditure-surges-27-to-7966-cr-exceeds-target/article71630764.ece"
+    },
+    {
+      "id": "48bf5f6f9476",
+      "date": "27 Oct 2026",
+      "iso_date": "2026-10-27T10:08:27+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Nayara Energy hikes petrol by ₹5, diesel by ₹3",
+      "title_hi": "Nayara Energy hikes petrol by ₹5, diesel by ₹3",
+      "summary_en": "Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said",
+      "analysis_hi": "संदर्भ: Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said...\n\nप्रमुख बिंदु:\n• Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said\n",
+      "analysis_en": "Reference: Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said...\n\nKey Points:\n• Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said\n",
+      "link": "https://www.thehindu.com/business/Industry/nayara-energy-hikes-petrol-by-5-diesel-by-3/article71540153.ece"
+    },
+    {
+      "id": "1708728fb9e5",
+      "date": "27 Oct 2026",
+      "iso_date": "2026-10-27T09:54:25+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "India poised to refine for world as global capacity declines: Union Minister Hardeep Puri",
+      "title_hi": "India poised to refine for world as global capacity declines: Union Minister Hardeep Puri",
+      "summary_en": "India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said",
+      "analysis_hi": "संदर्भ: India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said...\n\nप्रमुख बिंदु:\n• India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said\n",
+      "analysis_en": "Reference: India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said...\n\nKey Points:\n• India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said\n",
+      "link": "https://www.thehindu.com/business/Economy/india-poised-to-refine-for-world-as-global-capacity-declines-union-minister-hardeep-puri/article71630663.ece"
+    },
+    {
+      "id": "2ff667c5628f",
+      "date": "27 Oct 2026",
+      "iso_date": "2026-10-27T08:56:59+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "IndusInd Bank posts profit of ₹1,242 crores in Q2; asset quality improvement and interest income drives growth",
+      "title_hi": "IndusInd Bank posts profit of ₹1,242 crores in Q2; asset quality improvement and interest income drives growth",
+      "summary_en": "The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago",
+      "analysis_hi": "संदर्भ: The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago...\n\nप्रमुख बिंदु:\n• The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago\n",
+      "analysis_en": "Reference: The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago...\n\nKey Points:\n• The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago\n",
+      "link": "https://www.thehindu.com/business/indusind-bank-posts-profit-of-rs-1242-crores-in-q2-asset-quality-improvement-and-interest-income-drives-growth/article71616469.ece"
+    },
+    {
+      "id": "3908ac1e8226",
+      "date": "26 Oct 2026",
+      "iso_date": "2026-10-26T16:33:28+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "BPCL shifts crude sourcing towards Middle East as Russian oil loses price edge",
+      "title_hi": "BPCL shifts crude sourcing towards Middle East as Russian oil loses price edge",
+      "summary_en": "Russian crude accounted for 37% of their import basket in the second quarter.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Russian crude accounted for 37% of their import basket in the second quarter.",
+      "analysis_hi": "संदर्भ: Russian crude accounted for 37% of their import basket in the second quarter....\n\nप्रमुख बिंदु:\n• Russian crude accounted for 37% of their import basket in the second quarter.\n",
+      "analysis_en": "Reference: Russian crude accounted for 37% of their import basket in the second quarter....\n\nKey Points:\n• Russian crude accounted for 37% of their import basket in the second quarter.\n",
+      "link": "https://www.thehindu.com/business/Economy/bpcl-shifts-crude-sourcing-towards-middle-east-as-russian-oil-loses-price-edge/article71628150.ece"
+    },
     {
       "id": "5c57e2b150d4",
       "date": "31 Oct 2026",
@@ -570,483 +1670,6 @@
       "analysis_hi": "संदर्भ: External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting...\n\nप्रमुख बिंदु:\n• External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting\n",
       "analysis_en": "Reference: External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting...\n\nKey Points:\n• External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting\n",
       "link": "https://www.thehindu.com/news/national/jaishankar-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece"
-    },
-    {
-      "id": "085fc07ede80",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T15:51:33+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Deepavali sales expected to gain momentum in Coimbatore next week",
-      "title_hi": "Deepavali sales expected to gain momentum in Coimbatore next week",
-      "summary_en": "With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity",
-      "analysis_hi": "संदर्भ: With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity...\n\nप्रमुख बिंदु:\n• With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity\n",
-      "analysis_en": "Reference: With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity...\n\nKey Points:\n• With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity\n",
-      "link": "https://www.thehindu.com/news/cities/Coimbatore/deepavali-sales-expected-to-gain-momentum-in-coimbatore-next-week/article71641807.ece"
-    },
-    {
-      "id": "c9512810bae7",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T15:30:50+00:00",
-      "category": "ir",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "International Relations"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: India and its neighborhood- relations",
-        "GS-2: Important International institutions, agencies and fora"
-      ],
-      "title_en": "Coal India profit jumps 57% as higher offtake, prices weigh over costs",
-      "title_hi": "Coal India profit jumps 57% as higher offtake, prices weigh over costs",
-      "summary_en": "Cost of input materials increased 20% during the quarter.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Cost of input materials increased 20% during the quarter.",
-      "analysis_hi": "संदर्भ: Cost of input materials increased 20% during the quarter....\n\nप्रमुख बिंदु:\n• Cost of input materials increased 20% during the quarter.\n",
-      "analysis_en": "Reference: Cost of input materials increased 20% during the quarter....\n\nKey Points:\n• Cost of input materials increased 20% during the quarter.\n",
-      "link": "https://www.thehindu.com/business/Economy/coal-india-profit-jumps-57-as-higher-offtake-prices-weigh-over-costs/article71641279.ece"
-    },
-    {
-      "id": "56c0b711a6e3",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T10:21:53+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "U.S. Fed holds rates steady; pressure on emerging markets expected with stronger dollar outlook",
-      "title_hi": "U.S. Fed holds rates steady; pressure on emerging markets expected with stronger dollar outlook",
-      "summary_en": "The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors",
-      "analysis_hi": "संदर्भ: The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors...\n\nप्रमुख बिंदु:\n• Fed is expected to keep the rates elevated, making U.S\n• Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors\n",
-      "analysis_en": "Reference: The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors...\n\nKey Points:\n• Fed is expected to keep the rates elevated, making U.S\n• Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors\n",
-      "link": "https://www.thehindu.com/business/Economy/fed-holds-rates-steady-and-cuts-future-meetings-stronger-dollar-outlook-pressures-emerging-markets/article71639815.ece"
-    },
-    {
-      "id": "996ae0def39b",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T06:18:28+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "U.S. Fed holds interest rates steady despite surging inflation",
-      "title_hi": "U.S. Fed holds interest rates steady despite surging inflation",
-      "summary_en": "The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against मुद्रास्फीति",
-      "analysis_hi": "संदर्भ: The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation...\n\nप्रमुख बिंदु:\n• The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation\n",
-      "analysis_en": "Reference: The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation...\n\nKey Points:\n• The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation\n",
-      "link": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
-    },
-    {
-      "id": "6e0a5170c531",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T04:58:24+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Disinvestment as key economic strategy",
-      "title_hi": "Disinvestment as key economic strategy",
-      "summary_en": "Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure",
-      "analysis_hi": "संदर्भ: Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure...\n\nप्रमुख बिंदु:\n• Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure\n",
-      "analysis_en": "Reference: Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure...\n\nKey Points:\n• Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure\n",
-      "link": "https://www.thehindu.com/opinion/op-ed/disinvestment-as-key-economic-strategy/article71637709.ece"
-    },
-    {
-      "id": "30aac6013ce7",
-      "date": "28 Oct 2026",
-      "iso_date": "2026-10-28T17:56:13+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "How neoliberalism turned the world against its young",
-      "title_hi": "How neoliberalism turned the world against its young",
-      "summary_en": "The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs, rising education costs and an economic system that prioritises profits",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs, rising शिक्षा costs and an economic system that prioritises profits",
-      "analysis_hi": "संदर्भ: The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs, rising education costs and an economic system that prioritises profits...\n\nप्रमुख बिंदु:\n• The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs, rising education costs and an economic system that prioritises profits\n",
-      "analysis_en": "Reference: The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs, rising education costs and an economic system that prioritises profits...\n\nKey Points:\n• The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs, rising education costs and an economic system that prioritises profits\n",
-      "link": "https://www.thehindu.com/business/Economy/how-neoliberalism-turned-the-world-against-its-young/article71635741.ece"
-    },
-    {
-      "id": "725822d4d6ff",
-      "date": "28 Oct 2026",
-      "iso_date": "2026-10-28T16:36:18+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Vedanta Group eyeing $20 billion profits over next two years: Chairman Anil Agarwal",
-      "title_hi": "Vedanta Group eyeing $20 billion profits over next two years: Chairman Anil Agarwal",
-      "summary_en": "Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said.",
-      "analysis_hi": "संदर्भ: Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said....\n\nप्रमुख बिंदु:\n• Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said.\n",
-      "analysis_en": "Reference: Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said....\n\nKey Points:\n• Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said.\n",
-      "link": "https://www.thehindu.com/business/Industry/vedanta-group-eyeing-20-billion-profits-over-next-two-years-chairman-anil-agarwal/article71637399.ece"
-    },
-    {
-      "id": "5bc844150024",
-      "date": "28 Oct 2026",
-      "iso_date": "2026-10-28T16:20:43+00:00",
-      "category": "social",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-1",
-        "GS-2"
-      ],
-      "subjects": [
-        "Social Issues"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-1: Population and associated issues",
-        "GS-2: Issues relating to development and management of Social Sector/Services"
-      ],
-      "title_en": "The way out of the dangerous trap",
-      "title_hi": "The way out of the dangerous trap",
-      "summary_en": "India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational शिक्षा, wider diffusion of प्रौद्योगिकी and useful knowledge, and greater social value for skilled work",
-      "analysis_hi": "संदर्भ: India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work...\n\nप्रमुख बिंदु:\n• India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work\n",
-      "analysis_en": "Reference: India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work...\n\nKey Points:\n• India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work\n",
-      "link": "https://www.thehindu.com/business/Economy/the-way-out-of-the-dangerous-trap/article71451541.ece"
-    },
-    {
-      "id": "ee490ad340ff",
-      "date": "28 Oct 2026",
-      "iso_date": "2026-10-28T16:10:40+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "The gap in manufacturing sector GVA",
-      "title_hi": "The gap in manufacturing sector GVA",
-      "summary_en": "According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a closer look at the official estimate",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a closer look at the official estimate",
-      "analysis_hi": "संदर्भ: According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a...\n\nप्रमुख बिंदु:\n• According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a closer look at the official estimate\n",
-      "analysis_en": "Reference: According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a...\n\nKey Points:\n• According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a closer look at the official estimate\n",
-      "link": "https://www.thehindu.com/business/Economy/the-gap-in-manufacturing-sector-gva/article71425499.ece"
-    },
-    {
-      "id": "e31d6ee7b496",
-      "date": "28 Oct 2026",
-      "iso_date": "2026-10-28T14:30:00+00:00",
-      "category": "ir",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "International Relations"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: India and its neighborhood- relations",
-        "GS-2: Important International institutions, agencies and fora"
-      ],
-      "title_en": "India and Mexico sign Terms of Reference for preferential trade agreement negotiations to begin",
-      "title_hi": "India and Mexico sign Terms of Reference for preferential trade agreement negotiations to begin",
-      "summary_en": "Commerce Secretary Rajesh Agrawal visited Mexico for the signing. The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Commerce Secretary Rajesh Agrawal visited Mexico for the signing. The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027",
-      "analysis_hi": "संदर्भ: Commerce Secretary Rajesh Agrawal visited Mexico for the signing. The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027...\n\nप्रमुख बिंदु:\n• Commerce Secretary Rajesh Agrawal visited Mexico for the signing\n• The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027\n",
-      "analysis_en": "Reference: Commerce Secretary Rajesh Agrawal visited Mexico for the signing. The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027...\n\nKey Points:\n• Commerce Secretary Rajesh Agrawal visited Mexico for the signing\n• The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027\n",
-      "link": "https://www.thehindu.com/business/Economy/india-and-mexico-sign-terms-of-reference-for-preferential-trade-agreement-negotiations-to-begin/article71635915.ece"
-    },
-    {
-      "id": "971c1a799628",
-      "date": "28 Oct 2026",
-      "iso_date": "2026-10-28T12:54:42+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "On the question of KIIFB’s future",
-      "title_hi": "On the question of KIIFB’s future",
-      "summary_en": "An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। An expert panel constituted by Keralam’s UDF सरकार to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State सरकार, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam",
-      "analysis_hi": "संदर्भ: An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam...\n\nप्रमुख बिंदु:\n• An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam\n",
-      "analysis_en": "Reference: An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam...\n\nKey Points:\n• An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam\n",
-      "link": "https://www.thehindu.com/news/national/kerala/on-the-question-of-kiifbs-future/article71633074.ece"
-    },
-    {
-      "id": "bae7fa62ac88",
-      "date": "28 Oct 2026",
-      "iso_date": "2026-10-28T04:54:33+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "High",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "What the new E100 vehicle rules mean | Explained",
-      "title_hi": "What the new E100 vehicle rules mean | Explained",
-      "summary_en": "The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing",
-      "analysis_hi": "संदर्भ: The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing...\n\nप्रमुख बिंदु:\n• The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing\n",
-      "analysis_en": "Reference: The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing...\n\nKey Points:\n• The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing\n",
-      "link": "https://www.thehindu.com/news/national/what-the-new-e100-vehicle-rules-mean-explained/article71629895.ece"
-    },
-    {
-      "id": "607a86477589",
-      "date": "27 Oct 2026",
-      "iso_date": "2026-10-27T13:58:00+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Coal India H1 capital expenditure surges 27% to ₹7,966-cr, exceeds target",
-      "title_hi": "Coal India H1 capital expenditure surges 27% to ₹7,966-cr, exceeds target",
-      "summary_en": "The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period.",
-      "analysis_hi": "संदर्भ: The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period....\n\nप्रमुख बिंदु:\n• The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period.\n",
-      "analysis_en": "Reference: The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period....\n\nKey Points:\n• The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period.\n",
-      "link": "https://www.thehindu.com/business/Economy/coal-india-h1-capital-expenditure-surges-27-to-7966-cr-exceeds-target/article71630764.ece"
-    },
-    {
-      "id": "48bf5f6f9476",
-      "date": "27 Oct 2026",
-      "iso_date": "2026-10-27T10:08:27+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Nayara Energy hikes petrol by ₹5, diesel by ₹3",
-      "title_hi": "Nayara Energy hikes petrol by ₹5, diesel by ₹3",
-      "summary_en": "Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said",
-      "analysis_hi": "संदर्भ: Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said...\n\nप्रमुख बिंदु:\n• Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said\n",
-      "analysis_en": "Reference: Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said...\n\nKey Points:\n• Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said\n",
-      "link": "https://www.thehindu.com/business/Industry/nayara-energy-hikes-petrol-by-5-diesel-by-3/article71540153.ece"
-    },
-    {
-      "id": "1708728fb9e5",
-      "date": "27 Oct 2026",
-      "iso_date": "2026-10-27T09:54:25+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "India poised to refine for world as global capacity declines: Union Minister Hardeep Puri",
-      "title_hi": "India poised to refine for world as global capacity declines: Union Minister Hardeep Puri",
-      "summary_en": "India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said",
-      "analysis_hi": "संदर्भ: India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said...\n\nप्रमुख बिंदु:\n• India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said\n",
-      "analysis_en": "Reference: India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said...\n\nKey Points:\n• India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said\n",
-      "link": "https://www.thehindu.com/business/Economy/india-poised-to-refine-for-world-as-global-capacity-declines-union-minister-hardeep-puri/article71630663.ece"
-    },
-    {
-      "id": "2ff667c5628f",
-      "date": "27 Oct 2026",
-      "iso_date": "2026-10-27T08:56:59+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "IndusInd Bank posts profit of ₹1,242 crores in Q2; asset quality improvement and interest income drives growth",
-      "title_hi": "IndusInd Bank posts profit of ₹1,242 crores in Q2; asset quality improvement and interest income drives growth",
-      "summary_en": "The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago",
-      "analysis_hi": "संदर्भ: The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago...\n\nप्रमुख बिंदु:\n• The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago\n",
-      "analysis_en": "Reference: The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago...\n\nKey Points:\n• The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago\n",
-      "link": "https://www.thehindu.com/business/indusind-bank-posts-profit-of-rs-1242-crores-in-q2-asset-quality-improvement-and-interest-income-drives-growth/article71616469.ece"
-    },
-    {
-      "id": "3908ac1e8226",
-      "date": "26 Oct 2026",
-      "iso_date": "2026-10-26T16:33:28+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "BPCL shifts crude sourcing towards Middle East as Russian oil loses price edge",
-      "title_hi": "BPCL shifts crude sourcing towards Middle East as Russian oil loses price edge",
-      "summary_en": "Russian crude accounted for 37% of their import basket in the second quarter.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Russian crude accounted for 37% of their import basket in the second quarter.",
-      "analysis_hi": "संदर्भ: Russian crude accounted for 37% of their import basket in the second quarter....\n\nप्रमुख बिंदु:\n• Russian crude accounted for 37% of their import basket in the second quarter.\n",
-      "analysis_en": "Reference: Russian crude accounted for 37% of their import basket in the second quarter....\n\nKey Points:\n• Russian crude accounted for 37% of their import basket in the second quarter.\n",
-      "link": "https://www.thehindu.com/business/Economy/bpcl-shifts-crude-sourcing-towards-middle-east-as-russian-oil-loses-price-edge/article71628150.ece"
     },
     {
       "id": "af9bd3794bf4",
@@ -5052,627 +5675,6 @@
       "analysis_hi": "संदर्भ: Six election officials removed in U.P. after SP flags voter list errors...\n\nप्रमुख बिंदु:\n• Six election officials removed in U.P\n• after SP flags voter list errors\n",
       "analysis_en": "Reference: Six election officials removed in U.P. after SP flags voter list errors...\n\nKey Points:\n• Six election officials removed in U.P\n• after SP flags voter list errors\n",
       "link": "https://www.thehindu.com/news/national/uttar-pradesh/six-election-officials-removed-in-up-after-sp-flags-voter-list-errors/article71621307.ece"
-    },
-    {
-      "id": "7bd005cf9123",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T19:30:42+00:00",
-      "category": "social",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-1",
-        "GS-2"
-      ],
-      "subjects": [
-        "Social Issues"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-1: Population and associated issues",
-        "GS-2: Issues relating to development and management of Social Sector/Services"
-      ],
-      "title_en": "Healthcare challenges require collaborative, technology-ledsolutions, says Health Secretary",
-      "title_hi": "Healthcare challenges require collaborative, technology-ledsolutions, says Health Secretary",
-      "summary_en": "He was speaking at the Confederation of Indian Industry’s TN MedClave, 2026",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। He was speaking at the Confederation of Indian Industry’s TN MedClave, 2026",
-      "analysis_hi": "संदर्भ: He was speaking at the Confederation of Indian Industry’s TN MedClave, 2026...\n\nप्रमुख बिंदु:\n• He was speaking at the Confederation of Indian Industry’s TN MedClave, 2026\n",
-      "analysis_en": "Reference: He was speaking at the Confederation of Indian Industry’s TN MedClave, 2026...\n\nKey Points:\n• He was speaking at the Confederation of Indian Industry’s TN MedClave, 2026\n",
-      "link": "https://www.thehindu.com/news/cities/chennai/healthcare-challenges-require-collaborative-technology-ledsolutions-says-health-secretary/article71619284.ece"
-    },
-    {
-      "id": "40e12c50cf6a",
-      "date": "21 Oct 2026",
-      "iso_date": "2026-10-21T14:12:18+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Rupee strengthens for eighth consecutive day on IPO inflows; rise in crude prices cap gains",
-      "title_hi": "Rupee strengthens for eighth consecutive day on IPO inflows; rise in crude prices cap gains",
-      "summary_en": "The Indian currency earlier recorded a similar closing level on September 4",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Indian currency earlier recorded a similar closing level on September 4",
-      "analysis_hi": "संदर्भ: The Indian currency earlier recorded a similar closing level on September 4...\n\nप्रमुख बिंदु:\n• The Indian currency earlier recorded a similar closing level on September 4\n",
-      "analysis_en": "Reference: The Indian currency earlier recorded a similar closing level on September 4...\n\nKey Points:\n• The Indian currency earlier recorded a similar closing level on September 4\n",
-      "link": "https://www.thehindu.com/business/markets/rupee-closes-at-six-week-high-of-9443-driven-by-jio-ipo-rbi-intervention/article71607257.ece"
-    },
-    {
-      "id": "fa986be0c426",
-      "date": "21 Oct 2026",
-      "iso_date": "2026-10-21T11:27:23+00:00",
-      "category": "ir",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "International Relations"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: India and its neighborhood- relations",
-        "GS-2: Important International institutions, agencies and fora"
-      ],
-      "title_en": "Anticipation over upcoming EU FTA more than doubles Ferrari orders in India",
-      "title_hi": "Anticipation over upcoming EU FTA more than doubles Ferrari orders in India",
-      "summary_en": "The India-EU FTA is set to come into force early next year and significantly slash import duties on luxury cars. This has already boosted demand in India, say Ferrari chiefs",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The India-EU FTA is set to come into force early next year and significantly slash import duties on luxury cars. This has already boosted demand in India, say Ferrari chiefs",
-      "analysis_hi": "संदर्भ: The India-EU FTA is set to come into force early next year and significantly slash import duties on luxury cars. This has already boosted demand in India, say Ferrari chiefs...\n\nप्रमुख बिंदु:\n• The India-EU FTA is set to come into force early next year and significantly slash import duties on luxury cars\n• This has already boosted demand in India, say Ferrari chiefs\n",
-      "analysis_en": "Reference: The India-EU FTA is set to come into force early next year and significantly slash import duties on luxury cars. This has already boosted demand in India, say Ferrari chiefs...\n\nKey Points:\n• The India-EU FTA is set to come into force early next year and significantly slash import duties on luxury cars\n• This has already boosted demand in India, say Ferrari chiefs\n",
-      "link": "https://www.thehindu.com/business/Economy/anticipation-over-upcoming-eu-fta-more-than-doubles-ferrari-orders-in-india/article71607082.ece"
-    },
-    {
-      "id": "6273fd479fe6",
-      "date": "21 Oct 2026",
-      "iso_date": "2026-10-21T11:13:13+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Market's early rally fizzles out as banking, financial stocks weigh on benchmarks",
-      "title_hi": "Market's early rally fizzles out as banking, financial stocks weigh on benchmarks",
-      "summary_en": "The 30-share BSE Sensex fell 484.98 points, or 0.66%, to 73,367.92",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The 30-share BSE Sensex fell 484.98 points, or 0.66%, to 73,367.92",
-      "analysis_hi": "संदर्भ: The 30-share BSE Sensex fell 484.98 points, or 0.66%, to 73,367.92...\n\nप्रमुख बिंदु:\n• The 30-share BSE Sensex fell 484.98 points, or 0.66%, to 73,367.92\n",
-      "analysis_en": "Reference: The 30-share BSE Sensex fell 484.98 points, or 0.66%, to 73,367.92...\n\nKey Points:\n• The 30-share BSE Sensex fell 484.98 points, or 0.66%, to 73,367.92\n",
-      "link": "https://www.thehindu.com/business/markets/markets-early-rally-fizzles-out-as-banking-financial-stocks-weigh-on-benchmarks/article71607226.ece"
-    },
-    {
-      "id": "677ab6b7c4c6",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T04:36:29+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "At least seven killed in blast at house storing firecrackers in Bihar’s Siwan",
-      "title_hi": "At least seven killed in blast at house storing firecrackers in Bihar’s Siwan",
-      "summary_en": "The blast occurred in a house where firecrackers were being made; rescue operations under way",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The blast occurred in a house where firecrackers were being made; rescue operations under way",
-      "analysis_hi": "संदर्भ: The blast occurred in a house where firecrackers were being made; rescue operations under way...\n\nप्रमुख बिंदु:\n• The blast occurred in a house where firecrackers were being made; rescue operations under way\n",
-      "analysis_en": "Reference: The blast occurred in a house where firecrackers were being made; rescue operations under way...\n\nKey Points:\n• The blast occurred in a house where firecrackers were being made; rescue operations under way\n",
-      "link": "https://www.thehindu.com/news/national/bihar/several-feared-dead-in-a-firecracker-factory-blast-in-bihars-siwan-district/article71616766.ece"
-    },
-    {
-      "id": "5dedec5c86b8",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T04:34:34+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "A.P. local body polls: Minister Durgesh accuses former CM Jagan of trying to derail elections fearing defeat",
-      "title_hi": "A.P. local body polls: Minister Durgesh accuses former CM Jagan of trying to derail elections fearing defeat",
-      "summary_en": "Durgesh said the YSRCP had lost public confidence and was trying to prevent an electoral defeat through legal challenges",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Durgesh said the YSRCP had lost public confidence and was trying to prevent an electoral defeat through legal challenges",
-      "analysis_hi": "संदर्भ: Durgesh said the YSRCP had lost public confidence and was trying to prevent an electoral defeat through legal challenges...\n\nप्रमुख बिंदु:\n• Durgesh said the YSRCP had lost public confidence and was trying to prevent an electoral defeat through legal challenges\n",
-      "analysis_en": "Reference: Durgesh said the YSRCP had lost public confidence and was trying to prevent an electoral defeat through legal challenges...\n\nKey Points:\n• Durgesh said the YSRCP had lost public confidence and was trying to prevent an electoral defeat through legal challenges\n",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-local-body-polls-minister-durgesh-accuses-former-cm-jagan-of-trying-to-derail-fearing-defeat/article71618987.ece"
-    },
-    {
-      "id": "415b06ac9d25",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T04:24:56+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Cyclone brewing as low pressure area forms in east-central, Southeast Bay of Bengal | Live",
-      "title_hi": "Cyclone brewing as low pressure area forms in east-central, Southeast Bay of Bengal | Live",
-      "summary_en": "Andhra Pradesh State Disaster Management Authority (APSDMA) lists Konaseema, West Godavari, Krishna, Guntur, Bapatla, Prakasam and the Rayalaseema districts for rain",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Andhra Pradesh State Disaster Management Authority (APSDMA) lists Konaseema, West Godavari, Krishna, Guntur, Bapatla, Prakasam and the Rayalaseema districts for rain",
-      "analysis_hi": "संदर्भ: Andhra Pradesh State Disaster Management Authority (APSDMA) lists Konaseema, West Godavari, Krishna, Guntur, Bapatla, Prakasam and the Rayalaseema districts for rain...\n\nप्रमुख बिंदु:\n• Andhra Pradesh State Disaster Management Authority (APSDMA) lists Konaseema, West Godavari, Krishna, Guntur, Bapatla, Prakasam and the Rayalaseema districts for rain\n",
-      "analysis_en": "Reference: Andhra Pradesh State Disaster Management Authority (APSDMA) lists Konaseema, West Godavari, Krishna, Guntur, Bapatla, Prakasam and the Rayalaseema districts for rain...\n\nKey Points:\n• Andhra Pradesh State Disaster Management Authority (APSDMA) lists Konaseema, West Godavari, Krishna, Guntur, Bapatla, Prakasam and the Rayalaseema districts for rain\n",
-      "link": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece"
-    },
-    {
-      "id": "878381c1214b",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T03:42:02+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "El Nino-induced water and power crisis likely to persist until July: Telangana CM Revanth",
-      "title_hi": "El Nino-induced water and power crisis likely to persist until July: Telangana CM Revanth",
-      "summary_en": "CM asks people to save water and power; special employment guarantee scheme after Sankranti, says people should adapt to the situation as they did during the pandemic",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। CM asks people to save water and power; special employment guarantee योजना after Sankranti, says people should adapt to the situation as they did during the pandemic",
-      "analysis_hi": "संदर्भ: CM asks people to save water and power; special employment guarantee scheme after Sankranti, says people should adapt to the situation as they did during the pandemic...\n\nप्रमुख बिंदु:\n• CM asks people to save water and power; special employment guarantee scheme after Sankranti, says people should adapt to the situation as they did during the pandemic\n",
-      "analysis_en": "Reference: CM asks people to save water and power; special employment guarantee scheme after Sankranti, says people should adapt to the situation as they did during the pandemic...\n\nKey Points:\n• CM asks people to save water and power; special employment guarantee scheme after Sankranti, says people should adapt to the situation as they did during the pandemic\n",
-      "link": "https://www.thehindu.com/news/national/telangana/el-nino-induced-water-and-power-crisis-likely-to-persist-until-july-revanth/article71617402.ece"
-    },
-    {
-      "id": "42ea0ba81812",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T03:34:30+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Why is ITBP overhauling its training and combat strategy along the China border? Explained",
-      "title_hi": "Why is ITBP overhauling its training and combat strategy along the China border? Explained",
-      "summary_en": "The ITBP was formed on October 24, 1962 after the Indo-China war",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The ITBP was formed on October 24, 1962 after the Indo-China war",
-      "analysis_hi": "संदर्भ: The ITBP was formed on October 24, 1962 after the Indo-China war...\n\nप्रमुख बिंदु:\n• The ITBP was formed on October 24, 1962 after the Indo-China war\n",
-      "analysis_en": "Reference: The ITBP was formed on October 24, 1962 after the Indo-China war...\n\nKey Points:\n• The ITBP was formed on October 24, 1962 after the Indo-China war\n",
-      "link": "https://www.thehindu.com/news/national/explainer-of-indo-tibetan-border-force/article71618963.ece"
-    },
-    {
-      "id": "e179d43c7d0f",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T03:24:18+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Dayanidhi Maran flags concerns about proposed Prevention of Cruelty to Animals Rules, 2026; urges Centre for a review",
-      "title_hi": "Dayanidhi Maran flags concerns about proposed Prevention of Cruelty to Animals Rules, 2026; urges Centre for a review",
-      "summary_en": "Mr. Maran in his letter, urging the Centre to withdraw the proposed draft rules in their current form and undertake a comprehensive review in consultation with independent animal welfare experts, scientists, veterinarians, research institutions and civil society organisations",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Mr. Maran in his letter, urging the Centre to withdraw the proposed draft rules in their current form and undertake a comprehensive review in consultation with independent animal welfare experts, scientists, veterinarians, research institutions and civil society organisations",
-      "analysis_hi": "संदर्भ: Mr. Maran in his letter, urging the Centre to withdraw the proposed draft rules in their current form and undertake a comprehensive review in consultation with independent animal welfare experts, scientists, veterinarians, research institutions and civil society organisations...\n\nप्रमुख बिंदु:\n• Maran in his letter, urging the Centre to withdraw the proposed draft rules in their current form and undertake a comprehensive review in consultation with independent animal welfare experts, scientists, veterinarians, research institutions and civil society organisations\n",
-      "analysis_en": "Reference: Mr. Maran in his letter, urging the Centre to withdraw the proposed draft rules in their current form and undertake a comprehensive review in consultation with independent animal welfare experts, scientists, veterinarians, research institutions and civil society organisations...\n\nKey Points:\n• Maran in his letter, urging the Centre to withdraw the proposed draft rules in their current form and undertake a comprehensive review in consultation with independent animal welfare experts, scientists, veterinarians, research institutions and civil society organisations\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/dayanidhi-maran-flags-concerns-about-proposed-prevention-of-cruelty-to-animals-rules-2026-urges-centre-for-a-review/article71618974.ece"
-    },
-    {
-      "id": "4fb249c2319b",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T03:13:37+00:00",
-      "category": "social",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-1",
-        "GS-2"
-      ],
-      "subjects": [
-        "Social Issues"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-1: Population and associated issues",
-        "GS-2: Issues relating to development and management of Social Sector/Services"
-      ],
-      "title_en": "How is Kerala planning to prevent child deaths linked to malnutrition and neglect? Explained",
-      "title_hi": "How is Kerala planning to prevent child deaths linked to malnutrition and neglect? Explained",
-      "summary_en": "A State-wide vulnerability mapping will be held to identity children living in vulnerable conditions that pose a risk to their health, education, and safety. Once the vulnerable children are identified and their details collected, regular follow-ups will be held",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A State-wide vulnerability mapping will be held to identity children living in vulnerable conditions that pose a risk to their स्वास्थ्य, शिक्षा, and safety. Once the vulnerable children are identified and their details collected, regular follow-ups will be held",
-      "analysis_hi": "संदर्भ: A State-wide vulnerability mapping will be held to identity children living in vulnerable conditions that pose a risk to their health, education, and safety. Once the vulnerable children are identified and their details collected, regular follow-ups will be held...\n\nप्रमुख बिंदु:\n• A State-wide vulnerability mapping will be held to identity children living in vulnerable conditions that pose a risk to their health, education, and safety\n• Once the vulnerable children are identified and their details collected, regular follow-ups will be held\n",
-      "analysis_en": "Reference: A State-wide vulnerability mapping will be held to identity children living in vulnerable conditions that pose a risk to their health, education, and safety. Once the vulnerable children are identified and their details collected, regular follow-ups will be held...\n\nKey Points:\n• A State-wide vulnerability mapping will be held to identity children living in vulnerable conditions that pose a risk to their health, education, and safety\n• Once the vulnerable children are identified and their details collected, regular follow-ups will be held\n",
-      "link": "https://www.thehindu.com/news/national/kerala/how-is-kerala-planning-to-prevent-child-deaths-linked-to-malnutrition-and-neglect-explained/article71618979.ece"
-    },
-    {
-      "id": "7188f7b90c05",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T03:10:43+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Kolkata stampede: Death in the time of Durga Puja",
-      "title_hi": "Kolkata stampede: Death in the time of Durga Puja",
-      "summary_en": "On October 17, a stampede broke out at a Durga Puja pandal in north Kolkata, claiming 19 lives. The pandal, erected in a narrow space with dim lighting, was filled with people soon after it started raining. Shrabana Chatterjee and Shiv Sahay Singh report on the lapses that led to the tragedy and the questions it has raised about accountability in West Bengal, where the new government’s first Durga Puja celebrations have been marred by controversy",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। On October 17, a stampede broke out at a Durga Puja pandal in north Kolkata, claiming 19 lives. The pandal, erected in a narrow अंतरिक्ष with dim lighting, was filled with people soon after it started raining. Shrabana Chatterjee and Shiv Sahay Singh report on the lapses that led to the tragedy and the questions it has raised about accountability in West Bengal, where the new सरकार’s first Durga Puja celebrations have been marred by controversy",
-      "analysis_hi": "संदर्भ: On October 17, a stampede broke out at a Durga Puja pandal in north Kolkata, claiming 19 lives. The pandal, erected in a narrow space with dim lighting, was filled with people soon after it started raining. Shrabana Chatterjee and Shiv Sahay Singh report on the lapses that led to the tragedy and the...\n\nप्रमुख बिंदु:\n• On October 17, a stampede broke out at a Durga Puja pandal in north Kolkata, claiming 19 lives\n• The pandal, erected in a narrow space with dim lighting, was filled with people soon after it started raining\n• Shrabana Chatterjee and Shiv Sahay Singh report on the lapses that led to the tragedy and the questions it has raised about accountability in West Bengal, where the new government’s first Durga Puja celebrations have been marred by controversy\n",
-      "analysis_en": "Reference: On October 17, a stampede broke out at a Durga Puja pandal in north Kolkata, claiming 19 lives. The pandal, erected in a narrow space with dim lighting, was filled with people soon after it started raining. Shrabana Chatterjee and Shiv Sahay Singh report on the lapses that led to the tragedy and the...\n\nKey Points:\n• On October 17, a stampede broke out at a Durga Puja pandal in north Kolkata, claiming 19 lives\n• The pandal, erected in a narrow space with dim lighting, was filled with people soon after it started raining\n• Shrabana Chatterjee and Shiv Sahay Singh report on the lapses that led to the tragedy and the questions it has raised about accountability in West Bengal, where the new government’s first Durga Puja celebrations have been marred by controversy\n",
-      "link": "https://www.thehindu.com/news/national/west-bengal/kolkata-stampede-death-in-the-time-of-durga-puja/article71616855.ece"
-    },
-    {
-      "id": "540b8363862e",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T02:28:30+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Karnataka’s coffee country: Inside its most immersive plantation stays",
-      "title_hi": "Karnataka’s coffee country: Inside its most immersive plantation stays",
-      "summary_en": "Across Coorg and Chikmagalur, estates are turning the journey from coffee cherry to cup into a reason to travel, with experiences shaped by local history, biodiversity and generations of growing knowledge",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Across Coorg and Chikmagalur, estates are turning the journey from coffee cherry to cup into a reason to travel, with experiences shaped by local history, biodiversity and generations of growing knowledge",
-      "analysis_hi": "संदर्भ: Across Coorg and Chikmagalur, estates are turning the journey from coffee cherry to cup into a reason to travel, with experiences shaped by local history, biodiversity and generations of growing knowledge...\n\nप्रमुख बिंदु:\n• Across Coorg and Chikmagalur, estates are turning the journey from coffee cherry to cup into a reason to travel, with experiences shaped by local history, biodiversity and generations of growing knowledge\n",
-      "analysis_en": "Reference: Across Coorg and Chikmagalur, estates are turning the journey from coffee cherry to cup into a reason to travel, with experiences shaped by local history, biodiversity and generations of growing knowledge...\n\nKey Points:\n• Across Coorg and Chikmagalur, estates are turning the journey from coffee cherry to cup into a reason to travel, with experiences shaped by local history, biodiversity and generations of growing knowledge\n",
-      "link": "https://www.thehindu.com/life-and-style/travel/karnatakas-coffee-country-inside-its-most-immersive-plantation-stays/article71574406.ece"
-    },
-    {
-      "id": "92bfe295ba4b",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T02:24:10+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Karnataka SIR: Teaching on the back burner",
-      "title_hi": "Karnataka SIR: Teaching on the back burner",
-      "summary_en": "Children in government and aided schools across Karnataka have not seen several of their teachers for months, for most of them have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls. Students tell Rishita Khanna that what initially seemed like fun with many free hours, is now making them anxious...",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Children in सरकार and aided schools across Karnataka have not seen several of their teachers for months, for most of them have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls. Students tell Rishita Khanna that what initially seemed like fun with many free hours, is now making them anxious...",
-      "analysis_hi": "संदर्भ: Children in government and aided schools across Karnataka have not seen several of their teachers for months, for most of them have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls. Students tell Rishita Khanna that what initially seemed like fun with many ...\n\nप्रमुख बिंदु:\n• Children in government and aided schools across Karnataka have not seen several of their teachers for months, for most of them have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls\n• Students tell Rishita Khanna that what initially seemed like fun with many free hours, is now making them anxious...\n",
-      "analysis_en": "Reference: Children in government and aided schools across Karnataka have not seen several of their teachers for months, for most of them have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls. Students tell Rishita Khanna that what initially seemed like fun with many ...\n\nKey Points:\n• Children in government and aided schools across Karnataka have not seen several of their teachers for months, for most of them have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls\n• Students tell Rishita Khanna that what initially seemed like fun with many free hours, is now making them anxious...\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-teaching-on-the-back-burner/article71606292.ece"
-    },
-    {
-      "id": "467adaaad7a1",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T02:04:20+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Odisha moves Supreme Court against Andhra Pradesh over rural poll notice in Kotia area",
-      "title_hi": "Odisha moves Supreme Court against Andhra Pradesh over rural poll notice in Kotia area",
-      "summary_en": "While all the 28 villages under Kotia Gram Panchayat remain in Odisha territory, Andhra Pradesh has been claiming its rights over 21 villages. Odisha challenged this in the Supreme Court in 1968 and the court asked both States to maintain the status quo in 2006",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। While all the 28 villages under Kotia Gram Panchayat remain in Odisha territory, Andhra Pradesh has been claiming its rights over 21 villages. Odisha challenged this in the सुप्रीम कोर्ट in 1968 and the court asked both States to maintain the status quo in 2006",
-      "analysis_hi": "संदर्भ: While all the 28 villages under Kotia Gram Panchayat remain in Odisha territory, Andhra Pradesh has been claiming its rights over 21 villages. Odisha challenged this in the Supreme Court in 1968 and the court asked both States to maintain the status quo in 2006...\n\nप्रमुख बिंदु:\n• While all the 28 villages under Kotia Gram Panchayat remain in Odisha territory, Andhra Pradesh has been claiming its rights over 21 villages\n• Odisha challenged this in the Supreme Court in 1968 and the court asked both States to maintain the status quo in 2006\n",
-      "analysis_en": "Reference: While all the 28 villages under Kotia Gram Panchayat remain in Odisha territory, Andhra Pradesh has been claiming its rights over 21 villages. Odisha challenged this in the Supreme Court in 1968 and the court asked both States to maintain the status quo in 2006...\n\nKey Points:\n• While all the 28 villages under Kotia Gram Panchayat remain in Odisha territory, Andhra Pradesh has been claiming its rights over 21 villages\n• Odisha challenged this in the Supreme Court in 1968 and the court asked both States to maintain the status quo in 2006\n",
-      "link": "https://www.thehindu.com/news/national/odisha/odisha-moves-supreme-court-against-andhra-pradesh-over-rural-poll-notice-in-kotia-area/article71618935.ece"
-    },
-    {
-      "id": "e7db5de61a9f",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T02:00:41+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Students, farmers, civil society groups continue to protest against SIR, CEC",
-      "title_hi": "Students, farmers, civil society groups continue to protest against SIR, CEC",
-      "summary_en": "Hundreds take to the streets as Yogendra Yadav, Annie Raja, and farmers’ groups join protest; police say 20 detained, one FIR resgistered",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Hundreds take to the streets as Yogendra Yadav, Annie Raja, and farmers’ groups join protest; police say 20 detained, one FIR resgistered",
-      "analysis_hi": "संदर्भ: Hundreds take to the streets as Yogendra Yadav, Annie Raja, and farmers’ groups join protest; police say 20 detained, one FIR resgistered...\n\nप्रमुख बिंदु:\n• Hundreds take to the streets as Yogendra Yadav, Annie Raja, and farmers’ groups join protest; police say 20 detained, one FIR resgistered\n",
-      "analysis_en": "Reference: Hundreds take to the streets as Yogendra Yadav, Annie Raja, and farmers’ groups join protest; police say 20 detained, one FIR resgistered...\n\nKey Points:\n• Hundreds take to the streets as Yogendra Yadav, Annie Raja, and farmers’ groups join protest; police say 20 detained, one FIR resgistered\n",
-      "link": "https://www.thehindu.com/news/national/students-farmers-civil-society-groups-continue-to-protest-against-sir-cec/article71616758.ece"
-    },
-    {
-      "id": "35cbb6dbc737",
-      "date": "24 Oct 2026",
-      "iso_date": "2026-10-24T01:16:22+00:00",
-      "category": "ir",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "International Relations"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: India and its neighborhood- relations",
-        "GS-2: Important International institutions, agencies and fora"
-      ],
-      "title_en": "IndiGo extends cancellation of Saudi flights as regional tensions escalate: Indian mission",
-      "title_hi": "IndiGo extends cancellation of Saudi flights as regional tensions escalate: Indian mission",
-      "summary_en": "IndiGo has extended the cancellation of its flights to and from Saudi Arabia as regional security concerns escalate, with Riyadh routes halted until October 31, 2026 and Jeddah, Dammam, and Madinah routes until October 27, 2026, the Indian Embassy in Riyadh said.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। IndiGo has extended the cancellation of its flights to and from Saudi Arabia as regional सुरक्षा concerns escalate, with Riyadh routes halted until October 31, 2026 and Jeddah, Dammam, and Madinah routes until October 27, 2026, the Indian Embassy in Riyadh said.",
-      "analysis_hi": "संदर्भ: IndiGo has extended the cancellation of its flights to and from Saudi Arabia as regional security concerns escalate, with Riyadh routes halted until October 31, 2026 and Jeddah, Dammam, and Madinah routes until October 27, 2026, the Indian Embassy in Riyadh said....\n\nप्रमुख बिंदु:\n• IndiGo has extended the cancellation of its flights to and from Saudi Arabia as regional security concerns escalate, with Riyadh routes halted until October 31, 2026 and Jeddah, Dammam, and Madinah routes until October 27, 2026, the Indian Embassy in Riyadh said.\n",
-      "analysis_en": "Reference: IndiGo has extended the cancellation of its flights to and from Saudi Arabia as regional security concerns escalate, with Riyadh routes halted until October 31, 2026 and Jeddah, Dammam, and Madinah routes until October 27, 2026, the Indian Embassy in Riyadh said....\n\nKey Points:\n• IndiGo has extended the cancellation of its flights to and from Saudi Arabia as regional security concerns escalate, with Riyadh routes halted until October 31, 2026 and Jeddah, Dammam, and Madinah routes until October 27, 2026, the Indian Embassy in Riyadh said.\n",
-      "link": "https://www.thehindu.com/news/national/indigo-extends-cancellation-of-saudi-flights-as-regional-tensions-escalate-indian-mission/article71616665.ece"
-    },
-    {
-      "id": "95d9ac0f8ad4",
-      "date": "23 Oct 2026",
-      "iso_date": "2026-10-23T23:56:51+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Election Commission sought explanation from officials as goof-up in voter list went viral",
-      "title_hi": "Election Commission sought explanation from officials as goof-up in voter list went viral",
-      "summary_en": "“There is a possibility of mistakes when doing any work for the first time. Out of 14,81,310 entries in the voter list, there are a total of 158 entries in which the names of the voters or their relatives appear strange. The strangeness of these names is due to such a mistake,” says statement released by Chief Electoral Officer, Uttar Pradesh",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। “There is a possibility of mistakes when doing any work for the first time. Out of 14,81,310 entries in the voter list, there are a total of 158 entries in which the names of the voters or their relatives appear strange. The strangeness of these names is due to such a mistake,” says statement released by Chief Electoral Officer, Uttar Pradesh",
-      "analysis_hi": "संदर्भ: “There is a possibility of mistakes when doing any work for the first time. Out of 14,81,310 entries in the voter list, there are a total of 158 entries in which the names of the voters or their relatives appear strange. The strangeness of these names is due to such a mistake,” says statement releas...\n\nप्रमुख बिंदु:\n• “There is a possibility of mistakes when doing any work for the first time\n• Out of 14,81,310 entries in the voter list, there are a total of 158 entries in which the names of the voters or their relatives appear strange\n• The strangeness of these names is due to such a mistake,” says statement released by Chief Electoral Officer, Uttar Pradesh\n",
-      "analysis_en": "Reference: “There is a possibility of mistakes when doing any work for the first time. Out of 14,81,310 entries in the voter list, there are a total of 158 entries in which the names of the voters or their relatives appear strange. The strangeness of these names is due to such a mistake,” says statement releas...\n\nKey Points:\n• “There is a possibility of mistakes when doing any work for the first time\n• Out of 14,81,310 entries in the voter list, there are a total of 158 entries in which the names of the voters or their relatives appear strange\n• The strangeness of these names is due to such a mistake,” says statement released by Chief Electoral Officer, Uttar Pradesh\n",
-      "link": "https://www.thehindu.com/news/national/uttar-pradesh/election-commission-sought-explanation-from-officials-as-goof-up-in-voter-list-went-viral/article71617002.ece"
-    },
-    {
-      "id": "1b0dc2060c46",
-      "date": "23 Oct 2026",
-      "iso_date": "2026-10-23T22:49:21+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Students protest against SIR at Mumbai University, demand arrest of CEC Gyanesh Kumar",
-      "title_hi": "Students protest against SIR at Mumbai University, demand arrest of CEC Gyanesh Kumar",
-      "summary_en": "Organised by the Disha Students’ Organisation and Bhagat Singh Jan Adhikar Yatra (BSJAY), the demonstration also called for the repeal of the 2023 law governing the appointment of Election Commissioners",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Organised by the Disha Students’ Organisation and Bhagat Singh Jan Adhikar Yatra (BSJAY), the demonstration also called for the repeal of the 2023 law governing the appointment of चुनाव Commissioners",
-      "analysis_hi": "संदर्भ: Organised by the Disha Students’ Organisation and Bhagat Singh Jan Adhikar Yatra (BSJAY), the demonstration also called for the repeal of the 2023 law governing the appointment of Election Commissioners...\n\nप्रमुख बिंदु:\n• Organised by the Disha Students’ Organisation and Bhagat Singh Jan Adhikar Yatra (BSJAY), the demonstration also called for the repeal of the 2023 law governing the appointment of Election Commissioners\n",
-      "analysis_en": "Reference: Organised by the Disha Students’ Organisation and Bhagat Singh Jan Adhikar Yatra (BSJAY), the demonstration also called for the repeal of the 2023 law governing the appointment of Election Commissioners...\n\nKey Points:\n• Organised by the Disha Students’ Organisation and Bhagat Singh Jan Adhikar Yatra (BSJAY), the demonstration also called for the repeal of the 2023 law governing the appointment of Election Commissioners\n",
-      "link": "https://www.thehindu.com/news/cities/mumbai/students-protest-against-sir-at-mumbai-university-demand-arrest-of-cec-gyanesh-kumar/article71616990.ece"
-    },
-    {
-      "id": "660cd5896c1d",
-      "date": "23 Oct 2026",
-      "iso_date": "2026-10-23T22:38:44+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Assam government to present 1st Bhupen Hazarika National Award to Usha Mangeshkar: Himanta",
-      "title_hi": "Assam government to present 1st Bhupen Hazarika National Award to Usha Mangeshkar: Himanta",
-      "summary_en": "Prime Minister Narendra Modi will present the award at the concluding ceremony of the singer's year-long birth centenary celebrations at Bharat Mandapam in New Delhi on November 29, says CM Sarma",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। प्रधानमंत्री Narendra Modi will present the award at the concluding ceremony of the singer's year-long birth centenary celebrations at Bharat Mandapam in New Delhi on November 29, says CM Sarma",
-      "analysis_hi": "संदर्भ: Prime Minister Narendra Modi will present the award at the concluding ceremony of the singer's year-long birth centenary celebrations at Bharat Mandapam in New Delhi on November 29, says CM Sarma...\n\nप्रमुख बिंदु:\n• Prime Minister Narendra Modi will present the award at the concluding ceremony of the singer's year-long birth centenary celebrations at Bharat Mandapam in New Delhi on November 29, says CM Sarma\n",
-      "analysis_en": "Reference: Prime Minister Narendra Modi will present the award at the concluding ceremony of the singer's year-long birth centenary celebrations at Bharat Mandapam in New Delhi on November 29, says CM Sarma...\n\nKey Points:\n• Prime Minister Narendra Modi will present the award at the concluding ceremony of the singer's year-long birth centenary celebrations at Bharat Mandapam in New Delhi on November 29, says CM Sarma\n",
-      "link": "https://www.thehindu.com/news/national/assam-government-to-present-1st-bhupen-hazarika-national-award-to-usha-mangeshkar-himanta/article71617957.ece"
-    },
-    {
-      "id": "6bf2ca4c4894",
-      "date": "23 Oct 2026",
-      "iso_date": "2026-10-23T20:27:00+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Legal action ordered against officials over irregularities in voter list in Pilibhit",
-      "title_hi": "Legal action ordered against officials over irregularities in voter list in Pilibhit",
-      "summary_en": "Legal action will be taken against both the current and former election officials responsible for the discrepancies found in the voter list for constituency 127 – Pilibhit, reads an official statement by the State election commission",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Legal action will be taken against both the current and former चुनाव officials responsible for the discrepancies found in the voter list for constituency 127 – Pilibhit, reads an official statement by the State चुनाव commission",
-      "analysis_hi": "संदर्भ: Legal action will be taken against both the current and former election officials responsible for the discrepancies found in the voter list for constituency 127 – Pilibhit, reads an official statement by the State election commission...\n\nप्रमुख बिंदु:\n• Legal action will be taken against both the current and former election officials responsible for the discrepancies found in the voter list for constituency 127 – Pilibhit, reads an official statement by the State election commission\n",
-      "analysis_en": "Reference: Legal action will be taken against both the current and former election officials responsible for the discrepancies found in the voter list for constituency 127 – Pilibhit, reads an official statement by the State election commission...\n\nKey Points:\n• Legal action will be taken against both the current and former election officials responsible for the discrepancies found in the voter list for constituency 127 – Pilibhit, reads an official statement by the State election commission\n",
-      "link": "https://www.thehindu.com/news/national/uttar-pradesh/legal-action-ordered-against-officials-over-irregularities-in-voter-list-in-pilibhit/article71613043.ece"
-    },
-    {
-      "id": "ba3220d1c82b",
-      "date": "23 Oct 2026",
-      "iso_date": "2026-10-23T19:59:35+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft",
-      "title_hi": "CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft",
-      "summary_en": "CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft",
-      "analysis_hi": "संदर्भ: CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft...\n\nप्रमुख बिंदु:\n• CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft\n",
-      "analysis_en": "Reference: CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft...\n\nKey Points:\n• CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/credai-chennai-sets-up-anti-corruption-panel-frames-sop-for-reporting-graft/article71617238.ece"
     }
   ]
 }
