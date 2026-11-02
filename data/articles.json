@@ -1,8 +1,152 @@
 {
-  "last_updated": "2026-11-02T06:31:21.949593+00:00",
-  "last_updated_ist": "02 November 2026, 12:01 PM IST",
+  "last_updated": "2026-11-02T06:35:54.214440+00:00",
+  "last_updated_ist": "02 November 2026, 12:05 PM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "9afc4fd0e72a",
+      "date": "02 Nov 2026",
+      "iso_date": "2026-11-02T06:30:32+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Cyclonic storm Murasu to make landfall close to Ongole",
+      "title_hi": "Cyclonic storm Murasu to make landfall close to Ongole",
+      "summary_en": "NDRF, SDRF teams deployed in districts likely to be affected",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। NDRF, SDRF teams deployed in districts likely to be affected",
+      "analysis_hi": "संदर्भ: NDRF, SDRF teams deployed in districts likely to be affected...\n\nप्रमुख बिंदु:\n• NDRF, SDRF teams deployed in districts likely to be affected\n",
+      "analysis_en": "Reference: NDRF, SDRF teams deployed in districts likely to be affected...\n\nKey Points:\n• NDRF, SDRF teams deployed in districts likely to be affected\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece"
+    },
+    {
+      "id": "d415128043e4",
+      "date": "02 Nov 2026",
+      "iso_date": "2026-11-02T06:28:49+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Six Indian tourists stranded in Nepal's National Park rescued safely",
+      "title_hi": "Six Indian tourists stranded in Nepal's National Park rescued safely",
+      "summary_en": "All of the rescued tourists are undergoing treatment at a government hospital in the Dune of Dolpa district, and their condition is out of danger, says police",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। All of the rescued tourists are undergoing treatment at a सरकार hospital in the Dune of Dolpa district, and their condition is out of danger, says police",
+      "analysis_hi": "संदर्भ: All of the rescued tourists are undergoing treatment at a government hospital in the Dune of Dolpa district, and their condition is out of danger, says police...\n\nप्रमुख बिंदु:\n• All of the rescued tourists are undergoing treatment at a government hospital in the Dune of Dolpa district, and their condition is out of danger, says police\n",
+      "analysis_en": "Reference: All of the rescued tourists are undergoing treatment at a government hospital in the Dune of Dolpa district, and their condition is out of danger, says police...\n\nKey Points:\n• All of the rescued tourists are undergoing treatment at a government hospital in the Dune of Dolpa district, and their condition is out of danger, says police\n",
+      "link": "https://www.thehindu.com/news/national/six-indian-tourists-stranded-in-nepals-national-park-rescued-safely/article71655445.ece"
+    },
+    {
+      "id": "61b7aab99c85",
+      "date": "02 Nov 2026",
+      "iso_date": "2026-11-02T06:27:56+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Three AAP MLAs join BJP in Punjab",
+      "title_hi": "Three AAP MLAs join BJP in Punjab",
+      "summary_en": "On November 1, 2026, the AAP legislators, one of whom a former Minister, resigned from the party’s primary membership",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। On November 1, 2026, the AAP legislators, one of whom a former Minister, resigned from the party’s primary membership",
+      "analysis_hi": "संदर्भ: On November 1, 2026, the AAP legislators, one of whom a former Minister, resigned from the party’s primary membership...\n\nप्रमुख बिंदु:\n• On November 1, 2026, the AAP legislators, one of whom a former Minister, resigned from the party’s primary membership\n",
+      "analysis_en": "Reference: On November 1, 2026, the AAP legislators, one of whom a former Minister, resigned from the party’s primary membership...\n\nKey Points:\n• On November 1, 2026, the AAP legislators, one of whom a former Minister, resigned from the party’s primary membership\n",
+      "link": "https://www.thehindu.com/news/national/punjab/three-aap-mlas-join-bjp-in-punjab/article71655539.ece"
+    },
+    {
+      "id": "519172f43ef9",
+      "date": "02 Nov 2026",
+      "iso_date": "2026-11-02T06:27:52+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Cyclone Murasu | Telangana’s Nagarkurnool administration releases do’s and don’ts",
+      "title_hi": "Cyclone Murasu | Telangana’s Nagarkurnool administration releases do’s and don’ts",
+      "summary_en": "People were urged to avoid travelling to Somasila, Nallamalla ghat road, and tourist spots",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। People were urged to avoid travelling to Somasila, Nallamalla ghat road, and tourist spots",
+      "analysis_hi": "संदर्भ: People were urged to avoid travelling to Somasila, Nallamalla ghat road, and tourist spots...\n\nप्रमुख बिंदु:\n• People were urged to avoid travelling to Somasila, Nallamalla ghat road, and tourist spots\n",
+      "analysis_en": "Reference: People were urged to avoid travelling to Somasila, Nallamalla ghat road, and tourist spots...\n\nKey Points:\n• People were urged to avoid travelling to Somasila, Nallamalla ghat road, and tourist spots\n",
+      "link": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-telanganas-nagarkurnool-administration-releases-dos-and-donts/article71655531.ece"
+    },
+    {
+      "id": "a72894f453c8",
+      "date": "02 Nov 2026",
+      "iso_date": "2026-11-02T06:27:50+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "AMU wants women on campus, not at the ballot box",
+      "title_hi": "AMU wants women on campus, not at the ballot box",
+      "summary_en": "Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal representation. Their fight to be included in the university-wide electoral process has brought renewed scrutiny to the separate-union rules and the barriers women face in campus politics, finds A. M. Jigeesh",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal representation. Their fight to be included in the university-wide electoral process has brought renewed scrutiny to the separate-union rules and the barriers women face in campus politics, finds A. M. Jigeesh",
+      "analysis_hi": "संदर्भ: Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal representation. Their fight to be included in the university-wide electoral process has brou...\n\nप्रमुख बिंदु:\n• Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal representation\n• Their fight to be included in the university-wide electoral process has brought renewed scrutiny to the separate-union rules and the barriers women face in campus politics, finds A\n",
+      "analysis_en": "Reference: Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal representation. Their fight to be included in the university-wide electoral process has brou...\n\nKey Points:\n• Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal representation\n• Their fight to be included in the university-wide electoral process has brought renewed scrutiny to the separate-union rules and the barriers women face in campus politics, finds A\n",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/amus-wants-women-on-campus-not-at-the-ballot-box/article71653225.ece"
+    },
     {
       "id": "328805b71eeb",
       "date": "02 Nov 2026",
@@ -86,64 +230,6 @@
       "analysis_hi": "संदर्भ: Protests erupted in several parts of Kangpokpi district on November 1, as agitators burned tyres on many roads and blocked several stretches with logs of wood and boulders...\n\nप्रमुख बिंदु:\n• Protests erupted in several parts of Kangpokpi district on November 1, as agitators burned tyres on many roads and blocked several stretches with logs of wood and boulders\n",
       "analysis_en": "Reference: Protests erupted in several parts of Kangpokpi district on November 1, as agitators burned tyres on many roads and blocked several stretches with logs of wood and boulders...\n\nKey Points:\n• Protests erupted in several parts of Kangpokpi district on November 1, as agitators burned tyres on many roads and blocked several stretches with logs of wood and boulders\n",
       "link": "https://www.thehindu.com/news/national/manipur/agitators-clash-with-security-forces-in-manipurs-kangpokpi-after-recovery-of-missing-youths-bodies/article71655499.ece"
-    },
-    {
-      "id": "519172f43ef9",
-      "date": "02 Nov 2026",
-      "iso_date": "2026-11-02T06:22:15+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Cyclone Murasu | Telangana’s Nagarkurnool administration releases do’s and don’ts",
-      "title_hi": "Cyclone Murasu | Telangana’s Nagarkurnool administration releases do’s and don’ts",
-      "summary_en": "People were urged to avoid travelling to Somasila, the Nallamalla ghat road, and tourist spots",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। People were urged to avoid travelling to Somasila, the Nallamalla ghat road, and tourist spots",
-      "analysis_hi": "संदर्भ: People were urged to avoid travelling to Somasila, the Nallamalla ghat road, and tourist spots...\n\nप्रमुख बिंदु:\n• People were urged to avoid travelling to Somasila, the Nallamalla ghat road, and tourist spots\n",
-      "analysis_en": "Reference: People were urged to avoid travelling to Somasila, the Nallamalla ghat road, and tourist spots...\n\nKey Points:\n• People were urged to avoid travelling to Somasila, the Nallamalla ghat road, and tourist spots\n",
-      "link": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-telanganas-nagarkurnool-administration-releases-dos-and-donts/article71655531.ece"
-    },
-    {
-      "id": "9afc4fd0e72a",
-      "date": "02 Nov 2026",
-      "iso_date": "2026-11-02T06:21:14+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Cyclonic storm Murasu to make landfall close to Ongole",
-      "title_hi": "Cyclonic storm Murasu to make landfall close to Ongole",
-      "summary_en": "NDRF, SDRF teams deployed in districts likely to be affected",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। NDRF, SDRF teams deployed in districts likely to be affected",
-      "analysis_hi": "संदर्भ: NDRF, SDRF teams deployed in districts likely to be affected...\n\nप्रमुख बिंदु:\n• NDRF, SDRF teams deployed in districts likely to be affected\n",
-      "analysis_en": "Reference: NDRF, SDRF teams deployed in districts likely to be affected...\n\nKey Points:\n• NDRF, SDRF teams deployed in districts likely to be affected\n",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece"
     },
     {
       "id": "a8f4aedfc298",
@@ -457,91 +543,6 @@
       "analysis_hi": "संदर्भ: The former Supreme Court judge on delays in clearing collegium recommendations and the need for reform...\n\nप्रमुख बिंदु:\n• The former Supreme Court judge on delays in clearing collegium recommendations and the need for reform\n",
       "analysis_en": "Reference: The former Supreme Court judge on delays in clearing collegium recommendations and the need for reform...\n\nKey Points:\n• The former Supreme Court judge on delays in clearing collegium recommendations and the need for reform\n",
       "link": "https://www.thehindu.com/books/justice-sanjay-kishan-kaul-on-his-memoir-without-fear-or-favour-and-the-executives-growing-influence-over-the-collegium-system/article71643731.ece"
-    },
-    {
-      "id": "d5994fd1fb12",
-      "date": "02 Nov 2026",
-      "iso_date": "2026-11-02T05:30:52+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Air quality worsens to ‘very poor’ category in Delhi, parts of north India",
-      "title_hi": "Air quality worsens to ‘very poor’ category in Delhi, parts of north India",
-      "summary_en": "The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m. on November 2, 2026, as per Central Pollution Control Board (CPCB) data",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m. on November 2, 2026, as per Central Pollution Control Board (CPCB) data",
-      "analysis_hi": "संदर्भ: The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m. on November 2, 2026, as per Central Pollution Control Board (CPCB) data...\n\nप्रमुख बिंदु:\n• The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m\n• on November 2, 2026, as per Central Pollution Control Board (CPCB) data\n",
-      "analysis_en": "Reference: The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m. on November 2, 2026, as per Central Pollution Control Board (CPCB) data...\n\nKey Points:\n• The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m\n• on November 2, 2026, as per Central Pollution Control Board (CPCB) data\n",
-      "link": "https://www.thehindu.com/news/cities/Delhi/air-quality-worsens-to-very-poor-category-in-delhi-parts-of-north-india/article71655252.ece"
-    },
-    {
-      "id": "1317f2e3fc88",
-      "date": "02 Nov 2026",
-      "iso_date": "2026-11-02T05:25:46+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "SIT finds no assault on former Keralam Minister Veena George by KSU activists, submits report",
-      "title_hi": "SIT finds no assault on former Keralam Minister Veena George by KSU activists, submits report",
-      "summary_en": "As part of the investigation, the SIT recorded statements of Ms. George, her security personnel and the police officers who initially investigated the case and filed a charge sheet, officials said",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। As part of the investigation, the SIT recorded statements of Ms. George, her सुरक्षा personnel and the police officers who initially investigated the case and filed a charge sheet, officials said",
-      "analysis_hi": "संदर्भ: As part of the investigation, the SIT recorded statements of Ms. George, her security personnel and the police officers who initially investigated the case and filed a charge sheet, officials said...\n\nप्रमुख बिंदु:\n• As part of the investigation, the SIT recorded statements of Ms\n• George, her security personnel and the police officers who initially investigated the case and filed a charge sheet, officials said\n",
-      "analysis_en": "Reference: As part of the investigation, the SIT recorded statements of Ms. George, her security personnel and the police officers who initially investigated the case and filed a charge sheet, officials said...\n\nKey Points:\n• As part of the investigation, the SIT recorded statements of Ms\n• George, her security personnel and the police officers who initially investigated the case and filed a charge sheet, officials said\n",
-      "link": "https://www.thehindu.com/news/national/kerala/sit-finds-no-assault-on-former-keralam-minister-veena-george-by-ksu-activists-submits-report/article71653231.ece"
-    },
-    {
-      "id": "a7d8c689b5d3",
-      "date": "02 Nov 2026",
-      "iso_date": "2026-11-02T05:22:42+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "60.96% turnout recorded in 91 urban local body polls",
-      "title_hi": "60.96% turnout recorded in 91 urban local body polls",
-      "summary_en": "GVMC report awaited Out of 96,89,061 voters, 59,06,255 cast their votes. Chimakurthy municipality in Prakasam district recorded the highest polling at 84.36%",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। GVMC report awaited Out of 96,89,061 voters, 59,06,255 cast their votes. Chimakurthy municipality in Prakasam district recorded the highest polling at 84.36%",
-      "analysis_hi": "संदर्भ: GVMC report awaited Out of 96,89,061 voters, 59,06,255 cast their votes. Chimakurthy municipality in Prakasam district recorded the highest polling at 84.36%...\n\nप्रमुख बिंदु:\n• GVMC report awaited Out of 96,89,061 voters, 59,06,255 cast their votes\n• Chimakurthy municipality in Prakasam district recorded the highest polling at 84.36%\n",
-      "analysis_en": "Reference: GVMC report awaited Out of 96,89,061 voters, 59,06,255 cast their votes. Chimakurthy municipality in Prakasam district recorded the highest polling at 84.36%...\n\nKey Points:\n• GVMC report awaited Out of 96,89,061 voters, 59,06,255 cast their votes\n• Chimakurthy municipality in Prakasam district recorded the highest polling at 84.36%\n",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/6096-turnout-recorded-in-91-urban-local-body-polls/article71655147.ece"
     },
     {
       "id": "4aebb7cc1f33",
@@ -1105,6 +1106,91 @@
       "analysis_hi": "संदर्भ: The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing...\n\nप्रमुख बिंदु:\n• The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing\n",
       "analysis_en": "Reference: The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing...\n\nKey Points:\n• The amendments modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing\n",
       "link": "https://www.thehindu.com/news/national/what-the-new-e100-vehicle-rules-mean-explained/article71629895.ece"
+    },
+    {
+      "id": "d5994fd1fb12",
+      "date": "02 Nov 2026",
+      "iso_date": "2026-11-02T05:30:52+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Air quality worsens to ‘very poor’ category in Delhi, parts of north India",
+      "title_hi": "Air quality worsens to ‘very poor’ category in Delhi, parts of north India",
+      "summary_en": "The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m. on November 2, 2026, as per Central Pollution Control Board (CPCB) data",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m. on November 2, 2026, as per Central Pollution Control Board (CPCB) data",
+      "analysis_hi": "संदर्भ: The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m. on November 2, 2026, as per Central Pollution Control Board (CPCB) data...\n\nप्रमुख बिंदु:\n• The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m\n• on November 2, 2026, as per Central Pollution Control Board (CPCB) data\n",
+      "analysis_en": "Reference: The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m. on November 2, 2026, as per Central Pollution Control Board (CPCB) data...\n\nKey Points:\n• The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m\n• on November 2, 2026, as per Central Pollution Control Board (CPCB) data\n",
+      "link": "https://www.thehindu.com/news/cities/Delhi/air-quality-worsens-to-very-poor-category-in-delhi-parts-of-north-india/article71655252.ece"
+    },
+    {
+      "id": "1317f2e3fc88",
+      "date": "02 Nov 2026",
+      "iso_date": "2026-11-02T05:25:46+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "SIT finds no assault on former Keralam Minister Veena George by KSU activists, submits report",
+      "title_hi": "SIT finds no assault on former Keralam Minister Veena George by KSU activists, submits report",
+      "summary_en": "As part of the investigation, the SIT recorded statements of Ms. George, her security personnel and the police officers who initially investigated the case and filed a charge sheet, officials said",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। As part of the investigation, the SIT recorded statements of Ms. George, her सुरक्षा personnel and the police officers who initially investigated the case and filed a charge sheet, officials said",
+      "analysis_hi": "संदर्भ: As part of the investigation, the SIT recorded statements of Ms. George, her security personnel and the police officers who initially investigated the case and filed a charge sheet, officials said...\n\nप्रमुख बिंदु:\n• As part of the investigation, the SIT recorded statements of Ms\n• George, her security personnel and the police officers who initially investigated the case and filed a charge sheet, officials said\n",
+      "analysis_en": "Reference: As part of the investigation, the SIT recorded statements of Ms. George, her security personnel and the police officers who initially investigated the case and filed a charge sheet, officials said...\n\nKey Points:\n• As part of the investigation, the SIT recorded statements of Ms\n• George, her security personnel and the police officers who initially investigated the case and filed a charge sheet, officials said\n",
+      "link": "https://www.thehindu.com/news/national/kerala/sit-finds-no-assault-on-former-keralam-minister-veena-george-by-ksu-activists-submits-report/article71653231.ece"
+    },
+    {
+      "id": "a7d8c689b5d3",
+      "date": "02 Nov 2026",
+      "iso_date": "2026-11-02T05:22:42+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "60.96% turnout recorded in 91 urban local body polls",
+      "title_hi": "60.96% turnout recorded in 91 urban local body polls",
+      "summary_en": "GVMC report awaited Out of 96,89,061 voters, 59,06,255 cast their votes. Chimakurthy municipality in Prakasam district recorded the highest polling at 84.36%",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। GVMC report awaited Out of 96,89,061 voters, 59,06,255 cast their votes. Chimakurthy municipality in Prakasam district recorded the highest polling at 84.36%",
+      "analysis_hi": "संदर्भ: GVMC report awaited Out of 96,89,061 voters, 59,06,255 cast their votes. Chimakurthy municipality in Prakasam district recorded the highest polling at 84.36%...\n\nप्रमुख बिंदु:\n• GVMC report awaited Out of 96,89,061 voters, 59,06,255 cast their votes\n• Chimakurthy municipality in Prakasam district recorded the highest polling at 84.36%\n",
+      "analysis_en": "Reference: GVMC report awaited Out of 96,89,061 voters, 59,06,255 cast their votes. Chimakurthy municipality in Prakasam district recorded the highest polling at 84.36%...\n\nKey Points:\n• GVMC report awaited Out of 96,89,061 voters, 59,06,255 cast their votes\n• Chimakurthy municipality in Prakasam district recorded the highest polling at 84.36%\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/6096-turnout-recorded-in-91-urban-local-body-polls/article71655147.ece"
     },
     {
       "id": "818119e9312b",
@@ -5589,91 +5675,6 @@
       "analysis_hi": "संदर्भ: Officials say they were instructed to file Form-7 applications for shifted, duplicate, underage, deceased and non-citizen voters, but auto-generated forms left the reason blank...\n\nप्रमुख बिंदु:\n• Officials say they were instructed to file Form-7 applications for shifted, duplicate, underage, deceased and non-citizen voters, but auto-generated forms left the reason blank\n",
       "analysis_en": "Reference: Officials say they were instructed to file Form-7 applications for shifted, duplicate, underage, deceased and non-citizen voters, but auto-generated forms left the reason blank...\n\nKey Points:\n• Officials say they were instructed to file Form-7 applications for shifted, duplicate, underage, deceased and non-citizen voters, but auto-generated forms left the reason blank\n",
       "link": "https://www.thehindu.com/news/national/karnataka/over-61000-form-7-applications-filed-by-election-officials-in-karnataka-none-cites-reason/article71623783.ece"
-    },
-    {
-      "id": "bd0628468a5d",
-      "date": "26 Oct 2026",
-      "iso_date": "2026-10-26T00:38:50+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Monsoon tracker updates: Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
-      "title_hi": "Monsoon tracker updates: Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
-      "summary_en": "IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone",
-      "analysis_hi": "संदर्भ: IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone...\n\nप्रमुख बिंदु:\n• IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone\n",
-      "analysis_en": "Reference: IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone...\n\nKey Points:\n• IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone\n",
-      "link": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece"
-    },
-    {
-      "id": "7c1a5446e781",
-      "date": "25 Oct 2026",
-      "iso_date": "2026-10-25T21:02:27+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Raj Thackeray deletes Modi-Adani documentary post after Mumbai Police chief’s request, vows to continue fight",
-      "title_hi": "Raj Thackeray deletes Modi-Adani documentary post after Mumbai Police chief’s request, vows to continue fight",
-      "summary_en": "MNS chief Raj Thackeray maintained that his opposition to corporate monopolies would continue, asserting that the documentary had already achieved its purpose of bringing the issue to public attention",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। MNS chief Raj Thackeray maintained that his opposition to corporate monopolies would continue, asserting that the documentary had already achieved its purpose of bringing the issue to public attention",
-      "analysis_hi": "संदर्भ: MNS chief Raj Thackeray maintained that his opposition to corporate monopolies would continue, asserting that the documentary had already achieved its purpose of bringing the issue to public attention...\n\nप्रमुख बिंदु:\n• MNS chief Raj Thackeray maintained that his opposition to corporate monopolies would continue, asserting that the documentary had already achieved its purpose of bringing the issue to public attention\n",
-      "analysis_en": "Reference: MNS chief Raj Thackeray maintained that his opposition to corporate monopolies would continue, asserting that the documentary had already achieved its purpose of bringing the issue to public attention...\n\nKey Points:\n• MNS chief Raj Thackeray maintained that his opposition to corporate monopolies would continue, asserting that the documentary had already achieved its purpose of bringing the issue to public attention\n",
-      "link": "https://www.thehindu.com/news/national/raj-thackeray-deletes-pm-modi-adani-documentary-from-social-media-after-mumbai-police-chiefs-request/article71622785.ece"
-    },
-    {
-      "id": "b714109dac75",
-      "date": "25 Oct 2026",
-      "iso_date": "2026-10-25T20:48:22+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "BJP to hold nationwide protest on October 26 against Kharge’s remark on Modi",
-      "title_hi": "BJP to hold nationwide protest on October 26 against Kharge’s remark on Modi",
-      "summary_en": "Mr. Kharge’s remarks at a Patna event on Sunday, October 25, in which he dragged Prime Minister Narendra Modi’s late father, triggered a sharp reaction from senior BJP leaders",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Mr. Kharge’s remarks at a Patna event on Sunday, October 25, in which he dragged प्रधानमंत्री Narendra Modi’s late father, triggered a sharp reaction from senior BJP leaders",
-      "analysis_hi": "संदर्भ: Mr. Kharge’s remarks at a Patna event on Sunday, October 25, in which he dragged Prime Minister Narendra Modi’s late father, triggered a sharp reaction from senior BJP leaders...\n\nप्रमुख बिंदु:\n• Kharge’s remarks at a Patna event on Sunday, October 25, in which he dragged Prime Minister Narendra Modi’s late father, triggered a sharp reaction from senior BJP leaders\n",
-      "analysis_en": "Reference: Mr. Kharge’s remarks at a Patna event on Sunday, October 25, in which he dragged Prime Minister Narendra Modi’s late father, triggered a sharp reaction from senior BJP leaders...\n\nKey Points:\n• Kharge’s remarks at a Patna event on Sunday, October 25, in which he dragged Prime Minister Narendra Modi’s late father, triggered a sharp reaction from senior BJP leaders\n",
-      "link": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece"
     }
   ]
 }
