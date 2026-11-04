@@ -1,8 +1,37 @@
 {
-  "last_updated": "2026-11-04T06:46:08.922516+00:00",
-  "last_updated_ist": "04 November 2026, 12:16 PM IST",
+  "last_updated": "2026-11-04T06:50:38.743770+00:00",
+  "last_updated_ist": "04 November 2026, 12:20 PM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "c6fb40b6f4ad",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T06:47:09+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Union Cabinet to discuss capex support for critical mineral processing, VGF for RE grid-scale storage system",
+      "title_hi": "Union Cabinet to discuss capex support for critical mineral processing, VGF for RE grid-scale storage system",
+      "summary_en": "The Hindu had learnt previously that the potential scheme could provide support of about 30% for setting up of these processing plants",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Hindu had learnt previously that the potential योजना could provide support of about 30% for setting up of these processing plants",
+      "analysis_hi": "संदर्भ: The Hindu had learnt previously that the potential scheme could provide support of about 30% for setting up of these processing plants...\n\nप्रमुख बिंदु:\n• The Hindu had learnt previously that the potential scheme could provide support of about 30% for setting up of these processing plants\n",
+      "analysis_en": "Reference: The Hindu had learnt previously that the potential scheme could provide support of about 30% for setting up of these processing plants...\n\nKey Points:\n• The Hindu had learnt previously that the potential scheme could provide support of about 30% for setting up of these processing plants\n",
+      "link": "https://www.thehindu.com/business/union-cabinet-discussion-capex-support-for-critical-mineral-processing-vgf-re-grid-scale-storage-system/article71664202.ece"
+    },
     {
       "id": "eeb2c1fa87cf",
       "date": "04 Nov 2026",
@@ -86,35 +115,6 @@
       "analysis_hi": "संदर्भ: Former MLA P.T. Parameshwar Naik informed that the largest share of the funds was allocated to the Gruha Lakshmi scheme, under which ₹2,744.81 crore was disbursed...\n\nप्रमुख बिंदु:\n• Parameshwar Naik informed that the largest share of the funds was allocated to the Gruha Lakshmi scheme, under which ₹2,744.81 crore was disbursed\n",
       "analysis_en": "Reference: Former MLA P.T. Parameshwar Naik informed that the largest share of the funds was allocated to the Gruha Lakshmi scheme, under which ₹2,744.81 crore was disbursed...\n\nKey Points:\n• Parameshwar Naik informed that the largest share of the funds was allocated to the Gruha Lakshmi scheme, under which ₹2,744.81 crore was disbursed\n",
       "link": "https://www.thehindu.com/news/national/karnataka/480524-crore-spent-under-five-guarantee-schemes-in-raichur/article71661424.ece"
-    },
-    {
-      "id": "62c92e6940e4",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T06:36:37+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court",
-      "title_hi": "Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court",
-      "summary_en": "Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court",
-      "analysis_hi": "संदर्भ: Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court...\n\nप्रमुख बिंदु:\n• Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court\n",
-      "analysis_en": "Reference: Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court...\n\nKey Points:\n• Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court\n",
-      "link": "https://indianexpress.com/article/legal-news/foreign-nationals-cannot-right-visa-entry-india-delhi-high-court-10949812/"
     },
     {
       "id": "81ee92dd9d86",
@@ -201,35 +201,6 @@
       "analysis_hi": "संदर्भ: At present, welfare payments are linked to Aadhaar; Panchayati Raj Minister says people should now give EPIC number with biometrics...\n\nप्रमुख बिंदु:\n• At present, welfare payments are linked to Aadhaar; Panchayati Raj Minister says people should now give EPIC number with biometrics\n",
       "analysis_en": "Reference: At present, welfare payments are linked to Aadhaar; Panchayati Raj Minister says people should now give EPIC number with biometrics...\n\nKey Points:\n• At present, welfare payments are linked to Aadhaar; Panchayati Raj Minister says people should now give EPIC number with biometrics\n",
       "link": "https://www.thehindu.com/news/national/welfare-payments-will-be-based-on-voter-ids-not-aadhaar-says-panchayati-raj-minister/article71662258.ece"
-    },
-    {
-      "id": "256f4699bb45",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T06:25:18+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland",
-      "title_hi": "STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland",
-      "summary_en": "STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland",
-      "analysis_hi": "संदर्भ: STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland...\n\nप्रमुख बिंदु:\n• STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland\n",
-      "analysis_en": "Reference: STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland...\n\nKey Points:\n• STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland\n",
-      "link": "https://indianexpress.com/article/sports/cricket/anshul-kamboj-joint-best-economy-odi-spell-21-years-ind-vs-nz-auckland-10949967/"
     },
     {
       "id": "a5bf98162654",
@@ -373,62 +344,6 @@
       "link": "https://www.thehindu.com/business/Economy/oil-rises-on-iran-war-uncertainty-after-trumps-republicans-face-election-rout/article71664204.ece"
     },
     {
-      "id": "1b07912ebe48",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T06:17:53+00:00",
-      "category": "scitech",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Rohit Sharma falls for first ODI duck in three years against NZ in Auckland",
-      "title_hi": "Rohit Sharma falls for first ODI duck in three years against NZ in Auckland",
-      "summary_en": "Rohit Sharma falls for first ODI duck in three years against NZ in Auckland",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Rohit Sharma falls for first ODI duck in three years against NZ in Auckland",
-      "analysis_hi": "संदर्भ: Rohit Sharma falls for first ODI duck in three years against NZ in Auckland...\n\nप्रमुख बिंदु:\n• Rohit Sharma falls for first ODI duck in three years against NZ in Auckland\n",
-      "analysis_en": "Reference: Rohit Sharma falls for first ODI duck in three years against NZ in Auckland...\n\nKey Points:\n• Rohit Sharma falls for first ODI duck in three years against NZ in Auckland\n",
-      "link": "https://indianexpress.com/article/sports/cricket/rohit-sharma-first-odi-duck-in-three-years-india-vs-new-zealand-auckland-10950002/"
-    },
-    {
-      "id": "b379dc16d1f5",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T06:17:42+00:00",
-      "category": "scitech",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "FIR against Prashant Bhushan for sharing fake video of Russian foreign minister",
-      "title_hi": "FIR against Prashant Bhushan for sharing fake video of Russian foreign minister",
-      "summary_en": "FIR against Prashant Bhushan for sharing fake video of Russian foreign minister",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। FIR against Prashant Bhushan for sharing fake video of Russian foreign minister",
-      "analysis_hi": "संदर्भ: FIR against Prashant Bhushan for sharing fake video of Russian foreign minister...\n\nप्रमुख बिंदु:\n• FIR against Prashant Bhushan for sharing fake video of Russian foreign minister\n",
-      "analysis_en": "Reference: FIR against Prashant Bhushan for sharing fake video of Russian foreign minister...\n\nKey Points:\n• FIR against Prashant Bhushan for sharing fake video of Russian foreign minister\n",
-      "link": "https://indianexpress.com/article/cities/delhi/prashant-bhushan-fir-fake-video-russian-foreign-minister-sergey-lavrov-10950005/"
-    },
-    {
       "id": "dc9a1fba9506",
       "date": "04 Nov 2026",
       "iso_date": "2026-11-04T06:17:29+00:00",
@@ -456,35 +371,6 @@
       "analysis_hi": "संदर्भ: In terms of historicity of course it pales in comparison to the Law College Pumping Station which has seen action from the time when gravity was the sole method of sewage reaching the sea. That involved something called Kelly’s Bottle but that is another story, for another day and another column...\n\nप्रमुख बिंदु:\n• In terms of historicity of course it pales in comparison to the Law College Pumping Station which has seen action from the time when gravity was the sole method of sewage reaching the sea\n• That involved something called Kelly’s Bottle but that is another story, for another day and another column\n",
       "analysis_en": "Reference: In terms of historicity of course it pales in comparison to the Law College Pumping Station which has seen action from the time when gravity was the sole method of sewage reaching the sea. That involved something called Kelly’s Bottle but that is another story, for another day and another column...\n\nKey Points:\n• In terms of historicity of course it pales in comparison to the Law College Pumping Station which has seen action from the time when gravity was the sole method of sewage reaching the sea\n• That involved something called Kelly’s Bottle but that is another story, for another day and another column\n",
       "link": "https://www.thehindu.com/news/cities/chennai/two-centenaries-in-mylaporesanthome/article71664019.ece"
-    },
-    {
-      "id": "95baea4c6783",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T06:15:48+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates",
-      "title_hi": "West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates",
-      "summary_en": "West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates",
-      "analysis_hi": "संदर्भ: West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates...\n\nप्रमुख बिंदु:\n• West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates\n",
-      "analysis_en": "Reference: West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates...\n\nKey Points:\n• West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates\n",
-      "link": "https://indianexpress.com/article/education/west-bengal-madhyamik-2027-wbchse-hs-exams-postponed-fresh-march-exam-dates-census-teachers-10949927/"
     },
     {
       "id": "ce89d1deed0e",
@@ -542,35 +428,6 @@
       "analysis_hi": "संदर्भ: In the Mahadevapura Assembly constituency, some voters were found listed in the final rolls with the same EPIC number in two different constituencies; in some other cases, voters were issued multiple EPIC IDs...\n\nप्रमुख बिंदु:\n• In the Mahadevapura Assembly constituency, some voters were found listed in the final rolls with the same EPIC number in two different constituencies; in some other cases, voters were issued multiple EPIC IDs\n",
       "analysis_en": "Reference: In the Mahadevapura Assembly constituency, some voters were found listed in the final rolls with the same EPIC number in two different constituencies; in some other cases, voters were issued multiple EPIC IDs...\n\nKey Points:\n• In the Mahadevapura Assembly constituency, some voters were found listed in the final rolls with the same EPIC number in two different constituencies; in some other cases, voters were issued multiple EPIC IDs\n",
       "link": "https://www.thehindu.com/news/cities/bangalore/in-karnataka-seat-where-vote-chori-claims-first-surfaced-over-800-voter-ids-linked-to-397-names-after-sir/article71661304.ece"
-    },
-    {
-      "id": "2e95c4d658ea",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T06:10:13+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court",
-      "title_hi": "‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court",
-      "summary_en": "‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court",
-      "analysis_hi": "संदर्भ: ‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court...\n\nप्रमुख बिंदु:\n• ‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court\n",
-      "analysis_en": "Reference: ‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court...\n\nKey Points:\n• ‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court\n",
-      "link": "https://indianexpress.com/article/legal-news/judges-entitled-post-retirement-support-transfer-orissa-high-court-10949953/"
     },
     {
       "id": "59abd09d0d08",
@@ -688,121 +545,6 @@
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/civic-poll-verdict-describes-coalition-governments-rule-says-pawan-kalyan/article71662414.ece"
     },
     {
-      "id": "8142cd8e3d89",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T06:01:30+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary",
-      "title_hi": "BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary",
-      "summary_en": "BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। BMC swings into action after सुप्रीम कोर्ट freezes chief Ashwini Bhide’s salary",
-      "analysis_hi": "संदर्भ: BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary...\n\nप्रमुख बिंदु:\n• BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary\n",
-      "analysis_en": "Reference: BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary...\n\nKey Points:\n• BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary\n",
-      "link": "https://indianexpress.com/article/cities/mumbai/bmc-mumbai-civic-body-crackdown-illegal-structures-supreme-court-freeze-chief-salary-10949951/"
-    },
-    {
-      "id": "4375eb9b8de7",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T06:01:09+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’",
-      "title_hi": "Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’",
-      "summary_en": "Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’",
-      "analysis_hi": "संदर्भ: Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’...\n\nप्रमुख बिंदु:\n• Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’\n",
-      "analysis_en": "Reference: Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’...\n\nKey Points:\n• Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’\n",
-      "link": "https://indianexpress.com/article/entertainment/bollywood/alia-bhatt-mother-soni-razdan-calls-bursting-firecrackers-anti-national-amidst-dia-mirzas-diwali-video-row-10949774/"
-    },
-    {
-      "id": "398b041e6a38",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T05:58:10+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Keisha Lance Bottoms elected first Black woman Governor in American history",
-      "title_hi": "Keisha Lance Bottoms elected first Black woman Governor in American history",
-      "summary_en": "Keisha Lance Bottoms elected first Black woman Governor in American history",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Keisha Lance Bottoms elected first Black woman Governor in American history",
-      "analysis_hi": "संदर्भ: Keisha Lance Bottoms elected first Black woman Governor in American history...\n\nप्रमुख बिंदु:\n• Keisha Lance Bottoms elected first Black woman Governor in American history\n",
-      "analysis_en": "Reference: Keisha Lance Bottoms elected first Black woman Governor in American history...\n\nKey Points:\n• Keisha Lance Bottoms elected first Black woman Governor in American history\n",
-      "link": "https://indianexpress.com/article/world/us-news/keisha-lance-bottoms-georgia-governor-election-first-black-woman-governor-us-10949854/"
-    },
-    {
-      "id": "1635738570b1",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T05:55:41+00:00",
-      "category": "scitech",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does",
-      "title_hi": "Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does",
-      "summary_en": "Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does",
-      "analysis_hi": "संदर्भ: Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does...\n\nप्रमुख बिंदु:\n• Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does\n",
-      "analysis_en": "Reference: Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does...\n\nKey Points:\n• Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does\n",
-      "link": "https://indianexpress.com/article/technology/artificial-intelligence/crowdstrike-gives-enterprises-an-off-switch-for-misbehaving-ai-agents-heres-what-it-does-10949948/"
-    },
-    {
       "id": "4fb3b2057799",
       "date": "04 Nov 2026",
       "iso_date": "2026-11-04T05:53:33+00:00",
@@ -829,179 +571,6 @@
       "analysis_hi": "संदर्भ: The State received 628 mm rainfall against 831 normal rainfall. While 11 districts recorded normal rainfall ( -19% to -3%), 22 districts recorded deficit (-20% to -50%)...\n\nप्रमुख बिंदु:\n• The State received 628 mm rainfall against 831 normal rainfall\n• While 11 districts recorded normal rainfall ( -19% to -3%), 22 districts recorded deficit (-20% to -50%)\n",
       "analysis_en": "Reference: The State received 628 mm rainfall against 831 normal rainfall. While 11 districts recorded normal rainfall ( -19% to -3%), 22 districts recorded deficit (-20% to -50%)...\n\nKey Points:\n• The State received 628 mm rainfall against 831 normal rainfall\n• While 11 districts recorded normal rainfall ( -19% to -3%), 22 districts recorded deficit (-20% to -50%)\n",
       "link": "https://www.thehindu.com/news/national/telangana/telangana-groundwater-levels-drop-further-in-a-month-as-rain-deficit-soars/article71663854.ece"
-    },
-    {
-      "id": "ea31e6477e15",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T05:44:13+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow",
-      "title_hi": "UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow",
-      "summary_en": "UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow",
-      "analysis_hi": "संदर्भ: UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow...\n\nप्रमुख बिंदु:\n• UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow\n",
-      "analysis_en": "Reference: UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow...\n\nKey Points:\n• UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow\n",
-      "link": "https://indianexpress.com/article/education/up-special-tet-2026-over-93000-candidates-appeared-impersonator-caught-lucknow-10949896/"
-    },
-    {
-      "id": "f301a0384863",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T05:41:33+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Are artificial sweeteners pushing up your sugar cravings?",
-      "title_hi": "Are artificial sweeteners pushing up your sugar cravings?",
-      "summary_en": "Are artificial sweeteners pushing up your sugar cravings?",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Are artificial sweeteners pushing up your sugar cravings?",
-      "analysis_hi": "संदर्भ: Are artificial sweeteners pushing up your sugar cravings?...\n\nप्रमुख बिंदु:\n• Are artificial sweeteners pushing up your sugar cravings?\n",
-      "analysis_en": "Reference: Are artificial sweeteners pushing up your sugar cravings?...\n\nKey Points:\n• Are artificial sweeteners pushing up your sugar cravings?\n",
-      "link": "https://indianexpress.com/article/health-wellness/artificial-sweeteners-sugar-cravings-diabetic-10949870/"
-    },
-    {
-      "id": "6b40fa5e4633",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T05:40:20+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Iran says US voters sent ‘no to war’ message in midterm elections",
-      "title_hi": "Iran says US voters sent ‘no to war’ message in midterm elections",
-      "summary_en": "Iran says US voters sent ‘no to war’ message in midterm elections",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Iran says US voters sent ‘no to war’ message in midterm elections",
-      "analysis_hi": "संदर्भ: Iran says US voters sent ‘no to war’ message in midterm elections...\n\nप्रमुख बिंदु:\n• Iran says US voters sent ‘no to war’ message in midterm elections\n",
-      "analysis_en": "Reference: Iran says US voters sent ‘no to war’ message in midterm elections...\n\nKey Points:\n• Iran says US voters sent ‘no to war’ message in midterm elections\n",
-      "link": "https://indianexpress.com/article/world/us-news/iran-speaker-ghalibaf-trump-us-midterm-elections-no-to-war-reaction-democrats-republicans-10949928/"
-    },
-    {
-      "id": "f4d29ef7fa2d",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T05:39:49+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court",
-      "title_hi": "Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court",
-      "summary_en": "Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court",
-      "analysis_hi": "संदर्भ: Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court...\n\nप्रमुख बिंदु:\n• Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court\n",
-      "analysis_en": "Reference: Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court...\n\nKey Points:\n• Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court\n",
-      "link": "https://indianexpress.com/article/legal-news/karnataka-hc-lawyers-protection-suo-motu-pil-10949954/"
-    },
-    {
-      "id": "2757b9bd2574",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T05:30:31+00:00",
-      "category": "environment",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’",
-      "title_hi": "Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’",
-      "summary_en": "Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’",
-      "analysis_hi": "संदर्भ: Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’...\n\nप्रमुख बिंदु:\n• Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’\n",
-      "analysis_en": "Reference: Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’...\n\nKey Points:\n• Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’\n",
-      "link": "https://indianexpress.com/article/lifestyle/feelings/ramayana-sai-pallavi-dating-relationship-her-future-partner-10941704/"
-    },
-    {
-      "id": "a37b79a9b9f6",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T05:17:18+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina",
-      "title_hi": "US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina",
-      "summary_en": "US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina",
-      "analysis_hi": "संदर्भ: US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina...\n\nप्रमुख बिंदु:\n• US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina\n",
-      "analysis_en": "Reference: US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina...\n\nKey Points:\n• US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina\n",
-      "link": "https://indianexpress.com/article/explained/explained-global/us-midterms-2026-results-democrats-texas-senate-upsets-10949850/"
     },
     {
       "id": "a92764cafc33",
@@ -1424,6 +993,550 @@
       "analysis_hi": "संदर्भ: Cost of input materials increased 20% during the quarter....\n\nप्रमुख बिंदु:\n• Cost of input materials increased 20% during the quarter.\n",
       "analysis_en": "Reference: Cost of input materials increased 20% during the quarter....\n\nKey Points:\n• Cost of input materials increased 20% during the quarter.\n",
       "link": "https://www.thehindu.com/business/Economy/coal-india-profit-jumps-57-as-higher-offtake-prices-weigh-over-costs/article71641279.ece"
+    },
+    {
+      "id": "085fc07ede80",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T15:51:33+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Deepavali sales expected to gain momentum in Coimbatore next week",
+      "title_hi": "Deepavali sales expected to gain momentum in Coimbatore next week",
+      "summary_en": "With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity",
+      "analysis_hi": "संदर्भ: With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity...\n\nप्रमुख बिंदु:\n• With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity\n",
+      "analysis_en": "Reference: With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity...\n\nKey Points:\n• With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity\n",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/deepavali-sales-expected-to-gain-momentum-in-coimbatore-next-week/article71641807.ece"
+    },
+    {
+      "id": "56c0b711a6e3",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T10:21:53+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "U.S. Fed holds rates steady; pressure on emerging markets expected with stronger dollar outlook",
+      "title_hi": "U.S. Fed holds rates steady; pressure on emerging markets expected with stronger dollar outlook",
+      "summary_en": "The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors",
+      "analysis_hi": "संदर्भ: The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors...\n\nप्रमुख बिंदु:\n• Fed is expected to keep the rates elevated, making U.S\n• Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors\n",
+      "analysis_en": "Reference: The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors...\n\nKey Points:\n• Fed is expected to keep the rates elevated, making U.S\n• Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors\n",
+      "link": "https://www.thehindu.com/business/Economy/fed-holds-rates-steady-and-cuts-future-meetings-stronger-dollar-outlook-pressures-emerging-markets/article71639815.ece"
+    },
+    {
+      "id": "996ae0def39b",
+      "date": "29 Oct 2026",
+      "iso_date": "2026-10-29T06:18:28+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "U.S. Fed holds interest rates steady despite surging inflation",
+      "title_hi": "U.S. Fed holds interest rates steady despite surging inflation",
+      "summary_en": "The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against मुद्रास्फीति",
+      "analysis_hi": "संदर्भ: The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation...\n\nप्रमुख बिंदु:\n• The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation\n",
+      "analysis_en": "Reference: The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation...\n\nKey Points:\n• The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation\n",
+      "link": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
+    },
+    {
+      "id": "62c92e6940e4",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T06:36:37+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court",
+      "title_hi": "Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court",
+      "summary_en": "Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court",
+      "analysis_hi": "संदर्भ: Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court...\n\nप्रमुख बिंदु:\n• Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court\n",
+      "analysis_en": "Reference: Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court...\n\nKey Points:\n• Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court\n",
+      "link": "https://indianexpress.com/article/legal-news/foreign-nationals-cannot-right-visa-entry-india-delhi-high-court-10949812/"
+    },
+    {
+      "id": "256f4699bb45",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T06:25:18+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland",
+      "title_hi": "STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland",
+      "summary_en": "STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland",
+      "analysis_hi": "संदर्भ: STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland...\n\nप्रमुख बिंदु:\n• STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland\n",
+      "analysis_en": "Reference: STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland...\n\nKey Points:\n• STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland\n",
+      "link": "https://indianexpress.com/article/sports/cricket/anshul-kamboj-joint-best-economy-odi-spell-21-years-ind-vs-nz-auckland-10949967/"
+    },
+    {
+      "id": "1b07912ebe48",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T06:17:53+00:00",
+      "category": "scitech",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Rohit Sharma falls for first ODI duck in three years against NZ in Auckland",
+      "title_hi": "Rohit Sharma falls for first ODI duck in three years against NZ in Auckland",
+      "summary_en": "Rohit Sharma falls for first ODI duck in three years against NZ in Auckland",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Rohit Sharma falls for first ODI duck in three years against NZ in Auckland",
+      "analysis_hi": "संदर्भ: Rohit Sharma falls for first ODI duck in three years against NZ in Auckland...\n\nप्रमुख बिंदु:\n• Rohit Sharma falls for first ODI duck in three years against NZ in Auckland\n",
+      "analysis_en": "Reference: Rohit Sharma falls for first ODI duck in three years against NZ in Auckland...\n\nKey Points:\n• Rohit Sharma falls for first ODI duck in three years against NZ in Auckland\n",
+      "link": "https://indianexpress.com/article/sports/cricket/rohit-sharma-first-odi-duck-in-three-years-india-vs-new-zealand-auckland-10950002/"
+    },
+    {
+      "id": "b379dc16d1f5",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T06:17:42+00:00",
+      "category": "scitech",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "FIR against Prashant Bhushan for sharing fake video of Russian foreign minister",
+      "title_hi": "FIR against Prashant Bhushan for sharing fake video of Russian foreign minister",
+      "summary_en": "FIR against Prashant Bhushan for sharing fake video of Russian foreign minister",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। FIR against Prashant Bhushan for sharing fake video of Russian foreign minister",
+      "analysis_hi": "संदर्भ: FIR against Prashant Bhushan for sharing fake video of Russian foreign minister...\n\nप्रमुख बिंदु:\n• FIR against Prashant Bhushan for sharing fake video of Russian foreign minister\n",
+      "analysis_en": "Reference: FIR against Prashant Bhushan for sharing fake video of Russian foreign minister...\n\nKey Points:\n• FIR against Prashant Bhushan for sharing fake video of Russian foreign minister\n",
+      "link": "https://indianexpress.com/article/cities/delhi/prashant-bhushan-fir-fake-video-russian-foreign-minister-sergey-lavrov-10950005/"
+    },
+    {
+      "id": "95baea4c6783",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T06:15:48+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates",
+      "title_hi": "West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates",
+      "summary_en": "West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates",
+      "analysis_hi": "संदर्भ: West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates...\n\nप्रमुख बिंदु:\n• West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates\n",
+      "analysis_en": "Reference: West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates...\n\nKey Points:\n• West Bengal boards to take a back seat as Centre’s Census exercise pushes Madhyamik, HS dates\n",
+      "link": "https://indianexpress.com/article/education/west-bengal-madhyamik-2027-wbchse-hs-exams-postponed-fresh-march-exam-dates-census-teachers-10949927/"
+    },
+    {
+      "id": "2e95c4d658ea",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T06:10:13+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court",
+      "title_hi": "‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court",
+      "summary_en": "‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court",
+      "analysis_hi": "संदर्भ: ‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court...\n\nप्रमुख बिंदु:\n• ‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court\n",
+      "analysis_en": "Reference: ‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court...\n\nKey Points:\n• ‘Not favour’: Judges entitled to retirement dues despite transfer, rules Orissa High Court\n",
+      "link": "https://indianexpress.com/article/legal-news/judges-entitled-post-retirement-support-transfer-orissa-high-court-10949953/"
+    },
+    {
+      "id": "8142cd8e3d89",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T06:01:30+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary",
+      "title_hi": "BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary",
+      "summary_en": "BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। BMC swings into action after सुप्रीम कोर्ट freezes chief Ashwini Bhide’s salary",
+      "analysis_hi": "संदर्भ: BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary...\n\nप्रमुख बिंदु:\n• BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary\n",
+      "analysis_en": "Reference: BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary...\n\nKey Points:\n• BMC swings into action after Supreme Court freezes chief Ashwini Bhide’s salary\n",
+      "link": "https://indianexpress.com/article/cities/mumbai/bmc-mumbai-civic-body-crackdown-illegal-structures-supreme-court-freeze-chief-salary-10949951/"
+    },
+    {
+      "id": "4375eb9b8de7",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T06:01:09+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’",
+      "title_hi": "Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’",
+      "summary_en": "Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’",
+      "analysis_hi": "संदर्भ: Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’...\n\nप्रमुख बिंदु:\n• Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’\n",
+      "analysis_en": "Reference: Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’...\n\nKey Points:\n• Amid Dia Mirza Diwali video row, Soni Razdan calls bursting firecrackers ‘anti-national’\n",
+      "link": "https://indianexpress.com/article/entertainment/bollywood/alia-bhatt-mother-soni-razdan-calls-bursting-firecrackers-anti-national-amidst-dia-mirzas-diwali-video-row-10949774/"
+    },
+    {
+      "id": "398b041e6a38",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T05:58:10+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Keisha Lance Bottoms elected first Black woman Governor in American history",
+      "title_hi": "Keisha Lance Bottoms elected first Black woman Governor in American history",
+      "summary_en": "Keisha Lance Bottoms elected first Black woman Governor in American history",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Keisha Lance Bottoms elected first Black woman Governor in American history",
+      "analysis_hi": "संदर्भ: Keisha Lance Bottoms elected first Black woman Governor in American history...\n\nप्रमुख बिंदु:\n• Keisha Lance Bottoms elected first Black woman Governor in American history\n",
+      "analysis_en": "Reference: Keisha Lance Bottoms elected first Black woman Governor in American history...\n\nKey Points:\n• Keisha Lance Bottoms elected first Black woman Governor in American history\n",
+      "link": "https://indianexpress.com/article/world/us-news/keisha-lance-bottoms-georgia-governor-election-first-black-woman-governor-us-10949854/"
+    },
+    {
+      "id": "1635738570b1",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T05:55:41+00:00",
+      "category": "scitech",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does",
+      "title_hi": "Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does",
+      "summary_en": "Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does",
+      "analysis_hi": "संदर्भ: Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does...\n\nप्रमुख बिंदु:\n• Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does\n",
+      "analysis_en": "Reference: Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does...\n\nKey Points:\n• Crowdstrike gives enterprises an ‘off switch’ for misbehaving AI agents: Here’s what it does\n",
+      "link": "https://indianexpress.com/article/technology/artificial-intelligence/crowdstrike-gives-enterprises-an-off-switch-for-misbehaving-ai-agents-heres-what-it-does-10949948/"
+    },
+    {
+      "id": "ea31e6477e15",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T05:44:13+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow",
+      "title_hi": "UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow",
+      "summary_en": "UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow",
+      "analysis_hi": "संदर्भ: UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow...\n\nप्रमुख बिंदु:\n• UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow\n",
+      "analysis_en": "Reference: UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow...\n\nKey Points:\n• UP Special TET 2026: Over 93,000 candidates appeared; impersonator caught in Lucknow\n",
+      "link": "https://indianexpress.com/article/education/up-special-tet-2026-over-93000-candidates-appeared-impersonator-caught-lucknow-10949896/"
+    },
+    {
+      "id": "f301a0384863",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T05:41:33+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Are artificial sweeteners pushing up your sugar cravings?",
+      "title_hi": "Are artificial sweeteners pushing up your sugar cravings?",
+      "summary_en": "Are artificial sweeteners pushing up your sugar cravings?",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Are artificial sweeteners pushing up your sugar cravings?",
+      "analysis_hi": "संदर्भ: Are artificial sweeteners pushing up your sugar cravings?...\n\nप्रमुख बिंदु:\n• Are artificial sweeteners pushing up your sugar cravings?\n",
+      "analysis_en": "Reference: Are artificial sweeteners pushing up your sugar cravings?...\n\nKey Points:\n• Are artificial sweeteners pushing up your sugar cravings?\n",
+      "link": "https://indianexpress.com/article/health-wellness/artificial-sweeteners-sugar-cravings-diabetic-10949870/"
+    },
+    {
+      "id": "6b40fa5e4633",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T05:40:20+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Iran says US voters sent ‘no to war’ message in midterm elections",
+      "title_hi": "Iran says US voters sent ‘no to war’ message in midterm elections",
+      "summary_en": "Iran says US voters sent ‘no to war’ message in midterm elections",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Iran says US voters sent ‘no to war’ message in midterm elections",
+      "analysis_hi": "संदर्भ: Iran says US voters sent ‘no to war’ message in midterm elections...\n\nप्रमुख बिंदु:\n• Iran says US voters sent ‘no to war’ message in midterm elections\n",
+      "analysis_en": "Reference: Iran says US voters sent ‘no to war’ message in midterm elections...\n\nKey Points:\n• Iran says US voters sent ‘no to war’ message in midterm elections\n",
+      "link": "https://indianexpress.com/article/world/us-news/iran-speaker-ghalibaf-trump-us-midterm-elections-no-to-war-reaction-democrats-republicans-10949928/"
+    },
+    {
+      "id": "f4d29ef7fa2d",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T05:39:49+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court",
+      "title_hi": "Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court",
+      "summary_en": "Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court",
+      "analysis_hi": "संदर्भ: Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court...\n\nप्रमुख बिंदु:\n• Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court\n",
+      "analysis_en": "Reference: Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court...\n\nKey Points:\n• Attacks on lawyers can’t be seen as isolated incidents: Karnataka High Court\n",
+      "link": "https://indianexpress.com/article/legal-news/karnataka-hc-lawyers-protection-suo-motu-pil-10949954/"
+    },
+    {
+      "id": "2757b9bd2574",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T05:30:31+00:00",
+      "category": "environment",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’",
+      "title_hi": "Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’",
+      "summary_en": "Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’",
+      "analysis_hi": "संदर्भ: Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’...\n\nप्रमुख बिंदु:\n• Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’\n",
+      "analysis_en": "Reference: Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’...\n\nKey Points:\n• Ramayana actor Sai Pallavi reveals checklist for a future partner: ‘He can make mistakes’\n",
+      "link": "https://indianexpress.com/article/lifestyle/feelings/ramayana-sai-pallavi-dating-relationship-her-future-partner-10941704/"
+    },
+    {
+      "id": "a37b79a9b9f6",
+      "date": "04 Nov 2026",
+      "iso_date": "2026-11-04T05:17:18+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina",
+      "title_hi": "US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina",
+      "summary_en": "US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina",
+      "analysis_hi": "संदर्भ: US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina...\n\nप्रमुख बिंदु:\n• US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina\n",
+      "analysis_en": "Reference: US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina...\n\nKey Points:\n• US midterms 2026: How Democrats won in Republican strongholds, from Texas to South Carolina\n",
+      "link": "https://indianexpress.com/article/explained/explained-global/us-midterms-2026-results-democrats-texas-senate-upsets-10949850/"
     },
     {
       "id": "b363459e1c69",
@@ -1961,90 +2074,6 @@
       "analysis_hi": "संदर्भ: Schools, colleges and hostels to be covered under El Nino awareness drive in Hyderabad...\n\nप्रमुख बिंदु:\n• Schools, colleges and hostels to be covered under El Nino awareness drive in Hyderabad\n",
       "analysis_en": "Reference: Schools, colleges and hostels to be covered under El Nino awareness drive in Hyderabad...\n\nKey Points:\n• Schools, colleges and hostels to be covered under El Nino awareness drive in Hyderabad\n",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/schools-colleges-and-hostels-to-be-covered-under-el-nino-awareness-drive-in-hyderabad/article71657241.ece"
-    },
-    {
-      "id": "085fc07ede80",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T15:51:33+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Deepavali sales expected to gain momentum in Coimbatore next week",
-      "title_hi": "Deepavali sales expected to gain momentum in Coimbatore next week",
-      "summary_en": "With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity",
-      "analysis_hi": "संदर्भ: With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity...\n\nप्रमुख बिंदु:\n• With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity\n",
-      "analysis_en": "Reference: With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity...\n\nKey Points:\n• With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to witness massive retail activity\n",
-      "link": "https://www.thehindu.com/news/cities/Coimbatore/deepavali-sales-expected-to-gain-momentum-in-coimbatore-next-week/article71641807.ece"
-    },
-    {
-      "id": "56c0b711a6e3",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T10:21:53+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "U.S. Fed holds rates steady; pressure on emerging markets expected with stronger dollar outlook",
-      "title_hi": "U.S. Fed holds rates steady; pressure on emerging markets expected with stronger dollar outlook",
-      "summary_en": "The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors",
-      "analysis_hi": "संदर्भ: The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors...\n\nप्रमुख बिंदु:\n• Fed is expected to keep the rates elevated, making U.S\n• Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors\n",
-      "analysis_en": "Reference: The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors...\n\nKey Points:\n• Fed is expected to keep the rates elevated, making U.S\n• Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors\n",
-      "link": "https://www.thehindu.com/business/Economy/fed-holds-rates-steady-and-cuts-future-meetings-stronger-dollar-outlook-pressures-emerging-markets/article71639815.ece"
-    },
-    {
-      "id": "996ae0def39b",
-      "date": "29 Oct 2026",
-      "iso_date": "2026-10-29T06:18:28+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "U.S. Fed holds interest rates steady despite surging inflation",
-      "title_hi": "U.S. Fed holds interest rates steady despite surging inflation",
-      "summary_en": "The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against मुद्रास्फीति",
-      "analysis_hi": "संदर्भ: The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation...\n\nप्रमुख बिंदु:\n• The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation\n",
-      "analysis_en": "Reference: The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation...\n\nKey Points:\n• The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation\n",
-      "link": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
     },
     {
       "id": "30aac6013ce7",
@@ -5645,35 +5674,6 @@
       "analysis_hi": "संदर्भ: The polling began at 7 a.m. for 352 wards of 22 zila parishads and 2,197 wards of 124 panchayat samitis. In some places, however, it was delayed as electronic voting machines (EVMs) malfunctioned...\n\nप्रमुख बिंदु:\n• for 352 wards of 22 zila parishads and 2,197 wards of 124 panchayat samitis\n• In some places, however, it was delayed as electronic voting machines (EVMs) malfunctioned\n",
       "analysis_en": "Reference: The polling began at 7 a.m. for 352 wards of 22 zila parishads and 2,197 wards of 124 panchayat samitis. In some places, however, it was delayed as electronic voting machines (EVMs) malfunctioned...\n\nKey Points:\n• for 352 wards of 22 zila parishads and 2,197 wards of 124 panchayat samitis\n• In some places, however, it was delayed as electronic voting machines (EVMs) malfunctioned\n",
       "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-panchayat-polls-phase-2-polling-on-october-28-2026/article71634507.ece"
-    },
-    {
-      "id": "79645ae6f5e5",
-      "date": "28 Oct 2026",
-      "iso_date": "2026-10-28T05:55:16+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "EC appoints 11 nodal officers for 2027 Manipur Assembly polls",
-      "title_hi": "EC appoints 11 nodal officers for 2027 Manipur Assembly polls",
-      "summary_en": "Senior IPS officer Kamei Angam Romanus has been named the nodal officer-in-charge of the law and order and security plan, while IAS officer Hungyo Worshang will take charge of excise",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Senior IPS officer Kamei Angam Romanus has been named the nodal officer-in-charge of the law and order and सुरक्षा plan, while IAS officer Hungyo Worshang will take charge of excise",
-      "analysis_hi": "संदर्भ: Senior IPS officer Kamei Angam Romanus has been named the nodal officer-in-charge of the law and order and security plan, while IAS officer Hungyo Worshang will take charge of excise...\n\nप्रमुख बिंदु:\n• Senior IPS officer Kamei Angam Romanus has been named the nodal officer-in-charge of the law and order and security plan, while IAS officer Hungyo Worshang will take charge of excise\n",
-      "analysis_en": "Reference: Senior IPS officer Kamei Angam Romanus has been named the nodal officer-in-charge of the law and order and security plan, while IAS officer Hungyo Worshang will take charge of excise...\n\nKey Points:\n• Senior IPS officer Kamei Angam Romanus has been named the nodal officer-in-charge of the law and order and security plan, while IAS officer Hungyo Worshang will take charge of excise\n",
-      "link": "https://www.thehindu.com/news/national/manipur/ec-appoints-11-nodal-officers-for-2027-manipur-assembly-polls/article71634468.ece"
     }
   ]
 }
