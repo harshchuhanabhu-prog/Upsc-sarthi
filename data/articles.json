@@ -1,12 +1,68 @@
 {
-  "last_updated": "2026-11-06T07:05:30.564952+00:00",
-  "last_updated_ist": "06 November 2026, 12:35 PM IST",
+  "last_updated": "2026-11-06T07:10:00.463778+00:00",
+  "last_updated_ist": "06 November 2026, 12:40 PM IST",
   "total_articles": 200,
   "articles": [
     {
+      "id": "d60333729761",
+      "date": "06 Nov 2026",
+      "iso_date": "2026-11-06T07:04:13+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Keralam Excise Commissioner Seeram Sambasiva Rao shifted amid differences with Minister over bar licence",
+      "title_hi": "Keralam Excise Commissioner Seeram Sambasiva Rao shifted amid differences with Minister over bar licence",
+      "summary_en": "Move comes a few days after Excise Minister M. Liju publicly indicated his disapproval on granting of bar licence to a lounge at Kochi airport despite government's objection to a similar application",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Move comes a few days after Excise Minister M. Liju publicly indicated his disapproval on granting of bar licence to a lounge at Kochi airport despite सरकार's objection to a similar application",
+      "analysis_hi": "संदर्भ: Move comes a few days after Excise Minister M. Liju publicly indicated his disapproval on granting of bar licence to a lounge at Kochi airport despite government's objection to a similar application...\n\nप्रमुख बिंदु:\n• Move comes a few days after Excise Minister M\n• Liju publicly indicated his disapproval on granting of bar licence to a lounge at Kochi airport despite government's objection to a similar application\n",
+      "analysis_en": "Reference: Move comes a few days after Excise Minister M. Liju publicly indicated his disapproval on granting of bar licence to a lounge at Kochi airport despite government's objection to a similar application...\n\nKey Points:\n• Move comes a few days after Excise Minister M\n• Liju publicly indicated his disapproval on granting of bar licence to a lounge at Kochi airport despite government's objection to a similar application\n",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-excise-commissioner-seeram-sambasiva-rao-shifted-amid-differences-with-minister-over-bar-licence/article71673257.ece"
+    },
+    {
+      "id": "c6311603ae58",
+      "date": "06 Nov 2026",
+      "iso_date": "2026-11-06T07:01:43+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Why Manaveeyam Veedhi is at the centre of a political battle between BJP, CPI(M) in Keralam capital",
+      "title_hi": "Why Manaveeyam Veedhi is at the centre of a political battle between BJP, CPI(M) in Keralam capital",
+      "summary_en": "The BJP-led Corporation has made clear its intent to make the street 'protest-free' and to keep it limited to cultural activities. Former Mayor and CPI(M) leader V. Sivankutty says the road is under the Public Works department and its management rights have never been transferred to the Corporation",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The BJP-led Corporation has made clear its intent to make the street 'protest-free' and to keep it limited to cultural activities. Former Mayor and CPI(M) leader V. Sivankutty says the road is under the Public Works department and its management rights have never been transferred to the Corporation",
+      "analysis_hi": "संदर्भ: The BJP-led Corporation has made clear its intent to make the street 'protest-free' and to keep it limited to cultural activities. Former Mayor and CPI(M) leader V. Sivankutty says the road is under the Public Works department and its management rights have never been transferred to the Corporation...\n\nप्रमुख बिंदु:\n• The BJP-led Corporation has made clear its intent to make the street 'protest-free' and to keep it limited to cultural activities\n• Former Mayor and CPI(M) leader V\n• Sivankutty says the road is under the Public Works department and its management rights have never been transferred to the Corporation\n",
+      "analysis_en": "Reference: The BJP-led Corporation has made clear its intent to make the street 'protest-free' and to keep it limited to cultural activities. Former Mayor and CPI(M) leader V. Sivankutty says the road is under the Public Works department and its management rights have never been transferred to the Corporation...\n\nKey Points:\n• The BJP-led Corporation has made clear its intent to make the street 'protest-free' and to keep it limited to cultural activities\n• Former Mayor and CPI(M) leader V\n• Sivankutty says the road is under the Public Works department and its management rights have never been transferred to the Corporation\n",
+      "link": "https://www.thehindu.com/news/national/kerala/why-manaveeyam-veedhi-is-at-the-centre-of-a-political-battle-between-bjp-cpim-in-keralam-capital/article71670739.ece"
+    },
+    {
       "id": "95808328f44f",
       "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:54:56+00:00",
+      "iso_date": "2026-11-06T06:55:59+00:00",
       "category": "economy",
       "source": "The Hindu",
       "importance": "High",
@@ -30,6 +86,34 @@
       "analysis_hi": "संदर्भ: Of the nearly 28,000 satellites currently in orbit, about 10,000 are non-operational, while millions of debris fragments pose risks to active satellites and space missions...\n\nप्रमुख बिंदु:\n• Of the nearly 28,000 satellites currently in orbit, about 10,000 are non-operational, while millions of debris fragments pose risks to active satellites and space missions\n",
       "analysis_en": "Reference: Of the nearly 28,000 satellites currently in orbit, about 10,000 are non-operational, while millions of debris fragments pose risks to active satellites and space missions...\n\nKey Points:\n• Of the nearly 28,000 satellites currently in orbit, about 10,000 are non-operational, while millions of debris fragments pose risks to active satellites and space missions\n",
       "link": "https://www.thehindu.com/news/national/telangana/hyderabad-startup-opens-indias-first-private-space-debris-recovery-facility/article71670668.ece"
+    },
+    {
+      "id": "617076633561",
+      "date": "06 Nov 2026",
+      "iso_date": "2026-11-06T06:55:50+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "The scars of chainsaw attack inside Andhra school lingers on",
+      "title_hi": "The scars of chainsaw attack inside Andhra school lingers on",
+      "summary_en": "Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Despite swift and proactive measures by the शिक्षा Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh",
+      "analysis_hi": "संदर्भ: Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on Oct...\n\nप्रमुख बिंदु:\n• Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh\n",
+      "analysis_en": "Reference: Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on Oct...\n\nKey Points:\n• Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/raptadu-school-attack-leaves-parents-in-state-of-panic/article71671361.ece"
     },
     {
       "id": "135f45fb8a8e",
@@ -372,34 +456,6 @@
       "link": "https://www.thehindu.com/news/national/maharashtra/pune-customs-seizes-hydroponic-marijuana-worth-372-crore-at-airport-arrests-passenger/article71673032.ece"
     },
     {
-      "id": "e7f1cd9cdcb1",
-      "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:26:57+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Raptadu school attack leaves parents in state of panic",
-      "title_hi": "Raptadu school attack leaves parents in state of panic",
-      "summary_en": "Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Despite swift and proactive measures by the शिक्षा Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh",
-      "analysis_hi": "संदर्भ: Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on Oct...\n\nप्रमुख बिंदु:\n• Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh\n",
-      "analysis_en": "Reference: Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on Oct...\n\nKey Points:\n• Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh\n",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/raptadu-school-attack-leaves-parents-in-state-of-panic/article71671361.ece"
-    },
-    {
       "id": "cbafad2917b8",
       "date": "06 Nov 2026",
       "iso_date": "2026-11-06T06:25:47+00:00",
@@ -511,63 +567,6 @@
       "analysis_hi": "संदर्भ: Custom alterations, missing digits and temporary stickers on registration plates are prohibited. Only government-approved High-Security Registration Plates (HSRP) are legally permitted, police said....\n\nप्रमुख बिंदु:\n• Custom alterations, missing digits and temporary stickers on registration plates are prohibited\n• Only government-approved High-Security Registration Plates (HSRP) are legally permitted, police said.\n",
       "analysis_en": "Reference: Custom alterations, missing digits and temporary stickers on registration plates are prohibited. Only government-approved High-Security Registration Plates (HSRP) are legally permitted, police said....\n\nKey Points:\n• Custom alterations, missing digits and temporary stickers on registration plates are prohibited\n• Only government-approved High-Security Registration Plates (HSRP) are legally permitted, police said.\n",
       "link": "https://www.thehindu.com/news/national/telangana/six-criminal-cases-booked-over-fake-tampered-number-plates-in-hyderabad/article71671492.ece"
-    },
-    {
-      "id": "ea9cb6b81cb2",
-      "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:21:25+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Keralam power purchase row: Pinarayi accuses UDF govt of ‘creating artificial crisis’, tells CM Satheesan to disclose files",
-      "title_hi": "Keralam power purchase row: Pinarayi accuses UDF govt of ‘creating artificial crisis’, tells CM Satheesan to disclose files",
-      "summary_en": "Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office",
-      "analysis_hi": "संदर्भ: Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office...\n\nप्रमुख बिंदु:\n• Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office\n",
-      "analysis_en": "Reference: Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office...\n\nKey Points:\n• Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office\n",
-      "link": "https://www.thehindu.com/news/national/kerala/keralam-power-purchase-row-pinarayi-accuses-udf-govt-of-creating-artificial-crisis-tells-cm-satheesan-to-disclose-files/article71673048.ece"
-    },
-    {
-      "id": "f857e09c1886",
-      "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:11:33+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "On repeated building collapses, retired DDA officer says Delhi needs structural changes",
-      "title_hi": "On repeated building collapses, retired DDA officer says Delhi needs structural changes",
-      "summary_en": "Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas",
-      "analysis_hi": "संदर्भ: Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas...\n\nप्रमुख बिंदु:\n• Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas\n",
-      "analysis_en": "Reference: Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas...\n\nKey Points:\n• Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas\n",
-      "link": "https://www.thehindu.com/opinion/interview/interview-with-ashok-kumar-jain-retired-commissioner-planning-of-the-delhi-development-authority/article71672864.ece"
     },
     {
       "id": "a63d513e63e5",
@@ -1109,6 +1108,91 @@
       "analysis_hi": "संदर्भ: The party questions the use of bank’s funds by Fairfax to finance acquisition; demands disclosure of valuation reports...\n\nप्रमुख बिंदु:\n• The party questions the use of bank’s funds by Fairfax to finance acquisition; demands disclosure of valuation reports\n",
       "analysis_en": "Reference: The party questions the use of bank’s funds by Fairfax to finance acquisition; demands disclosure of valuation reports...\n\nKey Points:\n• The party questions the use of bank’s funds by Fairfax to finance acquisition; demands disclosure of valuation reports\n",
       "link": "https://www.thehindu.com/news/national/congress-seeks-jpc-probe-into-idbi-bank-sale-alleges-valuation-irregularities/article71657915.ece"
+    },
+    {
+      "id": "e7f1cd9cdcb1",
+      "date": "06 Nov 2026",
+      "iso_date": "2026-11-06T06:26:57+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Raptadu school attack leaves parents in state of panic",
+      "title_hi": "Raptadu school attack leaves parents in state of panic",
+      "summary_en": "Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Despite swift and proactive measures by the शिक्षा Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh",
+      "analysis_hi": "संदर्भ: Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on Oct...\n\nप्रमुख बिंदु:\n• Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh\n",
+      "analysis_en": "Reference: Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on Oct...\n\nKey Points:\n• Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/raptadu-school-attack-leaves-parents-in-state-of-panic/article71671361.ece"
+    },
+    {
+      "id": "ea9cb6b81cb2",
+      "date": "06 Nov 2026",
+      "iso_date": "2026-11-06T06:21:25+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Keralam power purchase row: Pinarayi accuses UDF govt of ‘creating artificial crisis’, tells CM Satheesan to disclose files",
+      "title_hi": "Keralam power purchase row: Pinarayi accuses UDF govt of ‘creating artificial crisis’, tells CM Satheesan to disclose files",
+      "summary_en": "Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office",
+      "analysis_hi": "संदर्भ: Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office...\n\nप्रमुख बिंदु:\n• Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office\n",
+      "analysis_en": "Reference: Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office...\n\nKey Points:\n• Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office\n",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-power-purchase-row-pinarayi-accuses-udf-govt-of-creating-artificial-crisis-tells-cm-satheesan-to-disclose-files/article71673048.ece"
+    },
+    {
+      "id": "f857e09c1886",
+      "date": "06 Nov 2026",
+      "iso_date": "2026-11-06T06:11:33+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "On repeated building collapses, retired DDA officer says Delhi needs structural changes",
+      "title_hi": "On repeated building collapses, retired DDA officer says Delhi needs structural changes",
+      "summary_en": "Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas",
+      "analysis_hi": "संदर्भ: Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas...\n\nप्रमुख बिंदु:\n• Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas\n",
+      "analysis_en": "Reference: Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas...\n\nKey Points:\n• Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas\n",
+      "link": "https://www.thehindu.com/opinion/interview/interview-with-ashok-kumar-jain-retired-commissioner-planning-of-the-delhi-development-authority/article71672864.ece"
     },
     {
       "id": "547731840b7d",
@@ -5591,89 +5675,6 @@
       "analysis_hi": "संदर्भ: The Minister emphasised that continuous distortions of energy markets through obstacles, sanctions and chokepoints were happening with increasing frequency, greater complexity and wider impact...\n\nप्रमुख बिंदु:\n• The Minister emphasised that continuous distortions of energy markets through obstacles, sanctions and chokepoints were happening with increasing frequency, greater complexity and wider impact\n",
       "analysis_en": "Reference: The Minister emphasised that continuous distortions of energy markets through obstacles, sanctions and chokepoints were happening with increasing frequency, greater complexity and wider impact...\n\nKey Points:\n• The Minister emphasised that continuous distortions of energy markets through obstacles, sanctions and chokepoints were happening with increasing frequency, greater complexity and wider impact\n",
       "link": "https://www.thehindu.com/news/national/india-slams-global-energy-disruptions-through-sanctions-chokepoints/article71648072.ece"
-    },
-    {
-      "id": "e9d5515545c0",
-      "date": "31 Oct 2026",
-      "iso_date": "2026-10-31T00:51:46+00:00",
-      "category": "ir",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "International Relations"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: India and its neighborhood- relations",
-        "GS-2: Important International institutions, agencies and fora"
-      ],
-      "title_en": "Jaishankar holds bilateral meetings with Foreign Ministers from G20 nations",
-      "title_hi": "Jaishankar holds bilateral meetings with Foreign Ministers from G20 nations",
-      "summary_en": "External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting",
-      "analysis_hi": "संदर्भ: External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting...\n\nप्रमुख बिंदु:\n• External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting\n",
-      "analysis_en": "Reference: External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting...\n\nKey Points:\n• External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting\n",
-      "link": "https://www.thehindu.com/news/national/jaishankar-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece"
-    },
-    {
-      "id": "af9bd3794bf4",
-      "date": "25 Oct 2026",
-      "iso_date": "2026-10-25T17:09:42+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "UPI and the cost of policy reversal",
-      "title_hi": "UPI and the cost of policy reversal",
-      "summary_en": "The government’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long policy; taxing the payment rail could weaken incentives for banks and fintechs to invest in UPI while undermining its role in financial inclusion, formalisation and wider digital adoption",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The सरकार’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long नीति; taxing the payment rail could weaken incentives for banks and fintechs to invest in UPI while undermining its role in financial inclusion, formalisation and wider digital adoption",
-      "analysis_hi": "संदर्भ: The government’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long policy; taxing the payment rail could weaken incentives for banks and fintechs to invest in UPI while undermining its role in financial inclusion, formalisation and wider digital adoption...\n\nप्रमुख बिंदु:\n• The government’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long policy; taxing the payment rail could weaken incentives for banks and fintechs to invest in UPI while undermining its role in financial inclusion, formalisation and wider digital adoption\n",
-      "analysis_en": "Reference: The government’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long policy; taxing the payment rail could weaken incentives for banks and fintechs to invest in UPI while undermining its role in financial inclusion, formalisation and wider digital adoption...\n\nKey Points:\n• The government’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long policy; taxing the payment rail could weaken incentives for banks and fintechs to invest in UPI while undermining its role in financial inclusion, formalisation and wider digital adoption\n",
-      "link": "https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece"
-    },
-    {
-      "id": "e95f1afb2f80",
-      "date": "25 Oct 2026",
-      "iso_date": "2026-10-25T14:00:54+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "How India’s life insurance sector funds government expenditure",
-      "title_hi": "How India’s life insurance sector funds government expenditure",
-      "summary_en": "A significant share of life insurance premiums is reinvested in securities that finance government expenditure. While the case for deeper insurance penetration is often made in terms of household financial protection, it is equally important for sovereign fiscal stability",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। A significant share of life insurance premiums is reinvested in securities that finance सरकार expenditure. While the case for deeper insurance penetration is often made in terms of household financial protection, it is equally important for sovereign fiscal stability",
-      "analysis_hi": "संदर्भ: A significant share of life insurance premiums is reinvested in securities that finance government expenditure. While the case for deeper insurance penetration is often made in terms of household financial protection, it is equally important for sovereign fiscal stability...\n\nप्रमुख बिंदु:\n• A significant share of life insurance premiums is reinvested in securities that finance government expenditure\n• While the case for deeper insurance penetration is often made in terms of household financial protection, it is equally important for sovereign fiscal stability\n",
-      "analysis_en": "Reference: A significant share of life insurance premiums is reinvested in securities that finance government expenditure. While the case for deeper insurance penetration is often made in terms of household financial protection, it is equally important for sovereign fiscal stability...\n\nKey Points:\n• A significant share of life insurance premiums is reinvested in securities that finance government expenditure\n• While the case for deeper insurance penetration is often made in terms of household financial protection, it is equally important for sovereign fiscal stability\n",
-      "link": "https://www.thehindu.com/business/Economy/how-indias-life-insurance-sector-funds-government-expenditure/article71195322.ece"
     }
   ]
 }
