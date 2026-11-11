@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-11-11T06:51:11.017909+00:00",
-  "last_updated_ist": "11 November 2026, 12:21 PM IST",
+  "last_updated": "2026-11-11T06:55:03.676939+00:00",
+  "last_updated_ist": "11 November 2026, 12:25 PM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "4fa3d97f507d",
+      "date": "11 Nov 2026",
+      "iso_date": "2026-11-11T06:51:13+00:00",
+      "category": "ir",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "International Relations"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: India and its neighborhood- relations",
+        "GS-2: Important International institutions, agencies and fora"
+      ],
+      "title_en": "CII Partnership Summit begins in Visakhapatnam on November 12; Amit Shah to address inaugural session",
+      "title_hi": "CII Partnership Summit begins in Visakhapatnam on November 12; Amit Shah to address inaugural session",
+      "summary_en": "Over 3,800 delegates from 59 countries are expected at the two-day summit, with more than 160 MoUs lined up",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Over 3,800 delegates from 59 countries are expected at the two-day शिखर सम्मेलन, with more than 160 MoUs lined up",
+      "analysis_hi": "संदर्भ: Over 3,800 delegates from 59 countries are expected at the two-day summit, with more than 160 MoUs lined up...\n\nप्रमुख बिंदु:\n• Over 3,800 delegates from 59 countries are expected at the two-day summit, with more than 160 MoUs lined up\n",
+      "analysis_en": "Reference: Over 3,800 delegates from 59 countries are expected at the two-day summit, with more than 160 MoUs lined up...\n\nKey Points:\n• Over 3,800 delegates from 59 countries are expected at the two-day summit, with more than 160 MoUs lined up\n",
+      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-begins-in-visakhapatnam-on-november-12-amit-shah-to-address-inaugural-session/article71688259.ece"
+    },
+    {
+      "id": "bf73fb591c0e",
+      "date": "11 Nov 2026",
+      "iso_date": "2026-11-11T06:46:32+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Keralam power purchase row: CM Satheesan plays down issue, dismisses charges that Electricity Minister was kept in the dark",
+      "title_hi": "Keralam power purchase row: CM Satheesan plays down issue, dismisses charges that Electricity Minister was kept in the dark",
+      "summary_en": "Satheesan says KSEB had 'never entered into a power purchase agreement with GNA in the first place’ and that he is ‘not aware whether KSEB had misled him or not’",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Satheesan says KSEB had 'never entered into a power purchase समझौता with GNA in the first place’ and that he is ‘not aware whether KSEB had misled him or not’",
+      "analysis_hi": "संदर्भ: Satheesan says KSEB had 'never entered into a power purchase agreement with GNA in the first place’ and that he is ‘not aware whether KSEB had misled him or not’...\n\nप्रमुख बिंदु:\n• Satheesan says KSEB had 'never entered into a power purchase agreement with GNA in the first place’ and that he is ‘not aware whether KSEB had misled him or not’\n",
+      "analysis_en": "Reference: Satheesan says KSEB had 'never entered into a power purchase agreement with GNA in the first place’ and that he is ‘not aware whether KSEB had misled him or not’...\n\nKey Points:\n• Satheesan says KSEB had 'never entered into a power purchase agreement with GNA in the first place’ and that he is ‘not aware whether KSEB had misled him or not’\n",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-power-purchase-row-cm-satheesan-plays-down-issue-dismisses-charges-that-electricity-minister-was-kept-in-the-dark/article71688584.ece"
+    },
     {
       "id": "68e4b113e53f",
       "date": "11 Nov 2026",
@@ -513,63 +568,6 @@
       "analysis_hi": "संदर्भ: The complainant alleged that the Minister’s statements and insinuations created an impression that the RSS was connected to criminal activities, potentially triggering hostility and disturbing communal harmony...\n\nप्रमुख बिंदु:\n• The complainant alleged that the Minister’s statements and insinuations created an impression that the RSS was connected to criminal activities, potentially triggering hostility and disturbing communal harmony\n",
       "analysis_en": "Reference: The complainant alleged that the Minister’s statements and insinuations created an impression that the RSS was connected to criminal activities, potentially triggering hostility and disturbing communal harmony...\n\nKey Points:\n• The complainant alleged that the Minister’s statements and insinuations created an impression that the RSS was connected to criminal activities, potentially triggering hostility and disturbing communal harmony\n",
       "link": "https://www.thehindu.com/news/national/karnataka/rss-activist-seeks-fir-against-karnataka-home-minister-priyank-kharge-over-arms-seizure-post/article71688248.ece"
-    },
-    {
-      "id": "57bf0eceb7e1",
-      "date": "11 Nov 2026",
-      "iso_date": "2026-11-11T05:43:51+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Russian paraglider trapped in power lines, rescued in Himachal",
-      "title_hi": "Russian paraglider trapped in power lines, rescued in Himachal",
-      "summary_en": "The incident occurred near Tandu, when Alexey (48) took off from Bir Billing and got stuck in the wires mid-flight.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The incident occurred near Tandu, when Alexey (48) took off from Bir Billing and got stuck in the wires mid-flight.",
-      "analysis_hi": "संदर्भ: The incident occurred near Tandu, when Alexey (48) took off from Bir Billing and got stuck in the wires mid-flight....\n\nप्रमुख बिंदु:\n• The incident occurred near Tandu, when Alexey (48) took off from Bir Billing and got stuck in the wires mid-flight.\n",
-      "analysis_en": "Reference: The incident occurred near Tandu, when Alexey (48) took off from Bir Billing and got stuck in the wires mid-flight....\n\nKey Points:\n• The incident occurred near Tandu, when Alexey (48) took off from Bir Billing and got stuck in the wires mid-flight.\n",
-      "link": "https://www.thehindu.com/news/national/himachal-pradesh/russian-paraglider-trapped-in-power-lines-rescued-in-himachal/article71688426.ece"
-    },
-    {
-      "id": "e633b85e3d7b",
-      "date": "11 Nov 2026",
-      "iso_date": "2026-11-11T05:31:15+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Keralam Minister’s claim on Muslim Youth League’s role in Netanyahu’s Israel defeat invites online ridicule",
-      "title_hi": "Keralam Minister’s claim on Muslim Youth League’s role in Netanyahu’s Israel defeat invites online ridicule",
-      "summary_en": "Referring to alleged massacres in Israel, K.M. Shaji said Youth League workers from Malappuram, Kasaragod and Ernakulam had contributed to Netanyahu being forced to step down",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Referring to alleged massacres in Israel, K.M. Shaji said Youth League workers from Malappuram, Kasaragod and Ernakulam had contributed to Netanyahu being forced to step down",
-      "analysis_hi": "संदर्भ: Referring to alleged massacres in Israel, K.M. Shaji said Youth League workers from Malappuram, Kasaragod and Ernakulam had contributed to Netanyahu being forced to step down...\n\nप्रमुख बिंदु:\n• Referring to alleged massacres in Israel, K.M\n• Shaji said Youth League workers from Malappuram, Kasaragod and Ernakulam had contributed to Netanyahu being forced to step down\n",
-      "analysis_en": "Reference: Referring to alleged massacres in Israel, K.M. Shaji said Youth League workers from Malappuram, Kasaragod and Ernakulam had contributed to Netanyahu being forced to step down...\n\nKey Points:\n• Referring to alleged massacres in Israel, K.M\n• Shaji said Youth League workers from Malappuram, Kasaragod and Ernakulam had contributed to Netanyahu being forced to step down\n",
-      "link": "https://www.thehindu.com/news/national/kerala/keralam-ministers-claim-on-muslim-youth-leagues-role-in-netanyahus-israel-defeat-invites-online-ridicule/article71688421.ece"
     },
     {
       "id": "5b0c429b280f",
@@ -1108,6 +1106,63 @@
       "analysis_hi": "संदर्भ: The three-pronged scheme is aimed at strengthening data collecting, analysis, the incorporation of AI, as well as provide fresh data on the unorganised sector to make the overall GDP figure more accurate...\n\nप्रमुख बिंदु:\n• The three-pronged scheme is aimed at strengthening data collecting, analysis, the incorporation of AI, as well as provide fresh data on the unorganised sector to make the overall GDP figure more accurate\n",
       "analysis_en": "Reference: The three-pronged scheme is aimed at strengthening data collecting, analysis, the incorporation of AI, as well as provide fresh data on the unorganised sector to make the overall GDP figure more accurate...\n\nKey Points:\n• The three-pronged scheme is aimed at strengthening data collecting, analysis, the incorporation of AI, as well as provide fresh data on the unorganised sector to make the overall GDP figure more accurate\n",
       "link": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece"
+    },
+    {
+      "id": "57bf0eceb7e1",
+      "date": "11 Nov 2026",
+      "iso_date": "2026-11-11T05:43:51+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Russian paraglider trapped in power lines, rescued in Himachal",
+      "title_hi": "Russian paraglider trapped in power lines, rescued in Himachal",
+      "summary_en": "The incident occurred near Tandu, when Alexey (48) took off from Bir Billing and got stuck in the wires mid-flight.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The incident occurred near Tandu, when Alexey (48) took off from Bir Billing and got stuck in the wires mid-flight.",
+      "analysis_hi": "संदर्भ: The incident occurred near Tandu, when Alexey (48) took off from Bir Billing and got stuck in the wires mid-flight....\n\nप्रमुख बिंदु:\n• The incident occurred near Tandu, when Alexey (48) took off from Bir Billing and got stuck in the wires mid-flight.\n",
+      "analysis_en": "Reference: The incident occurred near Tandu, when Alexey (48) took off from Bir Billing and got stuck in the wires mid-flight....\n\nKey Points:\n• The incident occurred near Tandu, when Alexey (48) took off from Bir Billing and got stuck in the wires mid-flight.\n",
+      "link": "https://www.thehindu.com/news/national/himachal-pradesh/russian-paraglider-trapped-in-power-lines-rescued-in-himachal/article71688426.ece"
+    },
+    {
+      "id": "e633b85e3d7b",
+      "date": "11 Nov 2026",
+      "iso_date": "2026-11-11T05:31:15+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Keralam Minister’s claim on Muslim Youth League’s role in Netanyahu’s Israel defeat invites online ridicule",
+      "title_hi": "Keralam Minister’s claim on Muslim Youth League’s role in Netanyahu’s Israel defeat invites online ridicule",
+      "summary_en": "Referring to alleged massacres in Israel, K.M. Shaji said Youth League workers from Malappuram, Kasaragod and Ernakulam had contributed to Netanyahu being forced to step down",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Referring to alleged massacres in Israel, K.M. Shaji said Youth League workers from Malappuram, Kasaragod and Ernakulam had contributed to Netanyahu being forced to step down",
+      "analysis_hi": "संदर्भ: Referring to alleged massacres in Israel, K.M. Shaji said Youth League workers from Malappuram, Kasaragod and Ernakulam had contributed to Netanyahu being forced to step down...\n\nप्रमुख बिंदु:\n• Referring to alleged massacres in Israel, K.M\n• Shaji said Youth League workers from Malappuram, Kasaragod and Ernakulam had contributed to Netanyahu being forced to step down\n",
+      "analysis_en": "Reference: Referring to alleged massacres in Israel, K.M. Shaji said Youth League workers from Malappuram, Kasaragod and Ernakulam had contributed to Netanyahu being forced to step down...\n\nKey Points:\n• Referring to alleged massacres in Israel, K.M\n• Shaji said Youth League workers from Malappuram, Kasaragod and Ernakulam had contributed to Netanyahu being forced to step down\n",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-ministers-claim-on-muslim-youth-leagues-role-in-netanyahus-israel-defeat-invites-online-ridicule/article71688421.ece"
     },
     {
       "id": "37e69e9b26f4",
@@ -5619,64 +5674,6 @@
       "analysis_hi": "संदर्भ: The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation...\n\nप्रमुख बिंदु:\n• The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation\n",
       "analysis_en": "Reference: The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation...\n\nKey Points:\n• The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation\n",
       "link": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
-    },
-    {
-      "id": "62c92e6940e4",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T06:36:37+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court",
-      "title_hi": "Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court",
-      "summary_en": "Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court",
-      "analysis_hi": "संदर्भ: Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court...\n\nप्रमुख बिंदु:\n• Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court\n",
-      "analysis_en": "Reference: Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court...\n\nKey Points:\n• Foreign nationals cannot claim right to visa, entry into India, rules Delhi High Court\n",
-      "link": "https://indianexpress.com/article/legal-news/foreign-nationals-cannot-right-visa-entry-india-delhi-high-court-10949812/"
-    },
-    {
-      "id": "256f4699bb45",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T06:25:18+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland",
-      "title_hi": "STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland",
-      "summary_en": "STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland",
-      "analysis_hi": "संदर्भ: STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland...\n\nप्रमुख बिंदु:\n• STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland\n",
-      "analysis_en": "Reference: STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland...\n\nKey Points:\n• STATS: Kamboj records joint-best ODI spell by India pacer in 21 years in Auckland\n",
-      "link": "https://indianexpress.com/article/sports/cricket/anshul-kamboj-joint-best-economy-odi-spell-21-years-ind-vs-nz-auckland-10949967/"
     }
   ]
 }
