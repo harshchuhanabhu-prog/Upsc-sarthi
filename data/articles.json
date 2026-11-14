@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-13T07:02:28.563074+00:00",
-  "last_updated_ist": "13 November 2026, 12:32 PM IST",
+  "last_updated": "2026-11-14T06:47:57.359309+00:00",
+  "last_updated_ist": "14 November 2026, 12:17 PM IST",
   "total_articles": 200,
   "articles": [
     {
-      "id": "3363c255cf0c",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:51:17+00:00",
+      "id": "fe84faf04489",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T06:42:46+00:00",
       "category": "polity",
       "source": "The Hindu",
       "importance": "Medium",
@@ -24,215 +24,18 @@
         "GS-2: Parliament and State legislatures",
         "GS-2: Separation of powers between various organs"
       ],
-      "title_en": "‘Bharat Vann’ project launched to boost Mysuru’s green cover",
-      "title_hi": "‘Bharat Vann’ project launched to boost Mysuru’s green cover",
-      "summary_en": "Finance Minister Nirmala Sitharaman inaugurates urban greening initiative; 45,000 saplings to be planted at K.C. Layout Park",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Finance Minister Nirmala Sitharaman inaugurates urban greening initiative; 45,000 saplings to be planted at K.C. Layout Park",
-      "analysis_hi": "संदर्भ: Finance Minister Nirmala Sitharaman inaugurates urban greening initiative; 45,000 saplings to be planted at K.C. Layout Park...\n\nप्रमुख बिंदु:\n• Finance Minister Nirmala Sitharaman inaugurates urban greening initiative; 45,000 saplings to be planted at K.C\n",
-      "analysis_en": "Reference: Finance Minister Nirmala Sitharaman inaugurates urban greening initiative; 45,000 saplings to be planted at K.C. Layout Park...\n\nKey Points:\n• Finance Minister Nirmala Sitharaman inaugurates urban greening initiative; 45,000 saplings to be planted at K.C\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/bharat-vann-project-launched-to-boost-mysurus-green-cover/article71696792.ece"
+      "title_en": "Piyush Goyal in Egypt: Both sides to discuss increasing cooperation in infra, manufacturing, logistics",
+      "title_hi": "Piyush Goyal in Egypt: Both sides to discuss increasing cooperation in infra, manufacturing, logistics",
+      "summary_en": "Egypt's strategic geographical location offers significant opportunities for Indian businesses to strengthen their presence in the country and access markets across Africa, the Middle East and Europe",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Egypt's strategic geographical location offers significant opportunities for Indian businesses to strengthen their presence in the country and access markets across Africa, the Middle East and Europe",
+      "analysis_hi": "संदर्भ: Egypt's strategic geographical location offers significant opportunities for Indian businesses to strengthen their presence in the country and access markets across Africa, the Middle East and Europe...\n\nप्रमुख बिंदु:\n• Egypt's strategic geographical location offers significant opportunities for Indian businesses to strengthen their presence in the country and access markets across Africa, the Middle East and Europe\n",
+      "analysis_en": "Reference: Egypt's strategic geographical location offers significant opportunities for Indian businesses to strengthen their presence in the country and access markets across Africa, the Middle East and Europe...\n\nKey Points:\n• Egypt's strategic geographical location offers significant opportunities for Indian businesses to strengthen their presence in the country and access markets across Africa, the Middle East and Europe\n",
+      "link": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-both-sides-to-discuss-increasing-cooperation-in-infra-manufacturing-logistics/article71701055.ece"
     },
     {
-      "id": "b1807f94173d",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:50:48+00:00",
-      "category": "ir",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "International Relations"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: India and its neighborhood- relations",
-        "GS-2: Important International institutions, agencies and fora"
-      ],
-      "title_en": "India’s ambassador to Oman visits injured Indian seafarer in hospital",
-      "title_hi": "India’s ambassador to Oman visits injured Indian seafarer in hospital",
-      "summary_en": "“The Embassy stands firmly with the affected seafarers and their families during this difficult time and remains committed to extending all necessary assistance,” says Indian Embassy in Muscat",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। “The Embassy stands firmly with the affected seafarers and their families during this difficult time and remains committed to extending all necessary assistance,” says Indian Embassy in Muscat",
-      "analysis_hi": "संदर्भ: “The Embassy stands firmly with the affected seafarers and their families during this difficult time and remains committed to extending all necessary assistance,” says Indian Embassy in Muscat...\n\nप्रमुख बिंदु:\n• “The Embassy stands firmly with the affected seafarers and their families during this difficult time and remains committed to extending all necessary assistance,” says Indian Embassy in Muscat\n",
-      "analysis_en": "Reference: “The Embassy stands firmly with the affected seafarers and their families during this difficult time and remains committed to extending all necessary assistance,” says Indian Embassy in Muscat...\n\nKey Points:\n• “The Embassy stands firmly with the affected seafarers and their families during this difficult time and remains committed to extending all necessary assistance,” says Indian Embassy in Muscat\n",
-      "link": "https://www.thehindu.com/news/national/indias-ambassador-to-oman-visits-injured-indian-seafarer-in-hospital/article71696783.ece"
-    },
-    {
-      "id": "d48db4af5f18",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:50:29+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Let him give list of judges with the BJP and who aren't: Calcutta High Court takes exception to Abhishek Banerjee's remarks on judiciary",
-      "title_hi": "Let him give list of judges with the BJP and who aren't: Calcutta High Court takes exception to Abhishek Banerjee's remarks on judiciary",
-      "summary_en": "Following an alleged attack on his residence in Kalighat in south Kolkata on November 7, a visibly agitated Mr. Banerjee had accused a section of the judiciary, among others, of turning a blind eye to threats to his security.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Following an alleged attack on his residence in Kalighat in south Kolkata on November 7, a visibly agitated Mr. Banerjee had accused a section of the judiciary, among others, of turning a blind eye to threats to his सुरक्षा.",
-      "analysis_hi": "संदर्भ: Following an alleged attack on his residence in Kalighat in south Kolkata on November 7, a visibly agitated Mr. Banerjee had accused a section of the judiciary, among others, of turning a blind eye to threats to his security....\n\nप्रमुख बिंदु:\n• Following an alleged attack on his residence in Kalighat in south Kolkata on November 7, a visibly agitated Mr\n• Banerjee had accused a section of the judiciary, among others, of turning a blind eye to threats to his security.\n",
-      "analysis_en": "Reference: Following an alleged attack on his residence in Kalighat in south Kolkata on November 7, a visibly agitated Mr. Banerjee had accused a section of the judiciary, among others, of turning a blind eye to threats to his security....\n\nKey Points:\n• Following an alleged attack on his residence in Kalighat in south Kolkata on November 7, a visibly agitated Mr\n• Banerjee had accused a section of the judiciary, among others, of turning a blind eye to threats to his security.\n",
-      "link": "https://www.thehindu.com/news/national/west-bengal/let-him-give-list-of-judges-with-the-bjp-and-who-arent-calcutta-high-court-takes-exception-to-abhishek-banerjees-remarks-on-judiciary/article71696705.ece"
-    },
-    {
-      "id": "f480fed8d5c7",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:49:06+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Low-pressure area forms over Bay of Bengal, likely to intensify into depression by November 15",
-      "title_hi": "Low-pressure area forms over Bay of Bengal, likely to intensify into depression by November 15",
-      "summary_en": "The system formed at 5:30 a.m. under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The system formed at 5:30 a.m. under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update",
-      "analysis_hi": "संदर्भ: The system formed at 5:30 a.m. under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update...\n\nप्रमुख बिंदु:\n• under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update\n",
-      "analysis_en": "Reference: The system formed at 5:30 a.m. under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update...\n\nKey Points:\n• under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update\n",
-      "link": "https://www.thehindu.com/news/national/low-pressure-area-forms-over-southeast-bay-of-bengal-likely-to-intensify-into-depression-by-november-15/article71696703.ece"
-    },
-    {
-      "id": "88377c0e7ed3",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:48:41+00:00",
-      "category": "ir",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "International Relations"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: India and its neighborhood- relations",
-        "GS-2: Important International institutions, agencies and fora"
-      ],
-      "title_en": "Andhra to bring in Investment Protection Act to ease doing business, says Naidu",
-      "title_hi": "Andhra to bring in Investment Protection Act to ease doing business, says Naidu",
-      "summary_en": "303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership Summit, the Chief Minister says",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। 303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership शिखर सम्मेलन, the Chief Minister says",
-      "analysis_hi": "संदर्भ: 303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership Summit, the Chief Minister says...\n\nप्रमुख बिंदु:\n• 303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership Summit, the Chief Minister says\n",
-      "analysis_en": "Reference: 303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership Summit, the Chief Minister says...\n\nKey Points:\n• 303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership Summit, the Chief Minister says\n",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-to-bring-in-investment-protection-act-to-ease-doing-business-says-naidu/article71693742.ece"
-    },
-    {
-      "id": "96b7c6f962bf",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:44:34+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Modi in Bengaluru: PM participates in Prashanti Kutiram celebrations, to inaugurate Namma Metro Pink Line | LIVE",
-      "title_hi": "Modi in Bengaluru: PM participates in Prashanti Kutiram celebrations, to inaugurate Namma Metro Pink Line | LIVE",
-      "summary_en": "PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m. today. He will flag off the metro service and take a ride on the newly inaugurated stretch",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m. today. He will flag off the metro service and take a ride on the newly inaugurated stretch",
-      "analysis_hi": "संदर्भ: PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m. today. He will flag off the metro service and take a ride on the newly inaugurated stretch...\n\nप्रमुख बिंदु:\n• PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m\n• He will flag off the metro service and take a ride on the newly inaugurated stretch\n",
-      "analysis_en": "Reference: PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m. today. He will flag off the metro service and take a ride on the newly inaugurated stretch...\n\nKey Points:\n• PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m\n• He will flag off the metro service and take a ride on the newly inaugurated stretch\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece"
-    },
-    {
-      "id": "17061522664b",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:34:08+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Maharashtra Minister slams police over security lapses after late-night ruckus outside his Chhatrapati Sambhajinagar home",
-      "title_hi": "Maharashtra Minister slams police over security lapses after late-night ruckus outside his Chhatrapati Sambhajinagar home",
-      "summary_en": "Accused persons taken into police custody; Sanjay Shirsat, who is also the district’s Guardian Minister, said he would take up the matter with CM Fadnavis",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Accused persons taken into police custody; Sanjay Shirsat, who is also the district’s Guardian Minister, said he would take up the matter with CM Fadnavis",
-      "analysis_hi": "संदर्भ: Accused persons taken into police custody; Sanjay Shirsat, who is also the district’s Guardian Minister, said he would take up the matter with CM Fadnavis...\n\nप्रमुख बिंदु:\n• Accused persons taken into police custody; Sanjay Shirsat, who is also the district’s Guardian Minister, said he would take up the matter with CM Fadnavis\n",
-      "analysis_en": "Reference: Accused persons taken into police custody; Sanjay Shirsat, who is also the district’s Guardian Minister, said he would take up the matter with CM Fadnavis...\n\nKey Points:\n• Accused persons taken into police custody; Sanjay Shirsat, who is also the district’s Guardian Minister, said he would take up the matter with CM Fadnavis\n",
-      "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-minister-sanjay-shirsat-slams-police-over-security-lapses-chhatrapati-sambhajinagar-home/article71696723.ece"
-    },
-    {
-      "id": "eca8d93a5658",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:32:35+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Sonia Gandhi’s ‘Belonging’: From being shelved to the shelves",
-      "title_hi": "Sonia Gandhi’s ‘Belonging’: From being shelved to the shelves",
-      "summary_en": "Sonia Gandhi’s memoir, “Belonging: A Journey of Love,” is set for release on November 10, with HarperCollins India handling its publication domestically.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Sonia Gandhi’s memoir, “Belonging: A Journey of Love,” is set for release on November 10, with HarperCollins India handling its publication domestically.",
-      "analysis_hi": "संदर्भ: Sonia Gandhi’s memoir, “Belonging: A Journey of Love,” is set for release on November 10, with HarperCollins India handling its publication domestically....\n\nप्रमुख बिंदु:\n• Sonia Gandhi’s memoir, “Belonging: A Journey of Love,” is set for release on November 10, with HarperCollins India handling its publication domestically.\n",
-      "analysis_en": "Reference: Sonia Gandhi’s memoir, “Belonging: A Journey of Love,” is set for release on November 10, with HarperCollins India handling its publication domestically....\n\nKey Points:\n• Sonia Gandhi’s memoir, “Belonging: A Journey of Love,” is set for release on November 10, with HarperCollins India handling its publication domestically.\n",
-      "link": "https://www.thehindu.com/books/articles-on-sonia-gandhi-book-belonging/article71450926.ece"
-    },
-    {
-      "id": "fc8c52cda6a7",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:30:12+00:00",
+      "id": "8345e1a3fa3f",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T06:40:14+00:00",
       "category": "environment",
       "source": "The Hindu",
       "importance": "Medium",
@@ -249,18 +52,18 @@
         "GS-3: Conservation, environmental pollution and degradation",
         "GS-3: Environmental impact assessment"
       ],
-      "title_en": "Agricultural growth tops 4% for first decade since Independence; Centre absorbed ₹43 of diesel hike: PM Modi",
-      "title_hi": "Agricultural growth tops 4% for first decade since Independence; Centre absorbed ₹43 of diesel hike: PM Modi",
-      "summary_en": "Calling agriculture \"our culture, our tradition and the basis of our social life\", the Prime Minister said a developed India was not possible without making farming \"smarter\" and farmers \"self-reliant\"",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Calling कृषि \"our culture, our tradition and the basis of our social life\", the प्रधानमंत्री said a developed India was not possible without making farming \"smarter\" and farmers \"self-reliant\"",
-      "analysis_hi": "संदर्भ: Calling agriculture \"our culture, our tradition and the basis of our social life\", the Prime Minister said a developed India was not possible without making farming \"smarter\" and farmers \"self-reliant\"...\n\nप्रमुख बिंदु:\n• Calling agriculture \"our culture, our tradition and the basis of our social life\", the Prime Minister said a developed India was not possible without making farming \"smarter\" and farmers \"self-reliant\"\n",
-      "analysis_en": "Reference: Calling agriculture \"our culture, our tradition and the basis of our social life\", the Prime Minister said a developed India was not possible without making farming \"smarter\" and farmers \"self-reliant\"...\n\nKey Points:\n• Calling agriculture \"our culture, our tradition and the basis of our social life\", the Prime Minister said a developed India was not possible without making farming \"smarter\" and farmers \"self-reliant\"\n",
-      "link": "https://www.thehindu.com/news/national/agricultural-growth-tops-4-for-first-decade-since-independence-centre-absorbed-43-of-diesel-hike-pm-modi/article71696695.ece"
+      "title_en": "Assam accident: Autopsy of 26 bodies on November 14; CM to visit injured, meet families of deceased",
+      "title_hi": "Assam accident: Autopsy of 26 bodies on November 14; CM to visit injured, meet families of deceased",
+      "summary_en": "Twenty-six people died in a head-on collision between the two vehicles at Rangajan on National Highway 715 near Kaziranga National Park on November 13",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Twenty-six people died in a head-on collision between the two vehicles at Rangajan on National Highway 715 near Kaziranga National Park on November 13",
+      "analysis_hi": "संदर्भ: Twenty-six people died in a head-on collision between the two vehicles at Rangajan on National Highway 715 near Kaziranga National Park on November 13...\n\nप्रमुख बिंदु:\n• Twenty-six people died in a head-on collision between the two vehicles at Rangajan on National Highway 715 near Kaziranga National Park on November 13\n",
+      "analysis_en": "Reference: Twenty-six people died in a head-on collision between the two vehicles at Rangajan on National Highway 715 near Kaziranga National Park on November 13...\n\nKey Points:\n• Twenty-six people died in a head-on collision between the two vehicles at Rangajan on National Highway 715 near Kaziranga National Park on November 13\n",
+      "link": "https://www.thehindu.com/news/national/assam/assam-accident-autopsy-of-dead-on-november-14-cm-to-visit-injured-meet-families-of-deceased/article71701016.ece"
     },
     {
-      "id": "13f314b1f8cd",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:16:24+00:00",
+      "id": "f46ad78241a9",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T06:36:13+00:00",
       "category": "social",
       "source": "The Hindu",
       "importance": "Medium",
@@ -277,18 +80,46 @@
         "GS-1: Population and associated issues",
         "GS-2: Issues relating to development and management of Social Sector/Services"
       ],
-      "title_en": "Tamil Nadu government issues G.O. effecting salary hike of guest lecturers in colleges",
-      "title_hi": "Tamil Nadu government issues G.O. effecting salary hike of guest lecturers in colleges",
-      "summary_en": "Guest lecturers in government Arts and Science colleges, engineering colleges, and colleges of education will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Guest lecturers in सरकार Arts and Science colleges, engineering colleges, and colleges of शिक्षा will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000",
-      "analysis_hi": "संदर्भ: Guest lecturers in government Arts and Science colleges, engineering colleges, and colleges of education will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000...\n\nप्रमुख बिंदु:\n• Guest lecturers in government Arts and Science colleges, engineering colleges, and colleges of education will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000\n",
-      "analysis_en": "Reference: Guest lecturers in government Arts and Science colleges, engineering colleges, and colleges of education will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000...\n\nKey Points:\n• Guest lecturers in government Arts and Science colleges, engineering colleges, and colleges of education will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-issues-go-effecting-salary-hike-of-guest-lecturers-in-colleges/article71695258.ece"
+      "title_en": "Kurumba: a language and community fighting for visibility",
+      "title_hi": "Kurumba: a language and community fighting for visibility",
+      "summary_en": "The Kurumbas of Keralam are an Adivasi community with a population of only 2,719 as of 2024, who speak Kurumba, an oral language without a script; with the Census classifying languages with fewer than 10,000 speakers as ‘others’, the future of the language appears bleak",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Kurumbas of Keralam are an Adivasi community with a population of only 2,719 as of 2024, who speak Kurumba, an oral language without a script; with the Census classifying languages with fewer than 10,000 speakers as ‘others’, the future of the language appears bleak",
+      "analysis_hi": "संदर्भ: The Kurumbas of Keralam are an Adivasi community with a population of only 2,719 as of 2024, who speak Kurumba, an oral language without a script; with the Census classifying languages with fewer than 10,000 speakers as ‘others’, the future of the language appears bleak...\n\nप्रमुख बिंदु:\n• The Kurumbas of Keralam are an Adivasi community with a population of only 2,719 as of 2024, who speak Kurumba, an oral language without a script; with the Census classifying languages with fewer than 10,000 speakers as ‘others’, the future of the language appears bleak\n",
+      "analysis_en": "Reference: The Kurumbas of Keralam are an Adivasi community with a population of only 2,719 as of 2024, who speak Kurumba, an oral language without a script; with the Census classifying languages with fewer than 10,000 speakers as ‘others’, the future of the language appears bleak...\n\nKey Points:\n• The Kurumbas of Keralam are an Adivasi community with a population of only 2,719 as of 2024, who speak Kurumba, an oral language without a script; with the Census classifying languages with fewer than 10,000 speakers as ‘others’, the future of the language appears bleak\n",
+      "link": "https://www.thehindu.com/news/national/kerala/kurumba-a-language-and-community-fighting-for-visibility/article71695235.ece"
     },
     {
-      "id": "b3fc67e99449",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:14:00+00:00",
+      "id": "e81b0380daee",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T06:32:35+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "No locus standi: Indian envoy hits back at USCIRF for remarks on Sharjeel Imam",
+      "title_hi": "No locus standi: Indian envoy hits back at USCIRF for remarks on Sharjeel Imam",
+      "summary_en": "U.S. Commission on International Religious Freedom (USCIRF) shared Sharjeel Imam’s profile on X, describing him as “a Muslim man detained in India for his religious freedom advocacy”",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। U.S. Commission on International Religious Freedom (USCIRF) shared Sharjeel Imam’s profile on X, describing him as “a Muslim man detained in India for his religious freedom advocacy”",
+      "analysis_hi": "संदर्भ: U.S. Commission on International Religious Freedom (USCIRF) shared Sharjeel Imam’s profile on X, describing him as “a Muslim man detained in India for his religious freedom advocacy”...\n\nप्रमुख बिंदु:\n• Commission on International Religious Freedom (USCIRF) shared Sharjeel Imam’s profile on X, describing him as “a Muslim man detained in India for his religious freedom advocacy”\n",
+      "analysis_en": "Reference: U.S. Commission on International Religious Freedom (USCIRF) shared Sharjeel Imam’s profile on X, describing him as “a Muslim man detained in India for his religious freedom advocacy”...\n\nKey Points:\n• Commission on International Religious Freedom (USCIRF) shared Sharjeel Imam’s profile on X, describing him as “a Muslim man detained in India for his religious freedom advocacy”\n",
+      "link": "https://www.thehindu.com/news/national/indian-envoy-slams-uscirf-over-sharjeel-imam-remarks-says-panel-has-no-locus-standi/article71700860.ece"
+    },
+    {
+      "id": "7d0406fe54ec",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T06:27:55+00:00",
       "category": "polity",
       "source": "The Hindu",
       "importance": "Medium",
@@ -306,18 +137,300 @@
         "GS-2: Parliament and State legislatures",
         "GS-2: Separation of powers between various organs"
       ],
-      "title_en": "All you need to know about Jagdeep Dhankhar: 5 key facts about India’s 14th Vice-President",
-      "title_hi": "All you need to know about Jagdeep Dhankhar: 5 key facts about India’s 14th Vice-President",
-      "summary_en": "Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law",
-      "analysis_hi": "संदर्भ: Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law...\n\nप्रमुख बिंदु:\n• Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law\n",
-      "analysis_en": "Reference: Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law...\n\nKey Points:\n• Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law\n",
-      "link": "https://www.thehindu.com/news/national/jagdeep-dhankhar-5-key-facts-about-india-14th-vice-president/article71696691.ece"
+      "title_en": "Police fully empowered to curb drugs and substance abuse in the city: Kerala High Court",
+      "title_hi": "Police fully empowered to curb drugs and substance abuse in the city: Kerala High Court",
+      "summary_en": "The court clarified that the directions issued by the Single Bench would not stand in the way of the police maintaining “requisite vigil and attention” to all activities about drug and substance abuse",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The court clarified that the directions issued by the Single Bench would not stand in the way of the police maintaining “requisite vigil and attention” to all activities about drug and substance abuse",
+      "analysis_hi": "संदर्भ: The court clarified that the directions issued by the Single Bench would not stand in the way of the police maintaining “requisite vigil and attention” to all activities about drug and substance abuse...\n\nप्रमुख बिंदु:\n• The court clarified that the directions issued by the Single Bench would not stand in the way of the police maintaining “requisite vigil and attention” to all activities about drug and substance abuse\n",
+      "analysis_en": "Reference: The court clarified that the directions issued by the Single Bench would not stand in the way of the police maintaining “requisite vigil and attention” to all activities about drug and substance abuse...\n\nKey Points:\n• The court clarified that the directions issued by the Single Bench would not stand in the way of the police maintaining “requisite vigil and attention” to all activities about drug and substance abuse\n",
+      "link": "https://www.thehindu.com/news/national/kerala/police-fully-empowered-to-curb-drugs-and-substance-abuse-in-the-city-kerala-high-court/article71699531.ece"
+    },
+    {
+      "id": "7a5ff3f278ad",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T06:23:42+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Mahadev betting app case: CBI searches in 6 States lead to recovery of digital devices, key documents",
+      "title_hi": "Mahadev betting app case: CBI searches in 6 States lead to recovery of digital devices, key documents",
+      "summary_en": "The searches, carried out over the past few days, targeted premises in Delhi, Mumbai, Nagpur, Amritsar, Bhopal and Raipur, among others, linked to the betting platform's panel operators, they said.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The searches, carried out over the past few days, targeted premises in Delhi, Mumbai, Nagpur, Amritsar, Bhopal and Raipur, among others, linked to the betting platform's panel operators, they said.",
+      "analysis_hi": "संदर्भ: The searches, carried out over the past few days, targeted premises in Delhi, Mumbai, Nagpur, Amritsar, Bhopal and Raipur, among others, linked to the betting platform's panel operators, they said....\n\nप्रमुख बिंदु:\n• The searches, carried out over the past few days, targeted premises in Delhi, Mumbai, Nagpur, Amritsar, Bhopal and Raipur, among others, linked to the betting platform's panel operators, they said.\n",
+      "analysis_en": "Reference: The searches, carried out over the past few days, targeted premises in Delhi, Mumbai, Nagpur, Amritsar, Bhopal and Raipur, among others, linked to the betting platform's panel operators, they said....\n\nKey Points:\n• The searches, carried out over the past few days, targeted premises in Delhi, Mumbai, Nagpur, Amritsar, Bhopal and Raipur, among others, linked to the betting platform's panel operators, they said.\n",
+      "link": "https://www.thehindu.com/news/national/mahadev-betting-app-case-cbi-searches-in-6-states-lead-to-recovery-of-digital-devices-key-documents/article71701007.ece"
+    },
+    {
+      "id": "571071a80407",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T06:23:41+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "HYDRAA to take up stepwell restorations to help water conservation measures in Hyderabad",
+      "title_hi": "HYDRAA to take up stepwell restorations to help water conservation measures in Hyderabad",
+      "summary_en": "Earlier, Akarma Foundation mounted an exhibition of stepwells that showed the legacy of Telangana with water and its conservation",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Earlier, Akarma Foundation mounted an exhibition of stepwells that showed the legacy of Telangana with water and its conservation",
+      "analysis_hi": "संदर्भ: Earlier, Akarma Foundation mounted an exhibition of stepwells that showed the legacy of Telangana with water and its conservation...\n\nप्रमुख बिंदु:\n• Earlier, Akarma Foundation mounted an exhibition of stepwells that showed the legacy of Telangana with water and its conservation\n",
+      "analysis_en": "Reference: Earlier, Akarma Foundation mounted an exhibition of stepwells that showed the legacy of Telangana with water and its conservation...\n\nKey Points:\n• Earlier, Akarma Foundation mounted an exhibition of stepwells that showed the legacy of Telangana with water and its conservation\n",
+      "link": "https://www.thehindu.com/news/national/telangana/hydraa-to-take-up-stepwell-restorations-to-help-water-conservation-measures-in-hyderabad/article71701018.ece"
+    },
+    {
+      "id": "590d66604685",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T06:16:40+00:00",
+      "category": "social",
+      "source": "The Hindu",
+      "importance": "High",
+      "gs_papers": [
+        "GS-1",
+        "GS-2"
+      ],
+      "subjects": [
+        "Social Issues"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-1: Population and associated issues",
+        "GS-2: Issues relating to development and management of Social Sector/Services"
+      ],
+      "title_en": "Kerala HC directs Excise Commissioner to disclose steps taken to implement prohibitory measures to curb underage alcohol consumption",
+      "title_hi": "Kerala HC directs Excise Commissioner to disclose steps taken to implement prohibitory measures to curb underage alcohol consumption",
+      "summary_en": "It was high time that the legislature considered appropriate amendments to the law to reduce the age of minority for juveniles and children in conflict with the law (CCL) to 16 years, the court opined",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। It was high time that the legislature considered appropriate amendments to the law to reduce the age of minority for juveniles and children in conflict with the law (CCL) to 16 years, the court opined",
+      "analysis_hi": "संदर्भ: It was high time that the legislature considered appropriate amendments to the law to reduce the age of minority for juveniles and children in conflict with the law (CCL) to 16 years, the court opined...\n\nप्रमुख बिंदु:\n• It was high time that the legislature considered appropriate amendments to the law to reduce the age of minority for juveniles and children in conflict with the law (CCL) to 16 years, the court opined\n",
+      "analysis_en": "Reference: It was high time that the legislature considered appropriate amendments to the law to reduce the age of minority for juveniles and children in conflict with the law (CCL) to 16 years, the court opined...\n\nKey Points:\n• It was high time that the legislature considered appropriate amendments to the law to reduce the age of minority for juveniles and children in conflict with the law (CCL) to 16 years, the court opined\n",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-excise-commissioner-to-disclose-steps-taken-to-implement-prohibitory-measures-to-curb-underage-alcohol-consumption/article71699601.ece"
+    },
+    {
+      "id": "a233f2035179",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T06:14:39+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Electors face Form 6 and enumeration form quandary",
+      "title_hi": "Electors face Form 6 and enumeration form quandary",
+      "summary_en": "Electors in Hyderabad’s Kukatpally and nearby constituencies face confusion after the Election Commission on November 6 announced that voters listed as ASDD could refile Enumeration Forms, even after submitting Form 6. This has sparked mismatches and questions about eligibility and penalties",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Electors in Hyderabad’s Kukatpally and nearby constituencies face confusion after the चुनाव Commission on November 6 announced that voters listed as ASDD could refile Enumeration Forms, even after submitting Form 6. This has sparked mismatches and questions about eligibility and penalties",
+      "analysis_hi": "संदर्भ: Electors in Hyderabad’s Kukatpally and nearby constituencies face confusion after the Election Commission on November 6 announced that voters listed as ASDD could refile Enumeration Forms, even after submitting Form 6. This has sparked mismatches and questions about eligibility and penalties...\n\nप्रमुख बिंदु:\n• Electors in Hyderabad’s Kukatpally and nearby constituencies face confusion after the Election Commission on November 6 announced that voters listed as ASDD could refile Enumeration Forms, even after submitting Form 6\n• This has sparked mismatches and questions about eligibility and penalties\n",
+      "analysis_en": "Reference: Electors in Hyderabad’s Kukatpally and nearby constituencies face confusion after the Election Commission on November 6 announced that voters listed as ASDD could refile Enumeration Forms, even after submitting Form 6. This has sparked mismatches and questions about eligibility and penalties...\n\nKey Points:\n• Electors in Hyderabad’s Kukatpally and nearby constituencies face confusion after the Election Commission on November 6 announced that voters listed as ASDD could refile Enumeration Forms, even after submitting Form 6\n• This has sparked mismatches and questions about eligibility and penalties\n",
+      "link": "https://www.thehindu.com/news/national/telangana/electors-face-form-6-and-enumeration-form-quandary/article71700798.ece"
+    },
+    {
+      "id": "1df20b058909",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T06:08:40+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "PM Modi pays tributes to first Prime Minister Nehru on birth anniversary",
+      "title_hi": "PM Modi pays tributes to first Prime Minister Nehru on birth anniversary",
+      "summary_en": "Union Defence Minister Rajnath Singh, Keralam CM V.D. Satheesan and his cabinet also paid tributes to Pandit Nehru",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Union रक्षा Minister Rajnath Singh, Keralam CM V.D. Satheesan and his मंत्रिमंडल also paid tributes to Pandit Nehru",
+      "analysis_hi": "संदर्भ: Union Defence Minister Rajnath Singh, Keralam CM V.D. Satheesan and his cabinet also paid tributes to Pandit Nehru...\n\nप्रमुख बिंदु:\n• Union Defence Minister Rajnath Singh, Keralam CM V.D\n• Satheesan and his cabinet also paid tributes to Pandit Nehru\n",
+      "analysis_en": "Reference: Union Defence Minister Rajnath Singh, Keralam CM V.D. Satheesan and his cabinet also paid tributes to Pandit Nehru...\n\nKey Points:\n• Union Defence Minister Rajnath Singh, Keralam CM V.D\n• Satheesan and his cabinet also paid tributes to Pandit Nehru\n",
+      "link": "https://www.thehindu.com/news/national/pm-modi-pays-tributes-to-first-prime-minister-nehru-on-birth-anniversary/article71701002.ece"
+    },
+    {
+      "id": "f0593a16d005",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T06:03:42+00:00",
+      "category": "social",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-1",
+        "GS-2"
+      ],
+      "subjects": [
+        "Social Issues"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-1: Population and associated issues",
+        "GS-2: Issues relating to development and management of Social Sector/Services"
+      ],
+      "title_en": "MP adds 8.19 lakh voters since final SIR roll, electorate rises to 5.48 crore",
+      "title_hi": "MP adds 8.19 lakh voters since final SIR roll, electorate rises to 5.48 crore",
+      "summary_en": "With the latest additions, the total number of registered electors in Madhya Pradesh stands at 5,47,99,628 — comprising 2,82,85,144 men, 2,65,13,547 women and 937 transgender persons",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। With the latest additions, the total number of registered electors in Madhya Pradesh stands at 5,47,99,628 — comprising 2,82,85,144 men, 2,65,13,547 women and 937 transgender persons",
+      "analysis_hi": "संदर्भ: With the latest additions, the total number of registered electors in Madhya Pradesh stands at 5,47,99,628 — comprising 2,82,85,144 men, 2,65,13,547 women and 937 transgender persons...\n\nप्रमुख बिंदु:\n• With the latest additions, the total number of registered electors in Madhya Pradesh stands at 5,47,99,628 — comprising 2,82,85,144 men, 2,65,13,547 women and 937 transgender persons\n",
+      "analysis_en": "Reference: With the latest additions, the total number of registered electors in Madhya Pradesh stands at 5,47,99,628 — comprising 2,82,85,144 men, 2,65,13,547 women and 937 transgender persons...\n\nKey Points:\n• With the latest additions, the total number of registered electors in Madhya Pradesh stands at 5,47,99,628 — comprising 2,82,85,144 men, 2,65,13,547 women and 937 transgender persons\n",
+      "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-adds-819-lakh-voters-since-final-sir-roll-electorate-rises-to-548-crore/article71701000.ece"
+    },
+    {
+      "id": "d9d808851857",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T05:59:33+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Driver from Theni found dead while in custody at Chekkanoorani police station in Madurai",
+      "title_hi": "Driver from Theni found dead while in custody at Chekkanoorani police station in Madurai",
+      "summary_en": "Cargo vehicle driver from Theni, who was being questioned over some missing bags of cardamom, was found dead in the restroom; police say he ended his life",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Cargo vehicle driver from Theni, who was being questioned over some missing bags of cardamom, was found dead in the restroom; police say he ended his life",
+      "analysis_hi": "संदर्भ: Cargo vehicle driver from Theni, who was being questioned over some missing bags of cardamom, was found dead in the restroom; police say he ended his life...\n\nप्रमुख बिंदु:\n• Cargo vehicle driver from Theni, who was being questioned over some missing bags of cardamom, was found dead in the restroom; police say he ended his life\n",
+      "analysis_en": "Reference: Cargo vehicle driver from Theni, who was being questioned over some missing bags of cardamom, was found dead in the restroom; police say he ended his life...\n\nKey Points:\n• Cargo vehicle driver from Theni, who was being questioned over some missing bags of cardamom, was found dead in the restroom; police say he ended his life\n",
+      "link": "https://www.thehindu.com/news/cities/Madurai/driver-from-theni-found-dead-while-in-custody-at-chekkanoorani-police-station-in-madurai/article71700865.ece"
+    },
+    {
+      "id": "501a92f3ff23",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T05:57:11+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Why has Centre sanctioned fresh infrastructure along the China border in Arunachal Pradesh? | Explained",
+      "title_hi": "Why has Centre sanctioned fresh infrastructure along the China border in Arunachal Pradesh? | Explained",
+      "summary_en": "The tension in Arunachal Pradesh has persisted even though India and China held three high-level border talks since July 2026",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The tension in Arunachal Pradesh has persisted even though India and China held three high-level border talks since July 2026",
+      "analysis_hi": "संदर्भ: The tension in Arunachal Pradesh has persisted even though India and China held three high-level border talks since July 2026...\n\nप्रमुख बिंदु:\n• The tension in Arunachal Pradesh has persisted even though India and China held three high-level border talks since July 2026\n",
+      "analysis_en": "Reference: The tension in Arunachal Pradesh has persisted even though India and China held three high-level border talks since July 2026...\n\nKey Points:\n• The tension in Arunachal Pradesh has persisted even though India and China held three high-level border talks since July 2026\n",
+      "link": "https://www.thehindu.com/news/national/why-has-centre-sanctioned-fresh-infrastructure-along-the-china-border-in-arunachal-pradesh-explained/article71700782.ece"
+    },
+    {
+      "id": "e1b2668cbdb3",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T05:47:18+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Attack on Nehru 60 years after death testament to his commitment to India: Priyanka",
+      "title_hi": "Attack on Nehru 60 years after death testament to his commitment to India: Priyanka",
+      "summary_en": "Paying tributes to India's first Prime Minister, the Wayanad MP said Nehru was that unique human being — a revolutionary, a visionary and a builder",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Paying tributes to India's first प्रधानमंत्री, the Wayanad MP said Nehru was that unique human being — a revolutionary, a visionary and a builder",
+      "analysis_hi": "संदर्भ: Paying tributes to India's first Prime Minister, the Wayanad MP said Nehru was that unique human being — a revolutionary, a visionary and a builder...\n\nप्रमुख बिंदु:\n• Paying tributes to India's first Prime Minister, the Wayanad MP said Nehru was that unique human being — a revolutionary, a visionary and a builder\n",
+      "analysis_en": "Reference: Paying tributes to India's first Prime Minister, the Wayanad MP said Nehru was that unique human being — a revolutionary, a visionary and a builder...\n\nKey Points:\n• Paying tributes to India's first Prime Minister, the Wayanad MP said Nehru was that unique human being — a revolutionary, a visionary and a builder\n",
+      "link": "https://www.thehindu.com/news/national/jawaharlal-nehru-birth-anniversary-congress-tribute-gandhi/article71700962.ece"
+    },
+    {
+      "id": "23b2acf4d857",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T05:47:13+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Former V-P Jagdeep Dhankhar discharged from AIIMS",
+      "title_hi": "Former V-P Jagdeep Dhankhar discharged from AIIMS",
+      "summary_en": "He was admitted to the hospital's Cardio-Neuro Centre and was under the care of the Department of Cardiology for medical evaluation and treatment",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। He was admitted to the hospital's Cardio-Neuro Centre and was under the care of the Department of Cardiology for medical evaluation and treatment",
+      "analysis_hi": "संदर्भ: He was admitted to the hospital's Cardio-Neuro Centre and was under the care of the Department of Cardiology for medical evaluation and treatment...\n\nप्रमुख बिंदु:\n• He was admitted to the hospital's Cardio-Neuro Centre and was under the care of the Department of Cardiology for medical evaluation and treatment\n",
+      "analysis_en": "Reference: He was admitted to the hospital's Cardio-Neuro Centre and was under the care of the Department of Cardiology for medical evaluation and treatment...\n\nKey Points:\n• He was admitted to the hospital's Cardio-Neuro Centre and was under the care of the Department of Cardiology for medical evaluation and treatment\n",
+      "link": "https://www.thehindu.com/news/national/former-v-p-jagdeep-dhankhar-discharged-from-aiims/article71700976.ece"
     },
     {
       "id": "d5f504fe8a67",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:11:48+00:00",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T05:41:00+00:00",
       "category": "environment",
       "source": "The Hindu",
       "importance": "Medium",
@@ -343,10 +456,10 @@
       "link": "https://www.thehindu.com/society/how-a-masons-son-from-erode-won-a-medal-of-excellence-at-worldskills-2026/article71687410.ece"
     },
     {
-      "id": "11b73b480efb",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:05:50+00:00",
-      "category": "environment",
+      "id": "3d5dd60901bb",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T05:38:51+00:00",
+      "category": "scitech",
       "source": "The Hindu",
       "importance": "Medium",
       "gs_papers": [
@@ -354,21 +467,163 @@
         "GS-1"
       ],
       "subjects": [
-        "Environment"
+        "Science & Tech"
       ],
       "prelims": true,
       "mains": true,
       "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
       ],
-      "title_en": "Why Himalayan towns need a different kind of development | Explained",
-      "title_hi": "Why Himalayan towns need a different kind of development | Explained",
-      "summary_en": "Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?",
-      "analysis_hi": "संदर्भ: Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?...\n\nप्रमुख बिंदु:\n• Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?\n",
-      "analysis_en": "Reference: Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?...\n\nKey Points:\n• Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?\n",
-      "link": "https://www.thehindu.com/news/national/why-himalayan-towns-need-a-different-kind-of-development-explained/article68502845.ece"
+      "title_en": "Himachal’s ₹1,500 allowance scheme: Who benefits and what’s the political impact? | Explained",
+      "title_hi": "Himachal’s ₹1,500 allowance scheme: Who benefits and what’s the political impact? | Explained",
+      "summary_en": "What does the new Mukhya Mantri Apna Parivar Sukhi Parivar Yojna offer? Amid mounting debt concerns and Opposition criticism, will the government be able to ensure its smooth implementation?",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। What does the new Mukhya Mantri Apna Parivar Sukhi Parivar Yojna offer? Amid mounting debt concerns and Opposition criticism, will the सरकार be able to ensure its smooth implementation?",
+      "analysis_hi": "संदर्भ: What does the new Mukhya Mantri Apna Parivar Sukhi Parivar Yojna offer? Amid mounting debt concerns and Opposition criticism, will the government be able to ensure its smooth implementation?...\n\nप्रमुख बिंदु:\n• What does the new Mukhya Mantri Apna Parivar Sukhi Parivar Yojna offer? Amid mounting debt concerns and Opposition criticism, will the government be able to ensure its smooth implementation?\n",
+      "analysis_en": "Reference: What does the new Mukhya Mantri Apna Parivar Sukhi Parivar Yojna offer? Amid mounting debt concerns and Opposition criticism, will the government be able to ensure its smooth implementation?...\n\nKey Points:\n• What does the new Mukhya Mantri Apna Parivar Sukhi Parivar Yojna offer? Amid mounting debt concerns and Opposition criticism, will the government be able to ensure its smooth implementation?\n",
+      "link": "https://www.thehindu.com/news/national/himachals-1500-allowance-scheme-who-benefits-and-whats-the-political-impact-explained/article71700979.ece"
+    },
+    {
+      "id": "d3cd6968d0c6",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T05:38:36+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Rahul Gandhi ‘habitual liar’: BJP on Congress leader’s phone tapping allegation",
+      "title_hi": "Rahul Gandhi ‘habitual liar’: BJP on Congress leader’s phone tapping allegation",
+      "summary_en": "Congress leader Rahul Gandhi alleged that he has proof of allegations against Narendra Modi on his phone, which is being “tapped by the Prime Minister”",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Congress leader Rahul Gandhi alleged that he has proof of allegations against Narendra Modi on his phone, which is being “tapped by the प्रधानमंत्री”",
+      "analysis_hi": "संदर्भ: Congress leader Rahul Gandhi alleged that he has proof of allegations against Narendra Modi on his phone, which is being “tapped by the Prime Minister”...\n\nप्रमुख बिंदु:\n• Congress leader Rahul Gandhi alleged that he has proof of allegations against Narendra Modi on his phone, which is being “tapped by the Prime Minister”\n",
+      "analysis_en": "Reference: Congress leader Rahul Gandhi alleged that he has proof of allegations against Narendra Modi on his phone, which is being “tapped by the Prime Minister”...\n\nKey Points:\n• Congress leader Rahul Gandhi alleged that he has proof of allegations against Narendra Modi on his phone, which is being “tapped by the Prime Minister”\n",
+      "link": "https://www.thehindu.com/news/national/rahul-gandhi-habitual-liar-bjp-on-congress-leaders-phone-tapping-allegation/article71698080.ece"
+    },
+    {
+      "id": "b3fdfe374b7a",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T05:34:30+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Chief Minister D.K. Shivakumar places Karnataka’s demands on stage with Prime Minister",
+      "title_hi": "Chief Minister D.K. Shivakumar places Karnataka’s demands on stage with Prime Minister",
+      "summary_en": "Demands included a fairer financial partnership over Bengaluru’s Namma Metro, clearance for Mekedatu project, scrapping Kasturirangan Report and immediate drought relief",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Demands included a fairer financial partnership over Bengaluru’s Namma Metro, clearance for Mekedatu project, scrapping Kasturirangan Report and immediate drought relief",
+      "analysis_hi": "संदर्भ: Demands included a fairer financial partnership over Bengaluru’s Namma Metro, clearance for Mekedatu project, scrapping Kasturirangan Report and immediate drought relief...\n\nप्रमुख बिंदु:\n• Demands included a fairer financial partnership over Bengaluru’s Namma Metro, clearance for Mekedatu project, scrapping Kasturirangan Report and immediate drought relief\n",
+      "analysis_en": "Reference: Demands included a fairer financial partnership over Bengaluru’s Namma Metro, clearance for Mekedatu project, scrapping Kasturirangan Report and immediate drought relief...\n\nKey Points:\n• Demands included a fairer financial partnership over Bengaluru’s Namma Metro, clearance for Mekedatu project, scrapping Kasturirangan Report and immediate drought relief\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-seeks-fairer-centre-state-cost-sharing-for-bengaluru-metro-faster-clearances/article71697681.ece"
+    },
+    {
+      "id": "19a6ca8e8f12",
+      "date": "14 Nov 2026",
+      "iso_date": "2026-11-14T05:30:19+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Rajasthan panchayat polls: Final phase of voting underway in 25 districts",
+      "title_hi": "Rajasthan panchayat polls: Final phase of voting underway in 25 districts",
+      "summary_en": "In Jaipur, polling is being held for 13 zila parishad and 82 panchayat samiti wards, with 273 candidates in the fray.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In Jaipur, polling is being held for 13 zila parishad and 82 panchayat samiti wards, with 273 candidates in the fray.",
+      "analysis_hi": "संदर्भ: In Jaipur, polling is being held for 13 zila parishad and 82 panchayat samiti wards, with 273 candidates in the fray....\n\nप्रमुख बिंदु:\n• In Jaipur, polling is being held for 13 zila parishad and 82 panchayat samiti wards, with 273 candidates in the fray.\n",
+      "analysis_en": "Reference: In Jaipur, polling is being held for 13 zila parishad and 82 panchayat samiti wards, with 273 candidates in the fray....\n\nKey Points:\n• In Jaipur, polling is being held for 13 zila parishad and 82 panchayat samiti wards, with 273 candidates in the fray.\n",
+      "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-panchayat-local-elections-2026-final-phase-voting/article71700929.ece"
+    },
+    {
+      "id": "afa97858deb2",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T15:53:22+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "India's exports up 29.9% in October; trade deficit narrows to $20.09 billion",
+      "title_hi": "India's exports up 29.9% in October; trade deficit narrows to $20.09 billion",
+      "summary_en": "The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices",
+      "analysis_hi": "संदर्भ: The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices...\n\nप्रमुख बिंदु:\n• The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices\n",
+      "analysis_en": "Reference: The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices...\n\nKey Points:\n• The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices\n",
+      "link": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece"
+    },
+    {
+      "id": "dc4afbdcc911",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T10:46:37+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
+      "title_hi": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
+      "summary_en": "The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance योजना cap to curb dollar outflows and protect the rupee",
+      "analysis_hi": "संदर्भ: The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee...\n\nप्रमुख बिंदु:\n• The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee\n",
+      "analysis_en": "Reference: The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee...\n\nKey Points:\n• The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee\n",
+      "link": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece"
     },
     {
       "id": "4dcfeaae0b73",
@@ -399,63 +654,6 @@
       "link": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
     },
     {
-      "id": "cacbbd27fd7f",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T05:57:21+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Narendra Modi will not remain PM after one-on-one debate with me, says Rahul Gandhi",
-      "title_hi": "Narendra Modi will not remain PM after one-on-one debate with me, says Rahul Gandhi",
-      "summary_en": "Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the प्रधानमंत्री was a “traitor”.",
-      "analysis_hi": "संदर्भ: Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”....\n\nप्रमुख बिंदु:\n• Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”.\n",
-      "analysis_en": "Reference: Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”....\n\nKey Points:\n• Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”.\n",
-      "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece"
-    },
-    {
-      "id": "10927b7fb7b0",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T05:55:45+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Gunadala Mary Matha Utsavams to be celebrated from February 9 to 11",
-      "title_hi": "Gunadala Mary Matha Utsavams to be celebrated from February 9 to 11",
-      "summary_en": "The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival",
-      "analysis_hi": "संदर्भ: The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival...\n\nप्रमुख बिंदु:\n• The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival\n",
-      "analysis_en": "Reference: The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival...\n\nKey Points:\n• The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival\n",
-      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/gunadala-mary-matha-utsavams-to-be-celebrated-from-february-9-to-11/article71696476.ece"
-    },
-    {
       "id": "9e156fc1acea",
       "date": "13 Nov 2026",
       "iso_date": "2026-11-13T05:50:40+00:00",
@@ -483,120 +681,6 @@
       "analysis_hi": "संदर्भ: The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house...\n\nप्रमुख बिंदु:\n• The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house\n",
       "analysis_en": "Reference: The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house...\n\nKey Points:\n• The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house\n",
       "link": "https://www.thehindu.com/business/Economy/how-did-a-tax-proposal-led-the-dutch-government-to-the-verge-of-collapse-explained/article71696493.ece"
-    },
-    {
-      "id": "ec910fb36c97",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T05:49:45+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Six from Karnataka have narrow escape as car catches fire after overturning in Keralam",
-      "title_hi": "Six from Karnataka have narrow escape as car catches fire after overturning in Keralam",
-      "summary_en": "The vehicle was completely gutted in the fire. All six occupants, who were travelling to Guruvayur for a temple visit, managed to get out of the car before it was engulfed in flames, say police",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The vehicle was completely gutted in the fire. All six occupants, who were travelling to Guruvayur for a temple visit, managed to get out of the car before it was engulfed in flames, say police",
-      "analysis_hi": "संदर्भ: The vehicle was completely gutted in the fire. All six occupants, who were travelling to Guruvayur for a temple visit, managed to get out of the car before it was engulfed in flames, say police...\n\nप्रमुख बिंदु:\n• The vehicle was completely gutted in the fire\n• All six occupants, who were travelling to Guruvayur for a temple visit, managed to get out of the car before it was engulfed in flames, say police\n",
-      "analysis_en": "Reference: The vehicle was completely gutted in the fire. All six occupants, who were travelling to Guruvayur for a temple visit, managed to get out of the car before it was engulfed in flames, say police...\n\nKey Points:\n• The vehicle was completely gutted in the fire\n• All six occupants, who were travelling to Guruvayur for a temple visit, managed to get out of the car before it was engulfed in flames, say police\n",
-      "link": "https://www.thehindu.com/news/national/kerala/six-from-karnataka-has-narrow-escape-as-car-catches-fire-after-it-overturns-in-keralam/article71696629.ece"
-    },
-    {
-      "id": "9a0b8fcc0b44",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T05:44:52+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Calcutta HC reserves order on Abhishek Banerjee's plea against security cover downgrade from Z-plus to X category",
-      "title_hi": "Calcutta HC reserves order on Abhishek Banerjee's plea against security cover downgrade from Z-plus to X category",
-      "summary_en": "Justice Krishna Rao sought to know why the State had not convened a fresh security review committee meeting after Mamata All India Trinamool Congress leader reported a series of incidents and sought enhancement of protection",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Justice Krishna Rao sought to know why the State had not convened a fresh सुरक्षा review committee meeting after Mamata All India Trinamool Congress leader reported a series of incidents and sought enhancement of protection",
-      "analysis_hi": "संदर्भ: Justice Krishna Rao sought to know why the State had not convened a fresh security review committee meeting after Mamata All India Trinamool Congress leader reported a series of incidents and sought enhancement of protection...\n\nप्रमुख बिंदु:\n• Justice Krishna Rao sought to know why the State had not convened a fresh security review committee meeting after Mamata All India Trinamool Congress leader reported a series of incidents and sought enhancement of protection\n",
-      "analysis_en": "Reference: Justice Krishna Rao sought to know why the State had not convened a fresh security review committee meeting after Mamata All India Trinamool Congress leader reported a series of incidents and sought enhancement of protection...\n\nKey Points:\n• Justice Krishna Rao sought to know why the State had not convened a fresh security review committee meeting after Mamata All India Trinamool Congress leader reported a series of incidents and sought enhancement of protection\n",
-      "link": "https://www.thehindu.com/news/national/west-bengal/calcutta-hc-reserves-order-on-abhishek-banerjees-plea-against-security-cover-downgrade/article71696615.ece"
-    },
-    {
-      "id": "72ae049b41fb",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T05:43:23+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Normal life hit partially due to bandh in Manipur’s Kangpokpi district over killing of woman",
-      "title_hi": "Normal life hit partially due to bandh in Manipur’s Kangpokpi district over killing of woman",
-      "summary_en": "Kangpokpi-based Committee on Tribal Unity called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Kangpokpi-based Committee on Tribal Unity called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village",
-      "analysis_hi": "संदर्भ: Kangpokpi-based Committee on Tribal Unity called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village...\n\nप्रमुख बिंदु:\n• Kangpokpi-based Committee on Tribal Unity called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village\n",
-      "analysis_en": "Reference: Kangpokpi-based Committee on Tribal Unity called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village...\n\nKey Points:\n• Kangpokpi-based Committee on Tribal Unity called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village\n",
-      "link": "https://www.thehindu.com/news/national/manipur/normal-life-hit-partially-due-to-bandh-in-manipurs-kangpokpi-district-over-killing-of-woman/article71696623.ece"
-    },
-    {
-      "id": "dc4afbdcc911",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T03:52:50+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
-      "title_hi": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
-      "summary_en": "The RBI has reportedly proposed a ₹50 lakh sub-limit within the ₹2,50,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The RBI has reportedly proposed a ₹50 lakh sub-limit within the ₹2,50,000 annual Liberalised Remittance योजना cap to curb dollar outflows and protect the rupee",
-      "analysis_hi": "संदर्भ: The RBI has reportedly proposed a ₹50 lakh sub-limit within the ₹2,50,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee...\n\nप्रमुख बिंदु:\n• The RBI has reportedly proposed a ₹50 lakh sub-limit within the ₹2,50,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee\n",
-      "analysis_en": "Reference: The RBI has reportedly proposed a ₹50 lakh sub-limit within the ₹2,50,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee...\n\nKey Points:\n• The RBI has reportedly proposed a ₹50 lakh sub-limit within the ₹2,50,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee\n",
-      "link": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece"
     },
     {
       "id": "d2242cfa3d8b",
@@ -1049,6 +1133,488 @@
       "analysis_hi": "संदर्भ: This would be ADNOC’s fifth long-term LNG supply agreement with India....\n\nप्रमुख बिंदु:\n• This would be ADNOC’s fifth long-term LNG supply agreement with India.\n",
       "analysis_en": "Reference: This would be ADNOC’s fifth long-term LNG supply agreement with India....\n\nKey Points:\n• This would be ADNOC’s fifth long-term LNG supply agreement with India.\n",
       "link": "https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece"
+    },
+    {
+      "id": "3363c255cf0c",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T06:51:17+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "‘Bharat Vann’ project launched to boost Mysuru’s green cover",
+      "title_hi": "‘Bharat Vann’ project launched to boost Mysuru’s green cover",
+      "summary_en": "Finance Minister Nirmala Sitharaman inaugurates urban greening initiative; 45,000 saplings to be planted at K.C. Layout Park",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Finance Minister Nirmala Sitharaman inaugurates urban greening initiative; 45,000 saplings to be planted at K.C. Layout Park",
+      "analysis_hi": "संदर्भ: Finance Minister Nirmala Sitharaman inaugurates urban greening initiative; 45,000 saplings to be planted at K.C. Layout Park...\n\nप्रमुख बिंदु:\n• Finance Minister Nirmala Sitharaman inaugurates urban greening initiative; 45,000 saplings to be planted at K.C\n",
+      "analysis_en": "Reference: Finance Minister Nirmala Sitharaman inaugurates urban greening initiative; 45,000 saplings to be planted at K.C. Layout Park...\n\nKey Points:\n• Finance Minister Nirmala Sitharaman inaugurates urban greening initiative; 45,000 saplings to be planted at K.C\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/bharat-vann-project-launched-to-boost-mysurus-green-cover/article71696792.ece"
+    },
+    {
+      "id": "b1807f94173d",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T06:50:48+00:00",
+      "category": "ir",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "International Relations"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: India and its neighborhood- relations",
+        "GS-2: Important International institutions, agencies and fora"
+      ],
+      "title_en": "India’s ambassador to Oman visits injured Indian seafarer in hospital",
+      "title_hi": "India’s ambassador to Oman visits injured Indian seafarer in hospital",
+      "summary_en": "“The Embassy stands firmly with the affected seafarers and their families during this difficult time and remains committed to extending all necessary assistance,” says Indian Embassy in Muscat",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। “The Embassy stands firmly with the affected seafarers and their families during this difficult time and remains committed to extending all necessary assistance,” says Indian Embassy in Muscat",
+      "analysis_hi": "संदर्भ: “The Embassy stands firmly with the affected seafarers and their families during this difficult time and remains committed to extending all necessary assistance,” says Indian Embassy in Muscat...\n\nप्रमुख बिंदु:\n• “The Embassy stands firmly with the affected seafarers and their families during this difficult time and remains committed to extending all necessary assistance,” says Indian Embassy in Muscat\n",
+      "analysis_en": "Reference: “The Embassy stands firmly with the affected seafarers and their families during this difficult time and remains committed to extending all necessary assistance,” says Indian Embassy in Muscat...\n\nKey Points:\n• “The Embassy stands firmly with the affected seafarers and their families during this difficult time and remains committed to extending all necessary assistance,” says Indian Embassy in Muscat\n",
+      "link": "https://www.thehindu.com/news/national/indias-ambassador-to-oman-visits-injured-indian-seafarer-in-hospital/article71696783.ece"
+    },
+    {
+      "id": "d48db4af5f18",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T06:50:29+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Let him give list of judges with the BJP and who aren't: Calcutta High Court takes exception to Abhishek Banerjee's remarks on judiciary",
+      "title_hi": "Let him give list of judges with the BJP and who aren't: Calcutta High Court takes exception to Abhishek Banerjee's remarks on judiciary",
+      "summary_en": "Following an alleged attack on his residence in Kalighat in south Kolkata on November 7, a visibly agitated Mr. Banerjee had accused a section of the judiciary, among others, of turning a blind eye to threats to his security.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Following an alleged attack on his residence in Kalighat in south Kolkata on November 7, a visibly agitated Mr. Banerjee had accused a section of the judiciary, among others, of turning a blind eye to threats to his सुरक्षा.",
+      "analysis_hi": "संदर्भ: Following an alleged attack on his residence in Kalighat in south Kolkata on November 7, a visibly agitated Mr. Banerjee had accused a section of the judiciary, among others, of turning a blind eye to threats to his security....\n\nप्रमुख बिंदु:\n• Following an alleged attack on his residence in Kalighat in south Kolkata on November 7, a visibly agitated Mr\n• Banerjee had accused a section of the judiciary, among others, of turning a blind eye to threats to his security.\n",
+      "analysis_en": "Reference: Following an alleged attack on his residence in Kalighat in south Kolkata on November 7, a visibly agitated Mr. Banerjee had accused a section of the judiciary, among others, of turning a blind eye to threats to his security....\n\nKey Points:\n• Following an alleged attack on his residence in Kalighat in south Kolkata on November 7, a visibly agitated Mr\n• Banerjee had accused a section of the judiciary, among others, of turning a blind eye to threats to his security.\n",
+      "link": "https://www.thehindu.com/news/national/west-bengal/let-him-give-list-of-judges-with-the-bjp-and-who-arent-calcutta-high-court-takes-exception-to-abhishek-banerjees-remarks-on-judiciary/article71696705.ece"
+    },
+    {
+      "id": "f480fed8d5c7",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T06:49:06+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Low-pressure area forms over Bay of Bengal, likely to intensify into depression by November 15",
+      "title_hi": "Low-pressure area forms over Bay of Bengal, likely to intensify into depression by November 15",
+      "summary_en": "The system formed at 5:30 a.m. under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The system formed at 5:30 a.m. under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update",
+      "analysis_hi": "संदर्भ: The system formed at 5:30 a.m. under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update...\n\nप्रमुख बिंदु:\n• under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update\n",
+      "analysis_en": "Reference: The system formed at 5:30 a.m. under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update...\n\nKey Points:\n• under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update\n",
+      "link": "https://www.thehindu.com/news/national/low-pressure-area-forms-over-southeast-bay-of-bengal-likely-to-intensify-into-depression-by-november-15/article71696703.ece"
+    },
+    {
+      "id": "88377c0e7ed3",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T06:48:41+00:00",
+      "category": "ir",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "International Relations"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: India and its neighborhood- relations",
+        "GS-2: Important International institutions, agencies and fora"
+      ],
+      "title_en": "Andhra to bring in Investment Protection Act to ease doing business, says Naidu",
+      "title_hi": "Andhra to bring in Investment Protection Act to ease doing business, says Naidu",
+      "summary_en": "303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership Summit, the Chief Minister says",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। 303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership शिखर सम्मेलन, the Chief Minister says",
+      "analysis_hi": "संदर्भ: 303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership Summit, the Chief Minister says...\n\nप्रमुख बिंदु:\n• 303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership Summit, the Chief Minister says\n",
+      "analysis_en": "Reference: 303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership Summit, the Chief Minister says...\n\nKey Points:\n• 303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership Summit, the Chief Minister says\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-to-bring-in-investment-protection-act-to-ease-doing-business-says-naidu/article71693742.ece"
+    },
+    {
+      "id": "96b7c6f962bf",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T06:44:34+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Modi in Bengaluru: PM participates in Prashanti Kutiram celebrations, to inaugurate Namma Metro Pink Line | LIVE",
+      "title_hi": "Modi in Bengaluru: PM participates in Prashanti Kutiram celebrations, to inaugurate Namma Metro Pink Line | LIVE",
+      "summary_en": "PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m. today. He will flag off the metro service and take a ride on the newly inaugurated stretch",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m. today. He will flag off the metro service and take a ride on the newly inaugurated stretch",
+      "analysis_hi": "संदर्भ: PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m. today. He will flag off the metro service and take a ride on the newly inaugurated stretch...\n\nप्रमुख बिंदु:\n• PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m\n• He will flag off the metro service and take a ride on the newly inaugurated stretch\n",
+      "analysis_en": "Reference: PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m. today. He will flag off the metro service and take a ride on the newly inaugurated stretch...\n\nKey Points:\n• PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m\n• He will flag off the metro service and take a ride on the newly inaugurated stretch\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece"
+    },
+    {
+      "id": "17061522664b",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T06:34:08+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Maharashtra Minister slams police over security lapses after late-night ruckus outside his Chhatrapati Sambhajinagar home",
+      "title_hi": "Maharashtra Minister slams police over security lapses after late-night ruckus outside his Chhatrapati Sambhajinagar home",
+      "summary_en": "Accused persons taken into police custody; Sanjay Shirsat, who is also the district’s Guardian Minister, said he would take up the matter with CM Fadnavis",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Accused persons taken into police custody; Sanjay Shirsat, who is also the district’s Guardian Minister, said he would take up the matter with CM Fadnavis",
+      "analysis_hi": "संदर्भ: Accused persons taken into police custody; Sanjay Shirsat, who is also the district’s Guardian Minister, said he would take up the matter with CM Fadnavis...\n\nप्रमुख बिंदु:\n• Accused persons taken into police custody; Sanjay Shirsat, who is also the district’s Guardian Minister, said he would take up the matter with CM Fadnavis\n",
+      "analysis_en": "Reference: Accused persons taken into police custody; Sanjay Shirsat, who is also the district’s Guardian Minister, said he would take up the matter with CM Fadnavis...\n\nKey Points:\n• Accused persons taken into police custody; Sanjay Shirsat, who is also the district’s Guardian Minister, said he would take up the matter with CM Fadnavis\n",
+      "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-minister-sanjay-shirsat-slams-police-over-security-lapses-chhatrapati-sambhajinagar-home/article71696723.ece"
+    },
+    {
+      "id": "eca8d93a5658",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T06:32:35+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Sonia Gandhi’s ‘Belonging’: From being shelved to the shelves",
+      "title_hi": "Sonia Gandhi’s ‘Belonging’: From being shelved to the shelves",
+      "summary_en": "Sonia Gandhi’s memoir, “Belonging: A Journey of Love,” is set for release on November 10, with HarperCollins India handling its publication domestically.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Sonia Gandhi’s memoir, “Belonging: A Journey of Love,” is set for release on November 10, with HarperCollins India handling its publication domestically.",
+      "analysis_hi": "संदर्भ: Sonia Gandhi’s memoir, “Belonging: A Journey of Love,” is set for release on November 10, with HarperCollins India handling its publication domestically....\n\nप्रमुख बिंदु:\n• Sonia Gandhi’s memoir, “Belonging: A Journey of Love,” is set for release on November 10, with HarperCollins India handling its publication domestically.\n",
+      "analysis_en": "Reference: Sonia Gandhi’s memoir, “Belonging: A Journey of Love,” is set for release on November 10, with HarperCollins India handling its publication domestically....\n\nKey Points:\n• Sonia Gandhi’s memoir, “Belonging: A Journey of Love,” is set for release on November 10, with HarperCollins India handling its publication domestically.\n",
+      "link": "https://www.thehindu.com/books/articles-on-sonia-gandhi-book-belonging/article71450926.ece"
+    },
+    {
+      "id": "fc8c52cda6a7",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T06:30:12+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Agricultural growth tops 4% for first decade since Independence; Centre absorbed ₹43 of diesel hike: PM Modi",
+      "title_hi": "Agricultural growth tops 4% for first decade since Independence; Centre absorbed ₹43 of diesel hike: PM Modi",
+      "summary_en": "Calling agriculture \"our culture, our tradition and the basis of our social life\", the Prime Minister said a developed India was not possible without making farming \"smarter\" and farmers \"self-reliant\"",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Calling कृषि \"our culture, our tradition and the basis of our social life\", the प्रधानमंत्री said a developed India was not possible without making farming \"smarter\" and farmers \"self-reliant\"",
+      "analysis_hi": "संदर्भ: Calling agriculture \"our culture, our tradition and the basis of our social life\", the Prime Minister said a developed India was not possible without making farming \"smarter\" and farmers \"self-reliant\"...\n\nप्रमुख बिंदु:\n• Calling agriculture \"our culture, our tradition and the basis of our social life\", the Prime Minister said a developed India was not possible without making farming \"smarter\" and farmers \"self-reliant\"\n",
+      "analysis_en": "Reference: Calling agriculture \"our culture, our tradition and the basis of our social life\", the Prime Minister said a developed India was not possible without making farming \"smarter\" and farmers \"self-reliant\"...\n\nKey Points:\n• Calling agriculture \"our culture, our tradition and the basis of our social life\", the Prime Minister said a developed India was not possible without making farming \"smarter\" and farmers \"self-reliant\"\n",
+      "link": "https://www.thehindu.com/news/national/agricultural-growth-tops-4-for-first-decade-since-independence-centre-absorbed-43-of-diesel-hike-pm-modi/article71696695.ece"
+    },
+    {
+      "id": "13f314b1f8cd",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T06:16:24+00:00",
+      "category": "social",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-1",
+        "GS-2"
+      ],
+      "subjects": [
+        "Social Issues"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-1: Population and associated issues",
+        "GS-2: Issues relating to development and management of Social Sector/Services"
+      ],
+      "title_en": "Tamil Nadu government issues G.O. effecting salary hike of guest lecturers in colleges",
+      "title_hi": "Tamil Nadu government issues G.O. effecting salary hike of guest lecturers in colleges",
+      "summary_en": "Guest lecturers in government Arts and Science colleges, engineering colleges, and colleges of education will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Guest lecturers in सरकार Arts and Science colleges, engineering colleges, and colleges of शिक्षा will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000",
+      "analysis_hi": "संदर्भ: Guest lecturers in government Arts and Science colleges, engineering colleges, and colleges of education will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000...\n\nप्रमुख बिंदु:\n• Guest lecturers in government Arts and Science colleges, engineering colleges, and colleges of education will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000\n",
+      "analysis_en": "Reference: Guest lecturers in government Arts and Science colleges, engineering colleges, and colleges of education will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000...\n\nKey Points:\n• Guest lecturers in government Arts and Science colleges, engineering colleges, and colleges of education will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-issues-go-effecting-salary-hike-of-guest-lecturers-in-colleges/article71695258.ece"
+    },
+    {
+      "id": "b3fc67e99449",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T06:14:00+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "All you need to know about Jagdeep Dhankhar: 5 key facts about India’s 14th Vice-President",
+      "title_hi": "All you need to know about Jagdeep Dhankhar: 5 key facts about India’s 14th Vice-President",
+      "summary_en": "Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law",
+      "analysis_hi": "संदर्भ: Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law...\n\nप्रमुख बिंदु:\n• Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law\n",
+      "analysis_en": "Reference: Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law...\n\nKey Points:\n• Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law\n",
+      "link": "https://www.thehindu.com/news/national/jagdeep-dhankhar-5-key-facts-about-india-14th-vice-president/article71696691.ece"
+    },
+    {
+      "id": "11b73b480efb",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T06:05:50+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Why Himalayan towns need a different kind of development | Explained",
+      "title_hi": "Why Himalayan towns need a different kind of development | Explained",
+      "summary_en": "Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?",
+      "analysis_hi": "संदर्भ: Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?...\n\nप्रमुख बिंदु:\n• Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?\n",
+      "analysis_en": "Reference: Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?...\n\nKey Points:\n• Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?\n",
+      "link": "https://www.thehindu.com/news/national/why-himalayan-towns-need-a-different-kind-of-development-explained/article68502845.ece"
+    },
+    {
+      "id": "cacbbd27fd7f",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T05:57:21+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Narendra Modi will not remain PM after one-on-one debate with me, says Rahul Gandhi",
+      "title_hi": "Narendra Modi will not remain PM after one-on-one debate with me, says Rahul Gandhi",
+      "summary_en": "Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the प्रधानमंत्री was a “traitor”.",
+      "analysis_hi": "संदर्भ: Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”....\n\nप्रमुख बिंदु:\n• Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”.\n",
+      "analysis_en": "Reference: Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”....\n\nKey Points:\n• Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”.\n",
+      "link": "https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece"
+    },
+    {
+      "id": "10927b7fb7b0",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T05:55:45+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Gunadala Mary Matha Utsavams to be celebrated from February 9 to 11",
+      "title_hi": "Gunadala Mary Matha Utsavams to be celebrated from February 9 to 11",
+      "summary_en": "The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival",
+      "analysis_hi": "संदर्भ: The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival...\n\nप्रमुख बिंदु:\n• The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival\n",
+      "analysis_en": "Reference: The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival...\n\nKey Points:\n• The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival\n",
+      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/gunadala-mary-matha-utsavams-to-be-celebrated-from-february-9-to-11/article71696476.ece"
+    },
+    {
+      "id": "ec910fb36c97",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T05:49:45+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Six from Karnataka have narrow escape as car catches fire after overturning in Keralam",
+      "title_hi": "Six from Karnataka have narrow escape as car catches fire after overturning in Keralam",
+      "summary_en": "The vehicle was completely gutted in the fire. All six occupants, who were travelling to Guruvayur for a temple visit, managed to get out of the car before it was engulfed in flames, say police",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The vehicle was completely gutted in the fire. All six occupants, who were travelling to Guruvayur for a temple visit, managed to get out of the car before it was engulfed in flames, say police",
+      "analysis_hi": "संदर्भ: The vehicle was completely gutted in the fire. All six occupants, who were travelling to Guruvayur for a temple visit, managed to get out of the car before it was engulfed in flames, say police...\n\nप्रमुख बिंदु:\n• The vehicle was completely gutted in the fire\n• All six occupants, who were travelling to Guruvayur for a temple visit, managed to get out of the car before it was engulfed in flames, say police\n",
+      "analysis_en": "Reference: The vehicle was completely gutted in the fire. All six occupants, who were travelling to Guruvayur for a temple visit, managed to get out of the car before it was engulfed in flames, say police...\n\nKey Points:\n• The vehicle was completely gutted in the fire\n• All six occupants, who were travelling to Guruvayur for a temple visit, managed to get out of the car before it was engulfed in flames, say police\n",
+      "link": "https://www.thehindu.com/news/national/kerala/six-from-karnataka-has-narrow-escape-as-car-catches-fire-after-it-overturns-in-keralam/article71696629.ece"
+    },
+    {
+      "id": "9a0b8fcc0b44",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T05:44:52+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Calcutta HC reserves order on Abhishek Banerjee's plea against security cover downgrade from Z-plus to X category",
+      "title_hi": "Calcutta HC reserves order on Abhishek Banerjee's plea against security cover downgrade from Z-plus to X category",
+      "summary_en": "Justice Krishna Rao sought to know why the State had not convened a fresh security review committee meeting after Mamata All India Trinamool Congress leader reported a series of incidents and sought enhancement of protection",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Justice Krishna Rao sought to know why the State had not convened a fresh सुरक्षा review committee meeting after Mamata All India Trinamool Congress leader reported a series of incidents and sought enhancement of protection",
+      "analysis_hi": "संदर्भ: Justice Krishna Rao sought to know why the State had not convened a fresh security review committee meeting after Mamata All India Trinamool Congress leader reported a series of incidents and sought enhancement of protection...\n\nप्रमुख बिंदु:\n• Justice Krishna Rao sought to know why the State had not convened a fresh security review committee meeting after Mamata All India Trinamool Congress leader reported a series of incidents and sought enhancement of protection\n",
+      "analysis_en": "Reference: Justice Krishna Rao sought to know why the State had not convened a fresh security review committee meeting after Mamata All India Trinamool Congress leader reported a series of incidents and sought enhancement of protection...\n\nKey Points:\n• Justice Krishna Rao sought to know why the State had not convened a fresh security review committee meeting after Mamata All India Trinamool Congress leader reported a series of incidents and sought enhancement of protection\n",
+      "link": "https://www.thehindu.com/news/national/west-bengal/calcutta-hc-reserves-order-on-abhishek-banerjees-plea-against-security-cover-downgrade/article71696615.ece"
+    },
+    {
+      "id": "72ae049b41fb",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T05:43:23+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Normal life hit partially due to bandh in Manipur’s Kangpokpi district over killing of woman",
+      "title_hi": "Normal life hit partially due to bandh in Manipur’s Kangpokpi district over killing of woman",
+      "summary_en": "Kangpokpi-based Committee on Tribal Unity called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Kangpokpi-based Committee on Tribal Unity called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village",
+      "analysis_hi": "संदर्भ: Kangpokpi-based Committee on Tribal Unity called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village...\n\nप्रमुख बिंदु:\n• Kangpokpi-based Committee on Tribal Unity called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village\n",
+      "analysis_en": "Reference: Kangpokpi-based Committee on Tribal Unity called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village...\n\nKey Points:\n• Kangpokpi-based Committee on Tribal Unity called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village\n",
+      "link": "https://www.thehindu.com/news/national/manipur/normal-life-hit-partially-due-to-bandh-in-manipurs-kangpokpi-district-over-killing-of-woman/article71696623.ece"
     },
     {
       "id": "5094788ee735",
@@ -5110,570 +5676,6 @@
       "analysis_hi": "संदर्भ: 18-month-old calf, which is unable to stand or walk, has been shifted from Kodanad elephant centre to a specially arranged animal ambulance with the help of a crane and 10-12 people, before being taken to Kochi airport for a chartered flight to Jamnagar, accompanied by veterinary experts, say offici...\n\nप्रमुख बिंदु:\n• 18-month-old calf, which is unable to stand or walk, has been shifted from Kodanad elephant centre to a specially arranged animal ambulance with the help of a crane and 10-12 people, before being taken to Kochi airport for a chartered flight to Jamnagar, accompanied by veterinary experts, say officials\n",
       "analysis_en": "Reference: 18-month-old calf, which is unable to stand or walk, has been shifted from Kodanad elephant centre to a specially arranged animal ambulance with the help of a crane and 10-12 people, before being taken to Kochi airport for a chartered flight to Jamnagar, accompanied by veterinary experts, say offici...\n\nKey Points:\n• 18-month-old calf, which is unable to stand or walk, has been shifted from Kodanad elephant centre to a specially arranged animal ambulance with the help of a crane and 10-12 people, before being taken to Kochi airport for a chartered flight to Jamnagar, accompanied by veterinary experts, say officials\n",
       "link": "https://www.thehindu.com/news/national/kerala/elephant-calf-with-genetic-bone-disorder-to-be-flown-from-keralam-to-gujarats-vantara-for-specialised-treatment/article71673009.ece"
-    },
-    {
-      "id": "80715174a566",
-      "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:41:23+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Restoration of Kashmir’s Malshahi Masjid could erase a Mughal-era layer, warn conservationists",
-      "title_hi": "Restoration of Kashmir’s Malshahi Masjid could erase a Mughal-era layer, warn conservationists",
-      "summary_en": "Landscape architect Jan Haenraets says the 17th Century Ganderbal mosque built by Dara Shikoh retains much authentic material, and urges a thorough conservation plan before the ₹5.01 crore restoration project proceeds",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Landscape architect Jan Haenraets says the 17th Century Ganderbal mosque built by Dara Shikoh retains much authentic material, and urges a thorough conservation plan before the ₹5.01 crore restoration project proceeds",
-      "analysis_hi": "संदर्भ: Landscape architect Jan Haenraets says the 17th Century Ganderbal mosque built by Dara Shikoh retains much authentic material, and urges a thorough conservation plan before the ₹5.01 crore restoration project proceeds...\n\nप्रमुख बिंदु:\n• Landscape architect Jan Haenraets says the 17th Century Ganderbal mosque built by Dara Shikoh retains much authentic material, and urges a thorough conservation plan before the ₹5.01 crore restoration project proceeds\n",
-      "analysis_en": "Reference: Landscape architect Jan Haenraets says the 17th Century Ganderbal mosque built by Dara Shikoh retains much authentic material, and urges a thorough conservation plan before the ₹5.01 crore restoration project proceeds...\n\nKey Points:\n• Landscape architect Jan Haenraets says the 17th Century Ganderbal mosque built by Dara Shikoh retains much authentic material, and urges a thorough conservation plan before the ₹5.01 crore restoration project proceeds\n",
-      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/restoration-of-kashmirs-malshahi-masjid-could-erase-a-mughal-era-layer-warn-conservationists/article71668931.ece"
-    },
-    {
-      "id": "c8deb36433f6",
-      "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:27:49+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Anti-dam activist rejects Arunachal government’s invitation for talks, says time for negotiations is over",
-      "title_hi": "Anti-dam activist rejects Arunachal government’s invitation for talks, says time for negotiations is over",
-      "summary_en": "Katon Moyong, a prominent voice against the proposed 11,200-MW Siang project, called the national security argument an attempt to overcome public resistance",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Katon Moyong, a prominent voice against the proposed 11,200-MW Siang project, called the national सुरक्षा argument an attempt to overcome public resistance",
-      "analysis_hi": "संदर्भ: Katon Moyong, a prominent voice against the proposed 11,200-MW Siang project, called the national security argument an attempt to overcome public resistance...\n\nप्रमुख बिंदु:\n• Katon Moyong, a prominent voice against the proposed 11,200-MW Siang project, called the national security argument an attempt to overcome public resistance\n",
-      "analysis_en": "Reference: Katon Moyong, a prominent voice against the proposed 11,200-MW Siang project, called the national security argument an attempt to overcome public resistance...\n\nKey Points:\n• Katon Moyong, a prominent voice against the proposed 11,200-MW Siang project, called the national security argument an attempt to overcome public resistance\n",
-      "link": "https://www.thehindu.com/news/national/arunachal-pradesh/anti-dam-activist-rejects-arunachal-governments-invitation-for-talks-says-time-for-negotiations-is-over/article71672914.ece"
-    },
-    {
-      "id": "9af52009bb44",
-      "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:27:15+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Pune Customs seizes hydroponic marijuana worth ₹3.72 crore at airport, arrests passenger",
-      "title_hi": "Pune Customs seizes hydroponic marijuana worth ₹3.72 crore at airport, arrests passenger",
-      "summary_en": "The interception was based on passenger profiling and suspicious findings during baggage scanning, a press note issued by Pune Customs said",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The interception was based on passenger profiling and suspicious findings during baggage scanning, a press note issued by Pune Customs said",
-      "analysis_hi": "संदर्भ: The interception was based on passenger profiling and suspicious findings during baggage scanning, a press note issued by Pune Customs said...\n\nप्रमुख बिंदु:\n• The interception was based on passenger profiling and suspicious findings during baggage scanning, a press note issued by Pune Customs said\n",
-      "analysis_en": "Reference: The interception was based on passenger profiling and suspicious findings during baggage scanning, a press note issued by Pune Customs said...\n\nKey Points:\n• The interception was based on passenger profiling and suspicious findings during baggage scanning, a press note issued by Pune Customs said\n",
-      "link": "https://www.thehindu.com/news/national/maharashtra/pune-customs-seizes-hydroponic-marijuana-worth-372-crore-at-airport-arrests-passenger/article71673032.ece"
-    },
-    {
-      "id": "cbafad2917b8",
-      "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:25:47+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Cancer care: Long battle for affordable treatment",
-      "title_hi": "Cancer care: Long battle for affordable treatment",
-      "summary_en": "Advances in oncology have improved treatment options, but their benefits remain out of reach for many patients who cannot afford to complete the prescribed course. This is despite the recent decision to cap trade margins on 137 identified non-scheduled anti-cancer medicines, providing some relief, writes Afshan Yasmeen...",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Advances in oncology have improved treatment options, but their benefits remain out of reach for many patients who cannot afford to complete the prescribed course. This is despite the recent decision to cap trade margins on 137 identified non-scheduled anti-cancer medicines, providing some relief, writes Afshan Yasmeen...",
-      "analysis_hi": "संदर्भ: Advances in oncology have improved treatment options, but their benefits remain out of reach for many patients who cannot afford to complete the prescribed course. This is despite the recent decision to cap trade margins on 137 identified non-scheduled anti-cancer medicines, providing some relief, w...\n\nप्रमुख बिंदु:\n• Advances in oncology have improved treatment options, but their benefits remain out of reach for many patients who cannot afford to complete the prescribed course\n• This is despite the recent decision to cap trade margins on 137 identified non-scheduled anti-cancer medicines, providing some relief, writes Afshan Yasmeen...\n",
-      "analysis_en": "Reference: Advances in oncology have improved treatment options, but their benefits remain out of reach for many patients who cannot afford to complete the prescribed course. This is despite the recent decision to cap trade margins on 137 identified non-scheduled anti-cancer medicines, providing some relief, w...\n\nKey Points:\n• Advances in oncology have improved treatment options, but their benefits remain out of reach for many patients who cannot afford to complete the prescribed course\n• This is despite the recent decision to cap trade margins on 137 identified non-scheduled anti-cancer medicines, providing some relief, writes Afshan Yasmeen...\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/cancer-care-long-battle-for-affordable-treatment/article71664761.ece"
-    },
-    {
-      "id": "2a288576a01f",
-      "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:23:59+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Woman files habeas corpus in Bombay High Court seeking custody of her daughters",
-      "title_hi": "Woman files habeas corpus in Bombay High Court seeking custody of her daughters",
-      "summary_en": "Mansi Sharad Bansode stated that her husband and father-in-law consumed alcohol and subjected her to assault at the house in Bhayander East",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Mansi Sharad Bansode stated that her husband and father-in-law consumed alcohol and subjected her to assault at the house in Bhayander East",
-      "analysis_hi": "संदर्भ: Mansi Sharad Bansode stated that her husband and father-in-law consumed alcohol and subjected her to assault at the house in Bhayander East...\n\nप्रमुख बिंदु:\n• Mansi Sharad Bansode stated that her husband and father-in-law consumed alcohol and subjected her to assault at the house in Bhayander East\n",
-      "analysis_en": "Reference: Mansi Sharad Bansode stated that her husband and father-in-law consumed alcohol and subjected her to assault at the house in Bhayander East...\n\nKey Points:\n• Mansi Sharad Bansode stated that her husband and father-in-law consumed alcohol and subjected her to assault at the house in Bhayander East\n",
-      "link": "https://www.thehindu.com/news/cities/mumbai/habeas-corpus-mother-seeks-custody-of-two-daughters-bombay-high-court-issues-notice/article71670657.ece"
-    },
-    {
-      "id": "41031f4f97ad",
-      "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:23:07+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Five acquitted in 2013 Muzaffarnagar riots case over mosque arson, vandalism",
-      "title_hi": "Five acquitted in 2013 Muzaffarnagar riots case over mosque arson, vandalism",
-      "summary_en": "According to Mr. Sharma, the Special Investigation Team (SIT) had filed a chargesheet against the five accused after investigating an incident that took place on September 8, 2013, in Muthbhar village under the Bhorakala police station limits",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। According to Mr. Sharma, the Special Investigation Team (SIT) had filed a chargesheet against the five accused after investigating an incident that took place on September 8, 2013, in Muthbhar village under the Bhorakala police station limits",
-      "analysis_hi": "संदर्भ: According to Mr. Sharma, the Special Investigation Team (SIT) had filed a chargesheet against the five accused after investigating an incident that took place on September 8, 2013, in Muthbhar village under the Bhorakala police station limits...\n\nप्रमुख बिंदु:\n• Sharma, the Special Investigation Team (SIT) had filed a chargesheet against the five accused after investigating an incident that took place on September 8, 2013, in Muthbhar village under the Bhorakala police station limits\n",
-      "analysis_en": "Reference: According to Mr. Sharma, the Special Investigation Team (SIT) had filed a chargesheet against the five accused after investigating an incident that took place on September 8, 2013, in Muthbhar village under the Bhorakala police station limits...\n\nKey Points:\n• Sharma, the Special Investigation Team (SIT) had filed a chargesheet against the five accused after investigating an incident that took place on September 8, 2013, in Muthbhar village under the Bhorakala police station limits\n",
-      "link": "https://www.thehindu.com/news/national/five-acquitted-in-2013-muzaffarnagar-riots-case-over-mosque-arson-vandalism/article71673127.ece"
-    },
-    {
-      "id": "efc50656deb1",
-      "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:22:14+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Six criminal cases booked over fake, tampered number plates in Hyderabad",
-      "title_hi": "Six criminal cases booked over fake, tampered number plates in Hyderabad",
-      "summary_en": "Custom alterations, missing digits and temporary stickers on registration plates are prohibited. Only government-approved High-Security Registration Plates (HSRP) are legally permitted, police said.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Custom alterations, missing digits and temporary stickers on registration plates are prohibited. Only सरकार-approved High-सुरक्षा Registration Plates (HSRP) are legally permitted, police said.",
-      "analysis_hi": "संदर्भ: Custom alterations, missing digits and temporary stickers on registration plates are prohibited. Only government-approved High-Security Registration Plates (HSRP) are legally permitted, police said....\n\nप्रमुख बिंदु:\n• Custom alterations, missing digits and temporary stickers on registration plates are prohibited\n• Only government-approved High-Security Registration Plates (HSRP) are legally permitted, police said.\n",
-      "analysis_en": "Reference: Custom alterations, missing digits and temporary stickers on registration plates are prohibited. Only government-approved High-Security Registration Plates (HSRP) are legally permitted, police said....\n\nKey Points:\n• Custom alterations, missing digits and temporary stickers on registration plates are prohibited\n• Only government-approved High-Security Registration Plates (HSRP) are legally permitted, police said.\n",
-      "link": "https://www.thehindu.com/news/national/telangana/six-criminal-cases-booked-over-fake-tampered-number-plates-in-hyderabad/article71671492.ece"
-    },
-    {
-      "id": "b47443468728",
-      "date": "03 Nov 2026",
-      "iso_date": "2026-11-03T07:03:43+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "After 22 years, RBI reopens UCB licensing: can new audit rules ensure a safer banking sector? | Explained",
-      "title_hi": "After 22 years, RBI reopens UCB licensing: can new audit rules ensure a safer banking sector? | Explained",
-      "summary_en": "MSC​​ARO and ICAI build guardrails for multi-state cooperatives aspiring to become banks",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। MSC​​ARO and ICAI build guardrails for multi-state cooperatives aspiring to become banks",
-      "analysis_hi": "संदर्भ: MSC​​ARO and ICAI build guardrails for multi-state cooperatives aspiring to become banks...\n\nप्रमुख बिंदु:\n• MSC​​ARO and ICAI build guardrails for multi-state cooperatives aspiring to become banks\n",
-      "analysis_en": "Reference: MSC​​ARO and ICAI build guardrails for multi-state cooperatives aspiring to become banks...\n\nKey Points:\n• MSC​​ARO and ICAI build guardrails for multi-state cooperatives aspiring to become banks\n",
-      "link": "https://www.thehindu.com/business/Economy/after-22-years-rbi-reopens-ucb-licensing-can-new-audit-rules-ensure-a-safer-banking-sector-explained/article71659655.ece"
-    },
-    {
-      "id": "b7e1470ae735",
-      "date": "02 Nov 2026",
-      "iso_date": "2026-11-02T23:00:32+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Petronet LNG reports 52.3% growth in net profits, in talks for availing undelivered cargoes",
-      "title_hi": "Petronet LNG reports 52.3% growth in net profits, in talks for availing undelivered cargoes",
-      "summary_en": "Along with their results, Petronet LNG also declared a dividend of ₹7 per equity share",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Along with their results, Petronet LNG also declared a dividend of ₹7 per equity share",
-      "analysis_hi": "संदर्भ: Along with their results, Petronet LNG also declared a dividend of ₹7 per equity share...\n\nप्रमुख बिंदु:\n• Along with their results, Petronet LNG also declared a dividend of ₹7 per equity share\n",
-      "analysis_en": "Reference: Along with their results, Petronet LNG also declared a dividend of ₹7 per equity share...\n\nKey Points:\n• Along with their results, Petronet LNG also declared a dividend of ₹7 per equity share\n",
-      "link": "https://www.thehindu.com/business/Industry/petronet-lng-reports-523-growth-in-net-profits-in-talks-for-availing-undelivered-cargoes/article71658131.ece"
-    },
-    {
-      "id": "4c80bc37e305",
-      "date": "02 Nov 2026",
-      "iso_date": "2026-11-02T17:04:12+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Congress seeks JPC probe into IDBI Bank sale, alleges valuation irregularities",
-      "title_hi": "Congress seeks JPC probe into IDBI Bank sale, alleges valuation irregularities",
-      "summary_en": "The party questions the use of bank’s funds by Fairfax to finance acquisition; demands disclosure of valuation reports",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The party questions the use of bank’s funds by Fairfax to finance acquisition; demands disclosure of valuation reports",
-      "analysis_hi": "संदर्भ: The party questions the use of bank’s funds by Fairfax to finance acquisition; demands disclosure of valuation reports...\n\nप्रमुख बिंदु:\n• The party questions the use of bank’s funds by Fairfax to finance acquisition; demands disclosure of valuation reports\n",
-      "analysis_en": "Reference: The party questions the use of bank’s funds by Fairfax to finance acquisition; demands disclosure of valuation reports...\n\nKey Points:\n• The party questions the use of bank’s funds by Fairfax to finance acquisition; demands disclosure of valuation reports\n",
-      "link": "https://www.thehindu.com/news/national/congress-seeks-jpc-probe-into-idbi-bank-sale-alleges-valuation-irregularities/article71657915.ece"
-    },
-    {
-      "id": "e7f1cd9cdcb1",
-      "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:26:57+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Raptadu school attack leaves parents in state of panic",
-      "title_hi": "Raptadu school attack leaves parents in state of panic",
-      "summary_en": "Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Despite swift and proactive measures by the शिक्षा Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh",
-      "analysis_hi": "संदर्भ: Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on Oct...\n\nप्रमुख बिंदु:\n• Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh\n",
-      "analysis_en": "Reference: Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on Oct...\n\nKey Points:\n• Despite swift and proactive measures by the Education Department and police in providing counselling to students of the ZPHS and the immediate arrest of the accused, several parents are still apprehensive about their wards’ safety at the school where Class 10 girl was attacked with a chainsaw on October 31, writes P Hareesh\n",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/raptadu-school-attack-leaves-parents-in-state-of-panic/article71671361.ece"
-    },
-    {
-      "id": "ea9cb6b81cb2",
-      "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:21:25+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Keralam power purchase row: Pinarayi accuses UDF govt of ‘creating artificial crisis’, tells CM Satheesan to disclose files",
-      "title_hi": "Keralam power purchase row: Pinarayi accuses UDF govt of ‘creating artificial crisis’, tells CM Satheesan to disclose files",
-      "summary_en": "Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office",
-      "analysis_hi": "संदर्भ: Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office...\n\nप्रमुख बिंदु:\n• Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office\n",
-      "analysis_en": "Reference: Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office...\n\nKey Points:\n• Opposition Leader accuses Chief Minister of 'openly misleading' the public with regard to power purchase deal, and thereby ‘violating’ the latter’s oath of office\n",
-      "link": "https://www.thehindu.com/news/national/kerala/keralam-power-purchase-row-pinarayi-accuses-udf-govt-of-creating-artificial-crisis-tells-cm-satheesan-to-disclose-files/article71673048.ece"
-    },
-    {
-      "id": "f857e09c1886",
-      "date": "06 Nov 2026",
-      "iso_date": "2026-11-06T06:11:33+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "On repeated building collapses, retired DDA officer says Delhi needs structural changes",
-      "title_hi": "On repeated building collapses, retired DDA officer says Delhi needs structural changes",
-      "summary_en": "Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas",
-      "analysis_hi": "संदर्भ: Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas...\n\nप्रमुख बिंदु:\n• Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas\n",
-      "analysis_en": "Reference: Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas...\n\nKey Points:\n• Multiple building collapses and fires in unauthorised or illegal constructions, killing several people just this year, have once again exposed the larger urban infrastructure problem of Delhi, where lakhs of people are living in unplanned areas\n",
-      "link": "https://www.thehindu.com/opinion/interview/interview-with-ashok-kumar-jain-retired-commissioner-planning-of-the-delhi-development-authority/article71672864.ece"
-    },
-    {
-      "id": "547731840b7d",
-      "date": "05 Nov 2026",
-      "iso_date": "2026-11-05T06:56:15+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Threat emails to Ayushmann Khurrana, Tusshar Kapoor: Mumbai Crime branch arrests techie from Bengaluru",
-      "title_hi": "Threat emails to Ayushmann Khurrana, Tusshar Kapoor: Mumbai Crime branch arrests techie from Bengaluru",
-      "summary_en": "The accused had allegedly been threatening several film personalities in Mumbai through different means over the past few days",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The accused had allegedly been threatening several film personalities in Mumbai through different means over the past few days",
-      "analysis_hi": "संदर्भ: The accused had allegedly been threatening several film personalities in Mumbai through different means over the past few days...\n\nप्रमुख बिंदु:\n• The accused had allegedly been threatening several film personalities in Mumbai through different means over the past few days\n",
-      "analysis_en": "Reference: The accused had allegedly been threatening several film personalities in Mumbai through different means over the past few days...\n\nKey Points:\n• The accused had allegedly been threatening several film personalities in Mumbai through different means over the past few days\n",
-      "link": "https://www.thehindu.com/news/cities/mumbai/threat-emails-to-ayushmann-khurrana-tusshar-kapoor-mumbai-crime-branch-arrests-techie-from-bengaluru/article71668622.ece"
-    },
-    {
-      "id": "56a19c89b3ca",
-      "date": "05 Nov 2026",
-      "iso_date": "2026-11-05T06:53:17+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "After 100 days of protests, Mundamveli P&T Apartment residents await breakthrough at key Keralam govt meet on rehabilitation",
-      "title_hi": "After 100 days of protests, Mundamveli P&T Apartment residents await breakthrough at key Keralam govt meet on rehabilitation",
-      "summary_en": "The move comes after Kochi MLA Mohammed Shiyas met Minister for Local Self-Government K.M. Shaji along with P&amp;T Apartment Protest Committee president Abhilash P. Parameswaran in Thiruvananthapuram on Wednesday",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The move comes after Kochi MLA Mohammed Shiyas met Minister for Local Self-सरकार K.M. Shaji along with P&amp;T Apartment Protest Committee राष्ट्रपति Abhilash P. Parameswaran in Thiruvananthapuram on Wednesday",
-      "analysis_hi": "संदर्भ: The move comes after Kochi MLA Mohammed Shiyas met Minister for Local Self-Government K.M. Shaji along with P&amp;T Apartment Protest Committee president Abhilash P. Parameswaran in Thiruvananthapuram on Wednesday...\n\nप्रमुख बिंदु:\n• The move comes after Kochi MLA Mohammed Shiyas met Minister for Local Self-Government K.M\n• Shaji along with P&amp;T Apartment Protest Committee president Abhilash P\n• Parameswaran in Thiruvananthapuram on Wednesday\n",
-      "analysis_en": "Reference: The move comes after Kochi MLA Mohammed Shiyas met Minister for Local Self-Government K.M. Shaji along with P&amp;T Apartment Protest Committee president Abhilash P. Parameswaran in Thiruvananthapuram on Wednesday...\n\nKey Points:\n• The move comes after Kochi MLA Mohammed Shiyas met Minister for Local Self-Government K.M\n• Shaji along with P&amp;T Apartment Protest Committee president Abhilash P\n• Parameswaran in Thiruvananthapuram on Wednesday\n",
-      "link": "https://www.thehindu.com/news/national/kerala/after-100-days-of-protests-mundamveli-pt-apartment-residents-await-breakthrough-at-key-keralam-govt-meet-on-rehabilitation/article71668776.ece"
-    },
-    {
-      "id": "16be163d4dc4",
-      "date": "05 Nov 2026",
-      "iso_date": "2026-11-05T06:42:48+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Keralam Higher Education dept seeks explanation from Calicut University over pro-V-C’s appointment",
-      "title_hi": "Keralam Higher Education dept seeks explanation from Calicut University over pro-V-C’s appointment",
-      "summary_en": "Department has sought to know how P. Rasheed Ahammed, the PVC, was relieved of duties from his parent institution and permitted to assume charge on deputation without obtaining prior sanction from government",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Department has sought to know how P. Rasheed Ahammed, the PVC, was relieved of duties from his parent institution and permitted to assume charge on deputation without obtaining prior sanction from सरकार",
-      "analysis_hi": "संदर्भ: Department has sought to know how P. Rasheed Ahammed, the PVC, was relieved of duties from his parent institution and permitted to assume charge on deputation without obtaining prior sanction from government...\n\nप्रमुख बिंदु:\n• Department has sought to know how P\n• Rasheed Ahammed, the PVC, was relieved of duties from his parent institution and permitted to assume charge on deputation without obtaining prior sanction from government\n",
-      "analysis_en": "Reference: Department has sought to know how P. Rasheed Ahammed, the PVC, was relieved of duties from his parent institution and permitted to assume charge on deputation without obtaining prior sanction from government...\n\nKey Points:\n• Department has sought to know how P\n• Rasheed Ahammed, the PVC, was relieved of duties from his parent institution and permitted to assume charge on deputation without obtaining prior sanction from government\n",
-      "link": "https://www.thehindu.com/news/national/kerala/keralam-higher-education-dept-seeks-explanation-from-calicut-university-over-pro-v-cs-appointment/article71668767.ece"
-    },
-    {
-      "id": "7ccac1a1eb50",
-      "date": "05 Nov 2026",
-      "iso_date": "2026-11-05T06:41:53+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Cyclone Murasu impact on Telangana | Extremely heavy rains lash Bhadradri on November 4",
-      "title_hi": "Cyclone Murasu impact on Telangana | Extremely heavy rains lash Bhadradri on November 4",
-      "summary_en": "Cyclone Murasu impact on Telangana | Extremely heavy rains lash Bhadradri on November 4",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Cyclone Murasu impact on Telangana | Extremely heavy rains lash Bhadradri on November 4",
-      "analysis_hi": "संदर्भ: Cyclone Murasu impact on Telangana | Extremely heavy rains lash Bhadradri on November 4...\n\nप्रमुख बिंदु:\n• Cyclone Murasu impact on Telangana | Extremely heavy rains lash Bhadradri on November 4\n",
-      "analysis_en": "Reference: Cyclone Murasu impact on Telangana | Extremely heavy rains lash Bhadradri on November 4...\n\nKey Points:\n• Cyclone Murasu impact on Telangana | Extremely heavy rains lash Bhadradri on November 4\n",
-      "link": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-impact-on-telangana-extremely-heavy-overnight-rain-in-bhadradri-and-khammam/article71664340.ece"
-    },
-    {
-      "id": "e2113475683e",
-      "date": "05 Nov 2026",
-      "iso_date": "2026-11-05T06:36:52+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "24-hour to produce before Magistrate starts from detention, not ‘formal arrest’: Supreme Court",
-      "title_hi": "24-hour to produce before Magistrate starts from detention, not ‘formal arrest’: Supreme Court",
-      "summary_en": "The Court said fundamental rights trumped even over special laws like UAPA, PMLA, in which the right to bail was heavily restricted",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Court said fundamental rights trumped even over special laws like UAPA, PMLA, in which the right to bail was heavily restricted",
-      "analysis_hi": "संदर्भ: The Court said fundamental rights trumped even over special laws like UAPA, PMLA, in which the right to bail was heavily restricted...\n\nप्रमुख बिंदु:\n• The Court said fundamental rights trumped even over special laws like UAPA, PMLA, in which the right to bail was heavily restricted\n",
-      "analysis_en": "Reference: The Court said fundamental rights trumped even over special laws like UAPA, PMLA, in which the right to bail was heavily restricted...\n\nKey Points:\n• The Court said fundamental rights trumped even over special laws like UAPA, PMLA, in which the right to bail was heavily restricted\n",
-      "link": "https://www.thehindu.com/news/national/24-hour-to-produce-before-magistrate-starts-from-detention-not-formal-arrest-supreme-court/article71668833.ece"
-    },
-    {
-      "id": "e6385e9e41d1",
-      "date": "05 Nov 2026",
-      "iso_date": "2026-11-05T06:34:54+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Nirmala Lakshman’s book ‘The Tamils : A Portrait of a Community’ wins Sharjah award",
-      "title_hi": "Nirmala Lakshman’s book ‘The Tamils : A Portrait of a Community’ wins Sharjah award",
-      "summary_en": "David Davidar, publisher of Aleph Book Company says Nirmala Lakshman brings erudition, insight and a deep personal engagement to this expansive portrait of the Tamil people",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। David Davidar, publisher of Aleph Book Company says Nirmala Lakshman brings erudition, insight and a deep personal engagement to this expansive portrait of the Tamil people",
-      "analysis_hi": "संदर्भ: David Davidar, publisher of Aleph Book Company says Nirmala Lakshman brings erudition, insight and a deep personal engagement to this expansive portrait of the Tamil people...\n\nप्रमुख बिंदु:\n• David Davidar, publisher of Aleph Book Company says Nirmala Lakshman brings erudition, insight and a deep personal engagement to this expansive portrait of the Tamil people\n",
-      "analysis_en": "Reference: David Davidar, publisher of Aleph Book Company says Nirmala Lakshman brings erudition, insight and a deep personal engagement to this expansive portrait of the Tamil people...\n\nKey Points:\n• David Davidar, publisher of Aleph Book Company says Nirmala Lakshman brings erudition, insight and a deep personal engagement to this expansive portrait of the Tamil people\n",
-      "link": "https://www.thehindu.com/news/cities/chennai/nirmala-lakshmans-book-the-tamils-a-portrait-of-a-community-wins-sharjah-award/article71667155.ece"
-    },
-    {
-      "id": "a1c8451a7ded",
-      "date": "05 Nov 2026",
-      "iso_date": "2026-11-05T06:33:48+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Who filed 77% of Form 7s in Delhi’s Mustafabad? BJP BLAs named as ‘objectors’ deny them",
-      "title_hi": "Who filed 77% of Form 7s in Delhi’s Mustafabad? BJP BLAs named as ‘objectors’ deny them",
-      "summary_en": "Of the 20 BJP-appointed Booth Level Agents named in 787 deletion applications, 16 deny submitting or signing the forms, while one says he filed “over 500”",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Of the 20 BJP-appointed Booth Level Agents named in 787 deletion applications, 16 deny submitting or signing the forms, while one says he filed “over 500”",
-      "analysis_hi": "संदर्भ: Of the 20 BJP-appointed Booth Level Agents named in 787 deletion applications, 16 deny submitting or signing the forms, while one says he filed “over 500”...\n\nप्रमुख बिंदु:\n• Of the 20 BJP-appointed Booth Level Agents named in 787 deletion applications, 16 deny submitting or signing the forms, while one says he filed “over 500”\n",
-      "analysis_en": "Reference: Of the 20 BJP-appointed Booth Level Agents named in 787 deletion applications, 16 deny submitting or signing the forms, while one says he filed “over 500”...\n\nKey Points:\n• Of the 20 BJP-appointed Booth Level Agents named in 787 deletion applications, 16 deny submitting or signing the forms, while one says he filed “over 500”\n",
-      "link": "https://www.thehindu.com/news/cities/Delhi/who-filed-77-of-form-7s-in-delhis-mustafabad-bjp-blas-named-as-objectors-deny-them/article71666702.ece"
     }
   ]
 }
