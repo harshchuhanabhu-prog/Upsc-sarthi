@@ -1,8 +1,36 @@
 {
-  "last_updated": "2026-11-16T06:54:42.242465+00:00",
-  "last_updated_ist": "16 November 2026, 12:24 PM IST",
+  "last_updated": "2026-11-16T07:01:48.432736+00:00",
+  "last_updated_ist": "16 November 2026, 12:31 PM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "107de596d128",
+      "date": "16 Nov 2026",
+      "iso_date": "2026-11-16T06:57:09+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Wholesale prices rise 12.29% year-on-year in October",
+      "title_hi": "Wholesale prices rise 12.29% year-on-year in October",
+      "summary_en": "Wholesale ‌food prices gained 8.58% year-on-year in October after rising 8.66% ‌in September",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Wholesale ‌food prices gained 8.58% year-on-year in October after rising 8.66% ‌in September",
+      "analysis_hi": "संदर्भ: Wholesale ‌food prices gained 8.58% year-on-year in October after rising 8.66% ‌in September...\n\nप्रमुख बिंदु:\n• Wholesale ‌food prices gained 8.58% year-on-year in October after rising 8.66% ‌in September\n",
+      "analysis_en": "Reference: Wholesale ‌food prices gained 8.58% year-on-year in October after rising 8.66% ‌in September...\n\nKey Points:\n• Wholesale ‌food prices gained 8.58% year-on-year in October after rising 8.66% ‌in September\n",
+      "link": "https://www.thehindu.com/business/Economy/wholesale-price-inflation-october-government-data/article71707046.ece"
+    },
     {
       "id": "05e9260d7c2f",
       "date": "16 Nov 2026",
@@ -5644,35 +5672,6 @@
       "analysis_hi": "संदर्भ: Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app....\n\nप्रमुख बिंदु:\n• Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app.\n",
       "analysis_en": "Reference: Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app....\n\nKey Points:\n• Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app.\n",
       "link": "https://www.thehindu.com/news/cities/Delhi/delhi-wakes-up-to-toxic-haze-on-deepavali-close-to-severe-aqi-at-383/article71680540.ece"
-    },
-    {
-      "id": "be4ff22f20b7",
-      "date": "08 Nov 2026",
-      "iso_date": "2026-11-08T04:17:40+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Apologise to saints, devotees before visiting Ayodhya: Adityanath ahead of Akhilesh’s visit",
-      "title_hi": "Apologise to saints, devotees before visiting Ayodhya: Adityanath ahead of Akhilesh’s visit",
-      "summary_en": "The Chief Minister's remark came within hours of the announcement that Samajwadi Party president Akhilesh Yadav would visit the Ram Temple in Ayodhya on December 12",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Chief Minister's remark came within hours of the announcement that Samajwadi Party राष्ट्रपति Akhilesh Yadav would visit the Ram Temple in Ayodhya on December 12",
-      "analysis_hi": "संदर्भ: The Chief Minister's remark came within hours of the announcement that Samajwadi Party president Akhilesh Yadav would visit the Ram Temple in Ayodhya on December 12...\n\nप्रमुख बिंदु:\n• The Chief Minister's remark came within hours of the announcement that Samajwadi Party president Akhilesh Yadav would visit the Ram Temple in Ayodhya on December 12\n",
-      "analysis_en": "Reference: The Chief Minister's remark came within hours of the announcement that Samajwadi Party president Akhilesh Yadav would visit the Ram Temple in Ayodhya on December 12...\n\nKey Points:\n• The Chief Minister's remark came within hours of the announcement that Samajwadi Party president Akhilesh Yadav would visit the Ram Temple in Ayodhya on December 12\n",
-      "link": "https://www.thehindu.com/news/national/uttar-pradesh/apologise-to-saints-devotees-before-visiting-ayodhya-adityanath-ahead-of-akhileshs-visit/article71680509.ece"
     }
   ]
 }
