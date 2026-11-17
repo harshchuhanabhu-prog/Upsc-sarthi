@@ -1,8 +1,1031 @@
 {
-  "last_updated": "2026-11-16T07:01:48.432736+00:00",
-  "last_updated_ist": "16 November 2026, 12:31 PM IST",
+  "last_updated": "2026-11-17T08:12:17.016918+00:00",
+  "last_updated_ist": "17 November 2026, 01:42 PM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "a4be51e73a2a",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T08:05:33+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Cyclone Akvan: Andhra Home Minister Anitha puts coastal districts on high alert, warns fishermen",
+      "title_hi": "Cyclone Akvan: Andhra Home Minister Anitha puts coastal districts on high alert, warns fishermen",
+      "summary_en": "Andhra Pradesh Home Minister Vangalapudi Anitha asks people to stay alert over the next four days and the Agriculture Department to help farmers protect crops ready for harvest",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Andhra Pradesh Home Minister Vangalapudi Anitha asks people to stay alert over the next four days and the कृषि Department to help farmers protect crops ready for harvest",
+      "analysis_hi": "संदर्भ: Andhra Pradesh Home Minister Vangalapudi Anitha asks people to stay alert over the next four days and the Agriculture Department to help farmers protect crops ready for harvest...\n\nप्रमुख बिंदु:\n• Andhra Pradesh Home Minister Vangalapudi Anitha asks people to stay alert over the next four days and the Agriculture Department to help farmers protect crops ready for harvest\n",
+      "analysis_en": "Reference: Andhra Pradesh Home Minister Vangalapudi Anitha asks people to stay alert over the next four days and the Agriculture Department to help farmers protect crops ready for harvest...\n\nKey Points:\n• Andhra Pradesh Home Minister Vangalapudi Anitha asks people to stay alert over the next four days and the Agriculture Department to help farmers protect crops ready for harvest\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-andhra-home-minister-anitha-puts-coastal-districts-on-high-alert-warns-fishermen/article71710830.ece"
+    },
+    {
+      "id": "eaae2bbbca19",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T08:02:49+00:00",
+      "category": "ir",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "International Relations"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: India and its neighborhood- relations",
+        "GS-2: Important International institutions, agencies and fora"
+      ],
+      "title_en": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
+      "title_hi": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
+      "summary_en": "In the first Quad Summit since 2024, PM Modi is expected to meet U.S. President Trump, Japanese PM Takaichi and Australian PM Albanese",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In the first Quad शिखर सम्मेलन since 2024, PM Modi is expected to meet U.S. राष्ट्रपति Trump, Japanese PM Takaichi and Australian PM Albanese",
+      "analysis_hi": "संदर्भ: In the first Quad Summit since 2024, PM Modi is expected to meet U.S. President Trump, Japanese PM Takaichi and Australian PM Albanese...\n\nप्रमुख बिंदु:\n• In the first Quad Summit since 2024, PM Modi is expected to meet U.S\n• President Trump, Japanese PM Takaichi and Australian PM Albanese\n",
+      "analysis_en": "Reference: In the first Quad Summit since 2024, PM Modi is expected to meet U.S. President Trump, Japanese PM Takaichi and Australian PM Albanese...\n\nKey Points:\n• In the first Quad Summit since 2024, PM Modi is expected to meet U.S\n• President Trump, Japanese PM Takaichi and Australian PM Albanese\n",
+      "link": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece"
+    },
+    {
+      "id": "19b09aa01ded",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:58:43+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Call for cancellation of TNMSC’s tenders for repair works at TASMAC warehouses in Tamil Nadu",
+      "title_hi": "Call for cancellation of TNMSC’s tenders for repair works at TASMAC warehouses in Tamil Nadu",
+      "summary_en": "The association expressed concern that instead of addressing the shortcomings and strengthening TNMSC, a model agency in the country, the State government is taking steps that undermine the institution.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The association expressed concern that instead of addressing the shortcomings and strengthening TNMSC, a model agency in the country, the State सरकार is taking steps that undermine the institution.",
+      "analysis_hi": "संदर्भ: The association expressed concern that instead of addressing the shortcomings and strengthening TNMSC, a model agency in the country, the State government is taking steps that undermine the institution....\n\nप्रमुख बिंदु:\n• The association expressed concern that instead of addressing the shortcomings and strengthening TNMSC, a model agency in the country, the State government is taking steps that undermine the institution.\n",
+      "analysis_en": "Reference: The association expressed concern that instead of addressing the shortcomings and strengthening TNMSC, a model agency in the country, the State government is taking steps that undermine the institution....\n\nKey Points:\n• The association expressed concern that instead of addressing the shortcomings and strengthening TNMSC, a model agency in the country, the State government is taking steps that undermine the institution.\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/call-for-cancellation-of-tnmsc-tenders-for-repair-works-at-tasmac-warehouses-in-tamil-nadu/article71709061.ece"
+    },
+    {
+      "id": "6abcea002564",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:57:18+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Death of woman in Kozhikode’s Perambra: Cases filed against those who protested outside bank branch",
+      "title_hi": "Death of woman in Kozhikode’s Perambra: Cases filed against those who protested outside bank branch",
+      "summary_en": "42-year-old homemaker was found dead following bank attachment proceedings",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। 42-year-old homemaker was found dead following bank attachment proceedings",
+      "analysis_hi": "संदर्भ: 42-year-old homemaker was found dead following bank attachment proceedings...\n\nप्रमुख बिंदु:\n• 42-year-old homemaker was found dead following bank attachment proceedings\n",
+      "analysis_en": "Reference: 42-year-old homemaker was found dead following bank attachment proceedings...\n\nKey Points:\n• 42-year-old homemaker was found dead following bank attachment proceedings\n",
+      "link": "https://www.thehindu.com/news/national/kerala/death-of-woman-in-kozhikodes-perambra-cases-filed-against-those-who-protested-outside-bank-branch/article71710617.ece"
+    },
+    {
+      "id": "e5cc7cf4d9f9",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:51:41+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Keralam CM announces Tirupati-model mega project for Sabarimala pilgrims",
+      "title_hi": "Keralam CM announces Tirupati-model mega project for Sabarimala pilgrims",
+      "summary_en": "Inaugurating Sabarimala Pilgrim Facilitation Centre at Cochin International Airport, Satheesan says Sabarimala will be developed as part of pilgrimage tourism",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Inaugurating Sabarimala Pilgrim Facilitation Centre at Cochin International Airport, Satheesan says Sabarimala will be developed as part of pilgrimage tourism",
+      "analysis_hi": "संदर्भ: Inaugurating Sabarimala Pilgrim Facilitation Centre at Cochin International Airport, Satheesan says Sabarimala will be developed as part of pilgrimage tourism...\n\nप्रमुख बिंदु:\n• Inaugurating Sabarimala Pilgrim Facilitation Centre at Cochin International Airport, Satheesan says Sabarimala will be developed as part of pilgrimage tourism\n",
+      "analysis_en": "Reference: Inaugurating Sabarimala Pilgrim Facilitation Centre at Cochin International Airport, Satheesan says Sabarimala will be developed as part of pilgrimage tourism...\n\nKey Points:\n• Inaugurating Sabarimala Pilgrim Facilitation Centre at Cochin International Airport, Satheesan says Sabarimala will be developed as part of pilgrimage tourism\n",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-cm-announces-tirupati-model-mega-project-for-sabarimala-pilgrims/article71710853.ece"
+    },
+    {
+      "id": "e30b4d83a3c2",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:50:31+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Calcutta High Court issues criminal contempt proceedings against Abhishek Banerjee",
+      "title_hi": "Calcutta High Court issues criminal contempt proceedings against Abhishek Banerjee",
+      "summary_en": "Justice Krishna Rao had said that by his remarks on November 7, Abhishek Banerjee had committed criminal contempt of the court” and “attempted with interference of administration of justice",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Justice Krishna Rao had said that by his remarks on November 7, Abhishek Banerjee had committed criminal contempt of the court” and “attempted with interference of administration of justice",
+      "analysis_hi": "संदर्भ: Justice Krishna Rao had said that by his remarks on November 7, Abhishek Banerjee had committed criminal contempt of the court” and “attempted with interference of administration of justice...\n\nप्रमुख बिंदु:\n• Justice Krishna Rao had said that by his remarks on November 7, Abhishek Banerjee had committed criminal contempt of the court” and “attempted with interference of administration of justice\n",
+      "analysis_en": "Reference: Justice Krishna Rao had said that by his remarks on November 7, Abhishek Banerjee had committed criminal contempt of the court” and “attempted with interference of administration of justice...\n\nKey Points:\n• Justice Krishna Rao had said that by his remarks on November 7, Abhishek Banerjee had committed criminal contempt of the court” and “attempted with interference of administration of justice\n",
+      "link": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-issues-criminal-contempt-proceedings-against-abhishek-banerjee/article71710835.ece"
+    },
+    {
+      "id": "bdd4bbaf8c0e",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:49:37+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "How does India address service outages?",
+      "title_hi": "How does India address service outages?",
+      "summary_en": "Does Indian law require Microsoft to have reported the recent outage that affected customers’ ability to access its productivity suite? What rules apply in such situations and what are their shortcomings in the present form? How are cloud companies accountable in other countries? What are Indian customers’ options?",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Does Indian law require Microsoft to have reported the recent outage that affected customers’ ability to access its productivity suite? What rules apply in such situations and what are their shortcomings in the present form? How are cloud companies accountable in other countries? What are Indian customers’ options?",
+      "analysis_hi": "संदर्भ: Does Indian law require Microsoft to have reported the recent outage that affected customers’ ability to access its productivity suite? What rules apply in such situations and what are their shortcomings in the present form? How are cloud companies accountable in other countries? What are Indian cus...\n\nप्रमुख बिंदु:\n• Does Indian law require Microsoft to have reported the recent outage that affected customers’ ability to access its productivity suite? What rules apply in such situations and what are their shortcomings in the present form? How are cloud companies accountable in other countries? What are Indian customers’ options?\n",
+      "analysis_en": "Reference: Does Indian law require Microsoft to have reported the recent outage that affected customers’ ability to access its productivity suite? What rules apply in such situations and what are their shortcomings in the present form? How are cloud companies accountable in other countries? What are Indian cus...\n\nKey Points:\n• Does Indian law require Microsoft to have reported the recent outage that affected customers’ ability to access its productivity suite? What rules apply in such situations and what are their shortcomings in the present form? How are cloud companies accountable in other countries? What are Indian customers’ options?\n",
+      "link": "https://www.thehindu.com/sci-tech/technology/how-does-india-address-service-outages/article71707944.ece"
+    },
+    {
+      "id": "0684c8a9bb19",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:47:43+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Modi government favouring corporates at the cost of farmers: Vijoo Krishnan",
+      "title_hi": "Modi government favouring corporates at the cost of farmers: Vijoo Krishnan",
+      "summary_en": "Modi government favouring corporates at the cost of farmers: Vijoo Krishnan",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Modi सरकार favouring corporates at the cost of farmers: Vijoo Krishnan",
+      "analysis_hi": "संदर्भ: Modi government favouring corporates at the cost of farmers: Vijoo Krishnan...\n\nप्रमुख बिंदु:\n• Modi government favouring corporates at the cost of farmers: Vijoo Krishnan\n",
+      "analysis_en": "Reference: Modi government favouring corporates at the cost of farmers: Vijoo Krishnan...\n\nKey Points:\n• Modi government favouring corporates at the cost of farmers: Vijoo Krishnan\n",
+      "link": "https://www.thehindu.com/news/national/telangana/modi-government-favouring-corporates-at-the-cost-of-farmers-vijoo-krishnan/article71708497.ece"
+    },
+    {
+      "id": "7bd24a09147d",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:47:34+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "IND vs NZ Tests: India faces test of character as WTC hopes hang in balance",
+      "title_hi": "IND vs NZ Tests: India faces test of character as WTC hopes hang in balance",
+      "summary_en": "After winning the T20I and ODI series, India turn their attention to the Tests. With conditions favouring pace, Gill and the team management must balance bowling firepower with batting depth",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। After winning the T20I and ODI series, India turn their attention to the Tests. With conditions favouring pace, Gill and the team management must balance bowling firepower with batting depth",
+      "analysis_hi": "संदर्भ: After winning the T20I and ODI series, India turn their attention to the Tests. With conditions favouring pace, Gill and the team management must balance bowling firepower with batting depth...\n\nप्रमुख बिंदु:\n• After winning the T20I and ODI series, India turn their attention to the Tests\n• With conditions favouring pace, Gill and the team management must balance bowling firepower with batting depth\n",
+      "analysis_en": "Reference: After winning the T20I and ODI series, India turn their attention to the Tests. With conditions favouring pace, Gill and the team management must balance bowling firepower with batting depth...\n\nKey Points:\n• After winning the T20I and ODI series, India turn their attention to the Tests\n• With conditions favouring pace, Gill and the team management must balance bowling firepower with batting depth\n",
+      "link": "https://www.thehindu.com/sport/cricket/ind-vs-nz-tests-india-faces-test-of-character-as-wtc-hopes-hang-in-balance/article71710790.ece"
+    },
+    {
+      "id": "54331bb64802",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:40:46+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Bilkis Bano says Supreme Court did not inform or hear her before granting bail to two convicts; vows to fight order",
+      "title_hi": "Bilkis Bano says Supreme Court did not inform or hear her before granting bail to two convicts; vows to fight order",
+      "summary_en": "The short order, published recently on the court website, had reasoned that the two men had already undergone more than 17 years in prison and one of them suffered a severe handicap",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The short order, published recently on the court website, had reasoned that the two men had already undergone more than 17 years in prison and one of them suffered a severe handicap",
+      "analysis_hi": "संदर्भ: The short order, published recently on the court website, had reasoned that the two men had already undergone more than 17 years in prison and one of them suffered a severe handicap...\n\nप्रमुख बिंदु:\n• The short order, published recently on the court website, had reasoned that the two men had already undergone more than 17 years in prison and one of them suffered a severe handicap\n",
+      "analysis_en": "Reference: The short order, published recently on the court website, had reasoned that the two men had already undergone more than 17 years in prison and one of them suffered a severe handicap...\n\nKey Points:\n• The short order, published recently on the court website, had reasoned that the two men had already undergone more than 17 years in prison and one of them suffered a severe handicap\n",
+      "link": "https://www.thehindu.com/news/national/bilkis-bano-says-supreme-court-did-not-inform-or-hear-her-before-granting-bail-to-two-convicts-vows-to-fight-order/article71710839.ece"
+    },
+    {
+      "id": "697ff662b667",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:36:17+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Grindr dating trap: Five held for drugging, robbing men in 14 cases",
+      "title_hi": "Grindr dating trap: Five held for drugging, robbing men in 14 cases",
+      "summary_en": "The accused allegedly posed as dates on Grindr to groom targets, assessed their lifestyles through video calls and drugged them during meetings. Police suspect one member was planning to expand the racket by recruiting more people",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The accused allegedly posed as dates on Grindr to groom targets, assessed their lifestyles through video calls and drugged them during meetings. Police suspect one member was planning to expand the racket by recruiting more people",
+      "analysis_hi": "संदर्भ: The accused allegedly posed as dates on Grindr to groom targets, assessed their lifestyles through video calls and drugged them during meetings. Police suspect one member was planning to expand the racket by recruiting more people...\n\nप्रमुख बिंदु:\n• The accused allegedly posed as dates on Grindr to groom targets, assessed their lifestyles through video calls and drugged them during meetings\n• Police suspect one member was planning to expand the racket by recruiting more people\n",
+      "analysis_en": "Reference: The accused allegedly posed as dates on Grindr to groom targets, assessed their lifestyles through video calls and drugged them during meetings. Police suspect one member was planning to expand the racket by recruiting more people...\n\nKey Points:\n• The accused allegedly posed as dates on Grindr to groom targets, assessed their lifestyles through video calls and drugged them during meetings\n• Police suspect one member was planning to expand the racket by recruiting more people\n",
+      "link": "https://www.thehindu.com/news/national/telangana/grindr-dating-trap-five-held-for-drugging-robbing-men-in-14-cases/article71708895.ece"
+    },
+    {
+      "id": "1d0ee05cbfca",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:35:35+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Madras High Court protects personality rights of Chennai Super Kings fan popular for his unique yellow look",
+      "title_hi": "Madras High Court protects personality rights of Chennai Super Kings fan popular for his unique yellow look",
+      "summary_en": "Justice P.B. Balaji restrains q-commerce firm Blinkit from exploiting such rights without the express consent of the plaintiff",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Justice P.B. Balaji restrains q-commerce firm Blinkit from exploiting such rights without the express consent of the plaintiff",
+      "analysis_hi": "संदर्भ: Justice P.B. Balaji restrains q-commerce firm Blinkit from exploiting such rights without the express consent of the plaintiff...\n\nप्रमुख बिंदु:\n• Balaji restrains q-commerce firm Blinkit from exploiting such rights without the express consent of the plaintiff\n",
+      "analysis_en": "Reference: Justice P.B. Balaji restrains q-commerce firm Blinkit from exploiting such rights without the express consent of the plaintiff...\n\nKey Points:\n• Balaji restrains q-commerce firm Blinkit from exploiting such rights without the express consent of the plaintiff\n",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-protects-personality-rights-of-csk-fan-popular-for-his-unique-yellow-look/article71709199.ece"
+    },
+    {
+      "id": "b24d9a2cee8b",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:30:07+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Cyclone Akvan: 540 km of Andhra and Yanam coast braces for November 20 landfall",
+      "title_hi": "Cyclone Akvan: 540 km of Andhra and Yanam coast braces for November 20 landfall",
+      "summary_en": "Cyclone Akvan is likely to intensify into a very severe cyclonic storm by the evening of November 19 before crossing the Andhra Pradesh coast, the IMD says",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Cyclone Akvan is likely to intensify into a very severe cyclonic storm by the evening of November 19 before crossing the Andhra Pradesh coast, the IMD says",
+      "analysis_hi": "संदर्भ: Cyclone Akvan is likely to intensify into a very severe cyclonic storm by the evening of November 19 before crossing the Andhra Pradesh coast, the IMD says...\n\nप्रमुख बिंदु:\n• Cyclone Akvan is likely to intensify into a very severe cyclonic storm by the evening of November 19 before crossing the Andhra Pradesh coast, the IMD says\n",
+      "analysis_en": "Reference: Cyclone Akvan is likely to intensify into a very severe cyclonic storm by the evening of November 19 before crossing the Andhra Pradesh coast, the IMD says...\n\nKey Points:\n• Cyclone Akvan is likely to intensify into a very severe cyclonic storm by the evening of November 19 before crossing the Andhra Pradesh coast, the IMD says\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-540-km-of-andhra-and-yanam-coast-braces-for-november-20-landfall/article71710410.ece"
+    },
+    {
+      "id": "b39fa7946a36",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:29:59+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Two killed, four injured as building collapses in Delhi’s Jwala Nagar",
+      "title_hi": "Two killed, four injured as building collapses in Delhi’s Jwala Nagar",
+      "summary_en": "Six tenants were rescued from the debris and taken to Hedgewar Hospital; the collapse comes two days after an under-construction building fell in Paharganj, injuring eight workers",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Six tenants were rescued from the debris and taken to Hedgewar Hospital; the collapse comes two days after an under-construction building fell in Paharganj, injuring eight workers",
+      "analysis_hi": "संदर्भ: Six tenants were rescued from the debris and taken to Hedgewar Hospital; the collapse comes two days after an under-construction building fell in Paharganj, injuring eight workers...\n\nप्रमुख बिंदु:\n• Six tenants were rescued from the debris and taken to Hedgewar Hospital; the collapse comes two days after an under-construction building fell in Paharganj, injuring eight workers\n",
+      "analysis_en": "Reference: Six tenants were rescued from the debris and taken to Hedgewar Hospital; the collapse comes two days after an under-construction building fell in Paharganj, injuring eight workers...\n\nKey Points:\n• Six tenants were rescued from the debris and taken to Hedgewar Hospital; the collapse comes two days after an under-construction building fell in Paharganj, injuring eight workers\n",
+      "link": "https://www.thehindu.com/news/cities/Delhi/two-storey-residential-building-collapsed-in-shahdaras-jwala-nagar-area/article71710607.ece"
+    },
+    {
+      "id": "676d8be37f8a",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:25:52+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "German youth leader questioned over Bharat Summit participation",
+      "title_hi": "German youth leader questioned over Bharat Summit participation",
+      "summary_en": "The organisers said Bharat Summit representatives were coordinating with the delegates, relevant authorities and other persons concerned to address the issues and assist international participants",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The organisers said Bharat शिखर सम्मेलन representatives were coordinating with the delegates, relevant authorities and other persons concerned to address the issues and assist international participants",
+      "analysis_hi": "संदर्भ: The organisers said Bharat Summit representatives were coordinating with the delegates, relevant authorities and other persons concerned to address the issues and assist international participants...\n\nप्रमुख बिंदु:\n• The organisers said Bharat Summit representatives were coordinating with the delegates, relevant authorities and other persons concerned to address the issues and assist international participants\n",
+      "analysis_en": "Reference: The organisers said Bharat Summit representatives were coordinating with the delegates, relevant authorities and other persons concerned to address the issues and assist international participants...\n\nKey Points:\n• The organisers said Bharat Summit representatives were coordinating with the delegates, relevant authorities and other persons concerned to address the issues and assist international participants\n",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/german-youth-leader-questioned-over-bharat-summit-participation/article71708058.ece"
+    },
+    {
+      "id": "deccc206f462",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T07:25:44+00:00",
+      "category": "ir",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "International Relations"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: India and its neighborhood- relations",
+        "GS-2: Important International institutions, agencies and fora"
+      ],
+      "title_en": "Our future must be shaped by ‘cooperation, not competition’: PM Modi to ASEAN leaders",
+      "title_hi": "Our future must be shaped by ‘cooperation, not competition’: PM Modi to ASEAN leaders",
+      "summary_en": "The Prime Minister, speaking at the India-ASEAN summit, said New Delhi's commitment to the grouping's unity and centrality in the partnership \"is and will remain steadfast”",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The प्रधानमंत्री, speaking at the India-ASEAN शिखर सम्मेलन, said New Delhi's commitment to the grouping's unity and centrality in the partnership \"is and will remain steadfast”",
+      "analysis_hi": "संदर्भ: The Prime Minister, speaking at the India-ASEAN summit, said New Delhi's commitment to the grouping's unity and centrality in the partnership \"is and will remain steadfast”...\n\nप्रमुख बिंदु:\n• The Prime Minister, speaking at the India-ASEAN summit, said New Delhi's commitment to the grouping's unity and centrality in the partnership \"is and will remain steadfast”\n",
+      "analysis_en": "Reference: The Prime Minister, speaking at the India-ASEAN summit, said New Delhi's commitment to the grouping's unity and centrality in the partnership \"is and will remain steadfast”...\n\nKey Points:\n• The Prime Minister, speaking at the India-ASEAN summit, said New Delhi's commitment to the grouping's unity and centrality in the partnership \"is and will remain steadfast”\n",
+      "link": "https://www.thehindu.com/news/national/pm-modi-asean-summit-address-india-world-leaders-manila/article71710772.ece"
+    },
+    {
+      "id": "c19ac65e353d",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T05:14:30+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "What’s behind the record ₹89,856-crore FPI surge into Indian equities? | Explained",
+      "title_hi": "What’s behind the record ₹89,856-crore FPI surge into Indian equities? | Explained",
+      "summary_en": "The recent slowdown in AI stocks and concerns about their growth prospects have brought investors seeking a safer bet back to India",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The recent slowdown in AI stocks and concerns about their growth prospects have brought investors seeking a safer bet back to India",
+      "analysis_hi": "संदर्भ: The recent slowdown in AI stocks and concerns about their growth prospects have brought investors seeking a safer bet back to India...\n\nप्रमुख बिंदु:\n• The recent slowdown in AI stocks and concerns about their growth prospects have brought investors seeking a safer bet back to India\n",
+      "analysis_en": "Reference: The recent slowdown in AI stocks and concerns about their growth prospects have brought investors seeking a safer bet back to India...\n\nKey Points:\n• The recent slowdown in AI stocks and concerns about their growth prospects have brought investors seeking a safer bet back to India\n",
+      "link": "https://www.thehindu.com/business/Economy/whats-behind-the-record-89856-crore-fpi-surge-into-indian-equities-explained/article71710393.ece"
+    },
+    {
+      "id": "95199908e6bf",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T04:59:13+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "A poverty line that falls short",
+      "title_hi": "A poverty line that falls short",
+      "summary_en": "Reliable poverty estimates are not just for academic purposes. India has made real progress, but without a credible benchmark, it is hard to say how much, or how much remains to be done",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Reliable poverty estimates are not just for academic purposes. India has made real progress, but without a credible benchmark, it is hard to say how much, or how much remains to be done",
+      "analysis_hi": "संदर्भ: Reliable poverty estimates are not just for academic purposes. India has made real progress, but without a credible benchmark, it is hard to say how much, or how much remains to be done...\n\nप्रमुख बिंदु:\n• Reliable poverty estimates are not just for academic purposes\n• India has made real progress, but without a credible benchmark, it is hard to say how much, or how much remains to be done\n",
+      "analysis_en": "Reference: Reliable poverty estimates are not just for academic purposes. India has made real progress, but without a credible benchmark, it is hard to say how much, or how much remains to be done...\n\nKey Points:\n• Reliable poverty estimates are not just for academic purposes\n• India has made real progress, but without a credible benchmark, it is hard to say how much, or how much remains to be done\n",
+      "link": "https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece"
+    },
+    {
+      "id": "7c6acb7aceb0",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T03:04:06+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Export duty on diesel hiked ₹2.5/litre, ATF ₹1.5/litre, petrol remains nil",
+      "title_hi": "Export duty on diesel hiked ₹2.5/litre, ATF ₹1.5/litre, petrol remains nil",
+      "summary_en": "The hike in diesel levy assumes added significance as India looks to further up their exports of the vehicular fuel to Europe amid a global supply crunch.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The hike in diesel levy assumes added significance as India looks to further up their exports of the vehicular fuel to Europe amid a global supply crunch.",
+      "analysis_hi": "संदर्भ: The hike in diesel levy assumes added significance as India looks to further up their exports of the vehicular fuel to Europe amid a global supply crunch....\n\nप्रमुख बिंदु:\n• The hike in diesel levy assumes added significance as India looks to further up their exports of the vehicular fuel to Europe amid a global supply crunch.\n",
+      "analysis_en": "Reference: The hike in diesel levy assumes added significance as India looks to further up their exports of the vehicular fuel to Europe amid a global supply crunch....\n\nKey Points:\n• The hike in diesel levy assumes added significance as India looks to further up their exports of the vehicular fuel to Europe amid a global supply crunch.\n",
+      "link": "https://www.thehindu.com/business/Industry/export-duty-on-diesel-hiked-25litre-atf-15litre-petrol-remains-nil/article71710215.ece"
+    },
+    {
+      "id": "62a30e2412cb",
+      "date": "16 Nov 2026",
+      "iso_date": "2026-11-16T12:42:54+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Wholesale inflation rises to 12.3% in October 2026, second straight month of double-digit inflation",
+      "title_hi": "Wholesale inflation rises to 12.3% in October 2026, second straight month of double-digit inflation",
+      "summary_en": "According to economists, not only will this high wholesale inflation soon translate into higher consumer prices, but it also means an interest rate hike is nearly certain, which would dampen economic sentiment",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। According to economists, not only will this high wholesale मुद्रास्फीति soon translate into higher consumer prices, but it also means an interest rate hike is nearly certain, which would dampen economic sentiment",
+      "analysis_hi": "संदर्भ: According to economists, not only will this high wholesale inflation soon translate into higher consumer prices, but it also means an interest rate hike is nearly certain, which would dampen economic sentiment...\n\nप्रमुख बिंदु:\n• According to economists, not only will this high wholesale inflation soon translate into higher consumer prices, but it also means an interest rate hike is nearly certain, which would dampen economic sentiment\n",
+      "analysis_en": "Reference: According to economists, not only will this high wholesale inflation soon translate into higher consumer prices, but it also means an interest rate hike is nearly certain, which would dampen economic sentiment...\n\nKey Points:\n• According to economists, not only will this high wholesale inflation soon translate into higher consumer prices, but it also means an interest rate hike is nearly certain, which would dampen economic sentiment\n",
+      "link": "https://www.thehindu.com/business/Economy/wholesale-price-inflation-october-government-data/article71707046.ece"
+    },
+    {
+      "id": "4f62fef6f453",
+      "date": "16 Nov 2026",
+      "iso_date": "2026-11-16T08:40:37+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Iron ore capacity under-utilisation in major-producing states prompt concerns as India sets 2047 target",
+      "title_hi": "Iron ore capacity under-utilisation in major-producing states prompt concerns as India sets 2047 target",
+      "summary_en": "The underutilised capacity is particularly significant as it largely involves hematite, which is among the highest-grade varieties of iron ore",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The underutilised capacity is particularly significant as it largely involves hematite, which is among the highest-grade varieties of iron ore",
+      "analysis_hi": "संदर्भ: The underutilised capacity is particularly significant as it largely involves hematite, which is among the highest-grade varieties of iron ore...\n\nप्रमुख बिंदु:\n• The underutilised capacity is particularly significant as it largely involves hematite, which is among the highest-grade varieties of iron ore\n",
+      "analysis_en": "Reference: The underutilised capacity is particularly significant as it largely involves hematite, which is among the highest-grade varieties of iron ore...\n\nKey Points:\n• The underutilised capacity is particularly significant as it largely involves hematite, which is among the highest-grade varieties of iron ore\n",
+      "link": "https://www.thehindu.com/business/Economy/iron-ore-capacity-under-utilisation-in-major-producing-states-prompt-concerns-as-india-sets-2047-target/article71702496.ece"
+    },
+    {
+      "id": "45fc86c70f89",
+      "date": "15 Nov 2026",
+      "iso_date": "2026-11-15T11:09:20+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Equity vs bonds",
+      "title_hi": "Equity vs bonds",
+      "summary_en": "Concentrated bets in equity market could generate high returns if your bet turns right; On the other hand, diversification pays off for bond investments",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Concentrated bets in equity market could generate high returns if your bet turns right; On the other hand, diversification pays off for bond investments",
+      "analysis_hi": "संदर्भ: Concentrated bets in equity market could generate high returns if your bet turns right; On the other hand, diversification pays off for bond investments...\n\nप्रमुख बिंदु:\n• Concentrated bets in equity market could generate high returns if your bet turns right; On the other hand, diversification pays off for bond investments\n",
+      "analysis_en": "Reference: Concentrated bets in equity market could generate high returns if your bet turns right; On the other hand, diversification pays off for bond investments...\n\nKey Points:\n• Concentrated bets in equity market could generate high returns if your bet turns right; On the other hand, diversification pays off for bond investments\n",
+      "link": "https://www.thehindu.com/business/markets/equity-vs-bonds/article71704594.ece"
+    },
+    {
+      "id": "f95e5d627467",
+      "date": "15 Nov 2026",
+      "iso_date": "2026-11-15T11:01:30+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Need a quick loan? Beware of digital lending traps",
+      "title_hi": "Need a quick loan? Beware of digital lending traps",
+      "summary_en": "From hidden charges and misuse of personal data to coercive recovery tactics, digital borrowing demands more than a cursory glance as borrowers need to know what the loan really costs",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। From hidden charges and misuse of personal data to coercive recovery tactics, digital borrowing demands more than a cursory glance as borrowers need to know what the loan really costs",
+      "analysis_hi": "संदर्भ: From hidden charges and misuse of personal data to coercive recovery tactics, digital borrowing demands more than a cursory glance as borrowers need to know what the loan really costs...\n\nप्रमुख बिंदु:\n• From hidden charges and misuse of personal data to coercive recovery tactics, digital borrowing demands more than a cursory glance as borrowers need to know what the loan really costs\n",
+      "analysis_en": "Reference: From hidden charges and misuse of personal data to coercive recovery tactics, digital borrowing demands more than a cursory glance as borrowers need to know what the loan really costs...\n\nKey Points:\n• From hidden charges and misuse of personal data to coercive recovery tactics, digital borrowing demands more than a cursory glance as borrowers need to know what the loan really costs\n",
+      "link": "https://www.thehindu.com/business/Economy/need-a-quick-loan-beware-of-digital-lending-traps/article71704585.ece"
+    },
+    {
+      "id": "c2af5812a86b",
+      "date": "15 Nov 2026",
+      "iso_date": "2026-11-15T06:59:38+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Mahanagar Gas hikes CNG prices in Mumbai by ₹1.5/kg, sixth hike since May",
+      "title_hi": "Mahanagar Gas hikes CNG prices in Mumbai by ₹1.5/kg, sixth hike since May",
+      "summary_en": "Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14",
+      "analysis_hi": "संदर्भ: Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14...\n\nप्रमुख बिंदु:\n• Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14\n",
+      "analysis_en": "Reference: Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14...\n\nKey Points:\n• Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14\n",
+      "link": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece"
+    },
+    {
+      "id": "afa97858deb2",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T15:53:22+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "India's exports up 29.9% in October; trade deficit narrows to $20.09 billion",
+      "title_hi": "India's exports up 29.9% in October; trade deficit narrows to $20.09 billion",
+      "summary_en": "The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices",
+      "analysis_hi": "संदर्भ: The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices...\n\nप्रमुख बिंदु:\n• The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices\n",
+      "analysis_en": "Reference: The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices...\n\nKey Points:\n• The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices\n",
+      "link": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece"
+    },
+    {
+      "id": "dc4afbdcc911",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T10:46:37+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
+      "title_hi": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
+      "summary_en": "The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance योजना cap to curb dollar outflows and protect the rupee",
+      "analysis_hi": "संदर्भ: The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee...\n\nप्रमुख बिंदु:\n• The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee\n",
+      "analysis_en": "Reference: The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee...\n\nKey Points:\n• The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee\n",
+      "link": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece"
+    },
+    {
+      "id": "4dcfeaae0b73",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T06:03:25+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Rampur’s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition",
+      "title_hi": "Rampur’s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition",
+      "summary_en": "Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments",
+      "analysis_hi": "संदर्भ: Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments...\n\nप्रमुख बिंदु:\n• Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments\n",
+      "analysis_en": "Reference: Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments...\n\nKey Points:\n• Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments\n",
+      "link": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
+    },
+    {
+      "id": "9e156fc1acea",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T05:50:40+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "How did a tax proposal lead the Dutch government to the verge of collapse? | Explained",
+      "title_hi": "How did a tax proposal lead the Dutch government to the verge of collapse? | Explained",
+      "summary_en": "The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Netherlands currently has a minority सरकार by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house",
+      "analysis_hi": "संदर्भ: The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house...\n\nप्रमुख बिंदु:\n• The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house\n",
+      "analysis_en": "Reference: The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house...\n\nKey Points:\n• The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house\n",
+      "link": "https://www.thehindu.com/business/Economy/how-did-a-tax-proposal-led-the-dutch-government-to-the-verge-of-collapse-explained/article71696493.ece"
+    },
+    {
+      "id": "d2242cfa3d8b",
+      "date": "13 Nov 2026",
+      "iso_date": "2026-11-13T03:03:15+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "India needs to create high-quality jobs, increase productivity growth: IMF",
+      "title_hi": "India needs to create high-quality jobs, increase productivity growth: IMF",
+      "summary_en": "In its October World Economic Outlook, the IMF had upgraded India’s medium-term potential growth to 6.8% from its earlier estimate of 6.5%",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In its October World Economic Outlook, the IMF had upgraded India’s medium-term potential growth to 6.8% from its earlier estimate of 6.5%",
+      "analysis_hi": "संदर्भ: In its October World Economic Outlook, the IMF had upgraded India’s medium-term potential growth to 6.8% from its earlier estimate of 6.5%...\n\nप्रमुख बिंदु:\n• In its October World Economic Outlook, the IMF had upgraded India’s medium-term potential growth to 6.8% from its earlier estimate of 6.5%\n",
+      "analysis_en": "Reference: In its October World Economic Outlook, the IMF had upgraded India’s medium-term potential growth to 6.8% from its earlier estimate of 6.5%...\n\nKey Points:\n• In its October World Economic Outlook, the IMF had upgraded India’s medium-term potential growth to 6.8% from its earlier estimate of 6.5%\n",
+      "link": "https://www.thehindu.com/news/national/india-needs-to-create-high-quality-jobs-increase-productivity-growth-imf/article71696425.ece"
+    },
+    {
+      "id": "ee38cfb27f3b",
+      "date": "12 Nov 2026",
+      "iso_date": "2026-11-12T17:08:11+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "CAG widens purview of power sector audit, starting with DISCOMs; consumer satisfaction in focus",
+      "title_hi": "CAG widens purview of power sector audit, starting with DISCOMs; consumer satisfaction in focus",
+      "summary_en": "Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS.",
+      "analysis_hi": "संदर्भ: Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS....\n\nप्रमुख बिंदु:\n• Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS.\n",
+      "analysis_en": "Reference: Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS....\n\nKey Points:\n• Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS.\n",
+      "link": "https://www.thehindu.com/business/Industry/cag-widens-purview-of-power-sector-audit-starting-with-discoms-consumer-satisfaction-in-focus/article71694907.ece"
+    },
+    {
+      "id": "16a4e5f29a22",
+      "date": "12 Nov 2026",
+      "iso_date": "2026-11-12T15:24:17+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Retail inflation crosses RBI’s upper limit for first time in two years, comes in at 6.1% in October 2026",
+      "title_hi": "Retail inflation crosses RBI’s upper limit for first time in two years, comes in at 6.1% in October 2026",
+      "summary_en": "The Consumer Price Index saw almost all categories hit series highs as inflation spread across sectors of the economy",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Consumer Price Index saw almost all categories hit series highs as मुद्रास्फीति spread across sectors of the अर्थव्यवस्था",
+      "analysis_hi": "संदर्भ: The Consumer Price Index saw almost all categories hit series highs as inflation spread across sectors of the economy...\n\nप्रमुख बिंदु:\n• The Consumer Price Index saw almost all categories hit series highs as inflation spread across sectors of the economy\n",
+      "analysis_en": "Reference: The Consumer Price Index saw almost all categories hit series highs as inflation spread across sectors of the economy...\n\nKey Points:\n• The Consumer Price Index saw almost all categories hit series highs as inflation spread across sectors of the economy\n",
+      "link": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece"
+    },
+    {
+      "id": "b420c01c1c13",
+      "date": "11 Nov 2026",
+      "iso_date": "2026-11-11T11:43:37+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Two days past Deepavali, NPCI yet to announce a date for UPI MDR rollout",
+      "title_hi": "Two days past Deepavali, NPCI yet to announce a date for UPI MDR rollout",
+      "summary_en": "About a month ago, when the NPCI had pushed back the rollout of MDR from its original date of October 15, it had said it would be implemented “immediately post Diwali”",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। About a month ago, when the NPCI had pushed back the rollout of MDR from its original date of October 15, it had said it would be implemented “immediately post Diwali”",
+      "analysis_hi": "संदर्भ: About a month ago, when the NPCI had pushed back the rollout of MDR from its original date of October 15, it had said it would be implemented “immediately post Diwali”...\n\nप्रमुख बिंदु:\n• About a month ago, when the NPCI had pushed back the rollout of MDR from its original date of October 15, it had said it would be implemented “immediately post Diwali”\n",
+      "analysis_en": "Reference: About a month ago, when the NPCI had pushed back the rollout of MDR from its original date of October 15, it had said it would be implemented “immediately post Diwali”...\n\nKey Points:\n• About a month ago, when the NPCI had pushed back the rollout of MDR from its original date of October 15, it had said it would be implemented “immediately post Diwali”\n",
+      "link": "https://www.thehindu.com/business/Economy/two-days-past-deepavali-npci-yet-to-announce-a-date-for-upi-mdr-rollout/article71689098.ece"
+    },
+    {
+      "id": "0977227277d7",
+      "date": "11 Nov 2026",
+      "iso_date": "2026-11-11T08:10:19+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Moody’s ups India’s FY27 growth estimate to 7% on broad-based momentum",
+      "title_hi": "Moody’s ups India’s FY27 growth estimate to 7% on broad-based momentum",
+      "summary_en": "Robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the economy appears well positioned to sustain growth near 7% over the medium term, Moody's said",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the अर्थव्यवस्था appears well positioned to sustain growth near 7% over the medium term, Moody's said",
+      "analysis_hi": "संदर्भ: Robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the economy appears well positioned to sustain growth near 7% over the medium term, Moody's said...\n\nप्रमुख बिंदु:\n• Robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the economy appears well positioned to sustain growth near 7% over the medium term, Moody's said\n",
+      "analysis_en": "Reference: Robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the economy appears well positioned to sustain growth near 7% over the medium term, Moody's said...\n\nKey Points:\n• Robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the economy appears well positioned to sustain growth near 7% over the medium term, Moody's said\n",
+      "link": "https://www.thehindu.com/business/Economy/moodys-ups-indias-fy27-growth-estimate-to-7-on-broad-based-momentum/article71688844.ece"
+    },
+    {
+      "id": "5b0c429b280f",
+      "date": "10 Nov 2026",
+      "iso_date": "2026-11-10T13:59:22+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "Industry seeks LTCG, STT cuts in Budget 2027; MSME relief also on wish list",
+      "title_hi": "Industry seeks LTCG, STT cuts in Budget 2027; MSME relief also on wish list",
+      "summary_en": "Several industry bodies have been meeting top officials of the Finance Ministry as part of the annual pre-Budget consultation process",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Several industry bodies have been meeting top officials of the Finance Ministry as part of the annual pre-Budget consultation process",
+      "analysis_hi": "संदर्भ: Several industry bodies have been meeting top officials of the Finance Ministry as part of the annual pre-Budget consultation process...\n\nप्रमुख बिंदु:\n• Several industry bodies have been meeting top officials of the Finance Ministry as part of the annual pre-Budget consultation process\n",
+      "analysis_en": "Reference: Several industry bodies have been meeting top officials of the Finance Ministry as part of the annual pre-Budget consultation process...\n\nKey Points:\n• Several industry bodies have been meeting top officials of the Finance Ministry as part of the annual pre-Budget consultation process\n",
+      "link": "https://www.thehindu.com/business/Economy/industry-seeks-ltcg-stt-cuts-in-budget-2027-msme-relief-also-on-wish-list/article71685951.ece"
+    },
+    {
+      "id": "9d55dee64669",
+      "date": "10 Nov 2026",
+      "iso_date": "2026-11-10T04:48:53+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Strait of Hormuz LNG traffic hits highest in October since Iran war began",
+      "title_hi": "Strait of Hormuz LNG traffic hits highest in October since Iran war began",
+      "summary_en": "October exports ‌were ⁠the highest since February when the war ⁠started and were up from September’s corresponding tally of 23 vessels exiting the strait",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। October exports ‌were ⁠the highest since February when the war ⁠started and were up from September’s corresponding tally of 23 vessels exiting the strait",
+      "analysis_hi": "संदर्भ: October exports ‌were ⁠the highest since February when the war ⁠started and were up from September’s corresponding tally of 23 vessels exiting the strait...\n\nप्रमुख बिंदु:\n• October exports ‌were ⁠the highest since February when the war ⁠started and were up from September’s corresponding tally of 23 vessels exiting the strait\n",
+      "analysis_en": "Reference: October exports ‌were ⁠the highest since February when the war ⁠started and were up from September’s corresponding tally of 23 vessels exiting the strait...\n\nKey Points:\n• October exports ‌were ⁠the highest since February when the war ⁠started and were up from September’s corresponding tally of 23 vessels exiting the strait\n",
+      "link": "https://www.thehindu.com/business/Economy/strait-of-hormuz-lng-traffic-hits-highest-in-october-since-iran-war-began/article71684981.ece"
+    },
+    {
+      "id": "f5a60d3fbc39",
+      "date": "09 Nov 2026",
+      "iso_date": "2026-11-09T16:05:05+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "RBI extends Abhyudaya Bank supersession by another year",
+      "title_hi": "RBI extends Abhyudaya Bank supersession by another year",
+      "summary_en": "The RBI first superseded the bank’s Board of Directors for one year on November 24, 2023, citing “material concerns arising from poor governance standards observed within the bank.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The RBI first superseded the bank’s Board of Directors for one year on November 24, 2023, citing “material concerns arising from poor governance standards observed within the bank.",
+      "analysis_hi": "संदर्भ: The RBI first superseded the bank’s Board of Directors for one year on November 24, 2023, citing “material concerns arising from poor governance standards observed within the bank....\n\nप्रमुख बिंदु:\n• The RBI first superseded the bank’s Board of Directors for one year on November 24, 2023, citing “material concerns arising from poor governance standards observed within the bank.\n",
+      "analysis_en": "Reference: The RBI first superseded the bank’s Board of Directors for one year on November 24, 2023, citing “material concerns arising from poor governance standards observed within the bank....\n\nKey Points:\n• The RBI first superseded the bank’s Board of Directors for one year on November 24, 2023, citing “material concerns arising from poor governance standards observed within the bank.\n",
+      "link": "https://www.thehindu.com/business/rbi-extends-abhyudaya-bank-supersession-by-another-year/article71683422.ece"
+    },
     {
       "id": "107de596d128",
       "date": "16 Nov 2026",
@@ -591,461 +1614,6 @@
       "analysis_hi": "संदर्भ: Touted as Keralam’s first ultimate motorsports and lifestyle festival, Moto Summit Kochi, will be held at Chakola Mill, Kalamassery...\n\nप्रमुख बिंदु:\n• Touted as Keralam’s first ultimate motorsports and lifestyle festival, Moto Summit Kochi, will be held at Chakola Mill, Kalamassery\n",
       "analysis_en": "Reference: Touted as Keralam’s first ultimate motorsports and lifestyle festival, Moto Summit Kochi, will be held at Chakola Mill, Kalamassery...\n\nKey Points:\n• Touted as Keralam’s first ultimate motorsports and lifestyle festival, Moto Summit Kochi, will be held at Chakola Mill, Kalamassery\n",
       "link": "https://www.thehindu.com/society/the-inaugural-edition-of-the-moto-summit-kochi-2026-will-take-place-on-november-21-and-22/article71692605.ece"
-    },
-    {
-      "id": "45fc86c70f89",
-      "date": "15 Nov 2026",
-      "iso_date": "2026-11-15T11:09:20+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Equity vs bonds",
-      "title_hi": "Equity vs bonds",
-      "summary_en": "Concentrated bets in equity market could generate high returns if your bet turns right; On the other hand, diversification pays off for bond investments",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Concentrated bets in equity market could generate high returns if your bet turns right; On the other hand, diversification pays off for bond investments",
-      "analysis_hi": "संदर्भ: Concentrated bets in equity market could generate high returns if your bet turns right; On the other hand, diversification pays off for bond investments...\n\nप्रमुख बिंदु:\n• Concentrated bets in equity market could generate high returns if your bet turns right; On the other hand, diversification pays off for bond investments\n",
-      "analysis_en": "Reference: Concentrated bets in equity market could generate high returns if your bet turns right; On the other hand, diversification pays off for bond investments...\n\nKey Points:\n• Concentrated bets in equity market could generate high returns if your bet turns right; On the other hand, diversification pays off for bond investments\n",
-      "link": "https://www.thehindu.com/business/markets/equity-vs-bonds/article71704594.ece"
-    },
-    {
-      "id": "f95e5d627467",
-      "date": "15 Nov 2026",
-      "iso_date": "2026-11-15T11:01:30+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Need a quick loan? Beware of digital lending traps",
-      "title_hi": "Need a quick loan? Beware of digital lending traps",
-      "summary_en": "From hidden charges and misuse of personal data to coercive recovery tactics, digital borrowing demands more than a cursory glance as borrowers need to know what the loan really costs",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। From hidden charges and misuse of personal data to coercive recovery tactics, digital borrowing demands more than a cursory glance as borrowers need to know what the loan really costs",
-      "analysis_hi": "संदर्भ: From hidden charges and misuse of personal data to coercive recovery tactics, digital borrowing demands more than a cursory glance as borrowers need to know what the loan really costs...\n\nप्रमुख बिंदु:\n• From hidden charges and misuse of personal data to coercive recovery tactics, digital borrowing demands more than a cursory glance as borrowers need to know what the loan really costs\n",
-      "analysis_en": "Reference: From hidden charges and misuse of personal data to coercive recovery tactics, digital borrowing demands more than a cursory glance as borrowers need to know what the loan really costs...\n\nKey Points:\n• From hidden charges and misuse of personal data to coercive recovery tactics, digital borrowing demands more than a cursory glance as borrowers need to know what the loan really costs\n",
-      "link": "https://www.thehindu.com/business/Economy/need-a-quick-loan-beware-of-digital-lending-traps/article71704585.ece"
-    },
-    {
-      "id": "c2af5812a86b",
-      "date": "15 Nov 2026",
-      "iso_date": "2026-11-15T06:59:38+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Mahanagar Gas hikes CNG prices in Mumbai by ₹1.5/kg, sixth hike since May",
-      "title_hi": "Mahanagar Gas hikes CNG prices in Mumbai by ₹1.5/kg, sixth hike since May",
-      "summary_en": "Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14",
-      "analysis_hi": "संदर्भ: Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14...\n\nप्रमुख बिंदु:\n• Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14\n",
-      "analysis_en": "Reference: Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14...\n\nKey Points:\n• Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14\n",
-      "link": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece"
-    },
-    {
-      "id": "4f62fef6f453",
-      "date": "14 Nov 2026",
-      "iso_date": "2026-11-14T16:05:55+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Iron ore capacity under-utilisation in major-producing states prompt concerns as India sets 2047 target",
-      "title_hi": "Iron ore capacity under-utilisation in major-producing states prompt concerns as India sets 2047 target",
-      "summary_en": "The underutilised capacity is particularly significant as it largely involves hematite, the highest-grade variety of iron ore.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The underutilised capacity is particularly significant as it largely involves hematite, the highest-grade variety of iron ore.",
-      "analysis_hi": "संदर्भ: The underutilised capacity is particularly significant as it largely involves hematite, the highest-grade variety of iron ore....\n\nप्रमुख बिंदु:\n• The underutilised capacity is particularly significant as it largely involves hematite, the highest-grade variety of iron ore.\n",
-      "analysis_en": "Reference: The underutilised capacity is particularly significant as it largely involves hematite, the highest-grade variety of iron ore....\n\nKey Points:\n• The underutilised capacity is particularly significant as it largely involves hematite, the highest-grade variety of iron ore.\n",
-      "link": "https://www.thehindu.com/business/Economy/iron-ore-capacity-under-utilisation-in-major-producing-states-prompt-concerns-as-india-sets-2047-target/article71702496.ece"
-    },
-    {
-      "id": "afa97858deb2",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T15:53:22+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "India's exports up 29.9% in October; trade deficit narrows to $20.09 billion",
-      "title_hi": "India's exports up 29.9% in October; trade deficit narrows to $20.09 billion",
-      "summary_en": "The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices",
-      "analysis_hi": "संदर्भ: The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices...\n\nप्रमुख बिंदु:\n• The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices\n",
-      "analysis_en": "Reference: The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices...\n\nKey Points:\n• The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices\n",
-      "link": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece"
-    },
-    {
-      "id": "dc4afbdcc911",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T10:46:37+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
-      "title_hi": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
-      "summary_en": "The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance योजना cap to curb dollar outflows and protect the rupee",
-      "analysis_hi": "संदर्भ: The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee...\n\nप्रमुख बिंदु:\n• The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee\n",
-      "analysis_en": "Reference: The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee...\n\nKey Points:\n• The RBI has reportedly proposed a ₹50 lakh sub-limit within the $250,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee\n",
-      "link": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece"
-    },
-    {
-      "id": "4dcfeaae0b73",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T06:03:25+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Rampur’s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition",
-      "title_hi": "Rampur’s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition",
-      "summary_en": "Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments",
-      "analysis_hi": "संदर्भ: Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments...\n\nप्रमुख बिंदु:\n• Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments\n",
-      "analysis_en": "Reference: Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments...\n\nKey Points:\n• Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments\n",
-      "link": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
-    },
-    {
-      "id": "9e156fc1acea",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T05:50:40+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "How did a tax proposal lead the Dutch government to the verge of collapse? | Explained",
-      "title_hi": "How did a tax proposal lead the Dutch government to the verge of collapse? | Explained",
-      "summary_en": "The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Netherlands currently has a minority सरकार by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house",
-      "analysis_hi": "संदर्भ: The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house...\n\nप्रमुख बिंदु:\n• The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house\n",
-      "analysis_en": "Reference: The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house...\n\nKey Points:\n• The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house\n",
-      "link": "https://www.thehindu.com/business/Economy/how-did-a-tax-proposal-led-the-dutch-government-to-the-verge-of-collapse-explained/article71696493.ece"
-    },
-    {
-      "id": "d2242cfa3d8b",
-      "date": "13 Nov 2026",
-      "iso_date": "2026-11-13T03:03:15+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "India needs to create high-quality jobs, increase productivity growth: IMF",
-      "title_hi": "India needs to create high-quality jobs, increase productivity growth: IMF",
-      "summary_en": "In its October World Economic Outlook, the IMF had upgraded India’s medium-term potential growth to 6.8% from its earlier estimate of 6.5%",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In its October World Economic Outlook, the IMF had upgraded India’s medium-term potential growth to 6.8% from its earlier estimate of 6.5%",
-      "analysis_hi": "संदर्भ: In its October World Economic Outlook, the IMF had upgraded India’s medium-term potential growth to 6.8% from its earlier estimate of 6.5%...\n\nप्रमुख बिंदु:\n• In its October World Economic Outlook, the IMF had upgraded India’s medium-term potential growth to 6.8% from its earlier estimate of 6.5%\n",
-      "analysis_en": "Reference: In its October World Economic Outlook, the IMF had upgraded India’s medium-term potential growth to 6.8% from its earlier estimate of 6.5%...\n\nKey Points:\n• In its October World Economic Outlook, the IMF had upgraded India’s medium-term potential growth to 6.8% from its earlier estimate of 6.5%\n",
-      "link": "https://www.thehindu.com/news/national/india-needs-to-create-high-quality-jobs-increase-productivity-growth-imf/article71696425.ece"
-    },
-    {
-      "id": "ee38cfb27f3b",
-      "date": "12 Nov 2026",
-      "iso_date": "2026-11-12T17:08:11+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "CAG widens purview of power sector audit, starting with DISCOMs; consumer satisfaction in focus",
-      "title_hi": "CAG widens purview of power sector audit, starting with DISCOMs; consumer satisfaction in focus",
-      "summary_en": "Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS.",
-      "analysis_hi": "संदर्भ: Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS....\n\nप्रमुख बिंदु:\n• Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS.\n",
-      "analysis_en": "Reference: Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS....\n\nKey Points:\n• Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS.\n",
-      "link": "https://www.thehindu.com/business/Industry/cag-widens-purview-of-power-sector-audit-starting-with-discoms-consumer-satisfaction-in-focus/article71694907.ece"
-    },
-    {
-      "id": "16a4e5f29a22",
-      "date": "12 Nov 2026",
-      "iso_date": "2026-11-12T15:24:17+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Retail inflation crosses RBI’s upper limit for first time in two years, comes in at 6.1% in October 2026",
-      "title_hi": "Retail inflation crosses RBI’s upper limit for first time in two years, comes in at 6.1% in October 2026",
-      "summary_en": "The Consumer Price Index saw almost all categories hit series highs as inflation spread across sectors of the economy",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Consumer Price Index saw almost all categories hit series highs as मुद्रास्फीति spread across sectors of the अर्थव्यवस्था",
-      "analysis_hi": "संदर्भ: The Consumer Price Index saw almost all categories hit series highs as inflation spread across sectors of the economy...\n\nप्रमुख बिंदु:\n• The Consumer Price Index saw almost all categories hit series highs as inflation spread across sectors of the economy\n",
-      "analysis_en": "Reference: The Consumer Price Index saw almost all categories hit series highs as inflation spread across sectors of the economy...\n\nKey Points:\n• The Consumer Price Index saw almost all categories hit series highs as inflation spread across sectors of the economy\n",
-      "link": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece"
-    },
-    {
-      "id": "b420c01c1c13",
-      "date": "11 Nov 2026",
-      "iso_date": "2026-11-11T11:43:37+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Two days past Deepavali, NPCI yet to announce a date for UPI MDR rollout",
-      "title_hi": "Two days past Deepavali, NPCI yet to announce a date for UPI MDR rollout",
-      "summary_en": "About a month ago, when the NPCI had pushed back the rollout of MDR from its original date of October 15, it had said it would be implemented “immediately post Diwali”",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। About a month ago, when the NPCI had pushed back the rollout of MDR from its original date of October 15, it had said it would be implemented “immediately post Diwali”",
-      "analysis_hi": "संदर्भ: About a month ago, when the NPCI had pushed back the rollout of MDR from its original date of October 15, it had said it would be implemented “immediately post Diwali”...\n\nप्रमुख बिंदु:\n• About a month ago, when the NPCI had pushed back the rollout of MDR from its original date of October 15, it had said it would be implemented “immediately post Diwali”\n",
-      "analysis_en": "Reference: About a month ago, when the NPCI had pushed back the rollout of MDR from its original date of October 15, it had said it would be implemented “immediately post Diwali”...\n\nKey Points:\n• About a month ago, when the NPCI had pushed back the rollout of MDR from its original date of October 15, it had said it would be implemented “immediately post Diwali”\n",
-      "link": "https://www.thehindu.com/business/Economy/two-days-past-deepavali-npci-yet-to-announce-a-date-for-upi-mdr-rollout/article71689098.ece"
-    },
-    {
-      "id": "0977227277d7",
-      "date": "11 Nov 2026",
-      "iso_date": "2026-11-11T08:10:19+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Moody’s ups India’s FY27 growth estimate to 7% on broad-based momentum",
-      "title_hi": "Moody’s ups India’s FY27 growth estimate to 7% on broad-based momentum",
-      "summary_en": "Robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the economy appears well positioned to sustain growth near 7% over the medium term, Moody's said",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the अर्थव्यवस्था appears well positioned to sustain growth near 7% over the medium term, Moody's said",
-      "analysis_hi": "संदर्भ: Robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the economy appears well positioned to sustain growth near 7% over the medium term, Moody's said...\n\nप्रमुख बिंदु:\n• Robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the economy appears well positioned to sustain growth near 7% over the medium term, Moody's said\n",
-      "analysis_en": "Reference: Robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the economy appears well positioned to sustain growth near 7% over the medium term, Moody's said...\n\nKey Points:\n• Robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the economy appears well positioned to sustain growth near 7% over the medium term, Moody's said\n",
-      "link": "https://www.thehindu.com/business/Economy/moodys-ups-indias-fy27-growth-estimate-to-7-on-broad-based-momentum/article71688844.ece"
-    },
-    {
-      "id": "5b0c429b280f",
-      "date": "10 Nov 2026",
-      "iso_date": "2026-11-10T13:59:22+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Industry seeks LTCG, STT cuts in Budget 2027; MSME relief also on wish list",
-      "title_hi": "Industry seeks LTCG, STT cuts in Budget 2027; MSME relief also on wish list",
-      "summary_en": "Several industry bodies have been meeting top officials of the Finance Ministry as part of the annual pre-Budget consultation process",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Several industry bodies have been meeting top officials of the Finance Ministry as part of the annual pre-Budget consultation process",
-      "analysis_hi": "संदर्भ: Several industry bodies have been meeting top officials of the Finance Ministry as part of the annual pre-Budget consultation process...\n\nप्रमुख बिंदु:\n• Several industry bodies have been meeting top officials of the Finance Ministry as part of the annual pre-Budget consultation process\n",
-      "analysis_en": "Reference: Several industry bodies have been meeting top officials of the Finance Ministry as part of the annual pre-Budget consultation process...\n\nKey Points:\n• Several industry bodies have been meeting top officials of the Finance Ministry as part of the annual pre-Budget consultation process\n",
-      "link": "https://www.thehindu.com/business/Economy/industry-seeks-ltcg-stt-cuts-in-budget-2027-msme-relief-also-on-wish-list/article71685951.ece"
-    },
-    {
-      "id": "9d55dee64669",
-      "date": "10 Nov 2026",
-      "iso_date": "2026-11-10T04:48:53+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Strait of Hormuz LNG traffic hits highest in October since Iran war began",
-      "title_hi": "Strait of Hormuz LNG traffic hits highest in October since Iran war began",
-      "summary_en": "October exports ‌were ⁠the highest since February when the war ⁠started and were up from September’s corresponding tally of 23 vessels exiting the strait",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। October exports ‌were ⁠the highest since February when the war ⁠started and were up from September’s corresponding tally of 23 vessels exiting the strait",
-      "analysis_hi": "संदर्भ: October exports ‌were ⁠the highest since February when the war ⁠started and were up from September’s corresponding tally of 23 vessels exiting the strait...\n\nप्रमुख बिंदु:\n• October exports ‌were ⁠the highest since February when the war ⁠started and were up from September’s corresponding tally of 23 vessels exiting the strait\n",
-      "analysis_en": "Reference: October exports ‌were ⁠the highest since February when the war ⁠started and were up from September’s corresponding tally of 23 vessels exiting the strait...\n\nKey Points:\n• October exports ‌were ⁠the highest since February when the war ⁠started and were up from September’s corresponding tally of 23 vessels exiting the strait\n",
-      "link": "https://www.thehindu.com/business/Economy/strait-of-hormuz-lng-traffic-hits-highest-in-october-since-iran-war-began/article71684981.ece"
-    },
-    {
-      "id": "f5a60d3fbc39",
-      "date": "09 Nov 2026",
-      "iso_date": "2026-11-09T16:05:05+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "RBI extends Abhyudaya Bank supersession by another year",
-      "title_hi": "RBI extends Abhyudaya Bank supersession by another year",
-      "summary_en": "The RBI first superseded the bank’s Board of Directors for one year on November 24, 2023, citing “material concerns arising from poor governance standards observed within the bank.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The RBI first superseded the bank’s Board of Directors for one year on November 24, 2023, citing “material concerns arising from poor governance standards observed within the bank.",
-      "analysis_hi": "संदर्भ: The RBI first superseded the bank’s Board of Directors for one year on November 24, 2023, citing “material concerns arising from poor governance standards observed within the bank....\n\nप्रमुख बिंदु:\n• The RBI first superseded the bank’s Board of Directors for one year on November 24, 2023, citing “material concerns arising from poor governance standards observed within the bank.\n",
-      "analysis_en": "Reference: The RBI first superseded the bank’s Board of Directors for one year on November 24, 2023, citing “material concerns arising from poor governance standards observed within the bank....\n\nKey Points:\n• The RBI first superseded the bank’s Board of Directors for one year on November 24, 2023, citing “material concerns arising from poor governance standards observed within the bank.\n",
-      "link": "https://www.thehindu.com/business/rbi-extends-abhyudaya-bank-supersession-by-another-year/article71683422.ece"
     },
     {
       "id": "187123314095",
@@ -5102,576 +5670,6 @@
       "analysis_hi": "संदर्भ: Last week, the AAP had accused the BJP government of “manipulating” AQI data by spraying water on monitoring stations, and alleged that “fudging” AQI data was not just corruption but life-threatening...\n\nप्रमुख बिंदु:\n• Last week, the AAP had accused the BJP government of “manipulating” AQI data by spraying water on monitoring stations, and alleged that “fudging” AQI data was not just corruption but life-threatening\n",
       "analysis_en": "Reference: Last week, the AAP had accused the BJP government of “manipulating” AQI data by spraying water on monitoring stations, and alleged that “fudging” AQI data was not just corruption but life-threatening...\n\nKey Points:\n• Last week, the AAP had accused the BJP government of “manipulating” AQI data by spraying water on monitoring stations, and alleged that “fudging” AQI data was not just corruption but life-threatening\n",
       "link": "https://www.thehindu.com/news/cities/Delhi/delhi-air-pollution-aap-slams-delhi-govt-for-alleged-air-quality-data-manipulation/article71681459.ece"
-    },
-    {
-      "id": "2b92eccec18d",
-      "date": "09 Nov 2026",
-      "iso_date": "2026-11-09T05:33:03+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Kozhikode police arrest man in extortion, impersonation cases",
-      "title_hi": "Kozhikode police arrest man in extortion, impersonation cases",
-      "summary_en": "The suspect, T. Nishad, was arrested from Kondotty in Malappuram district",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The suspect, T. Nishad, was arrested from Kondotty in Malappuram district",
-      "analysis_hi": "संदर्भ: The suspect, T. Nishad, was arrested from Kondotty in Malappuram district...\n\nप्रमुख बिंदु:\n• Nishad, was arrested from Kondotty in Malappuram district\n",
-      "analysis_en": "Reference: The suspect, T. Nishad, was arrested from Kondotty in Malappuram district...\n\nKey Points:\n• Nishad, was arrested from Kondotty in Malappuram district\n",
-      "link": "https://www.thehindu.com/news/national/kerala/kozhikode-police-arrest-man-in-extortion-impersonation-cases/article71681496.ece"
-    },
-    {
-      "id": "b7c0d5099733",
-      "date": "09 Nov 2026",
-      "iso_date": "2026-11-09T05:27:38+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Air pollution over 66 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
-      "title_hi": "Air pollution over 66 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
-      "summary_en": "Data on air pollution missing from several monitoring stations of the Delhi Government at the peak of air pollution during the intervening night of November 8 and 9",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Data on air pollution missing from several monitoring stations of the Delhi सरकार at the peak of air pollution during the intervening night of November 8 and 9",
-      "analysis_hi": "संदर्भ: Data on air pollution missing from several monitoring stations of the Delhi Government at the peak of air pollution during the intervening night of November 8 and 9...\n\nप्रमुख बिंदु:\n• Data on air pollution missing from several monitoring stations of the Delhi Government at the peak of air pollution during the intervening night of November 8 and 9\n",
-      "analysis_en": "Reference: Data on air pollution missing from several monitoring stations of the Delhi Government at the peak of air pollution during the intervening night of November 8 and 9...\n\nKey Points:\n• Data on air pollution missing from several monitoring stations of the Delhi Government at the peak of air pollution during the intervening night of November 8 and 9\n",
-      "link": "https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece"
-    },
-    {
-      "id": "d353d9df867b",
-      "date": "09 Nov 2026",
-      "iso_date": "2026-11-09T05:23:23+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "AQI slips to 'severe' in Delhi; Mumbai, Chennai wake up to smog morning after Deepavali",
-      "title_hi": "AQI slips to 'severe' in Delhi; Mumbai, Chennai wake up to smog morning after Deepavali",
-      "summary_en": "Delhi’s air quality plunged to the edge of the “severe” category on Monday as post-Deepavali pollution surged, with AQI readings above 400 across the capital and smog spreading to Mumbai, Lucknow and other major cities.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Delhi’s air quality plunged to the edge of the “severe” category on Monday as post-Deepavali pollution surged, with AQI readings above 400 across the capital and smog spreading to Mumbai, Lucknow and other major cities.",
-      "analysis_hi": "संदर्भ: Delhi’s air quality plunged to the edge of the “severe” category on Monday as post-Deepavali pollution surged, with AQI readings above 400 across the capital and smog spreading to Mumbai, Lucknow and other major cities....\n\nप्रमुख बिंदु:\n• Delhi’s air quality plunged to the edge of the “severe” category on Monday as post-Deepavali pollution surged, with AQI readings above 400 across the capital and smog spreading to Mumbai, Lucknow and other major cities.\n",
-      "analysis_en": "Reference: Delhi’s air quality plunged to the edge of the “severe” category on Monday as post-Deepavali pollution surged, with AQI readings above 400 across the capital and smog spreading to Mumbai, Lucknow and other major cities....\n\nKey Points:\n• Delhi’s air quality plunged to the edge of the “severe” category on Monday as post-Deepavali pollution surged, with AQI readings above 400 across the capital and smog spreading to Mumbai, Lucknow and other major cities.\n",
-      "link": "https://www.thehindu.com/news/national/post-diwali-air-pollution-delhi-hits-severe-as-air-quality-index-aqi-soars-across-major-indian-cities/article71681352.ece"
-    },
-    {
-      "id": "212f58e30d39",
-      "date": "09 Nov 2026",
-      "iso_date": "2026-11-09T05:01:00+00:00",
-      "category": "social",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-1",
-        "GS-2"
-      ],
-      "subjects": [
-        "Social Issues"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-1: Population and associated issues",
-        "GS-2: Issues relating to development and management of Social Sector/Services"
-      ],
-      "title_en": "Children make up nearly half of Deepavali eye-injury cases at Hyderabad hospital",
-      "title_hi": "Children make up nearly half of Deepavali eye-injury cases at Hyderabad hospital",
-      "summary_en": "Doctors say most patients were treated without surgery, but eight children require surgical intervention, while bystanders also accounted for numerous injuries from a range of fireworks, underscoring the festival’s risk to ocular health",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Doctors say most patients were treated without surgery, but eight children require surgical intervention, while bystanders also accounted for numerous injuries from a range of fireworks, underscoring the festival’s risk to ocular स्वास्थ्य",
-      "analysis_hi": "संदर्भ: Doctors say most patients were treated without surgery, but eight children require surgical intervention, while bystanders also accounted for numerous injuries from a range of fireworks, underscoring the festival’s risk to ocular health...\n\nप्रमुख बिंदु:\n• Doctors say most patients were treated without surgery, but eight children require surgical intervention, while bystanders also accounted for numerous injuries from a range of fireworks, underscoring the festival’s risk to ocular health\n",
-      "analysis_en": "Reference: Doctors say most patients were treated without surgery, but eight children require surgical intervention, while bystanders also accounted for numerous injuries from a range of fireworks, underscoring the festival’s risk to ocular health...\n\nKey Points:\n• Doctors say most patients were treated without surgery, but eight children require surgical intervention, while bystanders also accounted for numerous injuries from a range of fireworks, underscoring the festival’s risk to ocular health\n",
-      "link": "https://www.thehindu.com/news/cities/Hyderabad/children-make-up-nearly-half-of-deepavali-eye-injury-cases-at-hyderabad-hospital/article71681416.ece"
-    },
-    {
-      "id": "ba719c1241cb",
-      "date": "09 Nov 2026",
-      "iso_date": "2026-11-09T04:53:44+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Car accessories shop in Kochi gutted in fire; none injured",
-      "title_hi": "Car accessories shop in Kochi gutted in fire; none injured",
-      "summary_en": "Blaze is estimated to have caused losses worth lakhs of rupees, as the shop had stocked up on accessories for premium cars, according to Fire and Rescue Services personnel",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Blaze is estimated to have caused losses worth lakhs of rupees, as the shop had stocked up on accessories for premium cars, according to Fire and Rescue Services personnel",
-      "analysis_hi": "संदर्भ: Blaze is estimated to have caused losses worth lakhs of rupees, as the shop had stocked up on accessories for premium cars, according to Fire and Rescue Services personnel...\n\nप्रमुख बिंदु:\n• Blaze is estimated to have caused losses worth lakhs of rupees, as the shop had stocked up on accessories for premium cars, according to Fire and Rescue Services personnel\n",
-      "analysis_en": "Reference: Blaze is estimated to have caused losses worth lakhs of rupees, as the shop had stocked up on accessories for premium cars, according to Fire and Rescue Services personnel...\n\nKey Points:\n• Blaze is estimated to have caused losses worth lakhs of rupees, as the shop had stocked up on accessories for premium cars, according to Fire and Rescue Services personnel\n",
-      "link": "https://www.thehindu.com/news/national/kerala/car-accessories-showroom-in-kochi-gutted-in-fire-none-injured/article71681359.ece"
-    },
-    {
-      "id": "ef231861c97d",
-      "date": "09 Nov 2026",
-      "iso_date": "2026-11-09T04:40:10+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "What is the controversy over the oversight of ECI’s Director-General of IT? Explained",
-      "title_hi": "What is the controversy over the oversight of ECI’s Director-General of IT? Explained",
-      "summary_en": "As per the current order, dated October 4, Ms. Khanna is required to route the files related to IT/ICT and Grievances/PGRS through Senior Deputy Election Commissioner Pawan Kumar Sharma, bringing back the oversight which the July 28 order had sought to remove",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। As per the current order, dated October 4, Ms. Khanna is required to route the files related to IT/ICT and Grievances/PGRS through Senior Deputy चुनाव Commissioner Pawan Kumar Sharma, bringing back the oversight which the July 28 order had sought to remove",
-      "analysis_hi": "संदर्भ: As per the current order, dated October 4, Ms. Khanna is required to route the files related to IT/ICT and Grievances/PGRS through Senior Deputy Election Commissioner Pawan Kumar Sharma, bringing back the oversight which the July 28 order had sought to remove...\n\nप्रमुख बिंदु:\n• As per the current order, dated October 4, Ms\n• Khanna is required to route the files related to IT/ICT and Grievances/PGRS through Senior Deputy Election Commissioner Pawan Kumar Sharma, bringing back the oversight which the July 28 order had sought to remove\n",
-      "analysis_en": "Reference: As per the current order, dated October 4, Ms. Khanna is required to route the files related to IT/ICT and Grievances/PGRS through Senior Deputy Election Commissioner Pawan Kumar Sharma, bringing back the oversight which the July 28 order had sought to remove...\n\nKey Points:\n• As per the current order, dated October 4, Ms\n• Khanna is required to route the files related to IT/ICT and Grievances/PGRS through Senior Deputy Election Commissioner Pawan Kumar Sharma, bringing back the oversight which the July 28 order had sought to remove\n",
-      "link": "https://www.thehindu.com/news/national/what-is-the-controversy-over-the-oversight-of-ecis-director-general-of-it-explained/article71673342.ece"
-    },
-    {
-      "id": "0acce3acab99",
-      "date": "09 Nov 2026",
-      "iso_date": "2026-11-09T04:38:11+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Health officials step up surveillance as Shigella cases rise in Kerala’s Malappuram",
-      "title_hi": "Health officials step up surveillance as Shigella cases rise in Kerala’s Malappuram",
-      "summary_en": "Five of the eight Shigella cases reported in Malappuram district are linked to a wedding feast at Korakkuthu in Elamkulam panchayat near Perinthalmanna",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Five of the eight Shigella cases reported in Malappuram district are linked to a wedding feast at Korakkuthu in Elamkulam panchayat near Perinthalmanna",
-      "analysis_hi": "संदर्भ: Five of the eight Shigella cases reported in Malappuram district are linked to a wedding feast at Korakkuthu in Elamkulam panchayat near Perinthalmanna...\n\nप्रमुख बिंदु:\n• Five of the eight Shigella cases reported in Malappuram district are linked to a wedding feast at Korakkuthu in Elamkulam panchayat near Perinthalmanna\n",
-      "analysis_en": "Reference: Five of the eight Shigella cases reported in Malappuram district are linked to a wedding feast at Korakkuthu in Elamkulam panchayat near Perinthalmanna...\n\nKey Points:\n• Five of the eight Shigella cases reported in Malappuram district are linked to a wedding feast at Korakkuthu in Elamkulam panchayat near Perinthalmanna\n",
-      "link": "https://www.thehindu.com/news/national/kerala/health-officials-step-up-surveillance-as-shigella-cases-rise-in-malappuram/article71678304.ece"
-    },
-    {
-      "id": "0291033bd2db",
-      "date": "09 Nov 2026",
-      "iso_date": "2026-11-09T04:37:14+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "FSSAI seizes 3,280 tonne food items, cancels 52 licences in nationwide inspection drive",
-      "title_hi": "FSSAI seizes 3,280 tonne food items, cancels 52 licences in nationwide inspection drive",
-      "summary_en": "The regulator said it inspected 56,431 food establishments during its nationwide enforcement drive between September 1 and November 5, and seized non-compliant food products, including paneer, ghee, milk and sweets",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The regulator said it inspected 56,431 food establishments during its nationwide enforcement drive between September 1 and November 5, and seized non-compliant food products, including paneer, ghee, milk and sweets",
-      "analysis_hi": "संदर्भ: The regulator said it inspected 56,431 food establishments during its nationwide enforcement drive between September 1 and November 5, and seized non-compliant food products, including paneer, ghee, milk and sweets...\n\nप्रमुख बिंदु:\n• The regulator said it inspected 56,431 food establishments during its nationwide enforcement drive between September 1 and November 5, and seized non-compliant food products, including paneer, ghee, milk and sweets\n",
-      "analysis_en": "Reference: The regulator said it inspected 56,431 food establishments during its nationwide enforcement drive between September 1 and November 5, and seized non-compliant food products, including paneer, ghee, milk and sweets...\n\nKey Points:\n• The regulator said it inspected 56,431 food establishments during its nationwide enforcement drive between September 1 and November 5, and seized non-compliant food products, including paneer, ghee, milk and sweets\n",
-      "link": "https://www.thehindu.com/news/national/fssai-seizes-3280-tonne-food-items-cancels-52-licences-in-nationwide-inspection-drive/article71680460.ece"
-    },
-    {
-      "id": "22ef7d82334e",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T12:42:46+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "U.S. midterm elections impact on India: Faster trade deal talks and higher tariffs likely",
-      "title_hi": "U.S. midterm elections impact on India: Faster trade deal talks and higher tariffs likely",
-      "summary_en": "Trade and geopolitical experts say that losing control of the U.S. Congress will push President Donald Trump to increase tariff pressure on India to seal a deal. Indian negotiators, for their part, will smell an opportunity",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Trade and geopolitical experts say that losing control of the U.S. Congress will push राष्ट्रपति Donald Trump to increase tariff pressure on India to seal a deal. Indian negotiators, for their part, will smell an opportunity",
-      "analysis_hi": "संदर्भ: Trade and geopolitical experts say that losing control of the U.S. Congress will push President Donald Trump to increase tariff pressure on India to seal a deal. Indian negotiators, for their part, will smell an opportunity...\n\nप्रमुख बिंदु:\n• Trade and geopolitical experts say that losing control of the U.S\n• Congress will push President Donald Trump to increase tariff pressure on India to seal a deal\n• Indian negotiators, for their part, will smell an opportunity\n",
-      "analysis_en": "Reference: Trade and geopolitical experts say that losing control of the U.S. Congress will push President Donald Trump to increase tariff pressure on India to seal a deal. Indian negotiators, for their part, will smell an opportunity...\n\nKey Points:\n• Trade and geopolitical experts say that losing control of the U.S\n• Congress will push President Donald Trump to increase tariff pressure on India to seal a deal\n• Indian negotiators, for their part, will smell an opportunity\n",
-      "link": "https://www.thehindu.com/business/Economy/us-midterm-elections-impact-on-india-faster-trade-deal-talks-and-higher-tariffs-likely/article71665044.ece"
-    },
-    {
-      "id": "627917ddaa23",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T11:25:35+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Supreme Court upholds States’ power to levy additional sales tax, says case has become academic",
-      "title_hi": "Supreme Court upholds States’ power to levy additional sales tax, says case has become academic",
-      "summary_en": "The seven-judge Bench, led by CJI Surya Kant, said the reference in the Orissa Sales Tax Act case no longer requires adjudication since the challenged provisions have been amended and GST governs the issue moving forward",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The seven-judge Bench, led by CJI Surya Kant, said the reference in the Orissa Sales Tax Act case no longer requires adjudication since the challenged provisions have been amended and GST governs the issue moving forward",
-      "analysis_hi": "संदर्भ: The seven-judge Bench, led by CJI Surya Kant, said the reference in the Orissa Sales Tax Act case no longer requires adjudication since the challenged provisions have been amended and GST governs the issue moving forward...\n\nप्रमुख बिंदु:\n• The seven-judge Bench, led by CJI Surya Kant, said the reference in the Orissa Sales Tax Act case no longer requires adjudication since the challenged provisions have been amended and GST governs the issue moving forward\n",
-      "analysis_en": "Reference: The seven-judge Bench, led by CJI Surya Kant, said the reference in the Orissa Sales Tax Act case no longer requires adjudication since the challenged provisions have been amended and GST governs the issue moving forward...\n\nKey Points:\n• The seven-judge Bench, led by CJI Surya Kant, said the reference in the Orissa Sales Tax Act case no longer requires adjudication since the challenged provisions have been amended and GST governs the issue moving forward\n",
-      "link": "https://www.thehindu.com/news/national/supreme-court-upholds-states-power-to-levy-additional-sales-tax-says-case-has-become-academic/article71664975.ece"
-    },
-    {
-      "id": "381ed35f1872",
-      "date": "04 Nov 2026",
-      "iso_date": "2026-11-04T10:27:37+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Services sector activity hits 4-month high in October as business conditions improve cautiously",
-      "title_hi": "Services sector activity hits 4-month high in October as business conditions improve cautiously",
-      "summary_en": "Survey participants identified new business growth as the main driver behind the rise in output, the survey said",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Survey participants identified new business growth as the main driver behind the rise in output, the survey said",
-      "analysis_hi": "संदर्भ: Survey participants identified new business growth as the main driver behind the rise in output, the survey said...\n\nप्रमुख बिंदु:\n• Survey participants identified new business growth as the main driver behind the rise in output, the survey said\n",
-      "analysis_en": "Reference: Survey participants identified new business growth as the main driver behind the rise in output, the survey said...\n\nKey Points:\n• Survey participants identified new business growth as the main driver behind the rise in output, the survey said\n",
-      "link": "https://www.thehindu.com/business/Economy/services-sector-activity-hits-4-month-high-in-october-as-business-conditions-improve-cautiously/article71665069.ece"
-    },
-    {
-      "id": "cd2f364fd563",
-      "date": "08 Nov 2026",
-      "iso_date": "2026-11-08T06:10:40+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Village anti-drug committee member shot in Punjab’s Barnala, injured",
-      "title_hi": "Village anti-drug committee member shot in Punjab’s Barnala, injured",
-      "summary_en": "Dhanaula SHO Baljinder Singh said the matter is under investigation; “We are investigating the motive behind the incident,” he said, while adding that four people, who are locals, have been identified",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Dhanaula SHO Baljinder Singh said the matter is under investigation; “We are investigating the motive behind the incident,” he said, while adding that four people, who are locals, have been identified",
-      "analysis_hi": "संदर्भ: Dhanaula SHO Baljinder Singh said the matter is under investigation; “We are investigating the motive behind the incident,” he said, while adding that four people, who are locals, have been identified...\n\nप्रमुख बिंदु:\n• Dhanaula SHO Baljinder Singh said the matter is under investigation; “We are investigating the motive behind the incident,” he said, while adding that four people, who are locals, have been identified\n",
-      "analysis_en": "Reference: Dhanaula SHO Baljinder Singh said the matter is under investigation; “We are investigating the motive behind the incident,” he said, while adding that four people, who are locals, have been identified...\n\nKey Points:\n• Dhanaula SHO Baljinder Singh said the matter is under investigation; “We are investigating the motive behind the incident,” he said, while adding that four people, who are locals, have been identified\n",
-      "link": "https://www.thehindu.com/news/national/punjab/village-anti-drug-committee-member-shot-in-punjabs-barnala-injured/article71680598.ece"
-    },
-    {
-      "id": "d11bc8bb4161",
-      "date": "08 Nov 2026",
-      "iso_date": "2026-11-08T06:09:18+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Kishore Biyani, Future Retail and the ₹904-crore bank fraud case: What led to the Group’s collapse?",
-      "title_hi": "Kishore Biyani, Future Retail and the ₹904-crore bank fraud case: What led to the Group’s collapse?",
-      "summary_en": "Kishore Biyani’s Future Group witnessed meteoric rise before mounting financial troubles pushed it into insolvency",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Kishore Biyani’s Future Group witnessed meteoric rise before mounting financial troubles pushed it into insolvency",
-      "analysis_hi": "संदर्भ: Kishore Biyani’s Future Group witnessed meteoric rise before mounting financial troubles pushed it into insolvency...\n\nप्रमुख बिंदु:\n• Kishore Biyani’s Future Group witnessed meteoric rise before mounting financial troubles pushed it into insolvency\n",
-      "analysis_en": "Reference: Kishore Biyani’s Future Group witnessed meteoric rise before mounting financial troubles pushed it into insolvency...\n\nKey Points:\n• Kishore Biyani’s Future Group witnessed meteoric rise before mounting financial troubles pushed it into insolvency\n",
-      "link": "https://www.thehindu.com/business/Industry/kishore-biyani-future-retail-cbi-defrauding-charges-reliance-amazon-deal/article71677462.ece"
-    },
-    {
-      "id": "c9a9bed399b7",
-      "date": "08 Nov 2026",
-      "iso_date": "2026-11-08T06:04:11+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "Lawrence Bishnoi gang member Hari Boxer detained in U.S., extradition process underway",
-      "title_hi": "Lawrence Bishnoi gang member Hari Boxer detained in U.S., extradition process underway",
-      "summary_en": "The Rajasthan Anti-Gangster Task Force (AGTF) secured the detention through sustained coordination with international agencies, including the CBI and Interpol, police said",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The Rajasthan Anti-Gangster Task Force (AGTF) secured the detention through sustained coordination with international agencies, including the CBI and Interpol, police said",
-      "analysis_hi": "संदर्भ: The Rajasthan Anti-Gangster Task Force (AGTF) secured the detention through sustained coordination with international agencies, including the CBI and Interpol, police said...\n\nप्रमुख बिंदु:\n• The Rajasthan Anti-Gangster Task Force (AGTF) secured the detention through sustained coordination with international agencies, including the CBI and Interpol, police said\n",
-      "analysis_en": "Reference: The Rajasthan Anti-Gangster Task Force (AGTF) secured the detention through sustained coordination with international agencies, including the CBI and Interpol, police said...\n\nKey Points:\n• The Rajasthan Anti-Gangster Task Force (AGTF) secured the detention through sustained coordination with international agencies, including the CBI and Interpol, police said\n",
-      "link": "https://www.thehindu.com/news/national/lawrence-bishnoi-gang-member-hari-boxer-detained-in-us-extradition-process-underway/article71680607.ece"
-    },
-    {
-      "id": "4e313ea558f2",
-      "date": "08 Nov 2026",
-      "iso_date": "2026-11-08T05:40:14+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Bombay High Court allows BNS Section 75 charge where complainant identifies as woman",
-      "title_hi": "Bombay High Court allows BNS Section 75 charge where complainant identifies as woman",
-      "summary_en": "The judge rejected the argument that Section 75 cannot apply because the complainant is a transgender and not a woman",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The judge rejected the argument that Section 75 cannot apply because the complainant is a transgender and not a woman",
-      "analysis_hi": "संदर्भ: The judge rejected the argument that Section 75 cannot apply because the complainant is a transgender and not a woman...\n\nप्रमुख बिंदु:\n• The judge rejected the argument that Section 75 cannot apply because the complainant is a transgender and not a woman\n",
-      "analysis_en": "Reference: The judge rejected the argument that Section 75 cannot apply because the complainant is a transgender and not a woman...\n\nKey Points:\n• The judge rejected the argument that Section 75 cannot apply because the complainant is a transgender and not a woman\n",
-      "link": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-allows-bns-section-75-charge-where-complainant-identifies-as-woman/article71678923.ece"
-    },
-    {
-      "id": "dc268dd80bbf",
-      "date": "08 Nov 2026",
-      "iso_date": "2026-11-08T05:32:18+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "T.N. may be heading towards a water crisis, unless northeast monsoon comes to the rescue",
-      "title_hi": "T.N. may be heading towards a water crisis, unless northeast monsoon comes to the rescue",
-      "summary_en": "As of now, the aggregate storage in the major 15 irrigation reservoirs is about a third of the combined capacity of the reservoirs. In the corresponding period last year, the combined storage was around 92%",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। As of now, the aggregate storage in the major 15 irrigation reservoirs is about a third of the combined capacity of the reservoirs. In the corresponding period last year, the combined storage was around 92%",
-      "analysis_hi": "संदर्भ: As of now, the aggregate storage in the major 15 irrigation reservoirs is about a third of the combined capacity of the reservoirs. In the corresponding period last year, the combined storage was around 92%...\n\nप्रमुख बिंदु:\n• As of now, the aggregate storage in the major 15 irrigation reservoirs is about a third of the combined capacity of the reservoirs\n• In the corresponding period last year, the combined storage was around 92%\n",
-      "analysis_en": "Reference: As of now, the aggregate storage in the major 15 irrigation reservoirs is about a third of the combined capacity of the reservoirs. In the corresponding period last year, the combined storage was around 92%...\n\nKey Points:\n• As of now, the aggregate storage in the major 15 irrigation reservoirs is about a third of the combined capacity of the reservoirs\n• In the corresponding period last year, the combined storage was around 92%\n",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-may-be-heading-towards-a-water-crisis-unless-northeast-monsoon-comes-to-the-rescue/article71678260.ece"
-    },
-    {
-      "id": "79052579ddfb",
-      "date": "08 Nov 2026",
-      "iso_date": "2026-11-08T05:25:13+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "PM Modi to celebrate Deepavali with forces in Bastar that was once den of Maoists",
-      "title_hi": "PM Modi to celebrate Deepavali with forces in Bastar that was once den of Maoists",
-      "summary_en": "The Prime Minister said Bastar is an area where Maoism once held sway but now, development is flourishing",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The प्रधानमंत्री said Bastar is an area where Maoism once held sway but now, विकास is flourishing",
-      "analysis_hi": "संदर्भ: The Prime Minister said Bastar is an area where Maoism once held sway but now, development is flourishing...\n\nप्रमुख बिंदु:\n• The Prime Minister said Bastar is an area where Maoism once held sway but now, development is flourishing\n",
-      "analysis_en": "Reference: The Prime Minister said Bastar is an area where Maoism once held sway but now, development is flourishing...\n\nKey Points:\n• The Prime Minister said Bastar is an area where Maoism once held sway but now, development is flourishing\n",
-      "link": "https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece"
-    },
-    {
-      "id": "b3ccf061ea16",
-      "date": "08 Nov 2026",
-      "iso_date": "2026-11-08T05:09:39+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Delhi faces new challenge from Samosa caucus",
-      "title_hi": "Delhi faces new challenge from Samosa caucus",
-      "summary_en": "Surge in Indian-American wins in U.S. midterms may test MEA as young Desi Democrat leaders are more ready to take up civil rights causes in India too",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Surge in Indian-American wins in U.S. midterms may test MEA as young Desi Democrat leaders are more ready to take up civil rights causes in India too",
-      "analysis_hi": "संदर्भ: Surge in Indian-American wins in U.S. midterms may test MEA as young Desi Democrat leaders are more ready to take up civil rights causes in India too...\n\nप्रमुख बिंदु:\n• Surge in Indian-American wins in U.S\n• midterms may test MEA as young Desi Democrat leaders are more ready to take up civil rights causes in India too\n",
-      "analysis_en": "Reference: Surge in Indian-American wins in U.S. midterms may test MEA as young Desi Democrat leaders are more ready to take up civil rights causes in India too...\n\nKey Points:\n• Surge in Indian-American wins in U.S\n• midterms may test MEA as young Desi Democrat leaders are more ready to take up civil rights causes in India too\n",
-      "link": "https://www.thehindu.com/news/national/delhi-faces-new-challenge-from-samosa-caucus/article71680519.ece"
-    },
-    {
-      "id": "b0b96c8b6bc8",
-      "date": "08 Nov 2026",
-      "iso_date": "2026-11-08T05:05:16+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "News in Frames: Many twists in the monsoon’s tale",
-      "title_hi": "News in Frames: Many twists in the monsoon’s tale",
-      "summary_en": "Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 cr. in damage and leaving at least 17 dead; crops were flattened and coconut trees uprooted, with farmers in the Godavari belt facing at least two years of recovery",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 cr. in damage and leaving at least 17 dead; crops were flattened and coconut trees uprooted, with farmers in the Godavari belt facing at least two years of recovery",
-      "analysis_hi": "संदर्भ: Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 cr. in damage and leaving at least 17 dead; crops were flattened and coconut trees uprooted, with farmers in the Godavari belt facing at least two years of recovery...\n\nप्रमुख बिंदु:\n• Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 cr\n• in damage and leaving at least 17 dead; crops were flattened and coconut trees uprooted, with farmers in the Godavari belt facing at least two years of recovery\n",
-      "analysis_en": "Reference: Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 cr. in damage and leaving at least 17 dead; crops were flattened and coconut trees uprooted, with farmers in the Godavari belt facing at least two years of recovery...\n\nKey Points:\n• Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 cr\n• in damage and leaving at least 17 dead; crops were flattened and coconut trees uprooted, with farmers in the Godavari belt facing at least two years of recovery\n",
-      "link": "https://www.thehindu.com/photos/news-in-frames-many-twists-in-the-monsoons-tale/article71680539.ece"
-    },
-    {
-      "id": "756115f3bb07",
-      "date": "08 Nov 2026",
-      "iso_date": "2026-11-08T05:01:40+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Delhi wakes up to toxic haze on Deepavali, close to 'severe' AQI at 383",
-      "title_hi": "Delhi wakes up to toxic haze on Deepavali, close to 'severe' AQI at 383",
-      "summary_en": "Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app.",
-      "analysis_hi": "संदर्भ: Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app....\n\nप्रमुख बिंदु:\n• Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app.\n",
-      "analysis_en": "Reference: Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app....\n\nKey Points:\n• Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app.\n",
-      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-wakes-up-to-toxic-haze-on-deepavali-close-to-severe-aqi-at-383/article71680540.ece"
     }
   ]
 }
