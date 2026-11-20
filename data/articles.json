@@ -1,8 +1,150 @@
 {
-  "last_updated": "2026-11-20T07:33:13.290142+00:00",
-  "last_updated_ist": "20 November 2026, 01:03 PM IST",
+  "last_updated": "2026-11-20T07:37:30.628937+00:00",
+  "last_updated_ist": "20 November 2026, 01:07 PM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "93e6597168d4",
+      "date": "20 Nov 2026",
+      "iso_date": "2026-11-20T07:30:04+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "SC dismisses T.N.'s pleas seeking direction to Karnataka for release of 11 TMC of water from Cauvery river | LIVE",
+      "title_hi": "SC dismisses T.N.'s pleas seeking direction to Karnataka for release of 11 TMC of water from Cauvery river | LIVE",
+      "summary_en": "Tamil Nadu accused Karnataka of withholding water despite having sufficient reserves",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Tamil Nadu accused Karnataka of withholding water despite having sufficient reserves",
+      "analysis_hi": "संदर्भ: Tamil Nadu accused Karnataka of withholding water despite having sufficient reserves...\n\nप्रमुख बिंदु:\n• Tamil Nadu accused Karnataka of withholding water despite having sufficient reserves\n",
+      "analysis_en": "Reference: Tamil Nadu accused Karnataka of withholding water despite having sufficient reserves...\n\nKey Points:\n• Tamil Nadu accused Karnataka of withholding water despite having sufficient reserves\n",
+      "link": "https://www.thehindu.com/news/national/cauvery-water-sharing-dispute-tamil-nadu-karnataka-supreme-court-judgement-live-updates-november-20-2026/article71723088.ece"
+    },
+    {
+      "id": "01a87b34c794",
+      "date": "20 Nov 2026",
+      "iso_date": "2026-11-20T07:29:23+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "1.6 lakh candidates expected to take preliminary written test for Telangana SI and equivalent posts on November 29",
+      "title_hi": "1.6 lakh candidates expected to take preliminary written test for Telangana SI and equivalent posts on November 29",
+      "summary_en": "Hall tickets from November 22 to 28. Candidates arriving even a minute after 10 a.m. will not be allowed into the examination centre",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Hall tickets from November 22 to 28. Candidates arriving even a minute after 10 a.m. will not be allowed into the examination centre",
+      "analysis_hi": "संदर्भ: Hall tickets from November 22 to 28. Candidates arriving even a minute after 10 a.m. will not be allowed into the examination centre...\n\nप्रमुख बिंदु:\n• Hall tickets from November 22 to 28\n• Candidates arriving even a minute after 10 a.m\n• will not be allowed into the examination centre\n",
+      "analysis_en": "Reference: Hall tickets from November 22 to 28. Candidates arriving even a minute after 10 a.m. will not be allowed into the examination centre...\n\nKey Points:\n• Hall tickets from November 22 to 28\n• Candidates arriving even a minute after 10 a.m\n• will not be allowed into the examination centre\n",
+      "link": "https://www.thehindu.com/news/national/telangana/16-lakh-candidates-expected-to-take-preliminary-written-test-for-telangana-si-and-equivalent-posts-on-november-29/article71723456.ece"
+    },
+    {
+      "id": "39235a6ae06c",
+      "date": "20 Nov 2026",
+      "iso_date": "2026-11-20T07:28:38+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Man involved in exploitation of 14 women deported from UAE: CBI",
+      "title_hi": "Man involved in exploitation of 14 women deported from UAE: CBI",
+      "summary_en": "The fugitive, Mohd Mazin, had an Interpol Red Notice against him",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The fugitive, Mohd Mazin, had an Interpol Red Notice against him",
+      "analysis_hi": "संदर्भ: The fugitive, Mohd Mazin, had an Interpol Red Notice against him...\n\nप्रमुख बिंदु:\n• The fugitive, Mohd Mazin, had an Interpol Red Notice against him\n",
+      "analysis_en": "Reference: The fugitive, Mohd Mazin, had an Interpol Red Notice against him...\n\nKey Points:\n• The fugitive, Mohd Mazin, had an Interpol Red Notice against him\n",
+      "link": "https://www.thehindu.com/news/national/man-involved-in-exploitation-of-14-women-deported-from-uae-cbi/article71723431.ece"
+    },
+    {
+      "id": "f1ce617dc054",
+      "date": "20 Nov 2026",
+      "iso_date": "2026-11-20T07:28:03+00:00",
+      "category": "environment",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "CEC report may complicate Keralam’s plan to resume river sand mining",
+      "title_hi": "CEC report may complicate Keralam’s plan to resume river sand mining",
+      "summary_en": "Keralam’s bid to end decade-long ban on river sand mining is on a collision course with a report by the SC-appointed Central Empowered Committee, which recommended a three-year roadmap to phase out unsustainable sand extraction from active river channels across the country",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Keralam’s bid to end decade-long ban on river sand mining is on a collision course with a report by the SC-appointed Central Empowered Committee, which recommended a three-year roadmap to phase out unsustainable sand extraction from active river channels across the country",
+      "analysis_hi": "संदर्भ: Keralam’s bid to end decade-long ban on river sand mining is on a collision course with a report by the SC-appointed Central Empowered Committee, which recommended a three-year roadmap to phase out unsustainable sand extraction from active river channels across the country...\n\nप्रमुख बिंदु:\n• Keralam’s bid to end decade-long ban on river sand mining is on a collision course with a report by the SC-appointed Central Empowered Committee, which recommended a three-year roadmap to phase out unsustainable sand extraction from active river channels across the country\n",
+      "analysis_en": "Reference: Keralam’s bid to end decade-long ban on river sand mining is on a collision course with a report by the SC-appointed Central Empowered Committee, which recommended a three-year roadmap to phase out unsustainable sand extraction from active river channels across the country...\n\nKey Points:\n• Keralam’s bid to end decade-long ban on river sand mining is on a collision course with a report by the SC-appointed Central Empowered Committee, which recommended a three-year roadmap to phase out unsustainable sand extraction from active river channels across the country\n",
+      "link": "https://www.thehindu.com/news/national/kerala/cec-report-may-complicate-keralams-plan-to-resume-river-sand-mining/article71708178.ece"
+    },
+    {
+      "id": "a50082d18f14",
+      "date": "20 Nov 2026",
+      "iso_date": "2026-11-20T07:23:45+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Cauvery dispute: SC dismisses TN plea on Karnataka not making good shortfall in water share",
+      "title_hi": "Cauvery dispute: SC dismisses TN plea on Karnataka not making good shortfall in water share",
+      "summary_en": "The judgment is based on applications filed by TN, alleging that Karnataka had failed to implement the binding judgment of the SC to ensure water to to TN at Billigundulu on a pro-rata basis during distress years like the current one",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The judgment is based on applications filed by TN, alleging that Karnataka had failed to implement the binding judgment of the SC to ensure water to to TN at Billigundulu on a pro-rata basis during distress years like the current one",
+      "analysis_hi": "संदर्भ: The judgment is based on applications filed by TN, alleging that Karnataka had failed to implement the binding judgment of the SC to ensure water to to TN at Billigundulu on a pro-rata basis during distress years like the current one...\n\nप्रमुख बिंदु:\n• The judgment is based on applications filed by TN, alleging that Karnataka had failed to implement the binding judgment of the SC to ensure water to to TN at Billigundulu on a pro-rata basis during distress years like the current one\n",
+      "analysis_en": "Reference: The judgment is based on applications filed by TN, alleging that Karnataka had failed to implement the binding judgment of the SC to ensure water to to TN at Billigundulu on a pro-rata basis during distress years like the current one...\n\nKey Points:\n• The judgment is based on applications filed by TN, alleging that Karnataka had failed to implement the binding judgment of the SC to ensure water to to TN at Billigundulu on a pro-rata basis during distress years like the current one\n",
+      "link": "https://www.thehindu.com/news/national/cauvery-dispute-sc-dismisses-tamil-nadus-plea-seeking-direction-to-karnataka-on-release-of-additional-water/article71723333.ece"
+    },
     {
       "id": "c007b65c141d",
       "date": "20 Nov 2026",
@@ -61,6 +203,35 @@
       "link": "https://www.thehindu.com/news/national/nepal-pm-balendra-shah-to-visit-india-on-november-2223/article71723493.ece"
     },
     {
+      "id": "7fb5b80b4ca7",
+      "date": "20 Nov 2026",
+      "iso_date": "2026-11-20T07:22:01+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Rare ‘bridal veil’ bamboo mushroom spotted near Ranganathittu Bird Sanctuary",
+      "title_hi": "Rare ‘bridal veil’ bamboo mushroom spotted near Ranganathittu Bird Sanctuary",
+      "summary_en": "Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets.",
+      "analysis_hi": "संदर्भ: Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets....\n\nप्रमुख बिंदु:\n• Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets.\n",
+      "analysis_en": "Reference: Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets....\n\nKey Points:\n• Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets.\n",
+      "link": "https://www.thehindu.com/news/national/karnataka/rare-bridal-veil-bamboo-mushroom-spotted-near-ranganathittu-bird-sanctuary/article71723406.ece"
+    },
+    {
       "id": "059e1a9b8f91",
       "date": "20 Nov 2026",
       "iso_date": "2026-11-20T07:21:27+00:00",
@@ -87,62 +258,6 @@
       "analysis_hi": "संदर्भ: Searches conducted mainly in Kannur, Kasaragod, Kozhikode, Malappuram and Palakkad districts...\n\nप्रमुख बिंदु:\n• Searches conducted mainly in Kannur, Kasaragod, Kozhikode, Malappuram and Palakkad districts\n",
       "analysis_en": "Reference: Searches conducted mainly in Kannur, Kasaragod, Kozhikode, Malappuram and Palakkad districts...\n\nKey Points:\n• Searches conducted mainly in Kannur, Kasaragod, Kozhikode, Malappuram and Palakkad districts\n",
       "link": "https://www.thehindu.com/news/national/kerala/ed-conducts-searches-in-keralam-as-part-of-fema-violations-probe/article71723161.ece"
-    },
-    {
-      "id": "01a87b34c794",
-      "date": "20 Nov 2026",
-      "iso_date": "2026-11-20T07:20:05+00:00",
-      "category": "environment",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "1.6 lakh candidates expected to take preliminary written test for Telangana SI and equivalent posts on November 29",
-      "title_hi": "1.6 lakh candidates expected to take preliminary written test for Telangana SI and equivalent posts on November 29",
-      "summary_en": "Hall tickets from November 22 to 28. Candidates arriving even a minute after 10 a.m. will not be allowed into the examination centre",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Hall tickets from November 22 to 28. Candidates arriving even a minute after 10 a.m. will not be allowed into the examination centre",
-      "analysis_hi": "संदर्भ: Hall tickets from November 22 to 28. Candidates arriving even a minute after 10 a.m. will not be allowed into the examination centre...\n\nप्रमुख बिंदु:\n• Hall tickets from November 22 to 28\n• Candidates arriving even a minute after 10 a.m\n• will not be allowed into the examination centre\n",
-      "analysis_en": "Reference: Hall tickets from November 22 to 28. Candidates arriving even a minute after 10 a.m. will not be allowed into the examination centre...\n\nKey Points:\n• Hall tickets from November 22 to 28\n• Candidates arriving even a minute after 10 a.m\n• will not be allowed into the examination centre\n",
-      "link": "https://www.thehindu.com/news/national/telangana/16-lakh-candidates-expected-to-take-preliminary-written-test-for-telangana-si-and-equivalent-posts-on-november-29/article71723456.ece"
-    },
-    {
-      "id": "39235a6ae06c",
-      "date": "20 Nov 2026",
-      "iso_date": "2026-11-20T07:18:46+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Man involved in exploitation of 14 women deported from UAE: CBI",
-      "title_hi": "Man involved in exploitation of 14 women deported from UAE: CBI",
-      "summary_en": "The fugitive, Mohd Mazin, had an Interpol Red Notice against him",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The fugitive, Mohd Mazin, had an Interpol Red Notice against him",
-      "analysis_hi": "संदर्भ: The fugitive, Mohd Mazin, had an Interpol Red Notice against him...\n\nप्रमुख बिंदु:\n• The fugitive, Mohd Mazin, had an Interpol Red Notice against him\n",
-      "analysis_en": "Reference: The fugitive, Mohd Mazin, had an Interpol Red Notice against him...\n\nKey Points:\n• The fugitive, Mohd Mazin, had an Interpol Red Notice against him\n",
-      "link": "https://www.thehindu.com/news/national/man-involved-in-exploitation-of-14-women-deported-from-uae-cbi/article71723431.ece"
     },
     {
       "id": "a7928b892ddb",
@@ -259,35 +374,6 @@
       "link": "https://www.thehindu.com/news/national/cyclone-akvan-train-cancellations-list-of-affected-trains-in-odisha-andhra-pradesh/article71723364.ece"
     },
     {
-      "id": "a50082d18f14",
-      "date": "20 Nov 2026",
-      "iso_date": "2026-11-20T07:12:40+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Cauvery dispute: SC dismisses TN plea on Karnataka not making good shortfall in water share",
-      "title_hi": "Cauvery dispute: SC dismisses TN plea on Karnataka not making good shortfall in water share",
-      "summary_en": "The judgment is based on applications filed by TN, alleging that Karnataka had failed to implement the binding judgment of the SC to ensure water to to TN at Billigundulu on a pro-rata basis during distress years like the current one",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The judgment is based on applications filed by TN, alleging that Karnataka had failed to implement the binding judgment of the SC to ensure water to to TN at Billigundulu on a pro-rata basis during distress years like the current one",
-      "analysis_hi": "संदर्भ: The judgment is based on applications filed by TN, alleging that Karnataka had failed to implement the binding judgment of the SC to ensure water to to TN at Billigundulu on a pro-rata basis during distress years like the current one...\n\nप्रमुख बिंदु:\n• The judgment is based on applications filed by TN, alleging that Karnataka had failed to implement the binding judgment of the SC to ensure water to to TN at Billigundulu on a pro-rata basis during distress years like the current one\n",
-      "analysis_en": "Reference: The judgment is based on applications filed by TN, alleging that Karnataka had failed to implement the binding judgment of the SC to ensure water to to TN at Billigundulu on a pro-rata basis during distress years like the current one...\n\nKey Points:\n• The judgment is based on applications filed by TN, alleging that Karnataka had failed to implement the binding judgment of the SC to ensure water to to TN at Billigundulu on a pro-rata basis during distress years like the current one\n",
-      "link": "https://www.thehindu.com/news/national/cauvery-dispute-sc-dismisses-tamil-nadus-plea-seeking-direction-to-karnataka-on-release-of-additional-water/article71723333.ece"
-    },
-    {
       "id": "294cd2632590",
       "date": "20 Nov 2026",
       "iso_date": "2026-11-20T07:10:16+00:00",
@@ -315,35 +401,6 @@
       "analysis_hi": "संदर्भ: Last month, a Single Bench of Kerala High Court directed AWHO to take possession of apartments from residents and hand them over to Edifice Engineering, company entrusted with the demolition work...\n\nप्रमुख बिंदु:\n• Last month, a Single Bench of Kerala High Court directed AWHO to take possession of apartments from residents and hand them over to Edifice Engineering, company entrusted with the demolition work\n",
       "analysis_en": "Reference: Last month, a Single Bench of Kerala High Court directed AWHO to take possession of apartments from residents and hand them over to Edifice Engineering, company entrusted with the demolition work...\n\nKey Points:\n• Last month, a Single Bench of Kerala High Court directed AWHO to take possession of apartments from residents and hand them over to Edifice Engineering, company entrusted with the demolition work\n",
       "link": "https://www.thehindu.com/news/national/kerala/ahead-of-demolition-army-welfare-housing-organisation-begins-takeover-of-chander-kunj-flats-in-kochi/article71723353.ece"
-    },
-    {
-      "id": "7fb5b80b4ca7",
-      "date": "20 Nov 2026",
-      "iso_date": "2026-11-20T07:09:34+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Rare ‘bridal veil’ bamboo mushroom spotted near Ranganathittu Bird Sanctuary",
-      "title_hi": "Rare ‘bridal veil’ bamboo mushroom spotted near Ranganathittu Bird Sanctuary",
-      "summary_en": "Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets.",
-      "analysis_hi": "संदर्भ: Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets....\n\nप्रमुख बिंदु:\n• Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets.\n",
-      "analysis_en": "Reference: Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets....\n\nKey Points:\n• Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets.\n",
-      "link": "https://www.thehindu.com/news/national/karnataka/rare-bridal-veil-bamboo-mushroom-spotted-near-ranganathittu-bird-sanctuary/article71723406.ece"
     },
     {
       "id": "b458b2544e8d",
@@ -400,35 +457,6 @@
       "analysis_hi": "संदर्भ: Ichchapuram records 184.6 mm in 24 hours; the Collector says leave for all officials has been cancelled for relief work...\n\nप्रमुख बिंदु:\n• Ichchapuram records 184.6 mm in 24 hours; the Collector says leave for all officials has been cancelled for relief work\n",
       "analysis_en": "Reference: Ichchapuram records 184.6 mm in 24 hours; the Collector says leave for all officials has been cancelled for relief work...\n\nKey Points:\n• Ichchapuram records 184.6 mm in 24 hours; the Collector says leave for all officials has been cancelled for relief work\n",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-heavy-rain-inundates-low-lying-areas-of-ichchapuram-sompeta-in-srikakulam-district/article71723029.ece"
-    },
-    {
-      "id": "93e6597168d4",
-      "date": "20 Nov 2026",
-      "iso_date": "2026-11-20T07:06:41+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "SC dismisses T.N.'s pleas seeking direction to Karnataka for release of 11 TMC of water from Cauvery river | LIVE",
-      "title_hi": "SC dismisses T.N.'s pleas seeking direction to Karnataka for release of 11 TMC of water from Cauvery river | LIVE",
-      "summary_en": "Tamil Nadu accused Karnataka of withholding water despite having sufficient reserves",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Tamil Nadu accused Karnataka of withholding water despite having sufficient reserves",
-      "analysis_hi": "संदर्भ: Tamil Nadu accused Karnataka of withholding water despite having sufficient reserves...\n\nप्रमुख बिंदु:\n• Tamil Nadu accused Karnataka of withholding water despite having sufficient reserves\n",
-      "analysis_en": "Reference: Tamil Nadu accused Karnataka of withholding water despite having sufficient reserves...\n\nKey Points:\n• Tamil Nadu accused Karnataka of withholding water despite having sufficient reserves\n",
-      "link": "https://www.thehindu.com/news/national/cauvery-water-sharing-dispute-tamil-nadu-karnataka-supreme-court-judgement-live-updates-november-20-2026/article71723088.ece"
     },
     {
       "id": "91adc656f804",
@@ -513,34 +541,6 @@
       "analysis_hi": "संदर्भ: Moorthi claims he had only leased out his land and was unaware of the irregularities...\n\nप्रमुख बिंदु:\n• Moorthi claims he had only leased out his land and was unaware of the irregularities\n",
       "analysis_en": "Reference: Moorthi claims he had only leased out his land and was unaware of the irregularities...\n\nKey Points:\n• Moorthi claims he had only leased out his land and was unaware of the irregularities\n",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/irregularities-in-quarrying-minerals-police-search-former-dmk-minister-p-moorthis-house-in-madurai/article71723362.ece"
-    },
-    {
-      "id": "436fd8e01a3e",
-      "date": "20 Nov 2026",
-      "iso_date": "2026-11-20T06:31:26+00:00",
-      "category": "social",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-1",
-        "GS-2"
-      ],
-      "subjects": [
-        "Social Issues"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-1: Population and associated issues",
-        "GS-2: Issues relating to development and management of Social Sector/Services"
-      ],
-      "title_en": "Dr. NTR University of Health Sciences VC Pulala Chandrasekhar elected Fellow of AP Akademi of Sciences",
-      "title_hi": "Dr. NTR University of Health Sciences VC Pulala Chandrasekhar elected Fellow of AP Akademi of Sciences",
-      "summary_en": "The fellowship is an academic distinction conferred by the Akademi, which brings together scientists, academicians and professionals from various scientific disciplines",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The fellowship is an academic distinction conferred by the Akademi, which brings together scientists, academicians and professionals from various scientific disciplines",
-      "analysis_hi": "संदर्भ: The fellowship is an academic distinction conferred by the Akademi, which brings together scientists, academicians and professionals from various scientific disciplines...\n\nप्रमुख बिंदु:\n• The fellowship is an academic distinction conferred by the Akademi, which brings together scientists, academicians and professionals from various scientific disciplines\n",
-      "analysis_en": "Reference: The fellowship is an academic distinction conferred by the Akademi, which brings together scientists, academicians and professionals from various scientific disciplines...\n\nKey Points:\n• The fellowship is an academic distinction conferred by the Akademi, which brings together scientists, academicians and professionals from various scientific disciplines\n",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/dr-ntr-university-of-health-sciences-vc-pulala-chandrasekhar-elected-fellow-of-ap-akademi-of-sciences/article71719135.ece"
     },
     {
       "id": "4ed5eee50b0f",
@@ -1109,6 +1109,34 @@
       "analysis_hi": "संदर्भ: Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments...\n\nप्रमुख बिंदु:\n• Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments\n",
       "analysis_en": "Reference: Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments...\n\nKey Points:\n• Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments\n",
       "link": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
+    },
+    {
+      "id": "436fd8e01a3e",
+      "date": "20 Nov 2026",
+      "iso_date": "2026-11-20T06:31:26+00:00",
+      "category": "social",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-1",
+        "GS-2"
+      ],
+      "subjects": [
+        "Social Issues"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-1: Population and associated issues",
+        "GS-2: Issues relating to development and management of Social Sector/Services"
+      ],
+      "title_en": "Dr. NTR University of Health Sciences VC Pulala Chandrasekhar elected Fellow of AP Akademi of Sciences",
+      "title_hi": "Dr. NTR University of Health Sciences VC Pulala Chandrasekhar elected Fellow of AP Akademi of Sciences",
+      "summary_en": "The fellowship is an academic distinction conferred by the Akademi, which brings together scientists, academicians and professionals from various scientific disciplines",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। The fellowship is an academic distinction conferred by the Akademi, which brings together scientists, academicians and professionals from various scientific disciplines",
+      "analysis_hi": "संदर्भ: The fellowship is an academic distinction conferred by the Akademi, which brings together scientists, academicians and professionals from various scientific disciplines...\n\nप्रमुख बिंदु:\n• The fellowship is an academic distinction conferred by the Akademi, which brings together scientists, academicians and professionals from various scientific disciplines\n",
+      "analysis_en": "Reference: The fellowship is an academic distinction conferred by the Akademi, which brings together scientists, academicians and professionals from various scientific disciplines...\n\nKey Points:\n• The fellowship is an academic distinction conferred by the Akademi, which brings together scientists, academicians and professionals from various scientific disciplines\n",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/dr-ntr-university-of-health-sciences-vc-pulala-chandrasekhar-elected-fellow-of-ap-akademi-of-sciences/article71719135.ece"
     },
     {
       "id": "5d930529b5ae",
@@ -5646,33 +5674,6 @@
       "analysis_hi": "संदर्भ: Till date, across the eight tranches of mineral block auctions, 100 unique critical and strategic mineral blocks have been offered, of which 64 blocks have been successfully auctioned....\n\nप्रमुख बिंदु:\n• Till date, across the eight tranches of mineral block auctions, 100 unique critical and strategic mineral blocks have been offered, of which 64 blocks have been successfully auctioned.\n",
       "analysis_en": "Reference: Till date, across the eight tranches of mineral block auctions, 100 unique critical and strategic mineral blocks have been offered, of which 64 blocks have been successfully auctioned....\n\nKey Points:\n• Till date, across the eight tranches of mineral block auctions, 100 unique critical and strategic mineral blocks have been offered, of which 64 blocks have been successfully auctioned.\n",
       "link": "https://www.thehindu.com/business/Economy/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece"
-    },
-    {
-      "id": "7adde7151770",
-      "date": "12 Nov 2026",
-      "iso_date": "2026-11-12T07:15:48+00:00",
-      "category": "ir",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "International Relations"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: India and its neighborhood- relations",
-        "GS-2: Important International institutions, agencies and fora"
-      ],
-      "title_en": "Pawan Kalyan pitches Andhra Pradesh as trusted global hub; Lokesh unveils red-carpet framework at 31st Vizag CII Summit",
-      "title_hi": "Pawan Kalyan pitches Andhra Pradesh as trusted global hub; Lokesh unveils red-carpet framework at 31st Vizag CII Summit",
-      "summary_en": "Mr. Lokesh urged corporate leaders to move beyond setting up manufacturing units and relocate their primary corporate headquarters to Andhra Pradesh, citing superior quality of life, skilled talent pipelines, and seamless connectivity anchored by new ports and the Bhogapuram International Airport",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Mr. Lokesh urged corporate leaders to move beyond setting up manufacturing units and relocate their primary corporate headquarters to Andhra Pradesh, citing superior quality of life, skilled talent pipelines, and seamless connectivity anchored by new ports and the Bhogapuram International Airport",
-      "analysis_hi": "संदर्भ: Mr. Lokesh urged corporate leaders to move beyond setting up manufacturing units and relocate their primary corporate headquarters to Andhra Pradesh, citing superior quality of life, skilled talent pipelines, and seamless connectivity anchored by new ports and the Bhogapuram International Airport...\n\nप्रमुख बिंदु:\n• Lokesh urged corporate leaders to move beyond setting up manufacturing units and relocate their primary corporate headquarters to Andhra Pradesh, citing superior quality of life, skilled talent pipelines, and seamless connectivity anchored by new ports and the Bhogapuram International Airport\n",
-      "analysis_en": "Reference: Mr. Lokesh urged corporate leaders to move beyond setting up manufacturing units and relocate their primary corporate headquarters to Andhra Pradesh, citing superior quality of life, skilled talent pipelines, and seamless connectivity anchored by new ports and the Bhogapuram International Airport...\n\nKey Points:\n• Lokesh urged corporate leaders to move beyond setting up manufacturing units and relocate their primary corporate headquarters to Andhra Pradesh, citing superior quality of life, skilled talent pipelines, and seamless connectivity anchored by new ports and the Bhogapuram International Airport\n",
-      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/pawan-kalyan-pitches-andhra-pradesh-as-trusted-global-hub-lokesh-unveils-red-carpet-framework-at-31st-vizag-cii-summit/article71692595.ece"
     }
   ]
 }
