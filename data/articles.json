@@ -1,94 +1,8 @@
 {
-  "last_updated": "2026-11-25T08:55:46.072394+00:00",
-  "last_updated_ist": "25 November 2026, 02:25 PM IST",
+  "last_updated": "2026-11-25T08:58:01.615896+00:00",
+  "last_updated_ist": "25 November 2026, 02:28 PM IST",
   "total_articles": 200,
   "articles": [
-    {
-      "id": "52bd4f1f1c6c",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:50:07+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers",
-      "title_hi": "IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers",
-      "summary_en": "IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers",
-      "analysis_hi": "संदर्भ: IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers...\n\nप्रमुख बिंदु:\n• IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers\n",
-      "analysis_en": "Reference: IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers...\n\nKey Points:\n• IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers\n",
-      "link": "https://indianexpress.com/article/education/iim-ahmedabad-summer-placements-2026-27-414-students-placed-consulting-accounts-for-46-of-offers-10977839/"
-    },
-    {
-      "id": "9a80fe24c563",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:49:05+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds",
-      "title_hi": "Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds",
-      "summary_en": "Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds",
-      "analysis_hi": "संदर्भ: Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds...\n\nप्रमुख बिंदु:\n• Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds\n",
-      "analysis_en": "Reference: Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds...\n\nKey Points:\n• Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds\n",
-      "link": "https://indianexpress.com/article/cities/mumbai/richest-indians-mortality-muslim-men-women-study-10977808/"
-    },
-    {
-      "id": "844f10cc72e0",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:43:38+00:00",
-      "category": "environment",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara",
-      "title_hi": "‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara",
-      "summary_en": "‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara",
-      "analysis_hi": "संदर्भ: ‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara...\n\nप्रमुख बिंदु:\n• ‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara\n",
-      "analysis_en": "Reference: ‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara...\n\nKey Points:\n• ‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara\n",
-      "link": "https://indianexpress.com/article/entertainment/telugu/chiranjeevi-leads-industry-wide-praise-for-aakasamlo-oka-tara-10977743/"
-    },
     {
       "id": "7208f06071a1",
       "date": "25 Nov 2026",
@@ -147,34 +61,6 @@
       "link": "https://www.thehindu.com/news/national/saam-daam-dand-bhed-congress-swipe-at-modi-govt-over-delimitation-issue/article71741621.ece"
     },
     {
-      "id": "8ae95ad91960",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:38:13+00:00",
-      "category": "scitech",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi",
-      "title_hi": "‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi",
-      "summary_en": "‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi",
-      "analysis_hi": "संदर्भ: ‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi...\n\nप्रमुख बिंदु:\n• ‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi\n",
-      "analysis_en": "Reference: ‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi...\n\nKey Points:\n• ‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi\n",
-      "link": "https://indianexpress.com/article/sports/cricket/vaibhav-sooryavanshi-record-breaker-double-century-basit-ali-kamran-akmal-pakistan-10977819/"
-    },
-    {
       "id": "f6c3de1701b8",
       "date": "25 Nov 2026",
       "iso_date": "2026-11-25T08:35:21+00:00",
@@ -201,34 +87,6 @@
       "analysis_hi": "संदर्भ: It identified 120 locations for skywalks, FoBs and other pedestrian infrastructure. The interventions include 1-km skywalk connecting Secunderabad Railway Station, Metro Stations and bus stations...\n\nप्रमुख बिंदु:\n• It identified 120 locations for skywalks, FoBs and other pedestrian infrastructure\n• The interventions include 1-km skywalk connecting Secunderabad Railway Station, Metro Stations and bus stations\n",
       "analysis_en": "Reference: It identified 120 locations for skywalks, FoBs and other pedestrian infrastructure. The interventions include 1-km skywalk connecting Secunderabad Railway Station, Metro Stations and bus stations...\n\nKey Points:\n• It identified 120 locations for skywalks, FoBs and other pedestrian infrastructure\n• The interventions include 1-km skywalk connecting Secunderabad Railway Station, Metro Stations and bus stations\n",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/space-for-pedestrians-other-road-users-in-hyderabad-by-2050-promises-humta/article71741392.ece"
-    },
-    {
-      "id": "437b2421d672",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:34:49+00:00",
-      "category": "scitech",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire",
-      "title_hi": "Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire",
-      "summary_en": "Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire",
-      "analysis_hi": "संदर्भ: Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire...\n\nप्रमुख बिंदु:\n• Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire\n",
-      "analysis_en": "Reference: Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire...\n\nKey Points:\n• Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire\n",
-      "link": "https://indianexpress.com/article/sports/vikas-krishan-2010-guangzhou-asian-games-november-25-10977372/"
     },
     {
       "id": "fdc3cc79854e",
@@ -313,34 +171,6 @@
       "analysis_hi": "संदर्भ: On the internal conflicts within the Congress involving MPs Rajmohan Unnithan and Shafi Parambil, Satheesan said he did not wish to comment on “organisational matters”...\n\nप्रमुख बिंदु:\n• On the internal conflicts within the Congress involving MPs Rajmohan Unnithan and Shafi Parambil, Satheesan said he did not wish to comment on “organisational matters”\n",
       "analysis_en": "Reference: On the internal conflicts within the Congress involving MPs Rajmohan Unnithan and Shafi Parambil, Satheesan said he did not wish to comment on “organisational matters”...\n\nKey Points:\n• On the internal conflicts within the Congress involving MPs Rajmohan Unnithan and Shafi Parambil, Satheesan said he did not wish to comment on “organisational matters”\n",
       "link": "https://www.thehindu.com/news/national/kerala/keralam-cm-satheesan-says-he-too-is-target-of-online-attacks-alleges-important-individual-behind-fake-news-campaign/article71741610.ece"
-    },
-    {
-      "id": "349aec9636b3",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:28:28+00:00",
-      "category": "environment",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "Why doctors may recommend a fasting insulin test even with normal blood sugar",
-      "title_hi": "Why doctors may recommend a fasting insulin test even with normal blood sugar",
-      "summary_en": "Why doctors may recommend a fasting insulin test even with normal blood sugar",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Why doctors may recommend a fasting insulin test even with normal blood sugar",
-      "analysis_hi": "संदर्भ: Why doctors may recommend a fasting insulin test even with normal blood sugar...\n\nप्रमुख बिंदु:\n• Why doctors may recommend a fasting insulin test even with normal blood sugar\n",
-      "analysis_en": "Reference: Why doctors may recommend a fasting insulin test even with normal blood sugar...\n\nKey Points:\n• Why doctors may recommend a fasting insulin test even with normal blood sugar\n",
-      "link": "https://indianexpress.com/article/lifestyle/health/why-doctors-may-recommend-a-fasting-insulin-test-even-with-normal-blood-sugar-10970135/"
     },
     {
       "id": "530712579942",
@@ -429,64 +259,6 @@
       "link": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-restrains-kmc-polls-until-challenge-on-delimitation-decided/article71675339.ece"
     },
     {
-      "id": "fe612f8c80c9",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:22:32+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Man attacked with sharp weapons outside Pune district court, critically injured",
-      "title_hi": "Man attacked with sharp weapons outside Pune district court, critically injured",
-      "summary_en": "Man attacked with sharp weapons outside Pune district court, critically injured",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Man attacked with sharp weapons outside Pune district court, critically injured",
-      "analysis_hi": "संदर्भ: Man attacked with sharp weapons outside Pune district court, critically injured...\n\nप्रमुख बिंदु:\n• Man attacked with sharp weapons outside Pune district court, critically injured\n",
-      "analysis_en": "Reference: Man attacked with sharp weapons outside Pune district court, critically injured...\n\nKey Points:\n• Man attacked with sharp weapons outside Pune district court, critically injured\n",
-      "link": "https://indianexpress.com/article/cities/pune/pune-district-court-shivajinagar-attack-weapons-10977851/"
-    },
-    {
-      "id": "73283938d573",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:22:22+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Anthropic now lets users download artifacts as standalone apps on Mac and Windows",
-      "title_hi": "Anthropic now lets users download artifacts as standalone apps on Mac and Windows",
-      "summary_en": "Anthropic now lets users download artifacts as standalone apps on Mac and Windows",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Anthropic now lets users download artifacts as standalone apps on Mac and Windows",
-      "analysis_hi": "संदर्भ: Anthropic now lets users download artifacts as standalone apps on Mac and Windows...\n\nप्रमुख बिंदु:\n• Anthropic now lets users download artifacts as standalone apps on Mac and Windows\n",
-      "analysis_en": "Reference: Anthropic now lets users download artifacts as standalone apps on Mac and Windows...\n\nKey Points:\n• Anthropic now lets users download artifacts as standalone apps on Mac and Windows\n",
-      "link": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-artifacts-install-as-app-desktop-10977812/"
-    },
-    {
       "id": "ef75d04d93da",
       "date": "25 Nov 2026",
       "iso_date": "2026-11-25T08:21:34+00:00",
@@ -543,120 +315,6 @@
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/search-intensified-for-six-missing-andhra-pradesh-fishermen-off-odisha-coast/article71738367.ece"
     },
     {
-      "id": "91b7917abe1b",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:21:14+00:00",
-      "category": "scitech",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "In Ranchi, a protest against tree felling ends in detentions",
-      "title_hi": "In Ranchi, a protest against tree felling ends in detentions",
-      "summary_en": "In Ranchi, a protest against tree felling ends in detentions",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In Ranchi, a protest against tree felling ends in detentions",
-      "analysis_hi": "संदर्भ: In Ranchi, a protest against tree felling ends in detentions...\n\nप्रमुख बिंदु:\n• In Ranchi, a protest against tree felling ends in detentions\n",
-      "analysis_en": "Reference: In Ranchi, a protest against tree felling ends in detentions...\n\nKey Points:\n• In Ranchi, a protest against tree felling ends in detentions\n",
-      "link": "https://indianexpress.com/article/india/ranchi-protest-tree-felling-detentions-10977816/"
-    },
-    {
-      "id": "a6ff5bb8cbc6",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:21:05+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Flipkart CEO Kalyan Krishnamurthy to step down next month: Report",
-      "title_hi": "Flipkart CEO Kalyan Krishnamurthy to step down next month: Report",
-      "summary_en": "Flipkart CEO Kalyan Krishnamurthy to step down next month: Report",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Flipkart CEO Kalyan Krishnamurthy to step down next month: Report",
-      "analysis_hi": "संदर्भ: Flipkart CEO Kalyan Krishnamurthy to step down next month: Report...\n\nप्रमुख बिंदु:\n• Flipkart CEO Kalyan Krishnamurthy to step down next month: Report\n",
-      "analysis_en": "Reference: Flipkart CEO Kalyan Krishnamurthy to step down next month: Report...\n\nKey Points:\n• Flipkart CEO Kalyan Krishnamurthy to step down next month: Report\n",
-      "link": "https://indianexpress.com/article/business/flipkart-ceo-kalyan-krishnamurthy-to-resign-in-december-10977826/"
-    },
-    {
-      "id": "f68ad493e9b9",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:18:58+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "CJP’s Saurav Das moves Delhi HC over being stopped from flying to London",
-      "title_hi": "CJP’s Saurav Das moves Delhi HC over being stopped from flying to London",
-      "summary_en": "CJP’s Saurav Das moves Delhi HC over being stopped from flying to London",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। CJP’s Saurav Das moves Delhi HC over being stopped from flying to London",
-      "analysis_hi": "संदर्भ: CJP’s Saurav Das moves Delhi HC over being stopped from flying to London...\n\nप्रमुख बिंदु:\n• CJP’s Saurav Das moves Delhi HC over being stopped from flying to London\n",
-      "analysis_en": "Reference: CJP’s Saurav Das moves Delhi HC over being stopped from flying to London...\n\nKey Points:\n• CJP’s Saurav Das moves Delhi HC over being stopped from flying to London\n",
-      "link": "https://indianexpress.com/article/india/cjps-saurav-das-moves-delhi-hc-after-being-stopped-from-flying-to-london-10977820/"
-    },
-    {
-      "id": "c39d0670f8fe",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:17:20+00:00",
-      "category": "environment",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Environment"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Conservation, environmental pollution and degradation",
-        "GS-3: Environmental impact assessment"
-      ],
-      "title_en": "COP31 failed to deliver. How climate negotiations can move forward from here",
-      "title_hi": "COP31 failed to deliver. How climate negotiations can move forward from here",
-      "summary_en": "COP31 failed to deliver. How climate negotiations can move forward from here",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। COP31 failed to deliver. How जलवायु negotiations can move forward from here",
-      "analysis_hi": "संदर्भ: COP31 failed to deliver. How climate negotiations can move forward from here...\n\nप्रमुख बिंदु:\n• How climate negotiations can move forward from here\n",
-      "analysis_en": "Reference: COP31 failed to deliver. How climate negotiations can move forward from here...\n\nKey Points:\n• How climate negotiations can move forward from here\n",
-      "link": "https://indianexpress.com/article/explained/explained-climate/cop31-climate-summit-fossil-fuels-finance-negotiations-explained-10977769/"
-    },
-    {
       "id": "1a93d7d92d75",
       "date": "25 Nov 2026",
       "iso_date": "2026-11-25T08:09:37+00:00",
@@ -684,35 +342,6 @@
       "analysis_hi": "संदर्भ: Saurav Das has alleged that he was stopped at the immigration counter at the Delhi airport before boarding his flight to London....\n\nप्रमुख बिंदु:\n• Saurav Das has alleged that he was stopped at the immigration counter at the Delhi airport before boarding his flight to London.\n",
       "analysis_en": "Reference: Saurav Das has alleged that he was stopped at the immigration counter at the Delhi airport before boarding his flight to London....\n\nKey Points:\n• Saurav Das has alleged that he was stopped at the immigration counter at the Delhi airport before boarding his flight to London.\n",
       "link": "https://www.thehindu.com/news/national/cjps-saurav-das-moves-delhi-high-court-over-being-stopped-from-flying-to-uk-hearing-on-november-26/article71741451.ece"
-    },
-    {
-      "id": "9ef67b00c6e2",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:09:28+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century",
-      "title_hi": "How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century",
-      "summary_en": "How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century",
-      "analysis_hi": "संदर्भ: How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century...\n\nप्रमुख बिंदु:\n• How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century\n",
-      "analysis_en": "Reference: How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century...\n\nKey Points:\n• How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century\n",
-      "link": "https://indianexpress.com/article/sports/cricket/vaibhav-sooryavanshi-yuvraj-singh-half-an-hour-call-double-century-world-record-asia-cup-10977606/"
     },
     {
       "id": "8ca5ae72486d",
@@ -801,34 +430,6 @@
       "link": "https://www.thehindu.com/news/national/kerala/kpcc-steps-in-to-quell-infighting-over-a-group-and-oommen-chandys-political-legacy-in-keralam/article71741548.ece"
     },
     {
-      "id": "553a09c80e84",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:03:24+00:00",
-      "category": "social",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-1",
-        "GS-2"
-      ],
-      "subjects": [
-        "Social Issues"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-1: Population and associated issues",
-        "GS-2: Issues relating to development and management of Social Sector/Services"
-      ],
-      "title_en": "Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?",
-      "title_hi": "Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?",
-      "summary_en": "Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Knowledge Nugget | Bisleri water safety row: What are the स्वास्थ्य risks of chemical contaminants?",
-      "analysis_hi": "संदर्भ: Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?...\n\nप्रमुख बिंदु:\n• Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?\n",
-      "analysis_en": "Reference: Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?...\n\nKey Points:\n• Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?\n",
-      "link": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/nugget-bisleri-water-safety-risks-chemical-contaminants-upsc-10977531/"
-    },
-    {
       "id": "50d012cbf6f5",
       "date": "25 Nov 2026",
       "iso_date": "2026-11-25T08:03:10+00:00",
@@ -856,35 +457,6 @@
       "analysis_hi": "संदर्भ: While the monthly cost of living is calculated to be ₹41,752 in Bengaluru, between 59.9% and 74.6% of employed residents earn less, exposing the stark income gap...\n\nप्रमुख बिंदु:\n• While the monthly cost of living is calculated to be ₹41,752 in Bengaluru, between 59.9% and 74.6% of employed residents earn less, exposing the stark income gap\n",
       "analysis_en": "Reference: While the monthly cost of living is calculated to be ₹41,752 in Bengaluru, between 59.9% and 74.6% of employed residents earn less, exposing the stark income gap...\n\nKey Points:\n• While the monthly cost of living is calculated to be ₹41,752 in Bengaluru, between 59.9% and 74.6% of employed residents earn less, exposing the stark income gap\n",
       "link": "https://www.thehindu.com/news/national/karnataka/study-finds-cost-of-living-way-higher-than-minimum-wage-in-bengaluru-mysuru-and-mangaluru/article71738555.ece"
-    },
-    {
-      "id": "ee27e7915f51",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T08:01:13+00:00",
-      "category": "polity",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered",
-      "title_hi": "‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered",
-      "summary_en": "‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered",
-      "analysis_hi": "संदर्भ: ‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered...\n\nप्रमुख बिंदु:\n• ‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered\n",
-      "analysis_en": "Reference: ‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered...\n\nKey Points:\n• ‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered\n",
-      "link": "https://indianexpress.com/article/cities/delhi/du-student-dead-faridabad-hotel-rat-poison-note-recovered-10977761/"
     },
     {
       "id": "bd239fa1cfa5",
@@ -1000,34 +572,6 @@
       "analysis_hi": "संदर्भ: The marches will begin at statues of Ambedkar or Mahatma Gandhi, followed by a reading of the Preamble and an oath to protect the Constitution...\n\nप्रमुख बिंदु:\n• The marches will begin at statues of Ambedkar or Mahatma Gandhi, followed by a reading of the Preamble and an oath to protect the Constitution\n",
       "analysis_en": "Reference: The marches will begin at statues of Ambedkar or Mahatma Gandhi, followed by a reading of the Preamble and an oath to protect the Constitution...\n\nKey Points:\n• The marches will begin at statues of Ambedkar or Mahatma Gandhi, followed by a reading of the Preamble and an oath to protect the Constitution\n",
       "link": "https://www.thehindu.com/news/national/congress-to-hold-samvidhan-raksha-marches-across-states-on-constitution-day-kharge-to-join-programme-in-lucknow/article71741430.ece"
-    },
-    {
-      "id": "8844f1119133",
-      "date": "25 Nov 2026",
-      "iso_date": "2026-11-25T07:54:00+00:00",
-      "category": "scitech",
-      "source": "Indian Express",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer",
-      "title_hi": "AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer",
-      "summary_en": "AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer",
-      "analysis_hi": "संदर्भ: AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer...\n\nप्रमुख बिंदु:\n• AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer\n",
-      "analysis_en": "Reference: AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer...\n\nKey Points:\n• AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer\n",
-      "link": "https://indianexpress.com/article/entertainment/web-series/eklavya-artificial-intelligence-series-ai-actor-yug-rai-lionsgate-play-10977684/"
     },
     {
       "id": "381bc99b53c6",
@@ -1426,6 +970,633 @@
       "analysis_hi": "संदर्भ: During the mentioned period, India’s crude oil imports spurred about 2.7% to 146.6 million metric tonnes (MMT)...\n\nप्रमुख बिंदु:\n• During the mentioned period, India’s crude oil imports spurred about 2.7% to 146.6 million metric tonnes (MMT)\n",
       "analysis_en": "Reference: During the mentioned period, India’s crude oil imports spurred about 2.7% to 146.6 million metric tonnes (MMT)...\n\nKey Points:\n• During the mentioned period, India’s crude oil imports spurred about 2.7% to 146.6 million metric tonnes (MMT)\n",
       "link": "https://www.thehindu.com/business/Economy/opec-share-in-indias-crude-imports-drops-to-274-in-apr-oct-amid-west-asia-flare-ups/article71720869.ece"
+    },
+    {
+      "id": "4edbdb8c51d6",
+      "date": "19 Nov 2026",
+      "iso_date": "2026-11-19T15:42:10+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "OMCs achieve 0.08% biodiesel blending in H1, lower than target; cite feedstock shortage",
+      "title_hi": "OMCs achieve 0.08% biodiesel blending in H1, lower than target; cite feedstock shortage",
+      "summary_en": "In the fiscal year 2025-26, OMCs had achieved an overall biodiesel blending of 0.18%",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In the fiscal year 2025-26, OMCs had achieved an overall biodiesel blending of 0.18%",
+      "analysis_hi": "संदर्भ: In the fiscal year 2025-26, OMCs had achieved an overall biodiesel blending of 0.18%...\n\nप्रमुख बिंदु:\n• In the fiscal year 2025-26, OMCs had achieved an overall biodiesel blending of 0.18%\n",
+      "analysis_en": "Reference: In the fiscal year 2025-26, OMCs had achieved an overall biodiesel blending of 0.18%...\n\nKey Points:\n• In the fiscal year 2025-26, OMCs had achieved an overall biodiesel blending of 0.18%\n",
+      "link": "https://www.thehindu.com/business/Industry/omcs-achieve-008-biodiesel-blending-in-h1-lower-than-target-cite-feedstock-shortage/article71720429.ece"
+    },
+    {
+      "id": "2cc2985aa095",
+      "date": "19 Nov 2026",
+      "iso_date": "2026-11-19T14:46:37+00:00",
+      "category": "economy",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3"
+      ],
+      "subjects": [
+        "Economy"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
+        "GS-3: Inclusive growth and issues arising from it",
+        "GS-3: Government budgeting"
+      ],
+      "title_en": "The average cost of a thali has jumped by 16% in less than 10 months",
+      "title_hi": "The average cost of a thali has jumped by 16% in less than 10 months",
+      "summary_en": "Food inflation has raised meal costs, forcing households to spend a larger share of their wages on food",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Food मुद्रास्फीति has raised meal costs, forcing households to spend a larger share of their wages on food",
+      "analysis_hi": "संदर्भ: Food inflation has raised meal costs, forcing households to spend a larger share of their wages on food...\n\nप्रमुख बिंदु:\n• Food inflation has raised meal costs, forcing households to spend a larger share of their wages on food\n",
+      "analysis_en": "Reference: Food inflation has raised meal costs, forcing households to spend a larger share of their wages on food...\n\nKey Points:\n• Food inflation has raised meal costs, forcing households to spend a larger share of their wages on food\n",
+      "link": "https://www.thehindu.com/data/the-average-cost-of-a-thali-has-jumped-by-16-in-less-than-10-months/article71718541.ece"
+    },
+    {
+      "id": "a3d967580255",
+      "date": "18 Nov 2026",
+      "iso_date": "2026-11-18T16:53:00+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "India’s Oct. crude import bill soars 87.5% to $19.5-bn amid West Asia tensions, volumes up 11%",
+      "title_hi": "India’s Oct. crude import bill soars 87.5% to $19.5-bn amid West Asia tensions, volumes up 11%",
+      "summary_en": "While higher petroleum product exports offer a partial natural hedge, sustained increases in crude and gas prices could intensify pressure on the country’s import bill.",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। While higher petroleum product exports offer a partial natural hedge, sustained increases in crude and gas prices could intensify pressure on the country’s import विधेयक.",
+      "analysis_hi": "संदर्भ: While higher petroleum product exports offer a partial natural hedge, sustained increases in crude and gas prices could intensify pressure on the country’s import bill....\n\nप्रमुख बिंदु:\n• While higher petroleum product exports offer a partial natural hedge, sustained increases in crude and gas prices could intensify pressure on the country’s import bill.\n",
+      "analysis_en": "Reference: While higher petroleum product exports offer a partial natural hedge, sustained increases in crude and gas prices could intensify pressure on the country’s import bill....\n\nKey Points:\n• While higher petroleum product exports offer a partial natural hedge, sustained increases in crude and gas prices could intensify pressure on the country’s import bill.\n",
+      "link": "https://www.thehindu.com/business/Economy/indias-oct-crude-import-bill-soars-875-to-195-bn-amid-west-asia-tensions-volumes-up-11/article71716652.ece"
+    },
+    {
+      "id": "fd5fabccf54b",
+      "date": "18 Nov 2026",
+      "iso_date": "2026-11-18T11:53:30+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "India-U.S. trade deal signing will still ‘take some time’, says Commerce Secretary Rajesh Agrawal",
+      "title_hi": "India-U.S. trade deal signing will still ‘take some time’, says Commerce Secretary Rajesh Agrawal",
+      "summary_en": "He added that the deal can be signed only after the U.S. finalises its new tariff framework. Recently, Commerce Minister Piyush Goyal said the two nations had agreed that India would receive an advantage over its competitors",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। He added that the deal can be signed only after the U.S. finalises its new tariff framework. Recently, Commerce Minister Piyush Goyal said the two nations had agreed that India would receive an advantage over its competitors",
+      "analysis_hi": "संदर्भ: He added that the deal can be signed only after the U.S. finalises its new tariff framework. Recently, Commerce Minister Piyush Goyal said the two nations had agreed that India would receive an advantage over its competitors...\n\nप्रमुख बिंदु:\n• He added that the deal can be signed only after the U.S\n• finalises its new tariff framework\n• Recently, Commerce Minister Piyush Goyal said the two nations had agreed that India would receive an advantage over its competitors\n",
+      "analysis_en": "Reference: He added that the deal can be signed only after the U.S. finalises its new tariff framework. Recently, Commerce Minister Piyush Goyal said the two nations had agreed that India would receive an advantage over its competitors...\n\nKey Points:\n• He added that the deal can be signed only after the U.S\n• finalises its new tariff framework\n• Recently, Commerce Minister Piyush Goyal said the two nations had agreed that India would receive an advantage over its competitors\n",
+      "link": "https://www.thehindu.com/business/Economy/india-us-trade-deal-signing-will-still-take-some-time-says-commerce-secretary-rajesh-agrawal/article71715672.ece"
+    },
+    {
+      "id": "be3577b545f2",
+      "date": "18 Nov 2026",
+      "iso_date": "2026-11-18T11:37:01+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "India on track to hit $1 trillion exports this year: Commerce Secretary",
+      "title_hi": "India on track to hit $1 trillion exports this year: Commerce Secretary",
+      "summary_en": "Last fiscal, India had touched an all-time high of $863 billion",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Last fiscal, India had touched an all-time high of $863 billion",
+      "analysis_hi": "संदर्भ: Last fiscal, India had touched an all-time high of $863 billion...\n\nप्रमुख बिंदु:\n• Last fiscal, India had touched an all-time high of $863 billion\n",
+      "analysis_en": "Reference: Last fiscal, India had touched an all-time high of $863 billion...\n\nKey Points:\n• Last fiscal, India had touched an all-time high of $863 billion\n",
+      "link": "https://www.thehindu.com/business/Economy/india-on-track-to-hit-1-trillion-exports-this-year-commerce-secretary/article71715515.ece"
+    },
+    {
+      "id": "204d3edb261d",
+      "date": "17 Nov 2026",
+      "iso_date": "2026-11-17T17:44:27+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Balancing AI-driven estimates and ground-level evidence in official statistics",
+      "title_hi": "Balancing AI-driven estimates and ground-level evidence in official statistics",
+      "summary_en": "While AI and Machine Learning promise to make India’s official statistics faster and comprehensive, they cannot automatically replace ground-level evidence; synthetic data with inherited limitations may lead to misallocation of public resources and distortion of economic indicators",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। While AI and Machine Learning promise to make India’s official statistics faster and comprehensive, they cannot automatically replace ground-level evidence; synthetic data with inherited limitations may lead to misallocation of public resources and distortion of economic indicators",
+      "analysis_hi": "संदर्भ: While AI and Machine Learning promise to make India’s official statistics faster and comprehensive, they cannot automatically replace ground-level evidence; synthetic data with inherited limitations may lead to misallocation of public resources and distortion of economic indicators...\n\nप्रमुख बिंदु:\n• While AI and Machine Learning promise to make India’s official statistics faster and comprehensive, they cannot automatically replace ground-level evidence; synthetic data with inherited limitations may lead to misallocation of public resources and distortion of economic indicators\n",
+      "analysis_en": "Reference: While AI and Machine Learning promise to make India’s official statistics faster and comprehensive, they cannot automatically replace ground-level evidence; synthetic data with inherited limitations may lead to misallocation of public resources and distortion of economic indicators...\n\nKey Points:\n• While AI and Machine Learning promise to make India’s official statistics faster and comprehensive, they cannot automatically replace ground-level evidence; synthetic data with inherited limitations may lead to misallocation of public resources and distortion of economic indicators\n",
+      "link": "https://www.thehindu.com/business/Economy/balancing-ai-driven-estimates-and-ground-level-evidence-in-official-statistics/article71713245.ece"
+    },
+    {
+      "id": "52bd4f1f1c6c",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:50:07+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers",
+      "title_hi": "IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers",
+      "summary_en": "IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers",
+      "analysis_hi": "संदर्भ: IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers...\n\nप्रमुख बिंदु:\n• IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers\n",
+      "analysis_en": "Reference: IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers...\n\nKey Points:\n• IIM Ahmedabad summer placements 2026-27: 414 students placed, consulting accounts for 46% of offers\n",
+      "link": "https://indianexpress.com/article/education/iim-ahmedabad-summer-placements-2026-27-414-students-placed-consulting-accounts-for-46-of-offers-10977839/"
+    },
+    {
+      "id": "9a80fe24c563",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:49:05+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds",
+      "title_hi": "Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds",
+      "summary_en": "Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds",
+      "analysis_hi": "संदर्भ: Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds...\n\nप्रमुख बिंदु:\n• Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds\n",
+      "analysis_en": "Reference: Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds...\n\nKey Points:\n• Richest Indians 62% less likely to die young, Muslim men defy the trend, study finds\n",
+      "link": "https://indianexpress.com/article/cities/mumbai/richest-indians-mortality-muslim-men-women-study-10977808/"
+    },
+    {
+      "id": "844f10cc72e0",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:43:38+00:00",
+      "category": "environment",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara",
+      "title_hi": "‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara",
+      "summary_en": "‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara",
+      "analysis_hi": "संदर्भ: ‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara...\n\nप्रमुख बिंदु:\n• ‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara\n",
+      "analysis_en": "Reference: ‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara...\n\nKey Points:\n• ‘Watch this with your children’: Chiranjeevi leads industry-wide praise for Aakasamlo Oka Tara\n",
+      "link": "https://indianexpress.com/article/entertainment/telugu/chiranjeevi-leads-industry-wide-praise-for-aakasamlo-oka-tara-10977743/"
+    },
+    {
+      "id": "8ae95ad91960",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:38:13+00:00",
+      "category": "scitech",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi",
+      "title_hi": "‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi",
+      "summary_en": "‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi",
+      "analysis_hi": "संदर्भ: ‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi...\n\nप्रमुख बिंदु:\n• ‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi\n",
+      "analysis_en": "Reference: ‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi...\n\nKey Points:\n• ‘His goal is not to hit sixes and fours but…’: Basit Ali on record breaker Vaibhav Sooryavanshi\n",
+      "link": "https://indianexpress.com/article/sports/cricket/vaibhav-sooryavanshi-record-breaker-double-century-basit-ali-kamran-akmal-pakistan-10977819/"
+    },
+    {
+      "id": "437b2421d672",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:34:49+00:00",
+      "category": "scitech",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire",
+      "title_hi": "Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire",
+      "summary_en": "Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire",
+      "analysis_hi": "संदर्भ: Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire...\n\nप्रमुख बिंदु:\n• Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire\n",
+      "analysis_en": "Reference: Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire...\n\nKey Points:\n• Retro-sport: Vikas Krishan, who trawled internet cafes in 2008 to learn defensive boxing, while other teens played Solitaire\n",
+      "link": "https://indianexpress.com/article/sports/vikas-krishan-2010-guangzhou-asian-games-november-25-10977372/"
+    },
+    {
+      "id": "349aec9636b3",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:28:28+00:00",
+      "category": "environment",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "Why doctors may recommend a fasting insulin test even with normal blood sugar",
+      "title_hi": "Why doctors may recommend a fasting insulin test even with normal blood sugar",
+      "summary_en": "Why doctors may recommend a fasting insulin test even with normal blood sugar",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Why doctors may recommend a fasting insulin test even with normal blood sugar",
+      "analysis_hi": "संदर्भ: Why doctors may recommend a fasting insulin test even with normal blood sugar...\n\nप्रमुख बिंदु:\n• Why doctors may recommend a fasting insulin test even with normal blood sugar\n",
+      "analysis_en": "Reference: Why doctors may recommend a fasting insulin test even with normal blood sugar...\n\nKey Points:\n• Why doctors may recommend a fasting insulin test even with normal blood sugar\n",
+      "link": "https://indianexpress.com/article/lifestyle/health/why-doctors-may-recommend-a-fasting-insulin-test-even-with-normal-blood-sugar-10970135/"
+    },
+    {
+      "id": "fe612f8c80c9",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:22:32+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Man attacked with sharp weapons outside Pune district court, critically injured",
+      "title_hi": "Man attacked with sharp weapons outside Pune district court, critically injured",
+      "summary_en": "Man attacked with sharp weapons outside Pune district court, critically injured",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Man attacked with sharp weapons outside Pune district court, critically injured",
+      "analysis_hi": "संदर्भ: Man attacked with sharp weapons outside Pune district court, critically injured...\n\nप्रमुख बिंदु:\n• Man attacked with sharp weapons outside Pune district court, critically injured\n",
+      "analysis_en": "Reference: Man attacked with sharp weapons outside Pune district court, critically injured...\n\nKey Points:\n• Man attacked with sharp weapons outside Pune district court, critically injured\n",
+      "link": "https://indianexpress.com/article/cities/pune/pune-district-court-shivajinagar-attack-weapons-10977851/"
+    },
+    {
+      "id": "73283938d573",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:22:22+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Anthropic now lets users download artifacts as standalone apps on Mac and Windows",
+      "title_hi": "Anthropic now lets users download artifacts as standalone apps on Mac and Windows",
+      "summary_en": "Anthropic now lets users download artifacts as standalone apps on Mac and Windows",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Anthropic now lets users download artifacts as standalone apps on Mac and Windows",
+      "analysis_hi": "संदर्भ: Anthropic now lets users download artifacts as standalone apps on Mac and Windows...\n\nप्रमुख बिंदु:\n• Anthropic now lets users download artifacts as standalone apps on Mac and Windows\n",
+      "analysis_en": "Reference: Anthropic now lets users download artifacts as standalone apps on Mac and Windows...\n\nKey Points:\n• Anthropic now lets users download artifacts as standalone apps on Mac and Windows\n",
+      "link": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-artifacts-install-as-app-desktop-10977812/"
+    },
+    {
+      "id": "91b7917abe1b",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:21:14+00:00",
+      "category": "scitech",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "In Ranchi, a protest against tree felling ends in detentions",
+      "title_hi": "In Ranchi, a protest against tree felling ends in detentions",
+      "summary_en": "In Ranchi, a protest against tree felling ends in detentions",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In Ranchi, a protest against tree felling ends in detentions",
+      "analysis_hi": "संदर्भ: In Ranchi, a protest against tree felling ends in detentions...\n\nप्रमुख बिंदु:\n• In Ranchi, a protest against tree felling ends in detentions\n",
+      "analysis_en": "Reference: In Ranchi, a protest against tree felling ends in detentions...\n\nKey Points:\n• In Ranchi, a protest against tree felling ends in detentions\n",
+      "link": "https://indianexpress.com/article/india/ranchi-protest-tree-felling-detentions-10977816/"
+    },
+    {
+      "id": "a6ff5bb8cbc6",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:21:05+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Flipkart CEO Kalyan Krishnamurthy to step down next month: Report",
+      "title_hi": "Flipkart CEO Kalyan Krishnamurthy to step down next month: Report",
+      "summary_en": "Flipkart CEO Kalyan Krishnamurthy to step down next month: Report",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Flipkart CEO Kalyan Krishnamurthy to step down next month: Report",
+      "analysis_hi": "संदर्भ: Flipkart CEO Kalyan Krishnamurthy to step down next month: Report...\n\nप्रमुख बिंदु:\n• Flipkart CEO Kalyan Krishnamurthy to step down next month: Report\n",
+      "analysis_en": "Reference: Flipkart CEO Kalyan Krishnamurthy to step down next month: Report...\n\nKey Points:\n• Flipkart CEO Kalyan Krishnamurthy to step down next month: Report\n",
+      "link": "https://indianexpress.com/article/business/flipkart-ceo-kalyan-krishnamurthy-to-resign-in-december-10977826/"
+    },
+    {
+      "id": "f68ad493e9b9",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:18:58+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "CJP’s Saurav Das moves Delhi HC over being stopped from flying to London",
+      "title_hi": "CJP’s Saurav Das moves Delhi HC over being stopped from flying to London",
+      "summary_en": "CJP’s Saurav Das moves Delhi HC over being stopped from flying to London",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। CJP’s Saurav Das moves Delhi HC over being stopped from flying to London",
+      "analysis_hi": "संदर्भ: CJP’s Saurav Das moves Delhi HC over being stopped from flying to London...\n\nप्रमुख बिंदु:\n• CJP’s Saurav Das moves Delhi HC over being stopped from flying to London\n",
+      "analysis_en": "Reference: CJP’s Saurav Das moves Delhi HC over being stopped from flying to London...\n\nKey Points:\n• CJP’s Saurav Das moves Delhi HC over being stopped from flying to London\n",
+      "link": "https://indianexpress.com/article/india/cjps-saurav-das-moves-delhi-hc-after-being-stopped-from-flying-to-london-10977820/"
+    },
+    {
+      "id": "c39d0670f8fe",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:17:20+00:00",
+      "category": "environment",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Environment"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Conservation, environmental pollution and degradation",
+        "GS-3: Environmental impact assessment"
+      ],
+      "title_en": "COP31 failed to deliver. How climate negotiations can move forward from here",
+      "title_hi": "COP31 failed to deliver. How climate negotiations can move forward from here",
+      "summary_en": "COP31 failed to deliver. How climate negotiations can move forward from here",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। COP31 failed to deliver. How जलवायु negotiations can move forward from here",
+      "analysis_hi": "संदर्भ: COP31 failed to deliver. How climate negotiations can move forward from here...\n\nप्रमुख बिंदु:\n• How climate negotiations can move forward from here\n",
+      "analysis_en": "Reference: COP31 failed to deliver. How climate negotiations can move forward from here...\n\nKey Points:\n• How climate negotiations can move forward from here\n",
+      "link": "https://indianexpress.com/article/explained/explained-climate/cop31-climate-summit-fossil-fuels-finance-negotiations-explained-10977769/"
+    },
+    {
+      "id": "9ef67b00c6e2",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:09:28+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century",
+      "title_hi": "How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century",
+      "summary_en": "How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century",
+      "analysis_hi": "संदर्भ: How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century...\n\nप्रमुख बिंदु:\n• How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century\n",
+      "analysis_en": "Reference: How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century...\n\nKey Points:\n• How 30-minute call with Yuvraj Singh helped Sooryavanshi score world-record double century\n",
+      "link": "https://indianexpress.com/article/sports/cricket/vaibhav-sooryavanshi-yuvraj-singh-half-an-hour-call-double-century-world-record-asia-cup-10977606/"
+    },
+    {
+      "id": "553a09c80e84",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:03:24+00:00",
+      "category": "social",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-1",
+        "GS-2"
+      ],
+      "subjects": [
+        "Social Issues"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-1: Population and associated issues",
+        "GS-2: Issues relating to development and management of Social Sector/Services"
+      ],
+      "title_en": "Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?",
+      "title_hi": "Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?",
+      "summary_en": "Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Knowledge Nugget | Bisleri water safety row: What are the स्वास्थ्य risks of chemical contaminants?",
+      "analysis_hi": "संदर्भ: Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?...\n\nप्रमुख बिंदु:\n• Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?\n",
+      "analysis_en": "Reference: Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?...\n\nKey Points:\n• Knowledge Nugget | Bisleri water safety row: What are the health risks of chemical contaminants?\n",
+      "link": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/nugget-bisleri-water-safety-risks-chemical-contaminants-upsc-10977531/"
+    },
+    {
+      "id": "ee27e7915f51",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T08:01:13+00:00",
+      "category": "polity",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered",
+      "title_hi": "‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered",
+      "summary_en": "‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered",
+      "analysis_hi": "संदर्भ: ‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered...\n\nप्रमुख बिंदु:\n• ‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered\n",
+      "analysis_en": "Reference: ‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered...\n\nKey Points:\n• ‘I’m going to die’: DU student found dead in Faridabad hotel; rat poison, note recovered\n",
+      "link": "https://indianexpress.com/article/cities/delhi/du-student-dead-faridabad-hotel-rat-poison-note-recovered-10977761/"
+    },
+    {
+      "id": "8844f1119133",
+      "date": "25 Nov 2026",
+      "iso_date": "2026-11-25T07:54:00+00:00",
+      "category": "scitech",
+      "source": "Indian Express",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer",
+      "title_hi": "AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer",
+      "summary_en": "AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer",
+      "analysis_hi": "संदर्भ: AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer...\n\nप्रमुख बिंदु:\n• AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer\n",
+      "analysis_en": "Reference: AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer...\n\nKey Points:\n• AI series on Eklavya to stream on Lionsgate Play, with AI actor Yug R.Ai cast as the archer\n",
+      "link": "https://indianexpress.com/article/entertainment/web-series/eklavya-artificial-intelligence-series-ai-actor-yug-rai-lionsgate-play-10977684/"
     },
     {
       "id": "f9ead6c4c248",
@@ -1937,177 +2108,6 @@
       "analysis_hi": "संदर्भ: The tankers were brought for a water treatment plant about 10 years ago and left at the site, the Collector says...\n\nप्रमुख बिंदु:\n• The tankers were brought for a water treatment plant about 10 years ago and left at the site, the Collector says\n",
       "analysis_en": "Reference: The tankers were brought for a water treatment plant about 10 years ago and left at the site, the Collector says...\n\nKey Points:\n• The tankers were brought for a water treatment plant about 10 years ago and left at the site, the Collector says\n",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/chlorine-gas-leaks-from-tanker-abandoned-for-a-decade-in-andhras-ntr-district/article71737730.ece"
-    },
-    {
-      "id": "4edbdb8c51d6",
-      "date": "19 Nov 2026",
-      "iso_date": "2026-11-19T15:42:10+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "OMCs achieve 0.08% biodiesel blending in H1, lower than target; cite feedstock shortage",
-      "title_hi": "OMCs achieve 0.08% biodiesel blending in H1, lower than target; cite feedstock shortage",
-      "summary_en": "In the fiscal year 2025-26, OMCs had achieved an overall biodiesel blending of 0.18%",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In the fiscal year 2025-26, OMCs had achieved an overall biodiesel blending of 0.18%",
-      "analysis_hi": "संदर्भ: In the fiscal year 2025-26, OMCs had achieved an overall biodiesel blending of 0.18%...\n\nप्रमुख बिंदु:\n• In the fiscal year 2025-26, OMCs had achieved an overall biodiesel blending of 0.18%\n",
-      "analysis_en": "Reference: In the fiscal year 2025-26, OMCs had achieved an overall biodiesel blending of 0.18%...\n\nKey Points:\n• In the fiscal year 2025-26, OMCs had achieved an overall biodiesel blending of 0.18%\n",
-      "link": "https://www.thehindu.com/business/Industry/omcs-achieve-008-biodiesel-blending-in-h1-lower-than-target-cite-feedstock-shortage/article71720429.ece"
-    },
-    {
-      "id": "2cc2985aa095",
-      "date": "19 Nov 2026",
-      "iso_date": "2026-11-19T14:46:37+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "The average cost of a thali has jumped by 16% in less than 10 months",
-      "title_hi": "The average cost of a thali has jumped by 16% in less than 10 months",
-      "summary_en": "Food inflation has raised meal costs, forcing households to spend a larger share of their wages on food",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Food मुद्रास्फीति has raised meal costs, forcing households to spend a larger share of their wages on food",
-      "analysis_hi": "संदर्भ: Food inflation has raised meal costs, forcing households to spend a larger share of their wages on food...\n\nप्रमुख बिंदु:\n• Food inflation has raised meal costs, forcing households to spend a larger share of their wages on food\n",
-      "analysis_en": "Reference: Food inflation has raised meal costs, forcing households to spend a larger share of their wages on food...\n\nKey Points:\n• Food inflation has raised meal costs, forcing households to spend a larger share of their wages on food\n",
-      "link": "https://www.thehindu.com/data/the-average-cost-of-a-thali-has-jumped-by-16-in-less-than-10-months/article71718541.ece"
-    },
-    {
-      "id": "a3d967580255",
-      "date": "18 Nov 2026",
-      "iso_date": "2026-11-18T16:53:00+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "India’s Oct. crude import bill soars 87.5% to $19.5-bn amid West Asia tensions, volumes up 11%",
-      "title_hi": "India’s Oct. crude import bill soars 87.5% to $19.5-bn amid West Asia tensions, volumes up 11%",
-      "summary_en": "While higher petroleum product exports offer a partial natural hedge, sustained increases in crude and gas prices could intensify pressure on the country’s import bill.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। While higher petroleum product exports offer a partial natural hedge, sustained increases in crude and gas prices could intensify pressure on the country’s import विधेयक.",
-      "analysis_hi": "संदर्भ: While higher petroleum product exports offer a partial natural hedge, sustained increases in crude and gas prices could intensify pressure on the country’s import bill....\n\nप्रमुख बिंदु:\n• While higher petroleum product exports offer a partial natural hedge, sustained increases in crude and gas prices could intensify pressure on the country’s import bill.\n",
-      "analysis_en": "Reference: While higher petroleum product exports offer a partial natural hedge, sustained increases in crude and gas prices could intensify pressure on the country’s import bill....\n\nKey Points:\n• While higher petroleum product exports offer a partial natural hedge, sustained increases in crude and gas prices could intensify pressure on the country’s import bill.\n",
-      "link": "https://www.thehindu.com/business/Economy/indias-oct-crude-import-bill-soars-875-to-195-bn-amid-west-asia-tensions-volumes-up-11/article71716652.ece"
-    },
-    {
-      "id": "fd5fabccf54b",
-      "date": "18 Nov 2026",
-      "iso_date": "2026-11-18T11:53:30+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "India-U.S. trade deal signing will still ‘take some time’, says Commerce Secretary Rajesh Agrawal",
-      "title_hi": "India-U.S. trade deal signing will still ‘take some time’, says Commerce Secretary Rajesh Agrawal",
-      "summary_en": "He added that the deal can be signed only after the U.S. finalises its new tariff framework. Recently, Commerce Minister Piyush Goyal said the two nations had agreed that India would receive an advantage over its competitors",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। He added that the deal can be signed only after the U.S. finalises its new tariff framework. Recently, Commerce Minister Piyush Goyal said the two nations had agreed that India would receive an advantage over its competitors",
-      "analysis_hi": "संदर्भ: He added that the deal can be signed only after the U.S. finalises its new tariff framework. Recently, Commerce Minister Piyush Goyal said the two nations had agreed that India would receive an advantage over its competitors...\n\nप्रमुख बिंदु:\n• He added that the deal can be signed only after the U.S\n• finalises its new tariff framework\n• Recently, Commerce Minister Piyush Goyal said the two nations had agreed that India would receive an advantage over its competitors\n",
-      "analysis_en": "Reference: He added that the deal can be signed only after the U.S. finalises its new tariff framework. Recently, Commerce Minister Piyush Goyal said the two nations had agreed that India would receive an advantage over its competitors...\n\nKey Points:\n• He added that the deal can be signed only after the U.S\n• finalises its new tariff framework\n• Recently, Commerce Minister Piyush Goyal said the two nations had agreed that India would receive an advantage over its competitors\n",
-      "link": "https://www.thehindu.com/business/Economy/india-us-trade-deal-signing-will-still-take-some-time-says-commerce-secretary-rajesh-agrawal/article71715672.ece"
-    },
-    {
-      "id": "be3577b545f2",
-      "date": "18 Nov 2026",
-      "iso_date": "2026-11-18T11:37:01+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "India on track to hit $1 trillion exports this year: Commerce Secretary",
-      "title_hi": "India on track to hit $1 trillion exports this year: Commerce Secretary",
-      "summary_en": "Last fiscal, India had touched an all-time high of $863 billion",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Last fiscal, India had touched an all-time high of $863 billion",
-      "analysis_hi": "संदर्भ: Last fiscal, India had touched an all-time high of $863 billion...\n\nप्रमुख बिंदु:\n• Last fiscal, India had touched an all-time high of $863 billion\n",
-      "analysis_en": "Reference: Last fiscal, India had touched an all-time high of $863 billion...\n\nKey Points:\n• Last fiscal, India had touched an all-time high of $863 billion\n",
-      "link": "https://www.thehindu.com/business/Economy/india-on-track-to-hit-1-trillion-exports-this-year-commerce-secretary/article71715515.ece"
-    },
-    {
-      "id": "204d3edb261d",
-      "date": "17 Nov 2026",
-      "iso_date": "2026-11-17T17:44:27+00:00",
-      "category": "polity",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-2"
-      ],
-      "subjects": [
-        "Polity",
-        "Governance"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-2: Functions and responsibilities of the Union and the States",
-        "GS-2: Parliament and State legislatures",
-        "GS-2: Separation of powers between various organs"
-      ],
-      "title_en": "Balancing AI-driven estimates and ground-level evidence in official statistics",
-      "title_hi": "Balancing AI-driven estimates and ground-level evidence in official statistics",
-      "summary_en": "While AI and Machine Learning promise to make India’s official statistics faster and comprehensive, they cannot automatically replace ground-level evidence; synthetic data with inherited limitations may lead to misallocation of public resources and distortion of economic indicators",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। While AI and Machine Learning promise to make India’s official statistics faster and comprehensive, they cannot automatically replace ground-level evidence; synthetic data with inherited limitations may lead to misallocation of public resources and distortion of economic indicators",
-      "analysis_hi": "संदर्भ: While AI and Machine Learning promise to make India’s official statistics faster and comprehensive, they cannot automatically replace ground-level evidence; synthetic data with inherited limitations may lead to misallocation of public resources and distortion of economic indicators...\n\nप्रमुख बिंदु:\n• While AI and Machine Learning promise to make India’s official statistics faster and comprehensive, they cannot automatically replace ground-level evidence; synthetic data with inherited limitations may lead to misallocation of public resources and distortion of economic indicators\n",
-      "analysis_en": "Reference: While AI and Machine Learning promise to make India’s official statistics faster and comprehensive, they cannot automatically replace ground-level evidence; synthetic data with inherited limitations may lead to misallocation of public resources and distortion of economic indicators...\n\nKey Points:\n• While AI and Machine Learning promise to make India’s official statistics faster and comprehensive, they cannot automatically replace ground-level evidence; synthetic data with inherited limitations may lead to misallocation of public resources and distortion of economic indicators\n",
-      "link": "https://www.thehindu.com/business/Economy/balancing-ai-driven-estimates-and-ground-level-evidence-in-official-statistics/article71713245.ece"
     },
     {
       "id": "aacc3fee8580",
