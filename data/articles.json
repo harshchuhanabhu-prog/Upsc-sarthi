@@ -1,8 +1,36 @@
 {
-  "last_updated": "2026-11-26T08:40:55.428186+00:00",
-  "last_updated_ist": "26 November 2026, 02:10 PM IST",
+  "last_updated": "2026-11-26T08:44:36.329534+00:00",
+  "last_updated_ist": "26 November 2026, 02:14 PM IST",
   "total_articles": 200,
   "articles": [
+    {
+      "id": "705dd4213eb5",
+      "date": "26 Nov 2026",
+      "iso_date": "2026-11-26T08:37:19+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Amid rising costs, Keralam’s aided primary school headteachers seek higher fund allocation for noon meal scheme",
+      "title_hi": "Amid rising costs, Keralam’s aided primary school headteachers seek higher fund allocation for noon meal scheme",
+      "summary_en": "Prices of eggs, milk, groceries, vegetables, and LPG cylinder refills have gone up considerably in recent times",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Prices of eggs, milk, groceries, vegetables, and LPG cylinder refills have gone up considerably in recent times",
+      "analysis_hi": "संदर्भ: Prices of eggs, milk, groceries, vegetables, and LPG cylinder refills have gone up considerably in recent times...\n\nप्रमुख बिंदु:\n• Prices of eggs, milk, groceries, vegetables, and LPG cylinder refills have gone up considerably in recent times\n",
+      "analysis_en": "Reference: Prices of eggs, milk, groceries, vegetables, and LPG cylinder refills have gone up considerably in recent times...\n\nKey Points:\n• Prices of eggs, milk, groceries, vegetables, and LPG cylinder refills have gone up considerably in recent times\n",
+      "link": "https://www.thehindu.com/news/national/kerala/amid-rising-costs-keralams-aided-primary-school-headteachers-seek-higher-fund-allocation-for-noon-meal-scheme/article71745649.ece"
+    },
     {
       "id": "5e5fc5d2979e",
       "date": "26 Nov 2026",
@@ -864,34 +892,6 @@
       "link": "https://www.thehindu.com/news/national/india-china-hold-high-level-talks-in-arunachal-sector-on-border-management-lac-issues-mea/article71745024.ece"
     },
     {
-      "id": "2ece450a9d24",
-      "date": "26 Nov 2026",
-      "iso_date": "2026-11-26T07:35:31+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "What led to the re-test of three UGC-NET papers? | Explained",
-      "title_hi": "What led to the re-test of three UGC-NET papers? | Explained",
-      "summary_en": "What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?",
-      "analysis_hi": "संदर्भ: What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?...\n\nप्रमुख बिंदु:\n• What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?\n",
-      "analysis_en": "Reference: What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?...\n\nKey Points:\n• What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?\n",
-      "link": "https://www.thehindu.com/education/what-led-to-the-re-test-of-threeugc-netpapers-explained/article71372196.ece"
-    },
-    {
       "id": "b0a04acc1997",
       "date": "26 Nov 2026",
       "iso_date": "2026-11-26T07:34:02+00:00",
@@ -1430,6 +1430,34 @@
       "analysis_hi": "संदर्भ: Equity market capitalisation stood at around 130% of GDP, while the corporate bond market accounted for only about 16%....\n\nप्रमुख बिंदु:\n• Equity market capitalisation stood at around 130% of GDP, while the corporate bond market accounted for only about 16%.\n",
       "analysis_en": "Reference: Equity market capitalisation stood at around 130% of GDP, while the corporate bond market accounted for only about 16%....\n\nKey Points:\n• Equity market capitalisation stood at around 130% of GDP, while the corporate bond market accounted for only about 16%.\n",
       "link": "https://www.thehindu.com/business/markets/cea-flags-need-to-align-capital-markets-with-indias-development-priorities/article71725057.ece"
+    },
+    {
+      "id": "2ece450a9d24",
+      "date": "26 Nov 2026",
+      "iso_date": "2026-11-26T07:35:31+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "What led to the re-test of three UGC-NET papers? | Explained",
+      "title_hi": "What led to the re-test of three UGC-NET papers? | Explained",
+      "summary_en": "What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?",
+      "analysis_hi": "संदर्भ: What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?...\n\nप्रमुख बिंदु:\n• What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?\n",
+      "analysis_en": "Reference: What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?...\n\nKey Points:\n• What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?\n",
+      "link": "https://www.thehindu.com/education/what-led-to-the-re-test-of-threeugc-netpapers-explained/article71372196.ece"
     },
     {
       "id": "7208f06071a1",
@@ -5662,34 +5690,6 @@
       "analysis_hi": "संदर्भ: Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets....\n\nप्रमुख बिंदु:\n• Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets.\n",
       "analysis_en": "Reference: Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets....\n\nKey Points:\n• Scientifically known as Phallus indusiatus, the bamboo mushroom, popularly referred to as “veiled lady” or bamboo pith, derives its common name from its close association with bamboo thickets.\n",
       "link": "https://www.thehindu.com/news/national/karnataka/rare-bridal-veil-bamboo-mushroom-spotted-near-ranganathittu-bird-sanctuary/article71723406.ece"
-    },
-    {
-      "id": "059e1a9b8f91",
-      "date": "20 Nov 2026",
-      "iso_date": "2026-11-20T07:21:27+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "ED conducts searches at multiple locations in Keralam as part of probe into suspected FEMA violations, hawala deals",
-      "title_hi": "ED conducts searches at multiple locations in Keralam as part of probe into suspected FEMA violations, hawala deals",
-      "summary_en": "Searches conducted mainly in Kannur, Kasaragod, Kozhikode, Malappuram and Palakkad districts",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। Searches conducted mainly in Kannur, Kasaragod, Kozhikode, Malappuram and Palakkad districts",
-      "analysis_hi": "संदर्भ: Searches conducted mainly in Kannur, Kasaragod, Kozhikode, Malappuram and Palakkad districts...\n\nप्रमुख बिंदु:\n• Searches conducted mainly in Kannur, Kasaragod, Kozhikode, Malappuram and Palakkad districts\n",
-      "analysis_en": "Reference: Searches conducted mainly in Kannur, Kasaragod, Kozhikode, Malappuram and Palakkad districts...\n\nKey Points:\n• Searches conducted mainly in Kannur, Kasaragod, Kozhikode, Malappuram and Palakkad districts\n",
-      "link": "https://www.thehindu.com/news/national/kerala/ed-conducts-searches-in-keralam-as-part-of-fema-violations-probe/article71723161.ece"
     }
   ]
 }
