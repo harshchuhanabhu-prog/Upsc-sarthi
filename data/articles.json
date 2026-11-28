@@ -1,12 +1,41 @@
 {
-  "last_updated": "2026-11-28T08:11:51.611774+00:00",
-  "last_updated_ist": "28 November 2026, 01:41 PM IST",
+  "last_updated": "2026-11-28T08:15:36.195771+00:00",
+  "last_updated_ist": "28 November 2026, 01:45 PM IST",
   "total_articles": 200,
   "articles": [
     {
+      "id": "24345b7943c1",
+      "date": "28 Nov 2026",
+      "iso_date": "2026-11-28T08:08:30+00:00",
+      "category": "polity",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-2"
+      ],
+      "subjects": [
+        "Polity",
+        "Governance"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-2: Functions and responsibilities of the Union and the States",
+        "GS-2: Parliament and State legislatures",
+        "GS-2: Separation of powers between various organs"
+      ],
+      "title_en": "Supreme Court refuses to entertain plea to reduce minimum age for contesting elections",
+      "title_hi": "Supreme Court refuses to entertain plea to reduce minimum age for contesting elections",
+      "summary_en": "When the bench observed that it was not an appropriate petition, the counsel said, ‘The respondent can just inform the petitioner what is the outcome of his representation’",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। When the bench observed that it was not an appropriate petition, the counsel said, ‘The respondent can just inform the petitioner what is the outcome of his representation’",
+      "analysis_hi": "संदर्भ: When the bench observed that it was not an appropriate petition, the counsel said, ‘The respondent can just inform the petitioner what is the outcome of his representation’...\n\nप्रमुख बिंदु:\n• When the bench observed that it was not an appropriate petition, the counsel said, ‘The respondent can just inform the petitioner what is the outcome of his representation’\n",
+      "analysis_en": "Reference: When the bench observed that it was not an appropriate petition, the counsel said, ‘The respondent can just inform the petitioner what is the outcome of his representation’...\n\nKey Points:\n• When the bench observed that it was not an appropriate petition, the counsel said, ‘The respondent can just inform the petitioner what is the outcome of his representation’\n",
+      "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-plea-to-reduce-minimum-age-for-contesting-elections/article71753945.ece"
+    },
+    {
       "id": "4f403bd99975",
       "date": "28 Nov 2026",
-      "iso_date": "2026-11-28T08:06:08+00:00",
+      "iso_date": "2026-11-28T08:06:48+00:00",
       "category": "polity",
       "source": "The Hindu",
       "importance": "Medium",
@@ -35,7 +64,7 @@
     {
       "id": "c846ba3067ff",
       "date": "28 Nov 2026",
-      "iso_date": "2026-11-28T08:04:04+00:00",
+      "iso_date": "2026-11-28T08:06:34+00:00",
       "category": "schemes",
       "source": "The Hindu",
       "importance": "Medium",
@@ -546,34 +575,6 @@
       "analysis_hi": "संदर्भ: A large number of BJP functionaries and workers joined the procession, carrying party flags and raising slogans in support of the campaign...\n\nप्रमुख बिंदु:\n• A large number of BJP functionaries and workers joined the procession, carrying party flags and raising slogans in support of the campaign\n",
       "analysis_en": "Reference: A large number of BJP functionaries and workers joined the procession, carrying party flags and raising slogans in support of the campaign...\n\nKey Points:\n• A large number of BJP functionaries and workers joined the procession, carrying party flags and raising slogans in support of the campaign\n",
       "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/rajnath-singh-leads-bjps-loktantra-bachao-foot-march-in-jammu/article71753846.ece"
-    },
-    {
-      "id": "81e46d17f454",
-      "date": "28 Nov 2026",
-      "iso_date": "2026-11-28T07:28:24+00:00",
-      "category": "scitech",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3",
-        "GS-1"
-      ],
-      "subjects": [
-        "Science & Tech"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Science and Technology- developments and their applications",
-        "GS-3: Achievements of Indians in science & technology"
-      ],
-      "title_en": "Not a single foot of blacktopping done on Amarnath route, PDP-BJP stoking Hindu-Muslim discord: Omar Abdullah",
-      "title_hi": "Not a single foot of blacktopping done on Amarnath route, PDP-BJP stoking Hindu-Muslim discord: Omar Abdullah",
-      "summary_en": "‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah",
-      "analysis_hi": "संदर्भ: ‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah...\n\nप्रमुख बिंदु:\n• ‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah\n",
-      "analysis_en": "Reference: ‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah...\n\nKey Points:\n• ‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah\n",
-      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/not-a-single-foot-of-blacktopping-done-on-amarnath-route-pdp-bjp-stoking-hindu-muslim-discord-omar-abdullah/article71751958.ece"
     },
     {
       "id": "9ba2aa98ca9f",
@@ -1143,6 +1144,34 @@
       "analysis_hi": "संदर्भ: A key expected impact of AI is an unprecedented rise in labour productivity, as its success as a technological revolution is premised on such an increase; what remains to be seen is how pervasive its impact will be across different sectors of the economy...\n\nप्रमुख बिंदु:\n• A key expected impact of AI is an unprecedented rise in labour productivity, as its success as a technological revolution is premised on such an increase; what remains to be seen is how pervasive its impact will be across different sectors of the economy\n",
       "analysis_en": "Reference: A key expected impact of AI is an unprecedented rise in labour productivity, as its success as a technological revolution is premised on such an increase; what remains to be seen is how pervasive its impact will be across different sectors of the economy...\n\nKey Points:\n• A key expected impact of AI is an unprecedented rise in labour productivity, as its success as a technological revolution is premised on such an increase; what remains to be seen is how pervasive its impact will be across different sectors of the economy\n",
       "link": "https://www.thehindu.com/business/Economy/how-ai-could-reshape-global-growth-and-productivity/article71717356.ece"
+    },
+    {
+      "id": "81e46d17f454",
+      "date": "28 Nov 2026",
+      "iso_date": "2026-11-28T07:28:24+00:00",
+      "category": "scitech",
+      "source": "The Hindu",
+      "importance": "Medium",
+      "gs_papers": [
+        "GS-3",
+        "GS-1"
+      ],
+      "subjects": [
+        "Science & Tech"
+      ],
+      "prelims": true,
+      "mains": true,
+      "syllabus": [
+        "GS-3: Science and Technology- developments and their applications",
+        "GS-3: Achievements of Indians in science & technology"
+      ],
+      "title_en": "Not a single foot of blacktopping done on Amarnath route, PDP-BJP stoking Hindu-Muslim discord: Omar Abdullah",
+      "title_hi": "Not a single foot of blacktopping done on Amarnath route, PDP-BJP stoking Hindu-Muslim discord: Omar Abdullah",
+      "summary_en": "‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah",
+      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। ‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah",
+      "analysis_hi": "संदर्भ: ‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah...\n\nप्रमुख बिंदु:\n• ‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah\n",
+      "analysis_en": "Reference: ‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah...\n\nKey Points:\n• ‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah\n",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/not-a-single-foot-of-blacktopping-done-on-amarnath-route-pdp-bjp-stoking-hindu-muslim-discord-omar-abdullah/article71751958.ece"
     },
     {
       "id": "5ccbecfa4e93",
@@ -5667,34 +5696,6 @@
       "analysis_hi": "संदर्भ: The Haryana teenager used an AI chatbot to identify valuable data and find a way into the test portal; preliminary investigation suggests only names and addresses were accessed, Delhi Police sources say...\n\nप्रमुख बिंदु:\n• The Haryana teenager used an AI chatbot to identify valuable data and find a way into the test portal; preliminary investigation suggests only names and addresses were accessed, Delhi Police sources say\n",
       "analysis_en": "Reference: The Haryana teenager used an AI chatbot to identify valuable data and find a way into the test portal; preliminary investigation suggests only names and addresses were accessed, Delhi Police sources say...\n\nKey Points:\n• The Haryana teenager used an AI chatbot to identify valuable data and find a way into the test portal; preliminary investigation suggests only names and addresses were accessed, Delhi Police sources say\n",
       "link": "https://www.thehindu.com/news/cities/Delhi/14-year-old-hacker-held-for-trying-to-sell-private-data-of-4000-agniveers-on-dark-web-delhi-police/article71727963.ece"
-    },
-    {
-      "id": "1d10910b2c0f",
-      "date": "22 Nov 2026",
-      "iso_date": "2026-11-22T02:32:09+00:00",
-      "category": "economy",
-      "source": "The Hindu",
-      "importance": "Medium",
-      "gs_papers": [
-        "GS-3"
-      ],
-      "subjects": [
-        "Economy"
-      ],
-      "prelims": true,
-      "mains": true,
-      "syllabus": [
-        "GS-3: Indian Economy and issues relating to planning, mobilization of resources",
-        "GS-3: Inclusive growth and issues arising from it",
-        "GS-3: Government budgeting"
-      ],
-      "title_en": "T.N. may see solar energy installations slowing down, say energy generators",
-      "title_hi": "T.N. may see solar energy installations slowing down, say energy generators",
-      "summary_en": "In the last one month, some of the solar energy generators received notices demanding 8% banking charges.",
-      "summary_hi": "यह लेख UPSC के दृष्टिकोण से महत्वपूर्ण है। In the last one month, some of the solar energy generators received notices demanding 8% banking charges.",
-      "analysis_hi": "संदर्भ: In the last one month, some of the solar energy generators received notices demanding 8% banking charges....\n\nप्रमुख बिंदु:\n• In the last one month, some of the solar energy generators received notices demanding 8% banking charges.\n",
-      "analysis_en": "Reference: In the last one month, some of the solar energy generators received notices demanding 8% banking charges....\n\nKey Points:\n• In the last one month, some of the solar energy generators received notices demanding 8% banking charges.\n",
-      "link": "https://www.thehindu.com/news/cities/Coimbatore/tn-may-see-solar-energy-installations-slowing-down-say-energy-generators/article71728600.ece"
     }
   ]
 }
